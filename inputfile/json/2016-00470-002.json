@@ -1,0 +1,33 @@
+{
+  "id": "2016-00470-002",
+  "title": "Pair of portraits (Peter Lim Ah Pin and Florence Yeo) Florence Yeo",
+  "source": "Bumblebee",
+  "path": "inputfile/json/",
+  "content": "\n  accession_no_csv: 2016-00470-002\n\n  Image: \n\n  object_work_type: photographs studio portraits\n\n  title_text: Pair of portraits (Peter Lim Ah Pin and Florence Yeo) Florence Yeo\n\n  preference: main alternate\n\n  title_language: \n\n  creation_date: Early 20th century\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  object_colour: multicolored\n\n  physical_appearance: This is a portrait of Florence Yeo. The portrait depicts a woman wearing a kebaya adorned wit diamond brooch. Her hair is pulled back and secured with a pin.\n\n  subject_terms_1: Peranakan kebayas\n\n  subject_terms_2: Peranakan (Asian people) Photographs\n\n  subject_terms_3: Portrait photography Florence Road\n\n  sgcool_label_text: The portrait of Peter Lim Ah Pin depicts a man in a cream-coloured shirt with a simple mandarin collar. The other portrait shows Florence Yeo in a floral kebaya with a set of diamond kerosang made in the Melaka style. Both portraits are coloured photographs\n bear the signature of the same artist and were probably made as a pair. Peter Lim owned a successful bee hoon manufacturing business and was known as the ‘Bee Hoon King’. He also built several markets\n schools and houses. Lim Ah Pin Road and Florence Road were named after the couple\n who owned and rented out several properties in the area.\n",
+  "createdDate": "20201127000610",
+  "version": 0,
+  "latest": false,
+  "roles": [],
+  "metadata": {
+    "accession_no_csv": "2016-00470-002",
+    "Image": "",
+    "object_work_type": "photographs studio portraits",
+    "title_text": "Pair of portraits (Peter Lim Ah Pin and Florence Yeo) Florence Yeo",
+    "preference": "main alternate",
+    "title_language": "",
+    "creation_date": "Early 20th century",
+    "creation_place_original_location": "Singapore",
+    "inscriptions": "",
+    "inscription_language": "",
+    "shape": "rectangular",
+    "object_colour": "multicolored",
+    "physical_appearance": "This is a portrait of Florence Yeo. The portrait depicts a woman wearing a kebaya adorned wit diamond brooch. Her hair is pulled back and secured with a pin.",
+    "subject_terms_1": "Peranakan kebayas",
+    "subject_terms_2": "Peranakan (Asian people) Photographs",
+    "subject_terms_3": "Portrait photography Florence Road",
+    "sgcool_label_text": "The portrait of Peter Lim Ah Pin depicts a man in a cream-coloured shirt with a simple mandarin collar. The other portrait shows Florence Yeo in a floral kebaya with a set of diamond kerosang made in the Melaka style. Both portraits are coloured photographs, bear the signature of the same artist and were probably made as a pair. Peter Lim owned a successful bee hoon manufacturing business and was known as the ‘Bee Hoon King’. He also built several markets, schools and houses. Lim Ah Pin Road and Florence Road were named after the couple, who owned and rented out several properties in the area."
+  },
+  "nlpDate": "20201127000610",
+  "connectorId": 0,
+  "tags": {}
+}

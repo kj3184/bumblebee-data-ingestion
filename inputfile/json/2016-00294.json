@@ -1,0 +1,32 @@
+{
+  "id": "2016-00294",
+  "title": "A Painting from a Dasavatara Series: Matsya Avatara, or fish avatar of Vishnu Matsya Avatara, fish avatar of Vishnu",
+  "source": "Bumblebee",
+  "path": "inputfile/json/",
+  "content": "\n  accession_no_csv: 2016-00294\n\n  Image: \n\n  object_work_type: depictions (visual works) paintings (visual works)\n\n  title_text: A Painting from a Dasavatara Series: Matsya Avatara\n or fish avatar of Vishnu Matsya Avatara\n fish avatar of Vishnu\n\n  preference: main alternate\n\n  title_language: \n\n  creation_place_original_location: Kangra (India : District)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  object_colour: multicolored\n\n  physical_appearance: This painting features the Matsya Avatara\n or the fish avatar of Vishnu. There are two figures in the painting. On the right\n a blue-skinned Vishnu is shown emerging from his fish avatar. He is holding a manuscript\n a golden mace\n a shell and a discus. There is a lotus flower tucked into his clothing. On the left\n is the demon Hayagiva emerging from a shell. He is holding a golden mace and a shield. The painting is bordered by a floral pattern. There is no inscription on the painting.\n\n  subject_terms_1: mythology (literary genre) Hinduism representation (form of expression) avatara\n\n  subject_terms_2: Painting Hinduism Hindu mythology Matsya (Hindu deity) Vishnu (Hindu deity)\n\n  subject_terms_3: Painting Hinduism\n\n  sgcool_label_text: The blue-skinned Vishnu is shown emerging from his fish avatar and holding a manuscript page from the ancient sacred texts called the Vedas. He also holds a golden mace\n a conch shell\n a discus and the lotus flower he usually holds is tucked into his yellow dhoti. He is attacking the demon Hayagiva who emerges from a conch-shell\n and holds up a golden mace and a shield to protect himself.\\r\\n\\r\\nMatsya\n which means fish in Sanskrit\n is Vishnu’s first avatar\n or incarnation. Hayagriva had stolen the ancient Vedas from Brahma\n and hidden them in the ocean. Therefore Vishnu takes the form of a great fish to kill Hayagriva and retrieve the vedas\n signified by the manuscript in his hand.\\r\\n\n",
+  "createdDate": "20201127000611",
+  "version": 0,
+  "latest": false,
+  "roles": [],
+  "metadata": {
+    "accession_no_csv": "2016-00294",
+    "Image": "",
+    "object_work_type": "depictions (visual works) paintings (visual works)",
+    "title_text": "A Painting from a Dasavatara Series: Matsya Avatara, or fish avatar of Vishnu Matsya Avatara, fish avatar of Vishnu",
+    "preference": "main alternate",
+    "title_language": "",
+    "creation_place_original_location": "Kangra (India : District)",
+    "inscriptions": "",
+    "inscription_language": "",
+    "shape": "rectangular",
+    "object_colour": "multicolored",
+    "physical_appearance": "This painting features the Matsya Avatara, or the fish avatar of Vishnu. There are two figures in the painting. On the right, a blue-skinned Vishnu is shown emerging from his fish avatar. He is holding a manuscript, a golden mace, a shell and a discus. There is a lotus flower tucked into his clothing. On the left, is the demon Hayagiva emerging from a shell. He is holding a golden mace and a shield. The painting is bordered by a floral pattern. There is no inscription on the painting.",
+    "subject_terms_1": "mythology (literary genre) Hinduism representation (form of expression) avatara",
+    "subject_terms_2": "Painting Hinduism Hindu mythology Matsya (Hindu deity) Vishnu (Hindu deity)",
+    "subject_terms_3": "Painting Hinduism",
+    "sgcool_label_text": "The blue-skinned Vishnu is shown emerging from his fish avatar and holding a manuscript page from the ancient sacred texts called the Vedas. He also holds a golden mace, a conch shell, a discus and the lotus flower he usually holds is tucked into his yellow dhoti. He is attacking the demon Hayagiva who emerges from a conch-shell, and holds up a golden mace and a shield to protect himself.\r\n\r\nMatsya, which means fish in Sanskrit, is Vishnu’s first avatar, or incarnation. Hayagriva had stolen the ancient Vedas from Brahma, and hidden them in the ocean. Therefore Vishnu takes the form of a great fish to kill Hayagriva and retrieve the vedas, signified by the manuscript in his hand.\r\n"
+  },
+  "nlpDate": "20201127000611",
+  "connectorId": 0,
+  "tags": {}
+}

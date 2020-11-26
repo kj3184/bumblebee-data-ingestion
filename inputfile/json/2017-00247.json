@@ -1,0 +1,33 @@
+{
+  "id": "2017-00247",
+  "title": "Sewing Box",
+  "source": "Bumblebee",
+  "path": "inputfile/json/",
+  "content": "\n  accession_no_csv: 2017-00247\n\n  Image: \n\n  object_work_type: sewing boxes\n\n  title_text: Sewing Box\n\n  preference: main\n\n  title_language: \n\n  creation_date: Not indicated\n\n  creation_place_original_location: Malacca (Malacca\n Malaysia) Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  object_colour: brown\n\n  physical_appearance: This is a sewing box. It is rectangular in shape and brown in colour. The lid on the top features a picture. The picture is bordered by a carved scrolling motif. The sides of the box also features the same scrolling motifs. The box looks old and worn\n especially along the sides.\n\n  subject_terms_1: tailors Peranakan scrolls (motifs) sewing tools\n\n  subject_terms_2: Motifs Needlework boxes Clothing trade Peranakan (Asian people) Tailors Sewing Equipment and supplies\n\n  subject_terms_3: Vanishing trade\n\n  sgcool_label_text: This box was used to store the beads and needles used for nyonya needlework. It has a picture on the cover surrounded by a border of scrolls. Seed beads are hallmarks of Peranakan needlework and were traditionally referred to as manek potong (cut beads) regardless of the types of beads at hand. Strings of beads could be unstrung before being categorised and placed into small bottles for use. Needles used for beadwork are nearly identical to those utilised in embroidery. The original owner of these items made a living fashioning beaded slippers and dresses\n working from home as she did not have a shop.\n",
+  "createdDate": "20201127000606",
+  "version": 0,
+  "latest": false,
+  "roles": [],
+  "metadata": {
+    "accession_no_csv": "2017-00247",
+    "Image": "",
+    "object_work_type": "sewing boxes",
+    "title_text": "Sewing Box",
+    "preference": "main",
+    "title_language": "",
+    "creation_date": "Not indicated",
+    "creation_place_original_location": "Malacca (Malacca, Malaysia) Singapore",
+    "inscriptions": "",
+    "inscription_language": "",
+    "shape": "irregular",
+    "object_colour": "brown",
+    "physical_appearance": "This is a sewing box. It is rectangular in shape and brown in colour. The lid on the top features a picture. The picture is bordered by a carved scrolling motif. The sides of the box also features the same scrolling motifs. The box looks old and worn, especially along the sides.",
+    "subject_terms_1": "tailors Peranakan scrolls (motifs) sewing tools",
+    "subject_terms_2": "Motifs Needlework boxes Clothing trade Peranakan (Asian people) Tailors Sewing Equipment and supplies",
+    "subject_terms_3": "Vanishing trade",
+    "sgcool_label_text": "This box was used to store the beads and needles used for nyonya needlework. It has a picture on the cover surrounded by a border of scrolls. Seed beads are hallmarks of Peranakan needlework and were traditionally referred to as manek potong (cut beads) regardless of the types of beads at hand. Strings of beads could be unstrung before being categorised and placed into small bottles for use. Needles used for beadwork are nearly identical to those utilised in embroidery. The original owner of these items made a living fashioning beaded slippers and dresses, working from home as she did not have a shop."
+  },
+  "nlpDate": "20201127000606",
+  "connectorId": 0,
+  "tags": {}
+}

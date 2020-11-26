@@ -1,0 +1,33 @@
+{
+  "id": "2017-00246",
+  "title": "Ointment",
+  "source": "Bumblebee",
+  "path": "inputfile/json/",
+  "content": "\n  accession_no_csv: 2017-00246\n\n  Image: \n\n  object_work_type: ointment\n\n  title_text: Ointment\n\n  preference: main\n\n  title_language: \n\n  creation_date: Not indicated\n\n  creation_place_original_location: Malacca (Malacca\n Malaysia) Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: circular (shape)\n\n  object_colour: multicolored\n\n  physical_appearance: This is a container of ointment. It is green with white inscriptions\n and circular in shape. The brand \\u0027Star \\u0026 Ring Brand\\u0027 is inscribed on the cover. There is a picture of a star with a ring attached to it in the front. The cover is largely stained and rusty.\n\n  subject_terms_1: tailors Peranakan lubricant sewing tools\n\n  subject_terms_2: Clothing trade Peranakan (Asian people) Tailors Ointments Sewing Equipment and supplies Lubrication and lubricants\n\n  subject_terms_3: Vanishing trade\n\n  sgcool_label_text: This container of ointment was likely used to lubricate the embroiderer’s hands or the needle to facilitate the task of embroidery. It was of the Star \\u0026 Ring Brand and sold by Chee Min Chinese Medical Hall. The original owner of these items made a living fashioning beaded slippers and dresses\n working from home as she did not have a shop.\n",
+  "createdDate": "20201127000606",
+  "version": 0,
+  "latest": false,
+  "roles": [],
+  "metadata": {
+    "accession_no_csv": "2017-00246",
+    "Image": "",
+    "object_work_type": "ointment",
+    "title_text": "Ointment",
+    "preference": "main",
+    "title_language": "",
+    "creation_date": "Not indicated",
+    "creation_place_original_location": "Malacca (Malacca, Malaysia) Singapore",
+    "inscriptions": "",
+    "inscription_language": "",
+    "shape": "circular (shape)",
+    "object_colour": "multicolored",
+    "physical_appearance": "This is a container of ointment. It is green with white inscriptions, and circular in shape. The brand \u0027Star \u0026 Ring Brand\u0027 is inscribed on the cover. There is a picture of a star with a ring attached to it in the front. The cover is largely stained and rusty.",
+    "subject_terms_1": "tailors Peranakan lubricant sewing tools",
+    "subject_terms_2": "Clothing trade Peranakan (Asian people) Tailors Ointments Sewing Equipment and supplies Lubrication and lubricants",
+    "subject_terms_3": "Vanishing trade",
+    "sgcool_label_text": "This container of ointment was likely used to lubricate the embroiderer’s hands or the needle to facilitate the task of embroidery. It was of the Star \u0026 Ring Brand and sold by Chee Min Chinese Medical Hall. The original owner of these items made a living fashioning beaded slippers and dresses, working from home as she did not have a shop."
+  },
+  "nlpDate": "20201127000606",
+  "connectorId": 0,
+  "tags": {}
+}

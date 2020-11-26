@@ -1,0 +1,33 @@
+{
+  "id": "2017-00929",
+  "title": "Rebana",
+  "source": "Bumblebee",
+  "path": "inputfile/json/",
+  "content": "\n  accession_no_csv: 2017-00929\n\n  Image: \n\n  object_work_type: terbangs\n\n  title_text: Rebana\n\n  preference: main\n\n  title_language: \n\n  styles_periods_indexing_terms: Malayan\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: rattan wood (plant material)\n\n  object_colour: brown (color)\n\n  physical_appearance: This is a Malay drum or rebana. It is brown in colour\n with a tall rounded base. The exterior of the base is supported by rattan strip weavings. The top of the drum is light cream in colour\n. There are several marks and scratches on the drum.\n\n  subject_terms_1: frame drums musical instruments\n\n  subject_terms_2: Drum Rebana Dondang sayang Musical instruments\n\n  subject_terms_3: Dondang sayang Koh\n Hoon Teck Music\n\n  sgcool_label_text: The violin and the Malay drum (rebana) are two of the principal musical instruments used in Dondang Sayang\n an exchange of songs\n which made use of the pantun (a Malay poetic form). These instruments belonged to Koh Hoon Teck\n who founded the Gunong Sayang Association in 1910\n one of the first Peranakan theatre associations in Singapore\n which is still active today. Koh excelled at the violin and also mentored prominent singers such as his nephew Gwee Peng Kwee. Koh’s company (founded in 1905)\n Koh and Company\n published five volumes of Malay poems for Dondang Sayang which were compiled by Koh and his father.\n",
+  "createdDate": "20201127000604",
+  "version": 0,
+  "latest": false,
+  "roles": [],
+  "metadata": {
+    "accession_no_csv": "2017-00929",
+    "Image": "",
+    "object_work_type": "terbangs",
+    "title_text": "Rebana",
+    "preference": "main",
+    "title_language": "",
+    "styles_periods_indexing_terms": "Malayan",
+    "inscriptions": "",
+    "inscription_language": "",
+    "shape": "irregular",
+    "materials_name": "rattan wood (plant material)",
+    "object_colour": "brown (color)",
+    "physical_appearance": "This is a Malay drum or rebana. It is brown in colour, with a tall rounded base. The exterior of the base is supported by rattan strip weavings. The top of the drum is light cream in colour,. There are several marks and scratches on the drum.",
+    "subject_terms_1": "frame drums musical instruments",
+    "subject_terms_2": "Drum Rebana Dondang sayang Musical instruments",
+    "subject_terms_3": "Dondang sayang Koh, Hoon Teck Music",
+    "sgcool_label_text": "The violin and the Malay drum (rebana) are two of the principal musical instruments used in Dondang Sayang, an exchange of songs, which made use of the pantun (a Malay poetic form). These instruments belonged to Koh Hoon Teck, who founded the Gunong Sayang Association in 1910, one of the first Peranakan theatre associations in Singapore, which is still active today. Koh excelled at the violin and also mentored prominent singers such as his nephew Gwee Peng Kwee. Koh’s company (founded in 1905), Koh and Company, published five volumes of Malay poems for Dondang Sayang which were compiled by Koh and his father."
+  },
+  "nlpDate": "20201127000604",
+  "connectorId": 0,
+  "tags": {}
+}
