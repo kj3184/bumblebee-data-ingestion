@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00180\n\n  Image: \n\n  object_work_type: jackets (garments) folk costume\n\n  title_text: Black cheongsam and matching jacket in leaf motif\n\n  preference: main\n\n  title_language: \n\n  creation_date: 1980 - 1989\n\n  creation_place_original_location: Singapore\n\n  styles_periods_indexing_terms: Chinese (culture or style)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: silk (textile)\n\n  techniques_name: machine sewing (technique)\n\n  object_colour: black (colour)\n\n  physical_appearance: This is a black cheongsam that is paired with a matching jacket\n also black in colour. The cheongsam has median length sleeves while the jacket is long-sleeved. Tiny leaf images serving as the motif can be seen throughout the cheongsam and its jacket.   A collar is present on the cheongsam as well. There are two buttons located at the front centre of the jacket. There are no visible tears on the cheongsam.\n\n  subject_terms_1: dresses (garments) womenswear plant-derived motifs allover patterns\n\n  subject_terms_2: Motifs Women\\u0027s clothing Qipao Ethnic costume Jackets\n\n  subject_terms_3: Ethnic costume Chinese costume\n\n  sgcool_label_text: This is a black silk cheongsam with leaf motif that has a matching jacket. Cheongsams with matching jackets were usually worn at more formal occasions.\n",
-  "createdDate": "20201127000612",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -30,7 +30,7 @@
     "subject_terms_3": "Ethnic costume Chinese costume",
     "sgcool_label_text": "This is a black silk cheongsam with leaf motif that has a matching jacket. Cheongsams with matching jackets were usually worn at more formal occasions."
   },
-  "nlpDate": "20201127000612",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2018-00046\n\n  Image: \n\n  object_work_type: black-and-white slides digital prints artists\\u0027 proofs\n\n  title_text: Three Workers\n\n  preference: main\n\n  title_language: \n\n  creator_2: Tan Lip Seng\n\n  creator_1: Tan\n Lip Seng\n 1942- Tan\n Lip Seng\n\n  creator_role: photographers\n\n  creation_date: 1965\n\n  creation_place_original_location: Singapore (nation)\n\n  styles_periods_indexing_terms: Not indicated\n\n  inscriptions: \n\n  inscription_language: \n\n  scale_type: Not indicated\n\n  shape: rectangular\n\n  materials_name: photographic paper metallic paper photographic film (photographic materials)\n\n  techniques_name: printing (process) montage (image-making technique) photographic processes\n\n  object_colour: black-and-white (colours) multicoloured\n\n  edition_description: 1 of 3\n\n  physical_appearance: \\The image shows a digital print\n an artist\\u0027s proof\n and a slide. They are rectangular in shape. Both the digital print and the artist\\u0027s proof depict the backs of three women. All of them are wearing headscarfs and shoes. The background of the digital print and the artist\\u0027s proof show a building. The first level of the building contains running rectangular patterns along its wall. There are numerous cracks along the concrete\n above the base of the building. The ground in which the three women are walking on contains numerous stones. It is also uneven. The image on the right shows a slide. It is black-and-white in colour. It is held in place by a frame. On the borders of the frame\n \\\\Three Worker\\\\ is stated at the top and \\\\Tan Lip Seng\n\n  subject_terms_1: prints (visual works) women (female humans) A.R.P.S. proofs (prints by function) slides (photographs)\n\n  subject_terms_2: Colour prints Slides (photography) Proofs (Printing) Digitally printed materials 353 Pasir Panjang Road Women\n\n  subject_terms_3: Photography Singapore\n\n  subject_terms_4: 5\\\\ is stated at the bottom.\\\n\n  context_1: workers\n\n  context_2: Employees\n\n  context_3: Women\n",
-  "createdDate": "20201127000603",
+  "createdDate": "20201127205925",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -38,7 +38,7 @@
     "context_2": "Employees",
     "context_3": "Women"
   },
-  "nlpDate": "20201127000603",
+  "nlpDate": "20201127205925",
   "connectorId": 0,
   "tags": {}
 }

@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00112-001\n\n  Image: \n\n  object_work_type: clippings (information artifacts)\n\n  title_text: Newspaper clipping in Tamil reporting the kidnapping of Mr. Appavoo Kandiar #1 A set of five newspaper clippings reporting the kidnapping of Mr.Appavoo Kandiar\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: Tamil Murasu\n\n  creator_role: publishers\n\n  creation_date: 19570924\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process)\n\n  object_colour: black-and-white (colours)\n\n  physical_appearance: \\The image shows a newspaper clipping. All of the words are written in Tamil. The date\n \\\\24.09.1957\\\\\n\n  subject_terms_1: crime newspapers contractors is displayed on upper left hand side of the newspaper. ture of Mr Appavoo Kandiar is displayed at the right hand side of the newspaper\n\n  subject_terms_2: Contractors Kidnapping victims below the headlines in Tamil. A picture of several wooden crates and containers are displayed at the left hand side of the newspaper.\\ Clippings (Books\n newspapers\n etc.) Ransom Millionaires\n\n  subject_terms_3: Crime Kandiar\n Appavoo abduction\n\n  subject_terms_4: Newspapers\n\n  context_1: Daily newspapers\n",
-  "createdDate": "20201127000612",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_4": "Newspapers",
     "context_1": "Daily newspapers"
   },
-  "nlpDate": "20201127000612",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

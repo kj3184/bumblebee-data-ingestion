@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2018-00002\n\n  Image: \n\n  object_work_type: neckwear neckties\n\n  title_text: Necktie belonging to Justice Choor Singh\n\n  preference: main\n\n  title_language: \n\n  creator_1: Sidhu\n Choor Singh Sidhu\n Choor Singh (TTE)\n\n  creator_role: used\n\n  creation_date: 1963\n\n  creation_place_original_location: Malaysia (nation) Singapore (nation)\n\n  styles_periods_indexing_terms: Not indicated\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: textile materials\n\n  techniques_name: sewing (needleworking technique)\n\n  object_colour: multicoloured\n\n  physical_appearance: This necktie belonging to Justice Choor Singh is navy blue in colour. The embelm of Malaysia\n in the colour yellow can be seen throughout the tie\n\n  subject_terms_1: emblem (symbols) judges coats of arms worn costume accessories heraldic motifs founders (originators)\n\n  subject_terms_2: Motifs Dress accessories Devices (Heraldry) Judges Emblems\n\n  subject_terms_3: Pioneers\n\n  sgcool_label_text: This navy blue necktie is woven with the emblem of Malaysia. A label at the back marks it as a commemorative tie issued in 1963\n at the time of the formation of Malaysia. It would have likely been worn for official purposes by Justice Choor Singh. This group of artefacts belonged to Justice Choor Singh. Choor Singh was the first Indian to hold the position of Magistrate in Colonial Malaya\n and was appointed as a judge of the Supreme Court of Singapore in 1963. Apart from an illustrious legal career\n he made significant contributions to the Sikh community in Singapore. He was one of the founders of the Singapore Khalsa Association\n and advocated the teaching of Punjabi in Singapore as the Chairman of the Sikh Advisory Board. He also authored several books on the Sikh religion and the Sikh community in Singapore.\n",
-  "createdDate": "20201127000603",
+  "createdDate": "20201127205925",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_3": "Pioneers",
     "sgcool_label_text": "This navy blue necktie is woven with the emblem of Malaysia. A label at the back marks it as a commemorative tie issued in 1963, at the time of the formation of Malaysia. It would have likely been worn for official purposes by Justice Choor Singh. This group of artefacts belonged to Justice Choor Singh. Choor Singh was the first Indian to hold the position of Magistrate in Colonial Malaya, and was appointed as a judge of the Supreme Court of Singapore in 1963. Apart from an illustrious legal career, he made significant contributions to the Sikh community in Singapore. He was one of the founders of the Singapore Khalsa Association, and advocated the teaching of Punjabi in Singapore as the Chairman of the Sikh Advisory Board. He also authored several books on the Sikh religion and the Sikh community in Singapore."
   },
-  "nlpDate": "20201127000603",
+  "nlpDate": "20201127205925",
   "connectorId": 0,
   "tags": {}
 }

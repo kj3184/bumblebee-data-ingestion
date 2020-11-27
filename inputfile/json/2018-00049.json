@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2018-00049\n\n  Image: \n\n  object_work_type: photographs black-and-white photographs\n\n  title_text: Industrial Century\n\n  preference: main\n\n  title_language: \n\n  creator_2: Tan Lip Seng\n\n  creator_1: Tan\n Lip Seng\n 1942- Tan\n Lip Seng\n\n  creator_role: photographers\n\n  creation_date: 1963\n\n  creation_place_original_location: Singapore (nation)\n\n  styles_periods_indexing_terms: Not indicated\n\n  inscriptions: \n\n  inscription_language: \n\n  scale_type: Not indicated\n\n  shape: rectangular\n\n  materials_name: silver gelatin paper\n\n  techniques_name: gelatin silver process montage (image-making technique)\n\n  object_colour: black-and-white (colours)\n\n  physical_appearance: The image shows a black-and-white photograph. It is rectangular in shape. The photograph depicts the roof structure of a building. There are numerous ropes running parallel to one another\n and perpendicular to metal rafters.Three workers can be seen on top of each rafter\n in a prone position.\n\n  subject_terms_1: construction workers steel mills industrial structures gelatin silver prints\n\n  subject_terms_2: Construction workers Industrial buildings Prints Mills and mill-work Black-and-white photography\n\n  subject_terms_3: National Iron and Steel Mills Limited Photography Industrial buildings\n\n  sgcool_label_text: This photo was taken at the National Steel Mill and was one of Tan Lip Seng\\u0027s submissions to the Royal Photographic Society (UK) for his ARPS application in 1964.\\r\\n\\r\\nA self-taught photographer\n Tan Lip Seng went on to become one of the world’s top photographers working in colour derivative photo montage technique. He was the first Singaporean to be listed as The World’s Top Ten Colour Slide Exhibitors by the Photographic Society of America in 1969 and was also the first Singaporean to be awarded a fellowship by the Royal Photographic Society of the United Kingdom in 1970. Conferred the Cultural Medallion in 1985\n Tan recently published a retrospective of his works\n ‘Light \\u0026 Shadow: Tan Lip Seng’s 50 Years of Photography’ in 2009. An exhibition was held concurrently to mark the book’s launch.\n",
-  "createdDate": "20201127000603",
+  "createdDate": "20201127205925",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -34,7 +34,7 @@
     "subject_terms_3": "National Iron and Steel Mills Limited Photography Industrial buildings",
     "sgcool_label_text": "This photo was taken at the National Steel Mill and was one of Tan Lip Seng\u0027s submissions to the Royal Photographic Society (UK) for his ARPS application in 1964.\r\n\r\nA self-taught photographer, Tan Lip Seng went on to become one of the world’s top photographers working in colour derivative photo montage technique. He was the first Singaporean to be listed as The World’s Top Ten Colour Slide Exhibitors by the Photographic Society of America in 1969 and was also the first Singaporean to be awarded a fellowship by the Royal Photographic Society of the United Kingdom in 1970. Conferred the Cultural Medallion in 1985, Tan recently published a retrospective of his works, ‘Light \u0026 Shadow: Tan Lip Seng’s 50 Years of Photography’ in 2009. An exhibition was held concurrently to mark the book’s launch."
   },
-  "nlpDate": "20201127000603",
+  "nlpDate": "20201127205925",
   "connectorId": 0,
   "tags": {}
 }

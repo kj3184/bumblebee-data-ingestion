@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2014-00285-045\n\n  Image: \n\n  object_work_type: black-and-white photographs\n\n  title_text: Goodwood Park Hotel\n Singapore 1946 Photography Album (donation from Anthony Robert Saint Claire)\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: Robert Arthur Polglaze\n\n  creator_1: Not indicated\n\n  creator_role: photographers\n\n  creation_date: 1940s\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process) photographic processes\n\n  object_colour: grey monochrome\n\n  physical_appearance: \\The image shows a black-and-white photograph. It is rectangular and it features a building with a tower and spires. The building has a decorated façade with arch tops and \\\\War Crimes Complaints\\\\ can be seen above the entrance\n\n  subject_terms_1: national monuments at the centre of the photograph. The building extends as a single storey roofed block to the right of the tower\n\n  subject_terms_2: as well as to the left of it. There are trees surrounding the perimeter of the building. \\ National monuments Goodwood Park Hotel\n\n  subject_terms_3: Goodwood Park Hotel (Place) National monuments hotels (public accommodations)\n\n  subject_terms_4: Black-and-white photography\n\n  context_1: Photography\n",
-  "createdDate": "20201127000613",
+  "createdDate": "20201127205930",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -33,7 +33,7 @@
     "subject_terms_4": "Black-and-white photography",
     "context_1": "Photography"
   },
-  "nlpDate": "20201127000613",
+  "nlpDate": "20201127205930",
   "connectorId": 0,
   "tags": {}
 }

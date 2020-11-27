@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00299\n\n  Image: \n\n  object_work_type: sketches\n\n  title_text: Drawing memorializing 122 Field Regiment Royal Artillery’s involvement in the Malayan Campaign 122 Field Regiment Royal Artillery’s involvement in the Malayan Campaign\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: James Steele\n Royal Artillery (Field)\n\n  creator_role: Creator\n\n  creation_date: 1941 - 1945\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: drawing (image-making)\n\n  object_colour: multicoloured\n\n  physical_appearance: The drawing is made on a piece of paper that has been torn on its bottom right side and the upper left corner. The drawing depicts the military insignia of the 122 Field Regiment Royal Artillery. It also includes the names of places where the Regiment fought at during the Malayan Campaign in World War II. The paper does not look creased. The location where the drawing is created is also stated at the bottom centre.\n\n  subject_terms_1: world wars commemoratives prisoners of war prisoner-of-war camps\n\n  subject_terms_2: Great Britain. Army World War\n 1939 - 1945 Changi POW Camp (Changi\n Singapore) Drawing Prisoner of war Prisoner-of-war camps\n\n  subject_terms_3: 1942-1945 Japanese occupation Wars\n\n  context_1: World War\n 1939 - 1945\n\n  context_2: world wars\n\n  context_3: 1939 - 1945\n\n  context_4: 1939\n\n  context_5: 1945\n\n  context_6: Southeast Asia\n\n  context_7: Southeast Asia\n\n  sgcool_label_text: \\A drawing that memorializes the involvement of the 122 Field Regiment Royal Artillery in the Malayan Campaign\n this diagram includes all the areas in which they fought during the campaign and their motto” Quo Fas Et Gloria Ducunt” (\\\\Where Right And Glory Lead\\\\; in Latin fas implies \\\\sacred duty\\\\). This is a particularly important historical document. Effectively\n",
-  "createdDate": "20201127000606",
+  "createdDate": "20201127205926",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -38,7 +38,7 @@
     "context_7": "Southeast Asia",
     "sgcool_label_text": "\"A drawing that memorializes the involvement of the 122 Field Regiment Royal Artillery in the Malayan Campaign, this diagram includes all the areas in which they fought during the campaign and their motto” Quo Fas Et Gloria Ducunt” (\"\"Where Right And Glory Lead\"\"; in Latin fas implies \"\"sacred duty\"\"). This is a particularly important historical document. Effectively"
   },
-  "nlpDate": "20201127000606",
+  "nlpDate": "20201127205926",
   "connectorId": 0,
   "tags": {}
 }

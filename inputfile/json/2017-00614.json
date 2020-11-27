@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00614\n\n  Image: \n\n  object_work_type: silks (costume by material)\n\n  title_text: Gold and Red Silk Songket Gold \\u0026 Coloured Silk Thread \\u0026 Red Silk Songket\n\n  preference: main alternate\n\n  title_language: \n\n  creation_date: circa 1900 or earlier\n\n  creation_place_original_location: Malaysia\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: silk (textile)\n\n  techniques_name: weaving\n\n  object_colour: red (color) gold (color)\n\n  physical_appearance: This is a red and gold silk songket. It is rectangular in shape. The panels at either end are decorated with scrolling triangular bamboo motifs and tulip motifs. The central panel is decorated with floral motifs\n star motifs\n and floral chains. There are no tears seen on the fabric.\n\n  subject_terms_1: flower (motif) scrolls (motifs) dressing garments folk costume\n\n  subject_terms_2: Motifs Ethnic costume Songket Malays (Asian people)\n\n  subject_terms_3: Textile art and design Malay costumes\n\n  subject_terms_4: \n",
-  "createdDate": "20201127000604",
+  "createdDate": "20201127205926",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -29,7 +29,7 @@
     "subject_terms_3": "Textile art and design Malay costumes",
     "subject_terms_4": ""
   },
-  "nlpDate": "20201127000604",
+  "nlpDate": "20201127205926",
   "connectorId": 0,
   "tags": {}
 }

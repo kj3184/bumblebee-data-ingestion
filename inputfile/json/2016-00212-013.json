@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00212-013\n\n  Image: \n\n  object_work_type: black-and-white photographs\n\n  title_text: Photograph album of views and portraits in the Punjab\n Cashmere\n Ceylon\n Burma\n Penang\n Singapore\n and Java Maharajah Runjeet Singh\\u0027s Tomb\n Lahore\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: John Thomson\n\n  creator_1: Thomson\n J. (John)\n 1837-1921\n\n  creator_role: photographers\n\n  creation_date: before 28 Jul 1876\n\n  creation_place_original_location: Singapore Lahore (Pakistan)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: albumen (egg white protein) paper (fiber product) albumen paper\n\n  techniques_name: albumen process\n\n  object_colour: black-and-white (colors)\n\n  physical_appearance: This is a photograph of Maharajah Runjet Singh\\u0027s Tomb in Lahore. The photograph features a grand\n white building in the background\n with a tall central dome and a smaller domed pavilion on the left. The foreground of the picture shows a clearing\n with some vegetation and trees on the right. There is a flight of steps on the left of the photograph. In the center\n there is an empty carriage. The title is written at the bottom\n below the photograph.\n\n  subject_terms_1: scenery (landscape) tombs buildings (structures)\n\n  subject_terms_2: Ranjit Singh\n Maharaja of the Punjab\n 1780-1839 Photographs Thomson\n J. (John)\n 1837-1921 Lahore (Pakistan) Tombs\n\n  subject_terms_3: Photography Buildings\n\n  context_1: Death of Maharaja Ranjit Singh\n\n  context_2: deaths\n\n  context_3: 1839-06-27\n\n  context_4: 1839-06-27\n\n  context_5: 1839-06-27\n\n  context_6: Lahore (Pakistan)\n",
-  "createdDate": "20201127000611",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -37,7 +37,7 @@
     "context_5": "1839-06-27",
     "context_6": "Lahore (Pakistan)"
   },
-  "nlpDate": "20201127000611",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

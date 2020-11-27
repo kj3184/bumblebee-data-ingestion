@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00906-001 and 002 \n\n  Image: \n\n  object_work_type: bowls (vessels) Imari ware\n\n  title_text: Covered Bowl\n\n  preference: main\n\n  title_language: \n\n  creation_date: Late 18th or early 19th century\n\n  creation_place_original_location: Japan\n\n  styles_periods_indexing_terms: Imari\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: biconvex\n\n  materials_name: metal porcelain (material)\n\n  techniques_name: firing (technique) underglazing porcelain painting (image-making) molding (forming) throwing (pottery techniques)\n\n  object_colour: multicoloured\n\n  physical_appearance: This is a covered bowl in underglaze blue\n iron red\n and gold. Within the cartouches\n are decorations of flowering plants\n and a carp with its head and tail above the waves. Interspersing the cartouches are scroll motifs and florets. Standing at the top of the lid is a figure of a rooster.\n\n  subject_terms_1: carp exports flower (motif) scrolls (motifs) roosters (birds) tableware\n\n  subject_terms_2: Exports Tableware Fishes in art Roosters in art Flowers in art Imari porcelain Leaves in art\n\n  subject_terms_3: Ceramics Decorative arts\n\n  subject_terms_4: \n\n  sgcool_label_text: This covered bowl with under-glaze blue\n iron red\n and gold decoration was made at kilns in Arita\n Japan. Porcelain with this combination of colours has come to be called “Imari ware” (after the Japanese port city from which it was exported). These wares became popular in Europe in the late 17th century\n via the trade of the Dutch East India Company. They brought in Japanese ceramics when Chinese production fell because of political instability.\n",
-  "createdDate": "20201127000604",
+  "createdDate": "20201127205925",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -31,7 +31,7 @@
     "subject_terms_4": "",
     "sgcool_label_text": "This covered bowl with under-glaze blue, iron red, and gold decoration was made at kilns in Arita, Japan. Porcelain with this combination of colours has come to be called “Imari ware” (after the Japanese port city from which it was exported). These wares became popular in Europe in the late 17th century, via the trade of the Dutch East India Company. They brought in Japanese ceramics when Chinese production fell because of political instability."
   },
-  "nlpDate": "20201127000604",
+  "nlpDate": "20201127205925",
   "connectorId": 0,
   "tags": {}
 }

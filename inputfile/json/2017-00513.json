@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00513\n\n  Image: \n\n  object_work_type: signage logotypes\n\n  title_text: Zouk Velvet Underground Signage\n\n  preference: main\n\n  title_language: \n\n  creator_2: Not specified\n\n  creation_date: 1994\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: Not indicated\n\n  techniques_name: Not indicated\n\n  object_colour: multicoloured\n\n  physical_appearance: This is the signage for Zouk\\u0027s Velvet Underground nightclub. The background of the signage is black while the fonts and images are in bright pink. Attached to the signage at the bottom is a white note that states \\u0027Lot No 307\\u0027. An outline of a heart-shaped design is drawn on top of the letter \\u0027V\\u0027 in \\u0027Velvet\\u0027. The signage does not look to be chipped or have any cracks on it.\n\n  subject_terms_1: entertainment centers (inhabited places) Signs and signboards nighclubs discotheques Logos (Symbols)\n\n  subject_terms_2: Singapore Nightclubs\n\n  subject_terms_3: Recreation clubs\n\n  context_20: Zouk nightclub operated out of three first restored godowns at Jiak Kim Street when it first opened to the public in March 1991.\n\n  context_21: 17 Jiak Kim Street\n\n  context_22: 199407 to 201612\n\n  sgcool_label_text: Zouk nightclub operated out of three first restored godowns at Jiak Kim Street when it first opened to the public in March 1991. This was Zouk’s home for 25 years until its relocation to Clarke Quay’s Cannery Block at the end of 2016. \\r\\n\\r\\nZouk at Jiak Kim Street had four signature zones which played different music to cater to different tastes: Zouk\n Phuture\n Velvet Underground and the Wine Bar. Velvet Underground opened in July 1994 after the restaurant space was converted into an exclusive enclave for members\n making it Singapore’s first dance membership club then. Velvet Underground had its own private entrance and was known for its thick velvet-covered walls and iconic artwork. It catered to older Zouk patrons with a more relaxed lounge space that played house and soul music.\n",
-  "createdDate": "20201127000605",
+  "createdDate": "20201127205926",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -33,7 +33,7 @@
     "context_22": "199407 to 201612",
     "sgcool_label_text": "Zouk nightclub operated out of three first restored godowns at Jiak Kim Street when it first opened to the public in March 1991. This was Zouk’s home for 25 years until its relocation to Clarke Quay’s Cannery Block at the end of 2016. \r\n\r\nZouk at Jiak Kim Street had four signature zones which played different music to cater to different tastes: Zouk, Phuture, Velvet Underground and the Wine Bar. Velvet Underground opened in July 1994 after the restaurant space was converted into an exclusive enclave for members, making it Singapore’s first dance membership club then. Velvet Underground had its own private entrance and was known for its thick velvet-covered walls and iconic artwork. It catered to older Zouk patrons with a more relaxed lounge space that played house and soul music."
   },
-  "nlpDate": "20201127000605",
+  "nlpDate": "20201127205926",
   "connectorId": 0,
   "tags": {}
 }

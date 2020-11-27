@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2018-00016\n\n  Image: \n\n  object_work_type: installations (visual works)\n\n  title_text: Dust (Singapore Galaxy)\n\n  preference: main\n\n  title_language: \n\n  creator_2: Ni Youyu\n\n  creator_1: Not indicated\n\n  creator_role: artists (visual artists)\n\n  creation_date: 2016\n\n  creation_place_original_location: China (nation)\n\n  styles_periods_indexing_terms: Not indicated\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: mixed media glue chalk\n\n  techniques_name: forming (physical activity) creating (artistic activity)\n\n  object_colour: multicoloured\n\n  physical_appearance: This installation is created in a landscape fashion. This work is composed on a black and grey background where white dots are interspaced throughout the entire piece of art.\n\n  subject_terms_1: sky mixed media works stars (extraterrestial bodies) symbolism (artistic concept) galaxies space (astronomical concept)\n\n  subject_terms_2: Stars Sky Galaxies Symbolism Outer space Derivative works Installations (Art)\n\n  subject_terms_3: Installation art\n\n  subject_terms_4: Singapore (nation)\n\n  sgcool_label_text: Dust (Singapore Galaxy) is based on a photograph of the night sky around Singapore. The seemingly random scattering of chalk dust is in fact a precise placement charting stellar distributions as depicted in the original astronomical photograph. In Chinese\n the characters for ‘dust’ also refer to those who are socially underprivileged\n and carry the additional meanings of the ordinary and mundane. Here\n dust is vested with solemnity and divinity in its transformation into the limitless universe\n mapping the infinitesimal traces of human existence onto the infinite.\n",
-  "createdDate": "20201127000603",
+  "createdDate": "20201127205925",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -34,7 +34,7 @@
     "subject_terms_4": "Singapore (nation)",
     "sgcool_label_text": "Dust (Singapore Galaxy) is based on a photograph of the night sky around Singapore. The seemingly random scattering of chalk dust is in fact a precise placement charting stellar distributions as depicted in the original astronomical photograph. In Chinese, the characters for ‘dust’ also refer to those who are socially underprivileged, and carry the additional meanings of the ordinary and mundane. Here, dust is vested with solemnity and divinity in its transformation into the limitless universe, mapping the infinitesimal traces of human existence onto the infinite."
   },
-  "nlpDate": "20201127000603",
+  "nlpDate": "20201127205925",
   "connectorId": 0,
   "tags": {}
 }

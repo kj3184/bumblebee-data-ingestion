@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2018-00175\n\n  Image: \n\n  object_work_type: photographs black-and-white photographs\n\n  title_text: Photograph of Lee Chin Koon\n\n  preference: main\n\n  title_language: \n\n  creator_2: Not indicated\n\n  creator_1: Not indicated\n\n  creation_date: 1998\n\n  creation_place_original_location: Singapore (nation)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process) photographic processes\n\n  object_colour: grey monochrome\n\n  physical_appearance: The image shows a black-and-white photograph. It is rectangular and it features an elderly man. He is sitting down and looking towards the direction where the photograph was captured. He adorns a long-sleeved shirt that has flowery patterns all over.\n\n  subject_terms_1: lawyers men (male humans) portraits\n\n  subject_terms_2: Portrait photography Men Black-and-white photography Lawyers\n\n  subject_terms_3: Portrait photography Lee\n Chin Koon Lawyers\n\n  sgcool_label_text: This photograph shows Lee Chin Koon (1903-1997)\n father of Lee Kuan Yew (1923-2015) who was the first Prime Minster of Singapore. Born in Indonesia\n he was the attorney to the Sugar King Oei Tiong Ham\n and the first honorary secretary of the Chinese Swimming Club.\n",
-  "createdDate": "20201127000602",
+  "createdDate": "20201127205925",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -31,7 +31,7 @@
     "subject_terms_3": "Portrait photography Lee, Chin Koon Lawyers",
     "sgcool_label_text": "This photograph shows Lee Chin Koon (1903-1997), father of Lee Kuan Yew (1923-2015) who was the first Prime Minster of Singapore. Born in Indonesia, he was the attorney to the Sugar King Oei Tiong Ham, and the first honorary secretary of the Chinese Swimming Club."
   },
-  "nlpDate": "20201127000602",
+  "nlpDate": "20201127205925",
   "connectorId": 0,
   "tags": {}
 }

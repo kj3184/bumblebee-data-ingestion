@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00597\n\n  Image: \n\n  object_work_type: womenswear cholis\n\n  title_text: Choli Embroidered Blouse\n\n  preference: main alternate\n\n  title_language: English\n\n  creation_date: 20th century\n\n  creation_place_original_location: Kachchh (India)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: silk (textile)\n\n  techniques_name: sewing (needleworking technique) embroidering\n\n  object_colour: multicolored\n\n  physical_appearance: This is an embroidered choli. It is a cropped yellow blouse\n with embroidered cross stitch motif along the chest and embroided floral designs along the sleeves. There is a pair of embroidered men on each side panel.\n\n  subject_terms_1: tops (garments\n general) crosses (motif) blouses (main garments) flower (motif) embroidery (visual works) folk costume\n\n  subject_terms_2: Blouses Ethnic costume Embroidery Jains\n\n  subject_terms_3: Indian costumes\n\n  subject_terms_4: \n\n  sgcool_label_text: This embroidered blouse would have been worn by a woman of the Kutchi Jain community. It features a cross-stitch like motif across the sleeves and chest\n with a pair of embroidered English gentlement embroidered on to the side panels on either side.\n",
-  "createdDate": "20201127000604",
+  "createdDate": "20201127205926",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -30,7 +30,7 @@
     "subject_terms_4": "",
     "sgcool_label_text": "This embroidered blouse would have been worn by a woman of the Kutchi Jain community. It features a cross-stitch like motif across the sleeves and chest, with a pair of embroidered English gentlement embroidered on to the side panels on either side."
   },
-  "nlpDate": "20201127000604",
+  "nlpDate": "20201127205926",
   "connectorId": 0,
   "tags": {}
 }

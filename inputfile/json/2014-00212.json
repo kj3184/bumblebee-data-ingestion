@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2014-00212\n\n  Image: \n\n  object_work_type: buttons (fasteners)\n\n  title_text: Brass button\n\n  preference: main\n\n  title_language: \n\n  creator_2: Not indicated\n\n  creation_date: Not indicated\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: circular (shape)\n\n  materials_name: brass (alloy)\n\n  techniques_name: forming (physical activity)\n\n  object_colour: gold (colour)\n\n  physical_appearance: \\The image shows a button. It is circular in shape and it is dull gold in colour. The image of Queen Victoria is carved in the middle of the button\\u0027s face. \\\\Victoria Dei Gratia\\\\ is stated on the face of the button\n\n  subject_terms_1: around the image of Queen Victoria. There is a ringed arch attached to the centre of the button.\\\n\n  subject_terms_2: Victoria\n Queen of Great Britain\n 1819-1901 queens (people)\n\n  subject_terms_3: Metal buttons\n",
-  "createdDate": "20201127000614",
+  "createdDate": "20201127205930",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -29,7 +29,7 @@
     "subject_terms_2": "Victoria, Queen of Great Britain, 1819-1901 queens (people)",
     "subject_terms_3": "Metal buttons"
   },
-  "nlpDate": "20201127000614",
+  "nlpDate": "20201127205930",
   "connectorId": 0,
   "tags": {}
 }

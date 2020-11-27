@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2018-00461\n\n  Image: \n\n  object_work_type: oil paintings (visual works) paintings (visual works)\n\n  title_text: Shipwreck in Storm\n\n  preference: main\n\n  title_language: \n\n  creator_2: Raden Saleh (1811 - 1880)\n\n  creator_1: Saleh\n Raden\n approximately 1807-1880\n\n  creator_role: painters (artists) oil painters\n\n  creation_date: 1839\n\n  creation_place_original_location: Europe\n\n  styles_periods_indexing_terms: Not indicated\n\n  inscriptions: \n\n  inscription_language: \n\n  scale_type: Not indicated\n\n  shape: rectangular\n\n  materials_name: canvas (textile material) oil paint (paint)\n\n  techniques_name: painting (image making) creating (artistic activity)\n\n  object_colour: multicoloured\n\n  physical_appearance: The image shows a painting. It is rectangular in shape and encased within a brown frame. The artwork depicts a ship amidst a storm. The ship has a single mast with the flag of the Netherlands attached to it. The ship is tilted sideways as a result of the pronounced and swaying waves. Pieces of wreckage can be seen in the water as well\n such as at the extreme left and right sides of the painting. The upper half of the artwork depicts dark clouds covering up the majority of a blue sky.\n\n  subject_terms_1: seascapes marines (visual works) symbolism (artistic concept) storms merchant vessels shipwrecks\n\n  subject_terms_2: Seas and oceans Shipwrecks Storms Merchant ships Symbolism Paintings\n\n  subject_terms_3: Painting Visual Arts\n\n  sgcool_label_text: Shipwreck in Storm is one of a series of paintings on this subject that Raden Saleh painted between 1836 and 1869. This painting was created while Raden Saleh was still in Europe\n where he established his reputation as an artist skilled in portraits\n seascapes\n and Orientalist scenes.\n",
-  "createdDate": "20201127000602",
+  "createdDate": "20201127205924",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -34,7 +34,7 @@
     "subject_terms_3": "Painting Visual Arts",
     "sgcool_label_text": "Shipwreck in Storm is one of a series of paintings on this subject that Raden Saleh painted between 1836 and 1869. This painting was created while Raden Saleh was still in Europe, where he established his reputation as an artist skilled in portraits, seascapes, and Orientalist scenes."
   },
-  "nlpDate": "20201127000602",
+  "nlpDate": "20201127205924",
   "connectorId": 0,
   "tags": {}
 }

@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2018-00194\n\n  Image: \n\n  object_work_type: negatives (photographs) black-and-white negatives\n\n  title_text: Negatives of committee members of the Peranakan Association\n\n  preference: main\n\n  title_language: \n\n  creator_2: Not indicated\n\n  creator_1: Not indicated\n\n  creation_date: 2000\n\n  creation_place_original_location: Singapore (nation)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: plastic (organic material)\n\n  techniques_name: printing (process) photographic processes\n\n  object_colour: grey monochrome\n\n  physical_appearance: The image shows twelve black-and-white negative of photographs. They are arranged in a four by three orientation. Each negative contains groups of people\n either sitting down or standing up. Resolution of negatives are not high enough to identify more details.\n\n  subject_terms_1: group portraits associations members\n\n  subject_terms_2: Portraits\n Group Portrait photography Peranakan Association\n Singapore\n\n  subject_terms_3: Portrait photography Peranakan Association\n Singapore\n\n  sgcool_label_text: These plastic film negatives show 12 photographs of the committee members of the Peranakan Association in 2000.\n",
-  "createdDate": "20201127000602",
+  "createdDate": "20201127205924",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -31,7 +31,7 @@
     "subject_terms_3": "Portrait photography Peranakan Association, Singapore",
     "sgcool_label_text": "These plastic film negatives show 12 photographs of the committee members of the Peranakan Association in 2000."
   },
-  "nlpDate": "20201127000602",
+  "nlpDate": "20201127205924",
   "connectorId": 0,
   "tags": {}
 }

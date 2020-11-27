@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2018-00028-001\n\n  Image: \n\n  object_work_type: cartes-de-visite (card photographs)\n\n  title_text: Eight Carte-de-visites Album of Carte-de-visites\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: Alfred Ellis\n\n  creator_1: Ellis\n Alfred\n\n  creator_role: photographers\n\n  creation_date: late 19th century\n\n  creation_place_original_location: Baker Street (inhabited place)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process) photographic processes\n\n  object_colour: grey (colour) monochrome\n\n  physical_appearance: The image shows two adjacent pages within a photograph album. Each page has a total of four portrait photographs. Each one of these photographs feature a single individual. All of the portraits have an oval border and they are in black-and-white. There are foliage designs at the sides of the pages.\n\n  subject_terms_1: women (female humans) men (male humans) black-and-white photographs studio portraits photograph albums\n\n  subject_terms_2: Portrait photography Photograph albums Men Black-and-white photography Women\n\n  subject_terms_3: Portrait photography Women\n\n  sgcool_label_text: Cartes de visite are small portraits mounted on boards measuring about 6.35 x 10 cm. They were sometimes collected and displayed in specially-designed albums with slots on each page for individual cartes. This type of photographs was very popular in the second half of the 19th century. \\r\\n\\r\\nThe cartes de visite found in this album were produced by several photography studios\n one of which was Alfred Ellis. The studio was located at Upper Baker Street\n London from 1884 to 1898.\n",
-  "createdDate": "20201127000603",
+  "createdDate": "20201127205925",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_3": "Portrait photography Women",
     "sgcool_label_text": "Cartes de visite are small portraits mounted on boards measuring about 6.35 x 10 cm. They were sometimes collected and displayed in specially-designed albums with slots on each page for individual cartes. This type of photographs was very popular in the second half of the 19th century. \r\n\r\nThe cartes de visite found in this album were produced by several photography studios, one of which was Alfred Ellis. The studio was located at Upper Baker Street, London from 1884 to 1898."
   },
-  "nlpDate": "20201127000603",
+  "nlpDate": "20201127205925",
   "connectorId": 0,
   "tags": {}
 }

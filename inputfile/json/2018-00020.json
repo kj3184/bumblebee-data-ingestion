@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2018-00020\n\n  Image: \n\n  object_work_type: photochroms\n\n  title_text: Photochrom of Boustead Institute\n\n  preference: main\n\n  title_language: \n\n  creator_2: Not indicated\n\n  creator_1: Not indicated\n\n  creation_date: Late 19th – early 20th century\n\n  creation_place_original_location: Singapore (nation)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process) photographic processes\n\n  object_colour: multicoloured\n\n  physical_appearance: The image shows a colour photograph. The foreground shows an ox-drawn wagon. Multiple bags are stacked on it. There are several more stationary wagons to the left hand side of the photograph. The background features several multiple storey roofed buildings. Shophouses are also present at the right hand side of the photographs. People can be seen walking on the paths and carrying loads across their backs with a shoulder pole.\n\n  subject_terms_1: residential structures institutional buildings mercantile buildings photographic prints street scenes\n\n  subject_terms_2: Colour photography Associations\n institutions\n etc. Dwellings Shophouses Prints Singapore\n\n  subject_terms_3: Boustead \\u0026 Co. Photography Boustead Institute\n\n  sgcool_label_text: This photograph shows Boustead Institute at the end of an unpaved road. An ox-drawn wagon is visible in the foreground. ‘20207. P. Z. – Singapore. Boustead Institute’ is printed at the bottom edge of the photograph\\r\\n  \\r\\nThe building of Boustead Institute was located between Anson Road and Tanjong Pagar Road. It was used by seamen of the Tanjong Pagar Dock Company as a residence when they were transiting through Singapore. The building was named after Edward Boustead\n founder of the Tanjong Pagar Dock Company\n the Chamber of Commerce\n and The Singapore Free Press.\\r\\n\n",
-  "createdDate": "20201127000603",
+  "createdDate": "20201127205925",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -31,7 +31,7 @@
     "subject_terms_3": "Boustead \u0026 Co. Photography Boustead Institute",
     "sgcool_label_text": "This photograph shows Boustead Institute at the end of an unpaved road. An ox-drawn wagon is visible in the foreground. ‘20207. P. Z. – Singapore. Boustead Institute’ is printed at the bottom edge of the photograph\r\n  \r\nThe building of Boustead Institute was located between Anson Road and Tanjong Pagar Road. It was used by seamen of the Tanjong Pagar Dock Company as a residence when they were transiting through Singapore. The building was named after Edward Boustead, founder of the Tanjong Pagar Dock Company, the Chamber of Commerce, and The Singapore Free Press.\r\n"
   },
-  "nlpDate": "20201127000603",
+  "nlpDate": "20201127205925",
   "connectorId": 0,
   "tags": {}
 }

@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00494\n\n  Image: \n\n  object_work_type: black-and-white photographs\n\n  title_text: Untitled (ceiling)\n\n  preference: main\n\n  title_language: \n\n  creator_2: Kwek Leng Joo Swan and Maclaren Architects\n\n  creator_1: Kwek\n Leng Joo Swan \\u0026 Maclaren\n\n  creator_role: photographers designers\n\n  creation_date: 2010\n\n  creation_place_original_location: Malaysia Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process)\n\n  object_colour: grey monochrome\n\n  physical_appearance: The image shows a photograph in black-and-white. It has a black frame and its border is white in colour. The ceiling is white in colour and it has rectilinear lines running vertically and horizontally. Inside each big rectangle\n there are geometric motifs to form the shape of squares. Two squares are superimposed on one other\n with the one in below having a different orientation than the one on top. This allows for a figure that is similar to an eight-sided star to be displayed. Towards the bottom right hand side of the image\n there seems to be some cracks or chips on the white wall.\n\n  subject_terms_1: Neoclassical geometric motifs porticoes Art Deco ceilings\n\n  subject_terms_2: Motifs Neoclassicism (Architecture) Pertadbiran Keretapi Tanah Melayu Ceilings Tanjong Pagar (Singapore) Art deco (Architecture) Black-and-white photography Porticoes\n\n  subject_terms_3: Rail transport (Stations) Photography Pertadbiran Keretapi Tanah Melayu Rail transport Tanjong Pagar Railway Station\n\n  sgcool_label_text: \\This image shows the Art Deco and neo-classical styles of the Tanjong Pagar railway station\n which it was known for. Designed by Swan and Maclaren\n the entrance of the station is sheltered by an arched portico. This image is part of the \\\\Tracking Memories\\\\ collection by the late Mr Kwek Leng Joo. The collection captures different aspects of the Malayan Railway story in Singapore\n",
-  "createdDate": "20201127000610",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_3": "Rail transport (Stations) Photography Pertadbiran Keretapi Tanah Melayu Rail transport Tanjong Pagar Railway Station",
     "sgcool_label_text": "\"This image shows the Art Deco and neo-classical styles of the Tanjong Pagar railway station, which it was known for. Designed by Swan and Maclaren, the entrance of the station is sheltered by an arched portico. This image is part of the \"\"Tracking Memories\"\" collection by the late Mr Kwek Leng Joo. The collection captures different aspects of the Malayan Railway story in Singapore"
   },
-  "nlpDate": "20201127000610",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

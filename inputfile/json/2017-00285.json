@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00285\n\n  Image: \n\n  object_work_type: programmes (documents)\n\n  title_text: Programme for a performance of Dodie Smith\\u0027s Autumn Crocus\n\n  preference: main\n\n  title_language: \n\n  creator_2: Ronald Searle\n\n  creator_1: Searle\n Ronald\n 1920-2011\n\n  creator_role: illustrators\n\n  creation_date: 1944\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process)\n\n  object_colour: white (color) blue (color)\n\n  physical_appearance: This is a programme booklet. It is printed in blue ink against a plain piece of paper\n in landscape orientation. The title is printed at the top center of the page\n underlined. The left side of the page features a list of characters\n while the right side lists the acts and the stage crew. There is a faded signature in blue at the bottom right of the page.\n\n  subject_terms_1: world wars plays (performing arts compositions) prisoners of war\n\n  subject_terms_2: Plays Programs (Publications) World War\n 1939-1945 Searle\n Ronald\n 1920-2011 Prisoners of war\n\n  subject_terms_3: Changi Prison 1942-1945 Japanese occupation Searle\n Ronald\n 1920-2011\n\n  subject_terms_4: \n\n  context_1: World War\n 1939-1945 1942-1945 Japanese Occupation Dodie Smith\\u0027s Autumn Crocs - produced by Osmond Daltry\n\n  context_2: occupations (armed conflicts) world wars plays (performing arts compositions)\n\n  context_3: 23/10/44 1942-1945 1939-1945\n\n  context_4: 23/10/44 1939 1942\n\n  context_5: 23/10/44 1945\n\n  context_6: Singapore Malaya\n\n  context_7: Great Britain. Army. Royal Field Artillery\n\n  context_8: armed forces prisoners of war\n\n  sgcool_label_text: \\Prisoners in the Changi P.O.W camp kept their spirits up and their minds occupied by putting on shows. The programme for a performance of Dodie Smith\\u0027s Autumn Crocus [produced by Osmond Daltry with decor by Ronald Searle] \\\\presented at the \\u0027Playhouse\\u0027\n",
-  "createdDate": "20201127000606",
+  "createdDate": "20201127205927",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -41,7 +41,7 @@
     "context_8": "armed forces prisoners of war",
     "sgcool_label_text": "\"Prisoners in the Changi P.O.W camp kept their spirits up and their minds occupied by putting on shows. The programme for a performance of Dodie Smith\u0027s Autumn Crocus [produced by Osmond Daltry with decor by Ronald Searle] \"\"presented at the \u0027Playhouse\u0027"
   },
-  "nlpDate": "20201127000606",
+  "nlpDate": "20201127205927",
   "connectorId": 0,
   "tags": {}
 }

@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00763\n\n  Image: \n\n  object_work_type: holders (containers)\n\n  title_text: Incense stick holder\n\n  preference: main\n\n  title_language: \n\n  creation_date: 1900-1920\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: wood (plant material)\n\n  techniques_name: woodcarving\n\n  object_colour: gray (color) gold (color)\n\n  physical_appearance: This is a wooden incense stick holder. It is cylindrical in shape\n with a wide circular base. On the body\n there is a carving of a dragon. The dragon is gilded in gold. The gilding is faded especially around the head of the dragon.\n\n  subject_terms_1: Religious ceremonies ceremonial objects Peranakan dragons incense sticks\n\n  subject_terms_2: Rites and ceremonies Peranakan (Asian people) Ceremonial objects Dragons Incense burners and containers\n\n  subject_terms_3: Religious life and practices\n\n  sgcool_label_text: This is a heavy wooden incense stick holder with a dragon carved wrapped around the body of it. The dragon is gilded and the holder is also decorated with a Chinese key fret pattern band running around it.\\r\\n\\r\\nThis item is donated by the family of prominent Peranakan\n Ong Sam Leong (b. 1857\n Singapore – d. 7 February 1918\n Singapore). It comes from his ancestral home of Bukit Rose\n formerly at 259 Bukit Timah Road. Ong was a well-known successful businessman who made is money in the mining of phosphate on Christmas island\n which was historically a territory of colonial Singapore.\n",
-  "createdDate": "20201127000609",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -29,7 +29,7 @@
     "subject_terms_3": "Religious life and practices",
     "sgcool_label_text": "This is a heavy wooden incense stick holder with a dragon carved wrapped around the body of it. The dragon is gilded and the holder is also decorated with a Chinese key fret pattern band running around it.\r\n\r\nThis item is donated by the family of prominent Peranakan, Ong Sam Leong (b. 1857, Singapore – d. 7 February 1918, Singapore). It comes from his ancestral home of Bukit Rose, formerly at 259 Bukit Timah Road. Ong was a well-known successful businessman who made is money in the mining of phosphate on Christmas island, which was historically a territory of colonial Singapore."
   },
-  "nlpDate": "20201127000609",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

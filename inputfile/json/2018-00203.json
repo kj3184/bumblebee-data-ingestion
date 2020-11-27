@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2018-00203\n\n  Image: \n\n  object_work_type: photographs black-and-white photographs\n\n  title_text: Social and Cultural Sub-committee of the Peranakan Association\n\n  preference: main\n\n  title_language: \n\n  creator_2: David Studio Singapore\n\n  creator_1: Not indicated\n\n  creator_role: photography studios (organizations)\n\n  creation_date: 1973 - 1974\n\n  creation_place_original_location: Singapore (nation)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process) photographic processes\n\n  object_colour: grey monochrome\n\n  physical_appearance: \\The image shows a black-and-white photograph. It is rectangular and it features a group of people. The ones in the front are sitting down while the others are standing behind. All of them are facing the direction in which the photograph was captured. \\\\Social \\u0026 Cultural Sub-Committee of the Peranakan Association\n\n  subject_terms_1: 1973 - 1974\\\\. \\\\David Studio Singapore\\\\ is stated at the bottom right hand side in red. The names of the people in the photograph are stated at the bottom. All of the men are wearing suits and ties. There is only one lady in the picture studio portraits associations members\n\n  subject_terms_2: sitting at the front row at the centre of the photograph.\\ Peranakan (Asian people) Lee\n Kip Lin Portraits\n Group Peranakan Association\n Singapore Black-and-white photography\n\n  subject_terms_3: Lee\n Kip Lin Peranakan Association\n Singapore group portraits\n\n  subject_terms_4: Portrait photography\n\n  context_1: Portrait photography\n",
-  "createdDate": "20201127000602",
+  "createdDate": "20201127205924",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -33,7 +33,7 @@
     "subject_terms_4": "Portrait photography",
     "context_1": "Portrait photography"
   },
-  "nlpDate": "20201127000602",
+  "nlpDate": "20201127205924",
   "connectorId": 0,
   "tags": {}
 }

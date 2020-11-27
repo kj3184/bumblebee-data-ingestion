@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2018-00198\n\n  Image: \n\n  object_work_type: identity cards\n\n  title_text: Identity certificate of Lee Tong Wee\n\n  preference: main\n\n  title_language: \n\n  creator_2: Not indicated\n\n  creator_1: Not indicated\n\n  creation_date: 1942\n\n  creation_place_original_location: Singapore (nation)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process)\n\n  object_colour: multicoloured\n\n  physical_appearance: \\The image shows a rectangular card. A passport sized photograph of a Chinese man is displayed at the bottom right hand side of the card. There are Chinese characters all over and the numeral \\\\5416\\\\ is stated at the bottom left hand side. There are red stamps at the bottom and the left hand side of the card as well.\\\n\n  subject_terms_1: identification photographs\n\n  subject_terms_2: Identification cards Identification photographs\n\n  sgcool_label_text: This Singapore identity certificate issued in 1942 in Chinese includes a passport photograph of Lee Tong Wee.\n",
-  "createdDate": "20201127000602",
+  "createdDate": "20201127205924",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -30,7 +30,7 @@
     "subject_terms_2": "Identification cards Identification photographs",
     "sgcool_label_text": "This Singapore identity certificate issued in 1942 in Chinese includes a passport photograph of Lee Tong Wee."
   },
-  "nlpDate": "20201127000602",
+  "nlpDate": "20201127205924",
   "connectorId": 0,
   "tags": {}
 }

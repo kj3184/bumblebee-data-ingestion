@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2014-00912\n\n  Image: \n\n  object_work_type: brochures\n\n  title_text: Pens and Pixels by Singpaore Illustrators\n as presented by DesignSingapore Council Brochures for the Design Council (6)\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: DesignSingapore Council\n\n  creator_1: DesignSingapore Council\n\n  creator_role: creators\n\n  creation_date: Not indicated\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process)\n\n  object_colour: multicoloured\n\n  physical_appearance: \\The image shows a set of six rectangular brochures. Four of the six images contain the programme\\u0027s name\n \\\\Pens \\u0026 Pixels by Singapore Illustrators\n\n  subject_terms_1: amateur artists flower (motif) presented by SingaporeDesign Council. \\\\Designed for Intellectual Property\\\\ is stated on the brochure at the extreme lower right hand side. The name and logo birthdays intellectual property\n\n  subject_terms_2: Motifs \\\\DesignSingapore\\\\ Exhibitions Birthdays Amateur arts Singapore Intellectual property Illustrators\n\n  subject_terms_3: Illustrators can be seen at the lower right hand corner of the red and white brochure. Beside this brochure to its left and above it to the right\n\n  subject_terms_4: the numerous names of the illustrators are stated on those brochures.     \\\n\n  context_1: illustrators\n\n  context_2: Brochures\n\n  context_3: Art exhibitions\n\n  context_5: Pens and Pixels by Singpaore Illustrators\n\n  context_6: exhibitions (events)\n\n  context_7: 2005\n\n  context_8: 2005\n\n  context_9: 2005\n\n  context_10: Not indicated\n\n  context_11: DesignSingapore Council\n\n  context_12: creators\n",
-  "createdDate": "20201127000612",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -43,7 +43,7 @@
     "context_11": "DesignSingapore Council",
     "context_12": "creators"
   },
-  "nlpDate": "20201127000612",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

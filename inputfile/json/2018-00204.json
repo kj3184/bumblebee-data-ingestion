@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2018-00204\n\n  Image: \n\n  object_work_type: photographs chromogenic colour prints\n\n  title_text: Four photographs of the Peranakan Association committee members\n\n  preference: main\n\n  title_language: \n\n  creator_2: Not indicated\n\n  creator_1: Not indicated\n\n  creation_date: 2000\n\n  creation_place_original_location: Singapore (nation)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process) photographic processes\n\n  object_colour: multicoloured\n\n  physical_appearance: The image shows four colour photographs. All of the photogrpahs feature groups of people. The ones in the front are sitting down while the ones at the back are standing up. The ladies in the photographs are wearing their ethnic Peranakan costumes\n while the men are wearing suits and ties. All of them look towards the directions in which the photographs are captured.\n\n  subject_terms_1: group portraits associations members\n\n  subject_terms_2: Colour photography Peranakan (Asian people) Portraits\n Group Portrait photography Peranakan Association\n Singapore\n\n  subject_terms_3: Portrait photography Peranakan Association\n Singapore\n\n  sgcool_label_text: These four Chromogenic photographs on Fuji paper show the committee members of the Peranakan Association (2000).\n",
-  "createdDate": "20201127000602",
+  "createdDate": "20201127205924",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -31,7 +31,7 @@
     "subject_terms_3": "Portrait photography Peranakan Association, Singapore",
     "sgcool_label_text": "These four Chromogenic photographs on Fuji paper show the committee members of the Peranakan Association (2000)."
   },
-  "nlpDate": "20201127000602",
+  "nlpDate": "20201127205924",
   "connectorId": 0,
   "tags": {}
 }

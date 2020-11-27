@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00531\n\n  Image: \n\n  object_work_type: application forms\n\n  title_text: Application form for Singapore citizenship registration Singapore citizenship registration\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: Registrar of Citizens\n Singapore\n\n  creator_1: Not indicated\n\n  creator_role: creators\n\n  creation_date: 1957\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: printing paper\n\n  techniques_name: printing (process)\n\n  object_colour: grey (colour)\n\n  physical_appearance: \\The image shows the front cover of an application form. All the typewritten words are in black. \\\\Singapore Citizenship Ordinance 1957\\\\\n\n  subject_terms_1: The Singapore Citizenship (Initial) Registration Rules coat of arms ordinances\n\n  subject_terms_2: Devices (Heraldry) 1957 Citizenship\n\n  subject_terms_3: Rule 5 (2)\\\\ is stated at the top. \\\\Application By A Person Who Is A Subject Or Citizen Of A Foreign Country To Be Registered As A Citizen of Singapore\\\\ is stated above the coat of arms. The coat of arms consists of a lion represented on two feet and holding a banner upright\n\n  subject_terms_4: with another lion on all fours atop a battlement. \\\n\n  context_1: citizenship\n\n  context_2: Legal documents\n\n  context_3: Demographics\n",
-  "createdDate": "20201127000610",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -35,7 +35,7 @@
     "context_2": "Legal documents",
     "context_3": "Demographics"
   },
-  "nlpDate": "20201127000610",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

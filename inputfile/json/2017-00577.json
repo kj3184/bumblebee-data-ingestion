@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00577\n\n  Image: \n\n  object_work_type: kebayas\n\n  title_text: Kebaya\n\n  preference: main\n\n  title_language: \n\n  creation_date: 1940s\n\n  creation_place_original_location: Java (Indonesia)\n\n  styles_periods_indexing_terms: Peranakan\n\n  inscriptions: \n\n  inscription_language: \n\n  materials_name: cotton (textile)\n\n  techniques_name: embroidering machine sewing (technique)\n\n  object_colour: white (colour)\n\n  physical_appearance: This is a white kebaya voile with machine embroidered flower designs along its hem and edges. It has a tapered end\n and is a piece that is worn in a loose\n open jacket fashion.\n\n  subject_terms_1: womenswear flower (motif) Sino-Japanese War\n 1937-1945 foliage (motif) folk costume\n\n  subject_terms_2: Foliation (Architecture and design) Ethnic costume Straits Settlements Peranakan embroidery Sino-Japanese War\n 1937-1945 Floral decorations\n\n  subject_terms_3: 1942-1945 Japanese occupation Textile art and design Peranakan costumes\n\n  sgcool_label_text: This white kebaya has a faint white pattern of flowers and foliage on the cloth\n and a white machine-made embroidered flower motif around its borders. The kebaya is a loose open jacket usually worn by Peranakan women of the Straits Settlements\n Indonesia and Indo-European women of the late 19th to 20th century. It has embroidered edges that imitate the look of lace\n which became popular during the mid-twentieth century and replaced lace as the decoration of choice along the border of the blouses. Its tapered ends was also popular during this time period. This kebaya belonged to a Chinese woman who was living in Java during the Japanese Occupation. She took on Peranakan dress and identity to adopt as low a profile  as possible in order not to attract attention\n",
-  "createdDate": "20201127000604",
+  "createdDate": "20201127205926",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -29,7 +29,7 @@
     "subject_terms_3": "1942-1945 Japanese occupation Textile art and design Peranakan costumes",
     "sgcool_label_text": "This white kebaya has a faint white pattern of flowers and foliage on the cloth, and a white machine-made embroidered flower motif around its borders. The kebaya is a loose open jacket usually worn by Peranakan women of the Straits Settlements, Indonesia and Indo-European women of the late 19th to 20th century. It has embroidered edges that imitate the look of lace, which became popular during the mid-twentieth century and replaced lace as the decoration of choice along the border of the blouses. Its tapered ends was also popular during this time period. This kebaya belonged to a Chinese woman who was living in Java during the Japanese Occupation. She took on Peranakan dress and identity to adopt as low a profile  as possible in order not to attract attention"
   },
-  "nlpDate": "20201127000604",
+  "nlpDate": "20201127205926",
   "connectorId": 0,
   "tags": {}
 }

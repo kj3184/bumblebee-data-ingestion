@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00554\n\n  Image: \n\n  object_work_type: manuals (instructional materials)\n\n  title_text: Manual for the Rollei XF35 camera\n\n  preference: main\n\n  title_language: \n\n  creator_2: Rollei\n\n  creator_1: Rollei Group of Companies in Singapore\n\n  creator_role: manufacturers\n\n  creation_date: 1970s\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: printing paper\n\n  techniques_name: colour printing\n\n  object_colour: black-and-white (colours)\n\n  physical_appearance: \\The image shows the front cover of an instructional manual. \\\\Rollei XF 35\\\\ is stated at the top of the manual. \\\\In practial use\\\\ is stated in English below\n\n  subject_terms_1: together with five other translations. The image of a camera with \\\\Rollei XF 35\\\\ stated to its left is shown as the image on the instructional manual. \\\n\n  subject_terms_2: rangefinder cameras Rollei camera\n\n  subject_terms_3: Handbooks and manuals\n",
-  "createdDate": "20201127000610",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -31,7 +31,7 @@
     "subject_terms_2": "rangefinder cameras Rollei camera",
     "subject_terms_3": "Handbooks and manuals"
   },
-  "nlpDate": "20201127000610",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

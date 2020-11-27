@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2018-00144\n\n  Image: \n\n  object_work_type: photographs black-and-white photographs\n\n  title_text: Photograph of four Peranakan women seated at foot of tree\n\n  preference: main\n\n  title_language: \n\n  creator_2: Not indicated\n\n  creator_1: Not indicated\n\n  creation_date: 1870s-1890s\n\n  creation_place_original_location: Straits Settlement (former territory/colony/dependent state)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process) photographic processes\n\n  object_colour: grey monochrome\n\n  physical_appearance: The image shows a black-and-white photograph. It is rectangular and it features four women. All of them are sitting down. Some of them are looking at one another while others are looking towards the direction in which the photograph was captured. A large tree can be seen in the background. \\u0027Straits born chinawomen\\u0027 is stated at the bottom.\n\n  subject_terms_1: women (female humans) Peranakan group portraits folk costume\n\n  subject_terms_2: Ethnic costume Peranakan (Asian people) Portraits\n Group Portrait photography Black-and-white photography Women\n\n  subject_terms_3: Portrait photography Peranakan costumes Women\n\n  sgcool_label_text: This photograph shows four Peranakan women in baju panjang and batik sarongs seated at the foot of a tree. The caption ‘Straits born chinawomen’ is printed beneath the photograph.\n",
-  "createdDate": "20201127000602",
+  "createdDate": "20201127205925",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -31,7 +31,7 @@
     "subject_terms_3": "Portrait photography Peranakan costumes Women",
     "sgcool_label_text": "This photograph shows four Peranakan women in baju panjang and batik sarongs seated at the foot of a tree. The caption ‘Straits born chinawomen’ is printed beneath the photograph."
   },
-  "nlpDate": "20201127000602",
+  "nlpDate": "20201127205925",
   "connectorId": 0,
   "tags": {}
 }

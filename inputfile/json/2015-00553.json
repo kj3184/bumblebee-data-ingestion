@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2015-00553\n\n  Image: \n\n  object_work_type: booklets\n\n  title_text: Kuala Lumpur Tamilar Thirunaal\n\n  preference: main\n\n  title_language: \n\n  creator_2: Unknown\n\n  creation_date: 1978\n\n  creation_place_original_location: Singapore\n\n  styles_periods_indexing_terms: Not indicated\n\n  inscriptions: \n\n  inscription_language: \n\n  scale_type: Not indicated\n\n  shape: rectangular\n\n  materials_name: printing paper\n\n  techniques_name: printing (process)\n\n  object_colour: multicoloured\n\n  physical_appearance: \\The image shows a booklet. It has a red and white background. There are three lines of Tamil scripts. \\\\Tamils Festival 1979\n\n  subject_terms_1: 1-4-1979\\\\ is stated at the upper right hand side. The images displayed at the lower right and left hand side of the booklet depict a crowd of onlookers.\\ festivals\n\n  subject_terms_2: Hinduism Kuala Lumpur (Malaysia) Ethnic festivals\n\n  subject_terms_3: Pamphlets Hinduism Religious festivals\n\n  subject_terms_4: Ethnic festivals\n",
-  "createdDate": "20201127000612",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_3": "Pamphlets Hinduism Religious festivals",
     "subject_terms_4": "Ethnic festivals"
   },
-  "nlpDate": "20201127000612",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00098\n\n  Image: \n\n  object_work_type: black-and-white photographs\n\n  title_text: United Engineers Staff ceremony A Photograph of United Engineers Staff ceremony\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: Tong Ah Studio Singapore\n\n  creator_role: photography studios (organizations)\n\n  creation_date: 1950s\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process) photographic processes\n\n  object_colour: grey monochrome\n\n  physical_appearance: \\The image shows a photograph that is in black-and-white. There is an inner and outer border. Both of these borders are demarcated by a yellow band. It is rectangular and it features eight males. Four of them are standing up behind the other four who are seated. Six out of the eight men are wearing ties and four of them are smoking either cigarettes or cigars. They are all posing and looking in the direction where the photograph was captured. The four men sitting in front are all of white descent\n whereas the four other men standing up are of Asian descent. At the bottom left hand corner of the image\n the words \\\\Tong Ah Studio Singapore\\\\ and its translation in Chinese characters are present\n\n  subject_terms_1: enclosed in a parallelogram border. Long curtains form the backdrop of the photograph\\ studio portraits engineers group portraits\n\n  subject_terms_2: personnel Engineers Employees Portraits\n Group Portrait photography\n\n  subject_terms_3: Black-and-white photography\n\n  subject_terms_4: Portrait photography\n",
-  "createdDate": "20201127000612",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -31,7 +31,7 @@
     "subject_terms_3": "Black-and-white photography",
     "subject_terms_4": "Portrait photography"
   },
-  "nlpDate": "20201127000612",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

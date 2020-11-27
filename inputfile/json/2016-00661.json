@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00661\n\n  Image: \n\n  object_work_type: squeegees\n\n  title_text: A set of film squeegees Film squeegees\n\n  preference: main alternate\n\n  title_language: \n\n  creation_date: 1980s-1990s\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: plastic (organic material)\n\n  techniques_name: forming (physical activity)\n\n  object_colour: multicoloured\n\n  physical_appearance: The image shows a set of four squeegees. They come in three different colours\n namely blue\n white\n and green. The blue squeegee on the extreme left of the image has the word \\u0027stop\\u0027  in bold letters stated near its top. The white squeegee towards the left of the centre of the image has the word \\u0027water\\u0027 in bold letters stated near its top. The blue squeegee towards the right of the centre of the image has the word \\u0027fix\\u0027 in bold letters stated near its top. The green squeegee on the extreme right of the image has the word \\u0027selenium\\u0027 stated near its top.\n\n  subject_terms_1: implements (object genre) photographic processing equipment tools\n\n  subject_terms_2: Tools Photography Equipment and supplies\n\n  subject_terms_3: Photography\n\n  context_20: The set of equipment was used by The Picture Farm Pte Ltd\n\n  context_21: 45 Jalan Pemimpin\n #09-00 Foo Wah Industrial Building\n Thomson\n Singapore\n\n  context_22: 1970 - present\n\n  context_23: 1970\n\n  context_24: present\n\n  sgcool_label_text: Squeegees are used in handling photographic films during film processing. In this case\n the squeegees were used during the different steps of the process. These are part of the darkroom photography equipment that was previously used by The Picture Farm\n which was set up by the renowned photographer Willie Tang.\n",
-  "createdDate": "20201127000610",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -34,7 +34,7 @@
     "context_24": "present",
     "sgcool_label_text": "Squeegees are used in handling photographic films during film processing. In this case, the squeegees were used during the different steps of the process. These are part of the darkroom photography equipment that was previously used by The Picture Farm, which was set up by the renowned photographer Willie Tang."
   },
-  "nlpDate": "20201127000610",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

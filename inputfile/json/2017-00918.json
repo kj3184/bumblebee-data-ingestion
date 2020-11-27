@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00918\n\n  Image: \n\n  object_work_type: black-and-white photographs studio portraits\n\n  title_text: Oei Tiong Ham Photograph of Oei Tiong Ham\n\n  preference: main alternate\n\n  title_language: \n\n  creation_date: 1920\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process) photography (process)\n\n  object_colour: black-and-white (colors)\n\n  physical_appearance: This is a black-and-white photograph of a man in a suit. He is seated on a long chair\n with a large paned window behind him. His body is tilted slightly towards the left\n with only his gaze towards the front. His hands are placed together in front of him\n with the right leg slightly forward from his left. There are no inscriptions seen on the photograph.\n\n  subject_terms_1: businessmen photographs Peranakan\n\n  subject_terms_2: Peranakan (Asian people) Photographs Businessmen Oei\n Tiong Ham\n 1866-1924\n\n  subject_terms_3: Portrait photography Oei\n Tiong Ham\n\n  sgcool_label_text: This is a photograph of Oei Tiong Ham\n a wealthy businessman and Majoor (major) of the Chinese community in Semarang.  Seated on a chair\n he is dressed in a suit\n and was reportedly the first Chinese man in Semarang to adopt Western clothing\n given its political significance. Oei Tiong Ham made his fortune in sugar production and opium trading and was known as the “Sugar King” of Indonesia\n He donated land  for the construction of the Tao Nan School building (now  Peranakan Museum) in 1910. The rise in the number of photography studios in the 1850s led to the circulation of nineteenth-century European-styled portraits in the Straits Settlements and Dutch East Indies.\n",
-  "createdDate": "20201127000604",
+  "createdDate": "20201127205925",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -29,7 +29,7 @@
     "subject_terms_3": "Portrait photography Oei, Tiong Ham",
     "sgcool_label_text": "This is a photograph of Oei Tiong Ham, a wealthy businessman and Majoor (major) of the Chinese community in Semarang.  Seated on a chair, he is dressed in a suit, and was reportedly the first Chinese man in Semarang to adopt Western clothing, given its political significance. Oei Tiong Ham made his fortune in sugar production and opium trading and was known as the “Sugar King” of Indonesia, He donated land  for the construction of the Tao Nan School building (now  Peranakan Museum) in 1910. The rise in the number of photography studios in the 1850s led to the circulation of nineteenth-century European-styled portraits in the Straits Settlements and Dutch East Indies."
   },
-  "nlpDate": "20201127000604",
+  "nlpDate": "20201127205925",
   "connectorId": 0,
   "tags": {}
 }

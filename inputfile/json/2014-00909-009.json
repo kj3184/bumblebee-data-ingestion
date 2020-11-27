@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2014-00909-009\n\n  Image: \n\n  object_work_type: brochures\n\n  title_text: Flying Circus Project 2007: Travelogue by TheatreWorks (2007) Brochures and cards for performances by Theatreworks (20) - Flying circus project (2007)\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: TheatreWorks (Singapore) Ong Keng Sen\n\n  creator_1: Ong\n Keng Sen TheatreWorks (Firm : Singapore)\n\n  creator_role: performance artists theatre directors\n\n  creation_date: 2007\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process)\n\n  object_colour: multicoloured\n\n  physical_appearance: \\The image shows a rectangular brochure. The image of a lady wearing makeup is displayed as the background of the brochure. She is looking upwards and opening her mouth. \\\\TheatreWorks Present\\\\ is stated at the upper left hand corner of the brochure in a diagonal alignment. \\\\Flying Circus Project 2007: Travelogue\\\\\n\n  subject_terms_1: \\\\Conceived and directed by Ong Keng Sen\\\\\n\n  subject_terms_2: and \\\\100 Perfect hours in the casual company of international artists\\\\ are stated from the lower left hand corner to the upper right hand corner of the brochure in a diagonal alignment. \\\\31 Oct to 4 Nov 2007 in Singapore\\\\ and \\\\5 to 9 Nov 2007 in Ho Chi Minh City\\\\ are stated at the bottom right hand corner of the brochure. \\ Performances\n\n  subject_terms_3: performances (creative events)\n\n  subject_terms_4: Brochures\n\n  context_1: Arts events\n\n  context_3: Flying Circus Project 2007: Travelogue 5 Nov to 9 Nov 2007\n\n  context_4: 20071105 performances (creative events)\n\n  context_5: 20071109 31 Oct to 4 Nov 2007\n\n  context_6: Ho Chi Minh City\n Vietnam 20071031\n\n  context_7: 20071104\n\n  context_8: Singapore\n\n  context_9: TheatreWorks\n\n  context_10: creators\n",
-  "createdDate": "20201127000613",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -41,7 +41,7 @@
     "context_9": "TheatreWorks",
     "context_10": "creators"
   },
-  "nlpDate": "20201127000613",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

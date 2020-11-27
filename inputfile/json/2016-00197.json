@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00197\n\n  Image: \n\n  object_work_type: black-and-white photographs\n\n  title_text: Chettiar man Framed photograph of a Chettiar man\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: Tien Seng\n\n  creator_1: Not indicated\n\n  creator_role: photography studios (organizations)\n\n  creation_date: 1900 - 1999\n\n  creation_place_original_location: India Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process) photographic processes\n\n  object_colour: grey monochrome\n\n  physical_appearance: \\The image shows a photograph that is in black-and-white. There is an inner and outer border. Both of these borders are demarcated by a black band. The surrounding wooden frame is brown in colour. A man dressed in his ethnic costume is featured in the photograph. He is holding an umbrella pointed to the ground with his right hand. He is barefooted and there is a dog to his right. The man is looking towards the direction in which this photograph was taken. Lines of sacred ash have been applied on his arms\n chest\n and forhead. There is a flower pot on either side of him. The background of the photograph suggests that this was taken in the interior of a building. \\\\Tien Seng\\\\ and \\\\Photographer Singapore\\\\ are stated at the bottom of the photograph\\u0027s border. Four Chinese characters are stated in between \\\\Tien Seng\\\\ and \\\\Photographer Singapore\\\\.  \\\n\n  subject_terms_1: businessmen Hinduism studio portraits folk costume\n\n  subject_terms_2: Ethnic costume Portrait photography Businessmen Nattukottai Chettiars Black-and-white photography Bhasma\n\n  subject_terms_3: Hinduism Businesspeople Portrait photography Indian costumes\n\n  sgcool_label_text: The region of Chettinad in the Southern Indian state of Tamil Nadu is the region of origin of the Chettiar community. The Nagarattar Chettiars are among the early Indian migrants to the Southeast Asian region with business establishments in Vietnam\n Myanmar\n Malaysia and Singapore. Their migration and establishment of money lending business in Singapore-Malaya in particular can be traced back to the early 18th century onwards. This is a group of two photographs of traditional Chettiars from the family of Meyyappan Chettiar.\n",
-  "createdDate": "20201127000612",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_3": "Hinduism Businesspeople Portrait photography Indian costumes",
     "sgcool_label_text": "The region of Chettinad in the Southern Indian state of Tamil Nadu is the region of origin of the Chettiar community. The Nagarattar Chettiars are among the early Indian migrants to the Southeast Asian region with business establishments in Vietnam, Myanmar, Malaysia and Singapore. Their migration and establishment of money lending business in Singapore-Malaya in particular can be traced back to the early 18th century onwards. This is a group of two photographs of traditional Chettiars from the family of Meyyappan Chettiar."
   },
-  "nlpDate": "20201127000612",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

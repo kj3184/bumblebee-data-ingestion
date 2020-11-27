@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00615\n\n  Image: \n\n  object_work_type: saris (garments)\n\n  title_text: Wedding sari and blouse belonging to Mrs Marimuthu Ammal\n purchased at the P Govindasamy Pillai store\n\n  preference: main\n\n  title_language: \n\n  creation_date: Aug-51\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: silk (textile)\n\n  techniques_name: sewing (needleworking technique)\n\n  object_colour: multicoloured\n\n  physical_appearance: The image shows a set consisting of a blouse and a sari. The blouse is white in colour and it has patterns all over its surface. It is also short sleeved. The sari is maroon in colour\n with gold bands at its top and bottom. There are lines of floral patterns running vertically down the sari\n as well as horizontally on the gold bands. There is a tear at the bottom right of the sari\n on the gold band.\n\n  subject_terms_1: womenswear floral patterns blouses (main garments) wedding dresses folk costume allover patterns\n\n  subject_terms_2: Blouses Motifs Women\\u0027s clothing Saris Ethnic costume Wedding costume\n\n  subject_terms_3: Indian costumes\n\n  sgcool_label_text: Mr. S Gopalakrishnan (b. in 1920 in Tanjavur) was a prominent violinist\n and Carnatic singer. He arrived in Singapore in 1939 and actively participated in the Indian classical music scene here. Mr Gopalakrishnan performed alongside veterans of classical performers such as Pandit M Ramalingam and MV Gurusamy at temple and other music festivals. He also taught violin lessons at the Singapore Malayalee Association from the 1970s to 2000s. He was a member of the Tamils Reform Association and performed his wedding according to the principles of the Self-Respect Movement. He was also employed as a compositor at the Far East Air Force from 1954 to 1970.\n",
-  "createdDate": "20201127000610",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -29,7 +29,7 @@
     "subject_terms_3": "Indian costumes",
     "sgcool_label_text": "Mr. S Gopalakrishnan (b. in 1920 in Tanjavur) was a prominent violinist, and Carnatic singer. He arrived in Singapore in 1939 and actively participated in the Indian classical music scene here. Mr Gopalakrishnan performed alongside veterans of classical performers such as Pandit M Ramalingam and MV Gurusamy at temple and other music festivals. He also taught violin lessons at the Singapore Malayalee Association from the 1970s to 2000s. He was a member of the Tamils Reform Association and performed his wedding according to the principles of the Self-Respect Movement. He was also employed as a compositor at the Far East Air Force from 1954 to 1970."
   },
-  "nlpDate": "20201127000610",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

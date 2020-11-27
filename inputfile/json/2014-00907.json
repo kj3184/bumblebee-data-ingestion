@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2014-00907\n\n  Image: \n\n  object_work_type: brochures\n\n  title_text: Presentense\n an interactive installation Brochure for Presentense\n an interactive installation\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: Ffurious\n\n  creator_1: Not indicated\n\n  creator_role: creators\n\n  creation_date: 2007\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process)\n\n  object_colour: multicoloured\n\n  physical_appearance: \\The image shows a rectangular brochure. \\\\Presentense An Interactive Installation by Ffurious\\\\ is stated at the centre of the brochure. The address\n\n  subject_terms_1: \\\\The Substation Gallery 45 Armenian Street interactive art\n\n  subject_terms_2: Interactive art Singapore 179936\\\\ Installations (Art)\n\n  subject_terms_3: is stated at the bottom of the brochure. The background of the brochure features colourful cartoonish images of buildings Installation art\n\n  subject_terms_4: animals\n\n  context_1: trees\n\n  context_2: and human-like figures.\\\n\n  context_3: installations (visual works)\n\n  context_4: Brochures\n\n  context_5: Arts events\n\n  context_7: Presentense\n\n  context_8: installations (exhibitions)\n\n  context_9: 27th Nov - 02nd Dec 2007\n\n  context_10: 20071127\n\n  context_11: 20071202\n\n  context_12: The Substation Gallery\n\n  context_13: Singapore Design Festival 2007\n\n  context_14: partners\n",
-  "createdDate": "20201127000613",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -45,7 +45,7 @@
     "context_13": "Singapore Design Festival 2007",
     "context_14": "partners"
   },
-  "nlpDate": "20201127000613",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

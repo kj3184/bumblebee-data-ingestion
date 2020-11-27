@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00072\n\n  Image: \n\n  object_work_type: lexicons\n\n  title_text: A Sanskrit Lexicon Sanskrit Lexicon Amarakosa\n\n  preference: main alternate\n\n  title_language: English\n\n  creation_date: Early 19th century\n\n  creation_place_original_location: Sri Lanka\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: palm leaf (material)\n\n  techniques_name: inscribing\n\n  object_colour: brown (color)\n\n  physical_appearance: This is a Sanskrit Lexicon. It is compiled on inscribed palm leaf pieces. Each piece is rectangular in shape\n and has two holes in the center. There is a string by the compiled manuscript.\n\n  subject_terms_1: inscriptions Sanskrit (language)\n\n  subject_terms_2: Sanskrit language Palm-leaf inscriptions Dictionaries\n\n  subject_terms_3: \n\n  subject_terms_4: \n\n  sgcool_label_text: The Amarakosa (“immortal treasure”) is a lexicon of the Sanskrit language\n authored sometime between the 5th and 8th centuries\n and has had over 40 commentaries written to it. This palm-leaf manuscript of the Amarakosa originates from Sri Lanka\n dating to the early 19th century\n indicating the spread of the usage and study of Sanskrit\n and its continued prevalence even in the 19th century.\n",
-  "createdDate": "20201127000609",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -30,7 +30,7 @@
     "subject_terms_4": "",
     "sgcool_label_text": "The Amarakosa (“immortal treasure”) is a lexicon of the Sanskrit language, authored sometime between the 5th and 8th centuries, and has had over 40 commentaries written to it. This palm-leaf manuscript of the Amarakosa originates from Sri Lanka, dating to the early 19th century, indicating the spread of the usage and study of Sanskrit, and its continued prevalence even in the 19th century."
   },
-  "nlpDate": "20201127000609",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

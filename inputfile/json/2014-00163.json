@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2014-00163\n\n  Image: \n\n  object_work_type: holders (containers)\n\n  title_text: Cream Container\n\n  preference: main\n\n  title_language: \n\n  creator_2: Not indicated\n\n  creation_date: Not indicated\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  materials_name: ceramic (material)\n\n  techniques_name: forming (physical activity)\n\n  object_colour: grey (colour)\n\n  physical_appearance: \\The image shows a cream container. It has a handle and an open top that is shaped like a lamp. There is a green band running around the container. The initials \\\\RH\\\\ are displayed on the surface in green.\\\n\n  subject_terms_1: hollowware tableware\n\n  subject_terms_2: Tableware Containers Raffles Hotel\n\n  sgcool_label_text: Not indicated\n",
-  "createdDate": "20201127000614",
+  "createdDate": "20201127205930",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -28,7 +28,7 @@
     "subject_terms_2": "Tableware Containers Raffles Hotel",
     "sgcool_label_text": "Not indicated"
   },
-  "nlpDate": "20201127000614",
+  "nlpDate": "20201127205930",
   "connectorId": 0,
   "tags": {}
 }

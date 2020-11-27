@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00538\n\n  Image: \n\n  object_work_type: hardcover books\n\n  title_text: “Names of Items Commonly Found in Hawker Centres\n Markets\n Restaurants and Zhongyuan Jie Auctions” Publication “Names of Items Commonly Found in Hawker Centres\n Markets\n Restaurants and Zhongyuan Jie Auctions”\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: Ministry of Culture\n\n  creator_1: Ministry of Culture (TTE)\n\n  creator_role: publishers\n\n  creation_date: 1986\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: printing paper\n\n  techniques_name: book cloth (textile material) bookbinding (process) colour printing\n\n  object_colour: multicoloured\n\n  edition_description: Not indicated\n\n  physical_appearance: The image shows the front cover of a book. The book is hardcover and its front cover and spine are yellow in colour. Chinese characters are present above the English title. The English title “Names of Items Commonly Found in Hawker Centres\n Markets\n Restaurants and Zhongyuan Jie Auctions” is stated near the top. An assortment of food items is displayed on the cover\\u0027s image. Both food and meat items are shown. Food items like satay\n chicken\n fish\n steamed buns\n etc.\n are displayed.\n\n  subject_terms_1: reference books translation (function) food\n\n  subject_terms_2: Local foods Reference books Translations Speak Mandarin Campaign\n Singapore\n\n  subject_terms_3: Speak Mandarin Campaign\n Singapore\n 1979- Ethnic foods\n\n  sgcool_label_text: Consisting of 697 items\n the publication was an introductory effort to provide the Mandarin equivalents for common food items which had been known primarily by their dialect names. \\r\\n\\r\\nThe publication was part of the Speak Mandarin Campaign launched on 7 September 1979 that sought to simplify the language environment\n improve communication among Chinese Singaporeans from the various dialect groups\n and create a Mandarin-speaking environment in support of the national bilingual education policy.\n",
-  "createdDate": "20201127000610",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -33,7 +33,7 @@
     "subject_terms_3": "Speak Mandarin Campaign, Singapore, 1979- Ethnic foods",
     "sgcool_label_text": "Consisting of 697 items, the publication was an introductory effort to provide the Mandarin equivalents for common food items which had been known primarily by their dialect names. \r\n\r\nThe publication was part of the Speak Mandarin Campaign launched on 7 September 1979 that sought to simplify the language environment, improve communication among Chinese Singaporeans from the various dialect groups, and create a Mandarin-speaking environment in support of the national bilingual education policy."
   },
-  "nlpDate": "20201127000610",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00116\n\n  Image: \n\n  object_work_type: spinning wheels\n\n  title_text: Sumbanese Spinning Wheel Spinning Wheel\n\n  preference: main alternate\n\n  title_language: \n\n  creation_date: c. 1900\n\n  creation_place_original_location: Sumba Island (Indonesia)\n\n  styles_periods_indexing_terms: Sumba\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: wood (plant material)\n\n  techniques_name: woodcarving\n\n  object_colour: brown (color)\n\n  physical_appearance: This is a spinning wheel carved from wood. There is a wheel on the left. In front of the wheel\n there is a carved figure with a prominent phallus facing forward. On the right\n there is a smaller carved figure facing left. The two figures and the wheel sits on a wooden plank. There are no inscriptions or decorative carvings on the spinning wheel.\n\n  subject_terms_1: symbolism (artistic concept) customs (social concepts) folk art (traditional art)\n\n  subject_terms_2: Spinning-wheel manners and customs Sumba (Indonesian people) folk art symbolism\n\n  subject_terms_3: \n\n  sgcool_label_text: This spinning wheel once belonged to a weaver named Tamu Rambu Yuliana from Rindi\n in eastern Sumba. It was used by women to spin cotton thread used to weave hinggi (a large mantle worn by men) and lau (a tube skirt worn by women) prior to their marriage. These would be given by her family to the prospective groom’s family during the marriage negotiations. The two figures are meant to represent the first couple who are the progenitors of all humans.\n",
-  "createdDate": "20201127000612",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -30,7 +30,7 @@
     "subject_terms_3": "",
     "sgcool_label_text": "This spinning wheel once belonged to a weaver named Tamu Rambu Yuliana from Rindi, in eastern Sumba. It was used by women to spin cotton thread used to weave hinggi (a large mantle worn by men) and lau (a tube skirt worn by women) prior to their marriage. These would be given by her family to the prospective groom’s family during the marriage negotiations. The two figures are meant to represent the first couple who are the progenitors of all humans."
   },
-  "nlpDate": "20201127000612",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

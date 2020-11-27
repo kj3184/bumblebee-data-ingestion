@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2018-00055\n\n  Image: \n\n  object_work_type: digital prints artists\\u0027 proofs colour slides\n\n  title_text: Tough Job\n\n  preference: main\n\n  title_language: \n\n  creator_2: Tan Lip Seng\n\n  creator_1: Tan\n Lip Seng\n 1942- Tan\n Lip Seng\n\n  creator_role: photographers\n\n  creation_date: 1968\n\n  creation_place_original_location: Singapore (nation)\n\n  styles_periods_indexing_terms: Not indicated\n\n  inscriptions: \n\n  inscription_language: \n\n  scale_type: Not indicated\n\n  shape: rectangular\n\n  materials_name: photographic paper metallic paper photographic film (photographic materials)\n\n  techniques_name: printing (process) montage (image-making technique) photographic processes\n\n  object_colour: multicoloured\n\n  edition_description: 1 of 3\n\n  physical_appearance: \\The image shows a digital print\n an artist\\u0027s proof\n and a slide. They are rectangular in shape. The background of the digital print and artist\\u0027s proof are purple in colour. The images depict a worker standing at the top of a wooden ramp. The worker is wearing a pink shirt and adorns a brown hat. Two pails are suspended from a shoulder yoke that is being carried by the worker.The background of the images depict the cloudless blue sky as well. The image at the bottom shows a slide. It is in colour. It is held in place by a frame. \\\\Tough Job\\\\ is stated at the top for the image at the bottom. \\\\Tan Lip Seng\n\n  subject_terms_1: proofs (prints by function) prints (visual works) A.R.P.S. EFIAP workers slides (photographs)\n\n  subject_terms_2: 96A Tiong Bahru Slides (photography) Proofs (Printing) Digitally printed materials Work\n\n  subject_terms_3: Singapore 3\\\\ is stated at the bottom for the image at the bottom.  \\\n\n  subject_terms_4: working\n\n  context_1: Employees\n\n  context_2: Photography\n",
-  "createdDate": "20201127000603",
+  "createdDate": "20201127205925",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -37,7 +37,7 @@
     "context_1": "Employees",
     "context_2": "Photography"
   },
-  "nlpDate": "20201127000603",
+  "nlpDate": "20201127205925",
   "connectorId": 0,
   "tags": {}
 }

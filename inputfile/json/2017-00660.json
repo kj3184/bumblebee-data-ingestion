@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00660\n\n  Image: \n\n  object_work_type: bags (costume accessories)\n\n  title_text: Bag Beaded bag\n\n  preference: main alternate\n\n  title_language: \n\n  creation_date: 20th century\n\n  creation_place_original_location: Gujarat (India)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: glass (material) textile materials\n\n  techniques_name: sewing (needleworking technique) embroidering\n\n  object_colour: multicolored\n\n  physical_appearance: This is a bag featuring decorative beadwork embroidery. It is made from multicoloured textile with an opening at the top. The center features a stylized beaded design of two birds perched on either side of a deity figure. The left side of the bag is slightly torn.\n\n  subject_terms_1: beadwork (visual works) depictions (visual works) deities birds (motifs) embroidery (visual works)\n\n  subject_terms_2: Motifs Embroidery Bags Gods\n\n  subject_terms_3: Decorative arts\n\n  subject_terms_4: \n",
-  "createdDate": "20201127000604",
+  "createdDate": "20201127205926",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -29,7 +29,7 @@
     "subject_terms_3": "Decorative arts",
     "subject_terms_4": ""
   },
-  "nlpDate": "20201127000604",
+  "nlpDate": "20201127205926",
   "connectorId": 0,
   "tags": {}
 }

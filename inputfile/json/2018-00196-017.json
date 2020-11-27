@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2018-00196-017\n\n  Image: \n\n  object_work_type: negatives (photographs)\n\n  title_text: Booklet of film negatives Booklet of film negatives: Negative of a people standing on a deck of a watercraft\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: Not indicated\n\n  creator_1: Not indicated\n\n  creation_date: 1950s\n\n  creation_place_original_location: Singapore (nation)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: Not indicated\n\n  techniques_name: Not indicated\n\n  object_colour: grey monochrome\n\n  physical_appearance: \n\n  subject_terms_1: watercraft\n\n  subject_terms_2: \n\n  subject_terms_3: Photography\n\n  sgcool_label_text: This booklet contains film negatives. \\r\\n\n",
-  "createdDate": "20201127000602",
+  "createdDate": "20201127205924",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -31,7 +31,7 @@
     "subject_terms_3": "Photography",
     "sgcool_label_text": "This booklet contains film negatives. \r\n"
   },
-  "nlpDate": "20201127000602",
+  "nlpDate": "20201127205924",
   "connectorId": 0,
   "tags": {}
 }

@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00565\n\n  Image: \n\n  object_work_type: instructional materials\n\n  title_text: Malay instructional booklet in Mandarin titled National Language Lessons\n Standard One ()\n published by the Institute of National Language and Culture National Language Lessons\n Standard One ()\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: Buyong Bin Adil Dewan Bahasa Dan Kebudayaan Kebangsaan (DBKK) / Institute of National Language and Culture\n\n  creator_1: Dewan Bahasa Dan Kebudayaan Kebangsaan (Institute of National Language and Culture) (TTE) Buyong bin Adil\n Haji\n\n  creator_role: publishers authors\n\n  creation_date: 1963\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: printing paper\n\n  techniques_name: colour printing\n\n  object_colour: multicoloured\n\n  physical_appearance: \\The image shows the front cover of an instructional booklet. It has a blue and white background. \\\\Pelajaran Bahasa Kebangsaan Darjah Satu\\\\ is stated at the top in bold. \\\\Dewan Bahasa Dan Kebudayaan Kebangsaan\\\\ is stated near the bottom. There are two lines of Chinese characters at the top and a single line at the bottom. The image of a red crest with the initials \\\\DB\\\\ and the word \\\\Singapura\\\\ is displayed at the bottom left hand side. \\\n\n  subject_terms_1: translation (function) governments (administrative bodies) booklets\n\n  subject_terms_2: Translating and interpreting Pamphlets Instructional and educational works Government Institutes\n\n  subject_terms_3: Malay languages and dialects Cultural development\n\n  sgcool_label_text: This instructional booklet teaches Chinese speakers the basics of the Malay language. It was published by the Dewan Bahasa Dan Kebudayaan Kebangsaan (DBKK)\n or Institute of National Language and Culture\n which was established in 1960. This was part of the government’s larger initiative to promote Malay as the national language\n as well as a Malayan culture. Besides publications\n the DBKK also organised a National Language week\n conferences for writers\n competitions\n exhibitions and cultural shows among other events to promote the national language.\n",
-  "createdDate": "20201127000610",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_3": "Malay languages and dialects Cultural development",
     "sgcool_label_text": "This instructional booklet teaches Chinese speakers the basics of the Malay language. It was published by the Dewan Bahasa Dan Kebudayaan Kebangsaan (DBKK), or Institute of National Language and Culture, which was established in 1960. This was part of the government’s larger initiative to promote Malay as the national language, as well as a Malayan culture. Besides publications, the DBKK also organised a National Language week, conferences for writers, competitions, exhibitions and cultural shows among other events to promote the national language."
   },
-  "nlpDate": "20201127000610",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

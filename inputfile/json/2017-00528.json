@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00528\n\n  Image: \n\n  object_work_type: portraits paintings (visual works)\n\n  title_text: Robert Fullerton Portrait of Robert Fullerton\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: George Chinnery\n\n  creator_1: Chinnery\n George\n 1774-1852\n\n  creator_role: painters (artists)\n\n  creation_date: Early 19th century\n\n  creation_place_original_location: Chennai (India)\n\n  inscriptions: \n\n  inscription_language: \n\n  scale_type: Not indicated\n\n  shape: rectangular\n\n  materials_name: canvas (textile material) oil paint (paint)\n\n  techniques_name: painting (image-making)\n\n  object_colour: multicolored\n\n  physical_appearance: This is a oil portrait painting of Robert Fullerton. It features a man from waist-up\n dressed in a brown coat with double-breasted buttons\n and a white turtleneck top underneath. He is gazing towards the right\n with his head tilted in the same direction. He is painted against a dark background. There is a signature and short description at the bottom-right of the painting.\n\n  subject_terms_1: governors\n\n  subject_terms_2: Painting Governors Portraits\n\n  subject_terms_3: Oil painting Fullerton\n Robert\n Sir\n\n  subject_terms_4: \n\n  sgcool_label_text: Robert Fullerton (1993-1831) was the governor of Penang from 1824 to 1826 and subsequently the first governor of the Straits Settlements upon its establishment in 1826\n seving in that capacity until 1830. This portrait was most likely painted in Fullerton\\u0027s younger days when he was an East India Company officer stationed in Madras. The painter of the portrait is almost certainly George Chinnery\n a London born artist who painted in Madras from 1802 to 1807 before heading to Calcutta and later the China coast.\n",
-  "createdDate": "20201127000605",
+  "createdDate": "20201127205926",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -34,7 +34,7 @@
     "subject_terms_4": "",
     "sgcool_label_text": "Robert Fullerton (1993-1831) was the governor of Penang from 1824 to 1826 and subsequently the first governor of the Straits Settlements upon its establishment in 1826, seving in that capacity until 1830. This portrait was most likely painted in Fullerton\u0027s younger days when he was an East India Company officer stationed in Madras. The painter of the portrait is almost certainly George Chinnery, a London born artist who painted in Madras from 1802 to 1807 before heading to Calcutta and later the China coast."
   },
-  "nlpDate": "20201127000605",
+  "nlpDate": "20201127205926",
   "connectorId": 0,
   "tags": {}
 }

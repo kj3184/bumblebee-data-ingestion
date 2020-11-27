@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2014-00499-001\n\n  Image: \n\n  object_work_type: weeklies (publications)\n\n  title_text: The Orient Illustrated Weekly (Vol. No. 24) The Orient Weekly\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: K. P. Thomas (?)\n\n  creator_1: Thomas\n K. P.\n\n  creator_role: editor\n\n  creation_date: 24/3/46\n\n  creation_place_original_location: India Singapore Malaya\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing processes\n\n  object_colour: multicoloured\n\n  physical_appearance: \\This is an image of a publication \\\\The Orient Illustrated Weekly\\\\. The cover depicts a black-and-white portrait of a military personnel with a garland over his uniform. His name is printed on the bottom right of the portrait. There are strips of brown colour on the top and bottom of the cover. The title of the publication is printed on the top while the price and other information at the bottom. The spine of the publication is worn out.\\\n\n  subject_terms_1: periodicals Indian (South Asian) nationalism\n\n  subject_terms_2: Periodicals Anti-imperialist movements Nationalism self-determination\n national Indian National Army\n\n  subject_terms_3: Indian National Army Monument Site Indian National Army (Singapore) periodicals\n\n  sgcool_label_text: \\Prior to the World War II period\n Indians in Singapore and Malaya retained strong political\n sentimental and economic ties with their home country. Anti-colonial thoughts and actions\n inspired by the \\\\call for freedom\\\\ in India\n",
-  "createdDate": "20201127000613",
+  "createdDate": "20201127205930",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_3": "Indian National Army Monument Site Indian National Army (Singapore) periodicals",
     "sgcool_label_text": "\"Prior to the World War II period, Indians in Singapore and Malaya retained strong political, sentimental and economic ties with their home country. Anti-colonial thoughts and actions, inspired by the \"\"call for freedom\"\" in India"
   },
-  "nlpDate": "20201127000613",
+  "nlpDate": "20201127205930",
   "connectorId": 0,
   "tags": {}
 }

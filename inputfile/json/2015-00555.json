@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2015-00555\n\n  Image: \n\n  object_work_type: cards (information artefacts)\n\n  title_text: Mourning Rally for Mr. G Sarangapani Irangal Pothukootam\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: Unknown\n\n  creation_date: 1965\n\n  creation_place_original_location: Singapore\n\n  styles_periods_indexing_terms: Not indicated\n\n  inscriptions: \n\n  inscription_language: \n\n  scale_type: Not indicated\n\n  shape: rectangular\n\n  materials_name: printing paper\n\n  techniques_name: printing (process)\n\n  object_colour: black-and-white (colours)\n\n  physical_appearance: \\The image shows a rectangular card. All the lines of Tamil scripts are typewritten. \\\\21-10-65\\\\ is stated as well. There is a line of Tamil script at the bottom\n\n  subject_terms_1: reformers mourning outside the black rectangular border.\\ founders (originators)\n\n  subject_terms_2: Grief Reformers Caran?kapa?n?i\n 1903-1974 rallies\n\n  subject_terms_3: Pioneers Demonstrations\n\n  subject_terms_4: Thamizhavel Govindasamy Sarangapany\n",
-  "createdDate": "20201127000612",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_3": "Pioneers Demonstrations",
     "subject_terms_4": "Thamizhavel Govindasamy Sarangapany"
   },
-  "nlpDate": "20201127000612",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

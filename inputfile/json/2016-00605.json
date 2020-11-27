@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00605\n\n  Image: \n\n  object_work_type: black-and-white photographs\n\n  title_text: S Gopalakrishnan teaching violin lessons to his students at the Singapore Malayalee Association at Race Course Road\n\n  preference: main\n\n  title_language: \n\n  creation_date: 1971\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process) photographic processes\n\n  object_colour: grey monochrome\n\n  physical_appearance: The image shows a rectangular photograph that is in black-and-white. The photograph features two males and four girls. They are all sitting down. All the girls and the younger male are holding violins. They are drawing a bow across the strings of their respective violins. The older male sits across the girls and beside the yonger male and watches them. A sitar can be seen behind the girls. The background of the photograph suggests that this was taken in the interior of a building\n\n  subject_terms_1: students violinists violins educators associations\n\n  subject_terms_2: Music students Associations\n institutions\n etc. Violin teachers Black-and-white photography Violin\n\n  subject_terms_3: Indian clans and associations Photography Educators Musicians Singapore Malayalee Association\n\n  sgcool_label_text: Mr. S Gopalakrishnan (b. in 1920 in Tanjavur) was a prominent violinist\n and Carnatic singer. He arrived in Singapore in 1939 and actively participated in the Indian classical music scene here. Mr Gopalakrishnan performed alongside veterans of classical performers such as Pandit M Ramalingam and MV Gurusamy at temple and other music festivals. He also taught violin lessons at the Singapore Malayalee Association from the 1970s to 2000s. He was a member of the Tamils Reform Association and performed his wedding according to the principles of the Self-Respect Movement. He was also employed as a compositor at the Far East Air Force from 1954 to 1970.\n",
-  "createdDate": "20201127000610",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -29,7 +29,7 @@
     "subject_terms_3": "Indian clans and associations Photography Educators Musicians Singapore Malayalee Association",
     "sgcool_label_text": "Mr. S Gopalakrishnan (b. in 1920 in Tanjavur) was a prominent violinist, and Carnatic singer. He arrived in Singapore in 1939 and actively participated in the Indian classical music scene here. Mr Gopalakrishnan performed alongside veterans of classical performers such as Pandit M Ramalingam and MV Gurusamy at temple and other music festivals. He also taught violin lessons at the Singapore Malayalee Association from the 1970s to 2000s. He was a member of the Tamils Reform Association and performed his wedding according to the principles of the Self-Respect Movement. He was also employed as a compositor at the Far East Air Force from 1954 to 1970."
   },
-  "nlpDate": "20201127000610",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00251\n\n  Image: \n\n  object_work_type: slipcovers (furniture coverings)\n\n  title_text: Tray or pillow cover\n\n  preference: main\n\n  title_language: \n\n  creation_date: Early 20th century\n\n  creation_place_original_location: Pulau Pinang (Malaysia : State)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: thread\n\n  techniques_name: embroidering\n\n  object_colour: white (color) red (color) blue (color)\n\n  physical_appearance: This cover is embroided with red and blue threads to create motif patterns. The border consists of multiple bands of floral and abstract designs. In the center\n there is a hexagonal shape\n decorated with vases of flowers\n peacocks and butterflies.\n\n  subject_terms_1: geometric motifs drawn thread work birds (motifs) flower (motif) foliage (motif) embroidery (visual works)\n\n  subject_terms_2: Motifs Slip covers Embroidery\n Peranakan\n\n  subject_terms_3: Textile art and design\n\n  sgcool_label_text: This textile is probably a tray or pillow cover. An elaborately embroidered red and blue border\n made up of multiple bands of floral and abstract designs\n surrounds a hexagonal field. One recurring motif is a vase of flowers in full bloom. Peacocks perch on its branches\n their feathers spread like a fan. This was produced using the technique known as drawn thread embroidery\n whiich involves the extraction of warp and weft threads from a piece of cloth stretched upon a wooden frame. Not only does drawn thread embroidery demand expertise\n it is also extremely labour intensive. Penang was especially known for the use of this technique in the early 20th century.\n",
-  "createdDate": "20201127000611",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -29,7 +29,7 @@
     "subject_terms_3": "Textile art and design",
     "sgcool_label_text": "This textile is probably a tray or pillow cover. An elaborately embroidered red and blue border, made up of multiple bands of floral and abstract designs, surrounds a hexagonal field. One recurring motif is a vase of flowers in full bloom. Peacocks perch on its branches, their feathers spread like a fan. This was produced using the technique known as drawn thread embroidery, whiich involves the extraction of warp and weft threads from a piece of cloth stretched upon a wooden frame. Not only does drawn thread embroidery demand expertise, it is also extremely labour intensive. Penang was especially known for the use of this technique in the early 20th century."
   },
-  "nlpDate": "20201127000611",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2015-00539\n\n  Image: \n\n  object_work_type: marriage certificates\n\n  title_text: Marriage certificate\n\n  preference: main\n\n  title_language: \n\n  creator_2: Unknown\n\n  creation_date: 12-Dec-46\n\n  creation_place_original_location: Singapore\n\n  styles_periods_indexing_terms: Not indicated\n\n  inscriptions: \n\n  inscription_language: \n\n  scale_type: Not indicated\n\n  shape: rectangular\n\n  materials_name: printing paper\n\n  techniques_name: printing (process)\n\n  object_colour: grey (colour)\n\n  physical_appearance: \\The image shows a certificate. It consists of typewritten and handwritten words. \\\\Marriage agreement\\\\ is stated at the top. The particulars and signatures of the bridge and bridgegroom\n\n  subject_terms_1: together with the details on the marriage legal documents certification\n\n  subject_terms_2: Legal documents are stated below the title. \\ Certification\n\n  subject_terms_3: marriage (social construct)\n\n  subject_terms_4: Marriage\n",
-  "createdDate": "20201127000612",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_3": "marriage (social construct)",
     "subject_terms_4": "Marriage"
   },
-  "nlpDate": "20201127000612",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

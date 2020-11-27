@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00550\n\n  Image: \n\n  object_work_type: booklets\n\n  title_text: Programme booklet for performance by Hong Kong’s Tai Lung Fung theatre society at the National Theatre Performance by Hong Kong’s Tai Lung Fung theatre society at the National Theatre\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: Tai Lung Fung theatre society\n\n  creator_1: Not indicated\n\n  creator_role: performing artists\n\n  creation_date: 1960s - 1970s\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: printing paper\n\n  techniques_name: colour printing\n\n  object_colour: multicoloured\n\n  physical_appearance: The image shows the front cover of a booklet. There are Chinese characters at the centre\n top\n and bottom of the booklet. The image of the National Theatre of Singapore lies in the background of the booklet. Its five pointed rooftop façade can be seen in the image.\n\n  subject_terms_1: theaters (institutions) performances (creative events)\n\n  subject_terms_2: Theaters Pamphlets Performances\n\n  subject_terms_3: Performing Arts National Theatre (Singapore)\n\n  sgcool_label_text: This is a special edition prorgramme booklet of the southern tour performances by Hong Kong’s Tai Lung Fung theatre society at the National Theatre. Dubbed the “People’s Theatre” as members of the public had contributed towards the building fund\n the National Theatre was opened in 1963. Apart from being a symbol of national identity and a place where local art performances took place\n it was also the venue for important national events such as National Day rallies\n as well as various cultural shows and performances from the overseas theatre community.\n",
-  "createdDate": "20201127000610",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_3": "Performing Arts National Theatre (Singapore)",
     "sgcool_label_text": "This is a special edition prorgramme booklet of the southern tour performances by Hong Kong’s Tai Lung Fung theatre society at the National Theatre. Dubbed the “People’s Theatre” as members of the public had contributed towards the building fund, the National Theatre was opened in 1963. Apart from being a symbol of national identity and a place where local art performances took place, it was also the venue for important national events such as National Day rallies, as well as various cultural shows and performances from the overseas theatre community."
   },
-  "nlpDate": "20201127000610",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

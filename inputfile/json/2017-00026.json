@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00026\n\n  Image: \n\n  object_work_type: colour prints (photographs) photographic prints\n\n  title_text: Unknown\n\n  preference: main\n\n  title_language: \n\n  creator_2: Koon\n Sang Ho\n\n  creator_role: photographers\n\n  creation_date: c.1960\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: photographic paper\n\n  techniques_name: photographic printing techniques colour photography\n\n  object_colour: multicoloured\n\n  physical_appearance: This is a coloured print and the image captures a bustling open air roadside market place. Vendors spread out their items on a piece of cloth on the ground and sit behind them so as to meet the gaze of the buyer. Electric cords are seen hanging across buildings. On the verso there are two labels; one being the photographer\\u0027s studio label (with its address) and the other by The Song Heng Association Singapore \\u0026 Overseas Hainanese Artists Art Exhibition 2010.\n\n  subject_terms_1: genre (visual works) marketplaces street vendors colour photography roadsides flea markets\n\n  subject_terms_2: Genre prints Marketplaces Photography\n Artistic Street vendors\n\n  subject_terms_3: visual arts Artistic photography\n\n  context_1: An exhibition was held to commemorate 70 years of establishment\n\n  context_2: exhibitions (events)\n\n  context_3: 30th January to 28th February 2010\n\n  context_4: 30th January 2010\n\n  context_5: 28th February 2010\n\n  context_6: National Library (Singapore)\n\n  context_7: The Song Heng Association\n\n  context_8: planners\n\n  context_20: Address found on the photography studio\\u0027s label (verso)\n\n  context_21: 82 Macpherson Lane #09-23\n Singapore 360082 Sungei Road Flea Market 11 Purvis Street\n Singapore 188590\n\n  context_22: c.1960\n\n  context_23: 1955\n\n  context_24: 1965\n\n  sgcool_label_text: Ho Koon Sang was a member of the Photographic Society of Singapore and an Associate of the Royal Photographic Society in London. This is a very early and unique print shot on colour film.\n",
-  "createdDate": "20201127000609",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -44,7 +44,7 @@
     "context_24": "1965",
     "sgcool_label_text": "Ho Koon Sang was a member of the Photographic Society of Singapore and an Associate of the Royal Photographic Society in London. This is a very early and unique print shot on colour film."
   },
-  "nlpDate": "20201127000609",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

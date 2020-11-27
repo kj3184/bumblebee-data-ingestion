@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2018-00061\n\n  Image: \n\n  object_work_type: copper engravings (visual works) engravings (prints)\n\n  title_text: Engraving of a Dutch man-of-war\n\n  preference: main\n\n  title_language: \n\n  creator_2: Georg Matthaus Seutter\n\n  creator_1: not indicated\n\n  creator_role: publishers geographers\n\n  creation_date: c1740\n\n  creation_place_original_location: not indicated\n\n  styles_periods_indexing_terms: not indicated\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: papermaking copper engraving (printing process) hand coloring\n\n  object_colour: multicoloured\n\n  physical_appearance: This is a multicoloured engraving of a Dutch man-of-war. The top portion of the print is richly illustrated and contains textual information\n in German\non the schematics of a fully-rigged three-masted Dutch man-of-war with 96 guns. The bottom portion of the print holds information about the hierarchy of the crew on board\n from the highest officer to the lowest servant.\n\n  subject_terms_1: navigational instruments warships\n\n  subject_terms_2: Warships Man o’ war Navigation Engravings\n\n  sgcool_label_text: This print of a fully-rigged three-masted Dutch man-of-war provides a schematic of its exterior and interior\n including a view of its cross-section as well as illustrations of typical navigational instruments used\n accompanied by descriptions of their use. In addition\n a full listing of the typical hierarchy of the crew on board is provided.\n",
-  "createdDate": "20201127000603",
+  "createdDate": "20201127205925",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_2": "Warships Man o’ war Navigation Engravings",
     "sgcool_label_text": "This print of a fully-rigged three-masted Dutch man-of-war provides a schematic of its exterior and interior, including a view of its cross-section as well as illustrations of typical navigational instruments used, accompanied by descriptions of their use. In addition, a full listing of the typical hierarchy of the crew on board is provided."
   },
-  "nlpDate": "20201127000603",
+  "nlpDate": "20201127205925",
   "connectorId": 0,
   "tags": {}
 }

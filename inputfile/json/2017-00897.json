@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00897\n\n  Image: \n\n  object_work_type: passports\n\n  title_text: State of Singapore Passport\n\n  preference: main\n\n  title_language: \n\n  creation_date: 1963\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process)\n\n  object_colour: multicolored\n\n  physical_appearance: This is a State of Singapore British passport. The front cover is black in colour\n with gold printed crest and name of country. There are two oval cut outs in the cover. The top reveals a stamped date in blue\n and an identification number printed in black. The bottom reveals a handwritten name in capital letters\n with the surname underlined.\n\n  subject_terms_1: travel documents colonies maids (servants)\n\n  subject_terms_2: Household employees Singapore Colonies Passports\n\n  subject_terms_3: Lu\n Earl Ming-Teh\n\n  subject_terms_4: \n\n  sgcool_label_text: This State of Singapore passport belonged to a Cantonese female domestic helper\n Ms Leong Kun Toh. The passport is dated to 17 July 1963\n 2 months before the merger of Singapore and Malaya and the formation of Malaysia. The passport features the owner’s personal particulars\n with her profession labelled peculiarly: “Servant\n” and her place of birth: “China”. The password was subsequently renewed in 1964 as a Malaysian passport\n with recorded immigration stamps to Hong Kong and Malaysia.\n",
-  "createdDate": "20201127000604",
+  "createdDate": "20201127205926",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -30,7 +30,7 @@
     "subject_terms_4": "",
     "sgcool_label_text": "This State of Singapore passport belonged to a Cantonese female domestic helper, Ms Leong Kun Toh. The passport is dated to 17 July 1963, 2 months before the merger of Singapore and Malaya and the formation of Malaysia. The passport features the owner’s personal particulars, with her profession labelled peculiarly: “Servant,” and her place of birth: “China”. The password was subsequently renewed in 1964 as a Malaysian passport, with recorded immigration stamps to Hong Kong and Malaysia."
   },
-  "nlpDate": "20201127000604",
+  "nlpDate": "20201127205926",
   "connectorId": 0,
   "tags": {}
 }

@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00749\n\n  Image: \n\n  object_work_type: video art\n\n  title_text: The Day I Lost My Shadow\n\n  preference: main\n\n  title_language: \n\n  creator_2: Rajagopal K\n\n  creator_role: creators\n\n  creation_date: 2016\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  materials_name: mixed media\n\n  techniques_name: creating (artistic activity) videography\n\n  physical_appearance: \\This is an image of a two still frames from within a video clip. Both of the still frames are in black-and-white. The one on the left displays the words \\\\The Day\n\n  subject_terms_1: Race Course Road\\\\. The still frame shows the interior of a building historical figures ethnohistory multiculturalism social history cultural diffusion reconstructions (visual works) film (performing arts)\n\n  subject_terms_2: Ethnohistory Multiculturalism where there is a shovel and some sandbags lying on the sandy ground. The still frame on the right displays a vast landscape of greenery. There are numerous trees and shrubs that can be seen on the foreground as well as towards the horizon. \\ Culture diffusion Social change Little India (Singapore) Motion pictures\n\n  subject_terms_3: Syed Alwi Road Race Course Road video recordings Little India Sub Zone Campbell Lane\n\n  subject_terms_4: Video recordings\n\n  context_1: Films\n",
-  "createdDate": "20201127000609",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -30,7 +30,7 @@
     "subject_terms_4": "Video recordings",
     "context_1": "Films"
   },
-  "nlpDate": "20201127000609",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

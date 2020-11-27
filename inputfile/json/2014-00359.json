@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2014-00359\n\n  Image: \n\n  object_work_type: certificates\n\n  title_text: International Certificate of Vaccination belonging to Mdm Wong Lai Tuan\n\n  preference: main\n\n  title_language: \n\n  creator_2: Not indicated\n\n  creator_1: Not indicated\n\n  creation_date: 1946\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process)\n\n  object_colour: multicoloured\n\n  physical_appearance: \\The image shows a legal certificate of vaccination. \\\\International certificate of vaccination against smallpox\\\\ is displayed at the top centre of the document. \\\\International certificate of inoculation against cholera\\\\ is displayed at the middle of the document. It pertains to the inoculation of cholera and the vaccination of smallpox. \\\\Wong Lai tuan\\\\ and \\\\16\\\\ are written in black ink on the certificate in the first line of the first paragraph. At the bottom left hand side of the certificate\n\n  subject_terms_1: communicable disease legal documents passport photographs a passport sized photograph of a young lady is present. The certificate is stamped at a number of places with the words \\\\Port Health Officer emigration\n\n  subject_terms_2: Cholera Vaccination Communicable diseases Legal documents Smallpox Vaccination Emigration and immigration Singapore\\\\. \\ Identification photographs\n\n  subject_terms_3: certification\n\n  subject_terms_4: Certification\n\n  context_1: Communicable disease control\n",
-  "createdDate": "20201127000613",
+  "createdDate": "20201127205930",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_4": "Certification",
     "context_1": "Communicable disease control"
   },
-  "nlpDate": "20201127000613",
+  "nlpDate": "20201127205930",
   "connectorId": 0,
   "tags": {}
 }

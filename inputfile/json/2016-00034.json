@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00034\n\n  Image: \n\n  object_work_type: banners\n\n  title_text: Red Chinese hanging banner Hanging banner\n\n  preference: main alternate\n\n  title_language: \n\n  creation_date: early - mid 20th century\n\n  creation_place_original_location: China\n\n  styles_periods_indexing_terms: Chinese (culture or style)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: silk (textile) thread\n\n  techniques_name: sewing (needleworking technique) embroidering\n\n  object_colour: multicolored\n\n  physical_appearance: This is a red banner decorated with depictions of Chinese figures. There is a woman with a halo made of peacock feathers\n sitting on top of a fawn. Beside her\n there are two women attendants. Below her\n there are two figures looking up at her\n and one figure holding a flag and riding a horse. The group is surrounded by a floral scroll medallion.\n\n  subject_terms_1: Taoism depictions (visual works) putti (motifs) floral (motif) religious objects figures (representations)\n\n  subject_terms_2: Taoism Motifs Banners Taoist mythology Religious articles Cherubs (Art)\n\n  subject_terms_3: Chinese decorative arts\n\n  sgcool_label_text: The large red banner is decorated with images of Chinese figures. A goddess with a halo designed like peacock feathers sits astride a fawn\n accompanied by two female figures. Her hands are lift up with fingernails that are almost talon-like. These symbols suggest that the banner is depicting Magu\n a Daoist goddess known to symbolise beauty and longevity\n therefore a popular motif for birthday banners like this. What makes this cloth particularly unusual are cherub angels that border the Chinese figures. Such cherubs are borrowed from Western Christian imagery\n and it is highly unusual to find such designs on a textile that is often hung over a Chinese deity altar\n",
-  "createdDate": "20201127000612",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -30,7 +30,7 @@
     "subject_terms_3": "Chinese decorative arts",
     "sgcool_label_text": "The large red banner is decorated with images of Chinese figures. A goddess with a halo designed like peacock feathers sits astride a fawn, accompanied by two female figures. Her hands are lift up with fingernails that are almost talon-like. These symbols suggest that the banner is depicting Magu, a Daoist goddess known to symbolise beauty and longevity, therefore a popular motif for birthday banners like this. What makes this cloth particularly unusual are cherub angels that border the Chinese figures. Such cherubs are borrowed from Western Christian imagery, and it is highly unusual to find such designs on a textile that is often hung over a Chinese deity altar"
   },
-  "nlpDate": "20201127000612",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

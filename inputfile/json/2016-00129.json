@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00129\n\n  Image: \n\n  object_work_type: combs (hair ornaments) combs (grooming tools)\n\n  title_text: Ivory comb depicting Lakshmi\n\n  preference: main\n\n  title_language: \n\n  creation_date: 1700 - 1799\n\n  creation_place_original_location: Sri Lanka\n\n  styles_periods_indexing_terms: Sri Lankan\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: ivory (material)\n\n  techniques_name: forming (physical activity)\n\n  object_colour: light brown\n\n  physical_appearance: The image shows a comb that is light brown in colour. Teeths of the comb are present at its top and bottom. The ornamental portion of the comb is at its centre. This portion contains the image of the goddess Lakshmi in a seated pose and holding a leafy frond. Surrounding the image of the goddess are diamond-patterns which serve as the borders as well.\n\n  subject_terms_1: deities ornaments (object genre) Hinduism lozenges foliage (motif) carvings (visual works)\n\n  subject_terms_2: Motifs Combs Aesthetics\n Sri Lankan Lakshmi (Hindu deity) Hinduism Ornamental combs\n\n  subject_terms_3: Hinduism\n\n  sgcool_label_text: This ivory comb depicts a goddess\n most likely Lakshmi\n the goddess of wealth\n seated and holding two leafy fronds. The diamond-patterned border and the additional beaded borders are typical of ivory combs from Sri Lanka from this time. This finely incised comb is rare for having all its teeth intact. Some of the original stained polychrome decoration remains on the comb. \\r\\nSeveral examples exist of such combs that were handcrafted and produced in multiples; they were sought after by the European market\n particularly the Dutch and Portuguese.\n",
-  "createdDate": "20201127000612",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -30,7 +30,7 @@
     "subject_terms_3": "Hinduism",
     "sgcool_label_text": "This ivory comb depicts a goddess, most likely Lakshmi, the goddess of wealth, seated and holding two leafy fronds. The diamond-patterned border and the additional beaded borders are typical of ivory combs from Sri Lanka from this time. This finely incised comb is rare for having all its teeth intact. Some of the original stained polychrome decoration remains on the comb. \r\nSeveral examples exist of such combs that were handcrafted and produced in multiples; they were sought after by the European market, particularly the Dutch and Portuguese."
   },
-  "nlpDate": "20201127000612",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

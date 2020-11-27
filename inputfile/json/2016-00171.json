@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00171\n\n  Image: \n\n  object_work_type: womenswear folk costume\n\n  title_text: Purple cheongsam with gold trimming and floral motif\n\n  preference: main\n\n  title_language: \n\n  creator_2: \n\n  creation_date: 1900 - 1969\n\n  creation_place_original_location: Singapore\n\n  styles_periods_indexing_terms: Chinese (culture or style)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: silk (textile) piping (trimming)\n\n  techniques_name: piping (process) machine sewing (technique)\n\n  object_colour: multicoloured\n\n  physical_appearance: This is a long-sleeved cheongsam that is predominantly purple in colour. The trimming is gold and the piping is turquoise in colour. There are floral patterns all over the cheongsam. There is a collar present as well. The cheongsam does not look worn out and there are no visible tears on it. There is also a slit on the right side of the costume.\n\n  subject_terms_1: geometric motifs floral patterns dtresses (garments)\n\n  subject_terms_2: Motifs Women\\u0027s clothing Qipao Ethnic costume\n\n  subject_terms_3: Ethnic costume Chinese costume\n\n  sgcool_label_text: This ankle-length cheongsam with long sleeves has gold trimming and turquoise piping. The cheongsam also has turquoise floral and geometric motifs. The joints slightly visible at the centre front and back of the cheongsam reveal that it was likely made in the early 20th century as the width of the fabric then had limitations.\n",
-  "createdDate": "20201127000612",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -31,7 +31,7 @@
     "subject_terms_3": "Ethnic costume Chinese costume",
     "sgcool_label_text": "This ankle-length cheongsam with long sleeves has gold trimming and turquoise piping. The cheongsam also has turquoise floral and geometric motifs. The joints slightly visible at the centre front and back of the cheongsam reveal that it was likely made in the early 20th century as the width of the fabric then had limitations."
   },
-  "nlpDate": "20201127000612",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

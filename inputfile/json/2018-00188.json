@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2018-00188\n\n  Image: \n\n  object_work_type: photographs colour photographs\n\n  title_text: Photograph of Nyonyas at a party\n\n  preference: main\n\n  title_language: \n\n  creator_2: Not indicated\n\n  creator_1: Not indicated\n\n  creation_date: 1973\n\n  creation_place_original_location: Singapore (nation)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: squares (geometric figures)\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process) photographic processes\n\n  object_colour: multicoloured\n\n  physical_appearance: The image shows a colour photograph. It depicts a group of elderly ladies. All of them are sitting down on chairs. There are food and drinks on a round table\n and some of the ladies can be seen eating. All of them are wearing their ethnic costumes. They are also speaking to one another and looking around.\n\n  subject_terms_1: women (female humans) parties (events) Peranakan folk costume\n\n  subject_terms_2: Colour photography Parties Ethnic costume Peranakan (Asian people) Women\n\n  subject_terms_3: Photography Peranakan costumes Women\n\n  sgcool_label_text: This photograph shows a group of nyonyas seated around a table. Printed along the border is ‘May 73’. \\r\\n\\r\\nIn 1839 the French government made public technical information about the production of photographs\n prompting a fervour for photographic technology which quickly spread from Europe to Southeast Asia. The first photography studios in the Dutch East Indies and the Straits Settlements were established in the first decades of the 1840s.\n",
-  "createdDate": "20201127000602",
+  "createdDate": "20201127205924",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -31,7 +31,7 @@
     "subject_terms_3": "Photography Peranakan costumes Women",
     "sgcool_label_text": "This photograph shows a group of nyonyas seated around a table. Printed along the border is ‘May 73’. \r\n\r\nIn 1839 the French government made public technical information about the production of photographs, prompting a fervour for photographic technology which quickly spread from Europe to Southeast Asia. The first photography studios in the Dutch East Indies and the Straits Settlements were established in the first decades of the 1840s."
   },
-  "nlpDate": "20201127000602",
+  "nlpDate": "20201127205924",
   "connectorId": 0,
   "tags": {}
 }

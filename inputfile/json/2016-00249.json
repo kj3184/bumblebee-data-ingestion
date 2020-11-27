@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00249\n\n  Image: \n\n  object_work_type: pillars\n\n  title_text: Pillars A Pair of Pillars\n\n  preference: main alternate\n\n  title_language: \n\n  creation_date: 1900 - 1999\n\n  creation_place_original_location: Kerala (India)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: wood (plant material)\n\n  techniques_name: woodcarving woodworking\n\n  object_colour: brown (colour)\n\n  physical_appearance: \n\n  subject_terms_1: residential structures columns (architectural elements) structural elements houses flower (motif)\n\n  subject_terms_2: Motifs Architecture\n Domestic Dwellings Columns Ethnic architecture\n\n  subject_terms_3: Architecture\n\n  sgcool_label_text: Among the early migrant Indian communities in Singapore and Malaya are the Malayalees from Kerala. This proposed acquisition highlights the built heritage of the community and illustrates their rich roots. The evolution of domestic architecture in the Kerala region followed the evolution of temple architecture very closely. In addition prescriptive texts such as the Manushyala Chandrika and Vastu Vidya laid out the theory and practice of domestic architecture. As such\n the construction of domestic houses were standardised and adapted to suit the needs of different socio-economic groups. The traditional craftsmen such as carpenters followed the prescriptive rules of the texts and rigidly follow the proportions of the different elements till today. Such pillars were used as structural supports in the interior parts as well as inner courtyards of the traditional Kerala house.\n",
-  "createdDate": "20201127000611",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -29,7 +29,7 @@
     "subject_terms_3": "Architecture",
     "sgcool_label_text": "Among the early migrant Indian communities in Singapore and Malaya are the Malayalees from Kerala. This proposed acquisition highlights the built heritage of the community and illustrates their rich roots. The evolution of domestic architecture in the Kerala region followed the evolution of temple architecture very closely. In addition prescriptive texts such as the Manushyala Chandrika and Vastu Vidya laid out the theory and practice of domestic architecture. As such, the construction of domestic houses were standardised and adapted to suit the needs of different socio-economic groups. The traditional craftsmen such as carpenters followed the prescriptive rules of the texts and rigidly follow the proportions of the different elements till today. Such pillars were used as structural supports in the interior parts as well as inner courtyards of the traditional Kerala house."
   },
-  "nlpDate": "20201127000611",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

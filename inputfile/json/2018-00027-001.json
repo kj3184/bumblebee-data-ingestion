@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2018-00027-001\n\n  Image: \n\n  object_work_type: hardcover books\n\n  title_text: Drawing Book of Han Hong Yoe\n\n  preference: main\n\n  title_language: \n\n  creator_2: Han Hong Yoe\n\n  creator_1: Not indicated\n\n  creator_role: authors\n\n  creation_date: early 20th century\n\n  creation_place_original_location: Malang (inhabited place)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: book cloth (textile material) printing paper\n\n  techniques_name: bookbinding (process) colour printing illustration (process)\n\n  object_colour: multicoloured\n\n  physical_appearance: \\The image shows the front two pages of a hardcover book. The page on the left contains a picture of a man.. On the page to the left\n there are numerous colourful drawings of flowers. Above the picture of the man\n there are scrolls with Chinese characters and Dutch words on them. \\\\Han Hong Yoe\\\\ is stated at the bottom on the page to the left in a scroll as well. The page on the right features a drawing of a man and a body of text.\\\n\n  subject_terms_1: drawings (visual wotks) illustrated books flower (motif)\n\n  subject_terms_2: Drawings Motifs Drawing books\n\n  subject_terms_3: Drawing\n\n  sgcool_label_text: The book contains various tracings and painted illustrations. Its first page is filled with colourful flowers around a photograph of a man\n probably the author. Flowing scrolls are inscribed with ‘Schilder Boeken’ (painting books) and ‘Van heer – Han Hong Yoe’. \\r\\n\\r\\nIn Indonesia\n photography studios were established by the Chinese as early as the last decade of the 19th century. Many of these were established by recent immigrants from China and came to rival the European-owned studios which dominated the market. \\r\\n\n",
-  "createdDate": "20201127000603",
+  "createdDate": "20201127205925",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_3": "Drawing",
     "sgcool_label_text": "The book contains various tracings and painted illustrations. Its first page is filled with colourful flowers around a photograph of a man, probably the author. Flowing scrolls are inscribed with ‘Schilder Boeken’ (painting books) and ‘Van heer – Han Hong Yoe’. \r\n\r\nIn Indonesia, photography studios were established by the Chinese as early as the last decade of the 19th century. Many of these were established by recent immigrants from China and came to rival the European-owned studios which dominated the market. \r\n"
   },
-  "nlpDate": "20201127000603",
+  "nlpDate": "20201127205925",
   "connectorId": 0,
   "tags": {}
 }

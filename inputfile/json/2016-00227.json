@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00227\n\n  Image: \n\n  object_work_type: boxes (containers) copperwork (visual works)\n\n  title_text: Chinese copper box Box\n\n  preference: main alternate\n\n  title_language: \n\n  creation_date: 17th century\n\n  creation_place_original_location: China\n\n  styles_periods_indexing_terms: Chinese (culture or style)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: circular\n\n  materials_name: gilt paint copper (metal)\n\n  techniques_name: gilding (technique) forging (metal forming)\n\n  object_colour: gold (color)\n\n  physical_appearance: This is a circular gilded copper box\n decorated with Chinese motifs such as prunus trees\n pagodas\n birds\n and mythical animals all around. The motifs are carved on\n creating a raised appearanc\n on the top of the lid and around the circumference. There are some light marks on the box where the material is slightly worn out.\n\n  subject_terms_1: exports birds (motifs) foliage (motif)\n\n  subject_terms_2: Exports Motifs Boxes Copperwork\n\n  subject_terms_3: Chinese decorative arts\n\n  sgcool_label_text: This circular box with a lid is decorated with figures in a landscape. Prunus trees\n pagodas\n birds and mythical animals\n and a mounted scholar are set in a ring-punched ground. Made in gilded copper\n it could have been used to hold cosmetics or tobacco snuff. Chinese metalsmiths in Canton and in provincial centres throughout Southeast Asia produced large amounts of such boxes as part of the lively export trade in decorative objects from the seventeeth century.\n",
-  "createdDate": "20201127000611",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -30,7 +30,7 @@
     "subject_terms_3": "Chinese decorative arts",
     "sgcool_label_text": "This circular box with a lid is decorated with figures in a landscape. Prunus trees, pagodas, birds and mythical animals, and a mounted scholar are set in a ring-punched ground. Made in gilded copper, it could have been used to hold cosmetics or tobacco snuff. Chinese metalsmiths in Canton and in provincial centres throughout Southeast Asia produced large amounts of such boxes as part of the lively export trade in decorative objects from the seventeeth century."
   },
-  "nlpDate": "20201127000611",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

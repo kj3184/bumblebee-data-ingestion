@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2014-00902\n\n  Image: \n\n  object_work_type: cases (containers) posters covers (closure)\n\n  title_text: Poster and cd cover for Shorts\n a Royston Tan film compilation\n\n  preference: main\n\n  title_language: \n\n  creator_2: Royston Tan\n\n  creator_1: Tan\n Royston\n 1976-\n\n  creator_role: film directors\n\n  creation_date: 2006\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product) plastic (organic material)\n\n  techniques_name: forming (physical activity) printing (process)\n\n  object_colour: multicoloured\n\n  physical_appearance: \\The image shows two items\n namely a poster on the right and a much smaller image of a CD cover on the left hand side. \\\\Royston\\u0027s Shorts\\\\ is stated near the bottom of the poster. The logo of the \\\\Asian Film Archive\\\\ is displayed at the bottom left hand side of the poster. The poster depicts an elderly lady sitting on a curb and holding a clothes hanger with a pair of male shorts on it. Behind her are two laundromats and a stack of clothes in a basket on top on of them.\\\n\n  subject_terms_1: short subjects anthologies\n\n  subject_terms_2: Anthology films Plays on words Containers Motion pictures\n Singaporean Posters Short films\n\n  subject_terms_3: Photography Movie directors Tan\n Royston Short films\n\n  sgcool_label_text: The poster marked the event – release of the DVD compilation of Royston Tan’s 13 short films.\\r\\n \\r\\nThe poster uses a combination of photographs and simple typography.  The photographs were shot at an old Laundromat in Potong Pasir whereby passer bys were asked to pose.\\r\\n\\r\\nRoyston Tan\n (b 1976) is a well known Singaporean film maker.  Among his reputed films are 12 Lotus (2008)\n 881 (2007) 4.30 (2005) 15\n The Movie (2003)\n and 15 (2002).  He is the recipient of numerous national and international awards\n",
-  "createdDate": "20201127000613",
+  "createdDate": "20201127205930",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_3": "Photography Movie directors Tan, Royston Short films",
     "sgcool_label_text": "The poster marked the event – release of the DVD compilation of Royston Tan’s 13 short films.\r\n \r\nThe poster uses a combination of photographs and simple typography.  The photographs were shot at an old Laundromat in Potong Pasir whereby passer bys were asked to pose.\r\n\r\nRoyston Tan, (b 1976) is a well known Singaporean film maker.  Among his reputed films are 12 Lotus (2008), 881 (2007) 4.30 (2005) 15, The Movie (2003), and 15 (2002).  He is the recipient of numerous national and international awards"
   },
-  "nlpDate": "20201127000613",
+  "nlpDate": "20201127205930",
   "connectorId": 0,
   "tags": {}
 }

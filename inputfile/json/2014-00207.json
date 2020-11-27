@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2014-00207\n\n  Image: \n\n  object_work_type: matchboxes\n\n  title_text: Raffles Hotel Match Box Raffles Hotel\n\n  preference: main alternate\n\n  title_language: \n\n  creation_date: Not indicated\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product) printing paper\n\n  techniques_name: printing processes\n\n  object_colour: multicoloured\n\n  physical_appearance: \\The image displays the top cover of a rectangular matchbox. \\\\Raffles Hotel Tel No: 2084\\\\ is displayed upside down\n\n  subject_terms_1: at the top of the matchbox. \\\\Raffles Hotel Singapore\\\\ is stated in green at the centre of the matchbox. The label of Raffles Hotel is displayed above quotations (texts) labels (identifying artifacts)\n\n  subject_terms_2: consisting of an eagle Labels Raffles Hotel Quotations\n\n  subject_terms_3: a snake\n\n  subject_terms_4: and a lion. A quote from W. Somerset Maugham\n\n  context_1: \\\\Stands for all the fables of the exotic East\\\\ is displayed near the bottom of the matchbox. \\\n\n  context_2: implements (object genre)\n\n  context_3: Matchboxes\n",
-  "createdDate": "20201127000614",
+  "createdDate": "20201127205930",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "context_2": "implements (object genre)",
     "context_3": "Matchboxes"
   },
-  "nlpDate": "20201127000614",
+  "nlpDate": "20201127205930",
   "connectorId": 0,
   "tags": {}
 }

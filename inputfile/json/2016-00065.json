@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00065\n\n  Image: \n\n  object_work_type: invitations\n\n  title_text: Invitation to concert (“Sangeetha Katcheri”)\n\n  preference: main\n\n  title_language: \n\n  creator_2: Unknown\n\n  creation_date: 10-Dec-51\n\n  creation_place_original_location: Singapore\n\n  styles_periods_indexing_terms: Not indicated\n\n  inscriptions: \n\n  inscription_language: \n\n  scale_type: Not indicated\n\n  shape: rectangular\n\n  materials_name: printing paper\n\n  techniques_name: printing (process)\n\n  object_colour: multicoloured\n\n  physical_appearance: \\The image shows an invitation card. It is rectangular in shape. It has an orange background. The invitation card is filled with the Tamil script. The date \\\\10-12-51\\\\ is stated at the top right hand side. The initials \\\\M.V.\\\\ are stated at the bottom right hand side. \\\n\n  subject_terms_1: musicians concerts (performances)\n\n  subject_terms_2: Invitation cards Concerts Musicians\n\n  subject_terms_3: Performing Arts Indian music Musicians\n\n  sgcool_label_text: M.V.Gurusamy (b. 1920 in Seremban) was an accomplished percussionist and mridangam artiste as well as a renowned percussion teacher in Singapore. He arrived in Singapore and participated in the Indian classical music scene here. He was a member of the cultural contingent led by the then Minister for Culture\n S. Rajaratnam\n which visited and performed at various centres in Sarawak\n Brunei and Sabah in 1965. He was the recipient of several titles including the Kala Ratna award given by the Singapore Indian Fine Arts Society in 1986.\n",
-  "createdDate": "20201127000612",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_3": "Performing Arts Indian music Musicians",
     "sgcool_label_text": "M.V.Gurusamy (b. 1920 in Seremban) was an accomplished percussionist and mridangam artiste as well as a renowned percussion teacher in Singapore. He arrived in Singapore and participated in the Indian classical music scene here. He was a member of the cultural contingent led by the then Minister for Culture, S. Rajaratnam, which visited and performed at various centres in Sarawak, Brunei and Sabah in 1965. He was the recipient of several titles including the Kala Ratna award given by the Singapore Indian Fine Arts Society in 1986."
   },
-  "nlpDate": "20201127000612",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00288\n\n  Image: \n\n  object_work_type: posters\n\n  title_text: Young Songwriters Society Xinyao festival poster 1990 Young Songwriters Society Xinyao festival poster\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: Young Songwriters Society\n\n  creator_role: creators\n\n  creation_date: 1990\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: square\n\n  materials_name: paper (fiber product)\n\n  techniques_name: colour printing\n\n  object_colour: multicoloured\n\n  physical_appearance: \\The image shows a poster and it has a white background. The poster has a border that is red and made out of floral patterns. At the centre of the square poster\n there are four large Chinese characters in multiple colours with the same floral patterns\n placed in a two by two diagonal alignment. At the lower left hand side of the square poster\n there are several lines of Chinese characters and several numbers denoting telephone numbers. The words \\\\Kallang Theatre\\\\ are also stated. At the bottom centre of the square poster\n\n  subject_terms_1: the logo of Metro department store concerts festivals music (performing arts)\n\n  subject_terms_2: Folk music Concerts Music festivals Societies PRS / Compass\n\n  subject_terms_3: and the logo  and name of a Chinese company. There are drawings of musical instruments on the white background of the poster Music organisations\n\n  subject_terms_4: specifically that of a guitar headstock\n\n  context_1: a flute\n\n  context_2: and a keyboard\\\n\n  context_3: societies\n\n  context_4: Posters\n\n  context_5: Chinese folk songs\n",
-  "createdDate": "20201127000611",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -36,7 +36,7 @@
     "context_4": "Posters",
     "context_5": "Chinese folk songs"
   },
-  "nlpDate": "20201127000611",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

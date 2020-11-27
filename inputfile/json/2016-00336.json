@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00336\n\n  Image: \n\n  object_work_type: scarves (costume accessories) shawls stoles (outerwears)\n\n  title_text: Brocade Stole\n\n  preference: main\n\n  title_language: \n\n  creation_date: 1801 - 2000\n\n  creation_place_original_location: Varanasi (Uttar Pradesh\n India)\n\n  styles_periods_indexing_terms: Indian (South Asian)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: brocade (textile) silk (textile)\n\n  techniques_name: weaving sewing (needleworking technique)\n\n  object_colour: pink colours\n\n  physical_appearance: This brocade stole is predominantly pink in colour\n with a darker shade in the middle and a lighter hue at its sides. It is rectangular in shape. Along its breath\n there are alternating patterns of elephants and birds. Along its length\n there are also elephants and birds\n but in a different form of design and arrangement. Within the borders\n the figure of the Hindu deity Shiva is present all over the brocade stole. The pattern of Shiva is upside down from the top of the stole to its horizontal mid-point. He is in a lotus position and there are patterns of tree branches that come with flowers and parakeets.\n\n  subject_terms_1: textiles (visual works) deities plant-derived motifs motifs Hinduism floral patterns birds (motifs) allover patterns\n\n  subject_terms_2: Textiles Stoles (Clothing) Motifs Siva (Hindu deity) Shawls\n\n  subject_terms_3: Hinduism\n\n  sgcool_label_text: This Benarasi silk brocade carries the extremely unusual motif of Shiva as Yogeshwara\n seated as an ascetic upon a tiger skin\n holding a trident in one hand\n damroo in the other\n which a cobra around his shoulders. Each figure is separated by a flowering plant upon which are perched a magpie and a woodpecker. It is a superb example of the fine detail that Benarasi weavers could achieve using multi-coloured threads and a very tight weave.\n",
-  "createdDate": "20201127000611",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -30,7 +30,7 @@
     "subject_terms_3": "Hinduism",
     "sgcool_label_text": "This Benarasi silk brocade carries the extremely unusual motif of Shiva as Yogeshwara, seated as an ascetic upon a tiger skin, holding a trident in one hand, damroo in the other, which a cobra around his shoulders. Each figure is separated by a flowering plant upon which are perched a magpie and a woodpecker. It is a superb example of the fine detail that Benarasi weavers could achieve using multi-coloured threads and a very tight weave."
   },
-  "nlpDate": "20201127000611",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

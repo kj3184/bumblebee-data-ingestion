@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2018-00168\n\n  Image: \n\n  object_work_type: photographs black-and-white photographs\n\n  title_text: Photographs of a Dutch-Indonesian banknote\n\n  preference: main\n\n  title_language: \n\n  creator_2: Not indicated\n\n  creator_1: Not indicated\n\n  creation_date: 1894\n\n  creation_place_original_location: Jakarta (inhabited place)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process) photographic processes\n\n  object_colour: grey monochrome\n\n  physical_appearance: The image shows two black-and-white photographs. They feature the front and back copy of a banknote\n respectively. They are rectangular the banknote in the photograph at the top contains a signature. There is a line of Dutch in bold\n in the photograph at the bottom. There are a number of inscriptions on the bank note in the photograph at the bottom. Resolution of phootgraph is not high enough to identify more details.\n\n  subject_terms_1: paper money\n\n  subject_terms_2: Bank notes Black-and-white photography\n\n  subject_terms_3: Photography\n\n  sgcool_label_text: These photographs show a Dutch-Indonesian banknote.\\r\\n\\r\\nKing William I of the Netherlands granted the right to create a bank in the Indies in 1826\n De Javasche Bank (DJB) opened in Batavia in 1828\n and had exclusive rights to issue paper bank notes for 10 years. The bank’s rights were renewed periodically until 1922.\\r\\n\\r\\nIn 1839 the French government made public technical information about the production of photographs\n prompting a fervour for photographic technology which quickly spread from Europe to Southeast Asia. The first photography studios in the Dutch East Indies and the Straits Settlements were established in the first decades of the 1840s.\n",
-  "createdDate": "20201127000602",
+  "createdDate": "20201127205925",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -31,7 +31,7 @@
     "subject_terms_3": "Photography",
     "sgcool_label_text": "These photographs show a Dutch-Indonesian banknote.\r\n\r\nKing William I of the Netherlands granted the right to create a bank in the Indies in 1826, De Javasche Bank (DJB) opened in Batavia in 1828, and had exclusive rights to issue paper bank notes for 10 years. The bank’s rights were renewed periodically until 1922.\r\n\r\nIn 1839 the French government made public technical information about the production of photographs, prompting a fervour for photographic technology which quickly spread from Europe to Southeast Asia. The first photography studios in the Dutch East Indies and the Straits Settlements were established in the first decades of the 1840s."
   },
-  "nlpDate": "20201127000602",
+  "nlpDate": "20201127205925",
   "connectorId": 0,
   "tags": {}
 }

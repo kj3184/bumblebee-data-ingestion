@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00024\n\n  Image: \n\n  object_work_type: black-and-white prints (photographs) photographic prints gelatin silver prints\n\n  title_text: Cleaner\n\n  preference: main\n\n  title_language: \n\n  creator_2: Koon\n Sang Ho\n\n  creator_role: photographers\n\n  creation_date: c.1958\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: silver sulfide paper (fibre product) baryta paper gelatin\n\n  techniques_name: gelatin silver process photographic printing techniques black-and-white photography\n\n  object_colour: black-and-white (colours)\n\n  physical_appearance: This is a gelatin silver print and the image captured has a central focus on a half dressed man balancing on a composite supporting structure made of wooden rods joint together. With his arms outstretched\n he is seen reaching out for the next rod with his right hand.  The person in the photograph is actually the artist himself.\n\n  subject_terms_1: rods (object genre) self-portraits stylized portraits\n\n  subject_terms_2: Building Portrait photography Photography\n Artistic\n\n  subject_terms_3: Building and Construction Portrait photography Artistic photography\n\n  sgcool_label_text: Ho Koon Sang was a member of the Photographic Society of Singapore and an Associate of the Royal Photographic Society in London. These photos are typical of the salon photography style of the time\n with an emphasis on technique\n composition and tone. The cleaner in this photo is actually the photographer himself.\n",
-  "createdDate": "20201127000609",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -31,7 +31,7 @@
     "subject_terms_3": "Building and Construction Portrait photography Artistic photography",
     "sgcool_label_text": "Ho Koon Sang was a member of the Photographic Society of Singapore and an Associate of the Royal Photographic Society in London. These photos are typical of the salon photography style of the time, with an emphasis on technique, composition and tone. The cleaner in this photo is actually the photographer himself."
   },
-  "nlpDate": "20201127000609",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

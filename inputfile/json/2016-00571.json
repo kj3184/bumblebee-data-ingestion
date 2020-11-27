@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00571\n\n  Image: \n\n  object_work_type: boxes (containers)\n\n  title_text: Box used to store frozen headless prawns Box used to store frozen headless prawns\n a product of Singapore Frozen Food Co. Ltd.\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: Singapore Frozen Food Co. Ltd.\n\n  creator_1: Not indicated\n\n  creator_role: companies\n\n  creation_date: 1960s - 1970s\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: Chinese\n\n  shape: rectangular cuboid\n\n  materials_name: paper (fiber product)\n\n  techniques_name: colour printing\n\n  object_colour: multicoloured\n\n  physical_appearance: \\The image shows a rectangular box. It has a light blue background. \\\\Quick frozen headless prawns\\\\ is stated on the front and top surface of the box. \\\\Singapore Food Frozen Co. Ltd\\\\ is stated on the front and top surface of the box. \\\\Sea Horse Brand\\\\ is stated at the upper left hand side of the top surface of the box. \\\n\n  subject_terms_1: exports brand name objects food\n\n  subject_terms_2: Exports Boxes Business enterprises Food Brand name products\n\n  subject_terms_3: Business enterprises\n\n  sgcool_label_text: This was a product of Singapore Frozen Food Co. Ltd. marketed under the Sea Horse brand\n which was a Singapore brand that imported and exported poultry\n fresh eggs and fish meal during the 1960s and 1970s. As part of the government’s early industrialisation efforts\n swamp lands in Singapore were often converted into prawn ponds to provide more food and jobs in land-scarce Singapore. Attempt were also made to expand exports of seafood including fish and prawns by using freeze drying\n which was the latest food processing method in the mid 1960s. By increasing the shelf life of food\n new export markets such as those in the United States could be opened up. Typically\n a fish factory in Jurong\n which was the symbol of Singapore’s industrialisation progress\n would export fresh prawns to Japan and the United States.\n",
-  "createdDate": "20201127000610",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_3": "Business enterprises",
     "sgcool_label_text": "This was a product of Singapore Frozen Food Co. Ltd. marketed under the Sea Horse brand, which was a Singapore brand that imported and exported poultry, fresh eggs and fish meal during the 1960s and 1970s. As part of the government’s early industrialisation efforts, swamp lands in Singapore were often converted into prawn ponds to provide more food and jobs in land-scarce Singapore. Attempt were also made to expand exports of seafood including fish and prawns by using freeze drying, which was the latest food processing method in the mid 1960s. By increasing the shelf life of food, new export markets such as those in the United States could be opened up. Typically, a fish factory in Jurong, which was the symbol of Singapore’s industrialisation progress, would export fresh prawns to Japan and the United States."
   },
-  "nlpDate": "20201127000610",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

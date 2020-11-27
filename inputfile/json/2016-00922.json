@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00922\n\n  Image: \n\n  object_work_type: plaques (flat objects) commemorative plaques\n\n  title_text: Miss Symes Memorial Plaque\n\n  preference: main\n\n  title_language: \n\n  creator_2: British Servicemen\n\n  creator_1: Great Britain. Army\n\n  creator_role: creators\n\n  creation_date: 1960s\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular cuboid\n\n  materials_name: stone (worked rock)\n\n  techniques_name: forming (physical activity) carving (processes)\n\n  object_colour: grey (colour)\n\n  physical_appearance: \\The image shows a commemorative plaque. It is rectangular in shape and it has a grey background. There are inscriptions on the front of the commemorative plaque\n relating to the death of \\\\Miss Kathleen Leslie Symes\\\\ and her contributions to the \\\\Sandes Soldiers\\u0027 Home\\\\.\\\n\n  subject_terms_1: founders (originators) recreation areas soldiers military personnel\n\n  subject_terms_2: Recreation areas Plaques\n plaquettes Soldiers\n\n  subject_terms_3: Pioneers Sandes Soldiers Home (Singapore)\n\n  sgcool_label_text: \\This plaque was built by former British servicemen in memory of the founder of the Sandes Soldiers Home in Singapore\n Miss Kathleen Leslie Symes. The Home\n orignally located at Portsdown Road where The Temasek Club used to be\n was opened in 1949. With facilities such as a swimming pool\n canteen\n tennis courts and a billiards room\n the Home provided a recreational space for British servicemen to relax and to get together with their family while they were on leave. Built on the premise of a \\\\home away from home\\\\\n",
-  "createdDate": "20201127000609",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_3": "Pioneers Sandes Soldiers Home (Singapore)",
     "sgcool_label_text": "\"This plaque was built by former British servicemen in memory of the founder of the Sandes Soldiers Home in Singapore, Miss Kathleen Leslie Symes. The Home, orignally located at Portsdown Road where The Temasek Club used to be, was opened in 1949. With facilities such as a swimming pool, canteen, tennis courts and a billiards room, the Home provided a recreational space for British servicemen to relax and to get together with their family while they were on leave. Built on the premise of a \"\"home away from home\"\""
   },
-  "nlpDate": "20201127000609",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

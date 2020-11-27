@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2018-00189\n\n  Image: \n\n  object_work_type: photographs colour photographs\n\n  title_text: Photograph of a group at a dining table\n\n  preference: main\n\n  title_language: \n\n  creator_2: Not indicated\n\n  creator_1: Not indicated\n\n  creation_date: 1965\n\n  creation_place_original_location: Singapore (nation)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process) photographic processes\n\n  object_colour: multicoloured\n\n  physical_appearance: The image shows a colour photograph. It depicts a group of people. They are sitting around a dining table. The table is covered with a checkered tablecloth. There are beverages on the table. The men are dressed in suits and ties while the women are wearing sleeveless dresses. They are looking and speaking to one another. Other groups of people can be discerned in the background.\n\n  subject_terms_1: dining adults beverages\n\n  subject_terms_2: Colour photography Beverages Dinners and dining\n\n  subject_terms_3: Photography\n\n  sgcool_label_text: This Polacolor photograph shows a group seated at a dining table.\n",
-  "createdDate": "20201127000602",
+  "createdDate": "20201127205924",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -31,7 +31,7 @@
     "subject_terms_3": "Photography",
     "sgcool_label_text": "This Polacolor photograph shows a group seated at a dining table."
   },
-  "nlpDate": "20201127000602",
+  "nlpDate": "20201127205924",
   "connectorId": 0,
   "tags": {}
 }

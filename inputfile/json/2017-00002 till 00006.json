@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00002 till 00006\n\n  Image: \n\n  object_work_type: colour photographs\n\n  title_text: Lee Lim\\u0027s Untitled 1 to 5\n\n  preference: alternate\n\n  title_language: \n\n  creator_2: Lee\n Lim\n\n  creator_1: Lee\n Lim\n\n  creator_role: photographers\n\n  creation_date: c. 1980\n\n  creation_place_original_location: Singapore\n\n  styles_periods_indexing_terms: Abstract (fine arts style)\n\n  inscriptions: \n\n  inscription_language: \n\n  scale_type: N.A\n\n  shape: rectangular\n\n  materials_name: photographic paper\n\n  techniques_name: photographic printing techniques colour photography\n\n  object_colour: multicoloured\n\n  edition_description: N.A\n\n  physical_appearance: This is a series of coloured abstract photographs. The artist has stamped his seal on all five works\n but only signed off on Untitled 3 and 5. His photography studio\\u0027s chop which includes its address and his name were found on the verso of Untitled 2\n 3\n and 5.\n\n  subject_terms_1: abstract\n\n  subject_terms_2: Royal Photographic Society of Great Britain Art\n Abstract Photography\n Artistic\n\n  subject_terms_3: visual arts Artistic Photography\n\n  context_20: Address indicated on photography studio\\u0027s chop.\n\n  context_21: Block 54 Tiong Bahru Road #01-01 Singapore 0316\n\n  context_22: c. 1980\n\n  context_23: 1975\n\n  context_24: 1985\n\n  sgcool_label_text: Lee Lim was one of the most important modern photographers in Singapore\n influencing a generation of photographers in the pictorial photography circles. Between 1952 and 1979\n Lee took part in more than 100 photographic competitions and won numerous awards and honours. He received the Fellowship of the Royal Photographic Society (UK) in 1959 and the Artist Distinction by the International Federation of Photographic Art (FIAP) in 1977. He was also conferred an honorary fellowship by the Photographic Society of Singapore and won the Cultural Medallion in 1987.\n",
-  "createdDate": "20201127000609",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -40,7 +40,7 @@
     "context_24": "1985",
     "sgcool_label_text": "Lee Lim was one of the most important modern photographers in Singapore, influencing a generation of photographers in the pictorial photography circles. Between 1952 and 1979, Lee took part in more than 100 photographic competitions and won numerous awards and honours. He received the Fellowship of the Royal Photographic Society (UK) in 1959 and the Artist Distinction by the International Federation of Photographic Art (FIAP) in 1977. He was also conferred an honorary fellowship by the Photographic Society of Singapore and won the Cultural Medallion in 1987."
   },
-  "nlpDate": "20201127000609",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

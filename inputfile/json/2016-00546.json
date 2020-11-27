@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00546\n\n  Image: \n\n  object_work_type: reports\n\n  title_text: Singapore Economic Situation\n a report in Mandarin published by the team from the University of Singapore Student Union investigating employment and retrenchment of workers in Singapore Singapore Economic Situation\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: University of Singpaore Student Union\n\n  creator_1: Not indciated\n\n  creator_role: creators\n\n  creation_date: 1975\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: printing paper\n\n  techniques_name: colour printing\n\n  object_colour: multicoloured\n\n  edition_description: Not indicated\n\n  physical_appearance: The image shows the front cover of a report. It is blue in colour. There are Chinese characters displayed at the top centre and at the bottom. The line of Chinese characters directly below the title is stated on a white paper that seems to be pasted onto the front cover of the report.\n\n  subject_terms_1: economy workers employment (general economic concept)\n\n  subject_terms_2: Employees University of Singapore Student unions\n\n  subject_terms_3: Labour and employment University of Singapore\n\n  sgcool_label_text: The dress cap and khaki shirt belonged to Major W.J.F. Sutton\n a British veteran of the Malayan Emergency. The daggers and sheaths\n jungle scarf and Communist peaked cap were retrieved from the body of a Communist whom he killed.\\r\\n\\r\\nFormed in 1930\n the Malayan Communist Party (MCP) was allowed to operate openly during the post-war British Military Administration period as it had been Britain’s ally during the war. However\n when the MCP attempted to infiltrate trade unions to exploit popular grievances\n the British clamped down on its activities. By May 1948\n most Communists had left Singapore for the Federation of Malaya to prepare for armed struggle in the jungles.\n",
-  "createdDate": "20201127000610",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -33,7 +33,7 @@
     "subject_terms_3": "Labour and employment University of Singapore",
     "sgcool_label_text": "The dress cap and khaki shirt belonged to Major W.J.F. Sutton, a British veteran of the Malayan Emergency. The daggers and sheaths, jungle scarf and Communist peaked cap were retrieved from the body of a Communist whom he killed.\r\n\r\nFormed in 1930, the Malayan Communist Party (MCP) was allowed to operate openly during the post-war British Military Administration period as it had been Britain’s ally during the war. However, when the MCP attempted to infiltrate trade unions to exploit popular grievances, the British clamped down on its activities. By May 1948, most Communists had left Singapore for the Federation of Malaya to prepare for armed struggle in the jungles."
   },
-  "nlpDate": "20201127000610",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

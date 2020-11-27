@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00485\n\n  Image: \n\n  object_work_type: black-and-white photographs\n\n  title_text: Untitled (locomotive no. 26112)\n\n  preference: main\n\n  title_language: \n\n  creator_2: Kwek Leng Joo\n\n  creator_1: Kwek\n Leng Joo\n\n  creator_role: photographers\n\n  creation_date: 2010\n\n  creation_place_original_location: Malaysia Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process)\n\n  object_colour: grey monochrome\n\n  physical_appearance: The image shows a photograph in black-and-white. It has a black frame and the border in between in white in colour. Five railroads can be seen in the photograph\n and 2 of them converge\n at the extreme right of the photograph. A train is travelling on the third railroad from the left of this image. The railroads are all curving to the left. From the third carriage onwards\n there are no windows on the sides of the subsequent carriages. There are some whitened out regions in the photographs\n specifically at the left side as well as the upper right hand corner.\n\n  subject_terms_1: locomotives railroads (infrastructure) railroad cars trains (vehicle groupings)\n\n  subject_terms_2: Railroads Locomotives Pertadbiran Keretapi Tanah Melayu Railroad trains Black-and-white photography Railroad cars\n\n  subject_terms_3: Photography Pertadbiran Keretapi Tanah Melayu Rail transport\n\n  sgcool_label_text: \\This image is part of the \\\\Tracking Memories\\\\ collection by the late Mr Kwek Leng Joo. The collection captures different aspects of the Malayan Railway story in Singapore\n",
-  "createdDate": "20201127000610",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_3": "Photography Pertadbiran Keretapi Tanah Melayu Rail transport",
     "sgcool_label_text": "\"This image is part of the \"\"Tracking Memories\"\" collection by the late Mr Kwek Leng Joo. The collection captures different aspects of the Malayan Railway story in Singapore"
   },
-  "nlpDate": "20201127000610",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

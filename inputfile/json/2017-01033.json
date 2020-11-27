@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-01033\n\n  Image: \n\n  object_work_type: photographs black-and-white photographs\n\n  title_text: Carte de visite portraits by August Sachtler Series of six carte de visite portraits by August Sachtler\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: August Sachtler of Sachtler \\u0026 Co.\n\n  creator_role: photographers\n\n  creation_date: 1860s\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: photographic processes\n\n  object_colour: black-and-white (colors)\n\n  physical_appearance: This is a series of six portrait black-and-white photographs. They are all of either one or two individuals. They are all in native dress. The photographs are quite faded. There are no tears or folds seen. There are no inscriptions on the photographs.\n\n  subject_terms_1: occupations (livelihoods) ways of life indigenous people ethnicity cultural pluralism portraits folk costume\n\n  subject_terms_2: Occupations Cultural pluralism Ethnic costume Lifestyles Ethnicity Portrait photography Indigenous people Carte de visite photographs\n\n  subject_terms_3: Portrait photography\n\n  subject_terms_4: \n\n  sgcool_label_text: \\This is part of a series of small carte de visite format portrait photographs by August Sachtler\n a German photographer who started photographing in Singapore in the early 1860s. The studio details inscribed on the back of these cartes de visite read \\\\A. Sachtler in Singapore\\\\\n",
-  "createdDate": "20201127000603",
+  "createdDate": "20201127205925",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_4": "",
     "sgcool_label_text": "\"This is part of a series of small carte de visite format portrait photographs by August Sachtler, a German photographer who started photographing in Singapore in the early 1860s. The studio details inscribed on the back of these cartes de visite read \"\"A. Sachtler in Singapore\"\""
   },
-  "nlpDate": "20201127000603",
+  "nlpDate": "20201127205925",
   "connectorId": 0,
   "tags": {}
 }

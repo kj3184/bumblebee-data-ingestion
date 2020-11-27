@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00645\n\n  Image: \n\n  object_work_type: beepers\n\n  title_text: Motorola Jazz pager\n\n  preference: main\n\n  title_language: \n\n  creator_2: Motorola\n\n  creator_1: Motorola\n Inc.\n\n  creator_role: manufacturers\n\n  creation_date: 1990s\n\n  creation_place_original_location: Singapore\n\n  styles_periods_indexing_terms: Not indicated\n\n  inscriptions: \n\n  inscription_language: \n\n  scale_type: Not indicated\n\n  shape: irregular\n\n  materials_name: wire metal plastic (organic material)\n\n  techniques_name: forming (physical activity) metalworking\n\n  object_colour: black (colour)\n\n  physical_appearance: \\The image shows a pager. It is black in colour. There is a transparent casing over it. A metal chain is attached to the the right hand side of the pager as well. \\\\Motorola\\\\ is stated at the front surface of the pager. There are three buttons below the screen. The screen at the centre of the pager is blank.\\\n\n  subject_terms_1: technology (general associated concept) brand name objects\n\n  subject_terms_2: Beepers (Pagers) Technology Brand name products\n\n  sgcool_label_text: A pager is a wireless telecommunications device that transmits and receives short alphanumeric messages. In the 1980s and 1990s\n pagers were widely used as a communication device in Singapore before the rise of mobile phone technology. At the height of its popularity in June 1998\n there were 1.36 million users in Singapore\n or nearly 40% of the population. \\r\\n \\r\\nThis Motorola Jazz pager is made in Singapore. The pager had the latest paging technology of its time\n the FLEX technology\n which extends the battery life up to four times compared to ordinary pagers and improves the pager’s ability to receive messages. In the 1990s\n Motorola was one of the dominant pager manufacturers in Singapore. Motorola’s operations in Singapore also included a regional Research \\u0026 Design center for paging products.\n",
-  "createdDate": "20201127000610",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -33,7 +33,7 @@
     "subject_terms_2": "Beepers (Pagers) Technology Brand name products",
     "sgcool_label_text": "A pager is a wireless telecommunications device that transmits and receives short alphanumeric messages. In the 1980s and 1990s, pagers were widely used as a communication device in Singapore before the rise of mobile phone technology. At the height of its popularity in June 1998, there were 1.36 million users in Singapore, or nearly 40% of the population. \r\n \r\nThis Motorola Jazz pager is made in Singapore. The pager had the latest paging technology of its time, the FLEX technology, which extends the battery life up to four times compared to ordinary pagers and improves the pager’s ability to receive messages. In the 1990s, Motorola was one of the dominant pager manufacturers in Singapore. Motorola’s operations in Singapore also included a regional Research \u0026 Design center for paging products."
   },
-  "nlpDate": "20201127000610",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

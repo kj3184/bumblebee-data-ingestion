@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00523\n\n  Image: \n\n  object_work_type: topographic maps military maps\n\n  title_text: \\West Point training map titled \\\\The War with Japan: Invasion of Burma (January-May 1942)\\\\\\\n\n  preference: main\n\n  title_language: \n\n  creator_2: United States Military Academy\n\n  creator_1: \n\n  creator_role: Creator\n\n  creation_date: 1959\n\n  creation_place_original_location: United States\n\n  inscriptions: \n\n  inscription_language: \n\n  scale_type: 1 : 50 (inch: miles)\n\n  shape: rectangular\n\n  materials_name: paper (fiber product) printing paper\n\n  techniques_name: colour printing\n\n  object_colour: multicoloured\n\n  physical_appearance: This topographical map is rectangular in shape and its perimeter is marked by a pair of black lines. The training map is not crumpled and the ink is not smudged. Apart from being predominantly beige\n lines\n notes\n and drawings in both red and blue are featured as well. The map depicts the territory of French Indochina when it was invaded by Japan during WWII.\n\n  subject_terms_1: world wars military history military centers cartographic materials\n\n  subject_terms_2: World War\n 1939 - 1945 Topographic Maps Military maps United States Military Academy\n\n  subject_terms_3: 1942-1945 Japanese occupation Wars\n\n  context_1: World War\n 1939 - 1945\n\n  context_2: world wars\n\n  context_3: 1939 - 1945\n\n  context_4: 1939\n\n  context_5: 1945\n\n  context_6: United States\n\n  sgcool_label_text: This is a topographical training map produced by West Point\n the United States Military Academy\n intended for use by its cadets. It documents the Japanese invasion of Burma from January to May 1942\n with the movements of the Axis forces indicated in red and that of the Allied forces in blue.\n",
-  "createdDate": "20201127000605",
+  "createdDate": "20201127205926",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -39,7 +39,7 @@
     "context_6": "United States",
     "sgcool_label_text": "This is a topographical training map produced by West Point, the United States Military Academy, intended for use by its cadets. It documents the Japanese invasion of Burma from January to May 1942, with the movements of the Axis forces indicated in red and that of the Allied forces in blue."
   },
-  "nlpDate": "20201127000605",
+  "nlpDate": "20201127205926",
   "connectorId": 0,
   "tags": {}
 }

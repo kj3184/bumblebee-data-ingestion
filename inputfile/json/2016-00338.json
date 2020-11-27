@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00338\n\n  Image: \n\n  object_work_type: prayer rugs\n\n  title_text: Prayer Mat Janamaz\n\n  preference: main\n\n  title_language: \n\n  creation_date: 1801 - 2000\n\n  creation_place_original_location: Hyderabad (India)\n\n  styles_periods_indexing_terms: Islamic Indian\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: silk (textile) metal thread\n\n  techniques_name: weaving sewing (needleworking technique)\n\n  object_colour: pink (colour)\n\n  physical_appearance: The prayer rug is pink in colour. It is rectangular in shape. Near the bottom of the prayer rug\n there is an outline design of a mihrab with minarets on the side. A border that is golden in colour can be seen. It contains a geometrical shape as its pattern.\n\n  subject_terms_1: prayers (oral works) textiles (visual works) geometric patterns Islam motifs religious objects\n\n  subject_terms_2: Textiles Rugs\n Prayer Motifs Islam Islamic prayers and devotions\n\n  subject_terms_3: Islam\n\n  sgcool_label_text: This janamaz (Persian/Urdu: prayer mat) is a fine example of a zari-woven silk textile. The central motif appears to be a stylised\n almost minimalistic\n version of a mihrab with minarets on the side\n surrounded by a geometric border. Prayer mats of this fine quality would have most likely been used by the upper classes or by royalty.\\r\\n\n",
-  "createdDate": "20201127000611",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -30,7 +30,7 @@
     "subject_terms_3": "Islam",
     "sgcool_label_text": "This janamaz (Persian/Urdu: prayer mat) is a fine example of a zari-woven silk textile. The central motif appears to be a stylised, almost minimalistic, version of a mihrab with minarets on the side, surrounded by a geometric border. Prayer mats of this fine quality would have most likely been used by the upper classes or by royalty.\r\n"
   },
-  "nlpDate": "20201127000611",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

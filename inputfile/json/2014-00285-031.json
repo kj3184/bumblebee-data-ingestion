@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2014-00285-031\n\n  Image: \n\n  object_work_type: black-and-white photographs\n\n  title_text: Photography Album (donation from Anthony Robert Saint Claire) Japanese prisoners of war doing physical training\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: Robert Arthur Polglaze\n\n  creator_1: Not indicated\n\n  creator_role: photographers\n\n  creation_date: 1940s\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process) photographic processes\n\n  object_colour: grey monochrome\n\n  physical_appearance: The image shows a black-and-white photograph. It is rectangular and it features numerous prisoners of war\n together with two guards. The guard on the left hand side of the photograph has a rifle slung on his right shoulder. The prisoners of war are running on a path that is fenced with barbed wire. They are wearing their uniforms and carrying large items and bags as they are running.\n\n  subject_terms_1: world wars prisoners of war military personnel\n\n  subject_terms_2: World War\n 1939 - 1945 Japan. Rikugun Prisoner of war Great Britain Army\n British Indian Army Black-and-white photography\n\n  subject_terms_3: Photography Wars Surrender of Japan\n 1945\n\n  context_1: World War\n 1939 - 1945\n\n  context_2: world wars\n\n  context_3: 1939 - 1945\n\n  context_4: 1939\n\n  context_5: 1945\n\n  context_6: Southeast Asia\n\n  sgcool_label_text: Not indicated\n",
-  "createdDate": "20201127000613",
+  "createdDate": "20201127205930",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -38,7 +38,7 @@
     "context_6": "Southeast Asia",
     "sgcool_label_text": "Not indicated"
   },
-  "nlpDate": "20201127000613",
+  "nlpDate": "20201127205930",
   "connectorId": 0,
   "tags": {}
 }

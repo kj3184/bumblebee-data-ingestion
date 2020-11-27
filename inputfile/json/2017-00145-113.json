@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00145-113\n\n  Image: \n\n  object_work_type: document (object genre) memoirs\n\n  title_text: Reflections of Tan Chong Tee: Memoir Reflections of Tan Chong Tee: Letters\n Notes\n and Photographs\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: Tan Chong Tee\n\n  creator_1: Tan\n Chong Tee Chen\n Chongzhi\n 1916-\n\n  creator_role: authors\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: Rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: handwriting\n\n  object_colour: multicoloured\n\n  physical_appearance: \\This text is written in Chinese in dark blue ink on a small piece of paper. It is indicated \\\\A6 end\\\\\n\n  subject_terms_1: local histories interrogating world wars Chinese scripts armed forces prisoners of war and was to be added to the # as found on the main body of text. \\ guerilla warfare\n\n  subject_terms_2: World War\n 1939-1945 resistance movements Chen\n Chongzhi\n 1916- Armed Forces Guerillas Great Britain. Army. Force 136 Local history Chinese characters Prisoners of war Questioning War resistance movements Writing\n\n  subject_terms_3: History Tan\n Chong Tee kempeitai 1942-1945 Japanese Occupation Force 136 (Guerilla movement) war personalities\n\n  subject_terms_4: Force 136 (Guerilla movement)\n",
-  "createdDate": "20201127000608",
+  "createdDate": "20201127205927",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -31,7 +31,7 @@
     "subject_terms_3": "History Tan, Chong Tee kempeitai 1942-1945 Japanese Occupation Force 136 (Guerilla movement) war personalities",
     "subject_terms_4": "Force 136 (Guerilla movement)"
   },
-  "nlpDate": "20201127000608",
+  "nlpDate": "20201127205927",
   "connectorId": 0,
   "tags": {}
 }

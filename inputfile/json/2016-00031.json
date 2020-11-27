@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00031\\r\\n\n\n  Image: \n\n  object_work_type: pachisi\n\n  title_text: Pachisi \\u0027bird\\u0027 set Pachisi \\u0027bird\\u0027 board game\n\n  preference: main alternate\n\n  title_language: \n\n  creation_date: 18th century (gaming pieces) c. 1920 (board)\n\n  creation_place_original_location: Mandvi (India) Golconda (India)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: silk (textile) ivory (material) bone (material) cotton (fiber)\n\n  techniques_name: varies\n\n  object_colour: multicolored\n\n  physical_appearance: This pachisi game set includes a cloth board\n sixteen ivory bird-shaped gaming pieces\n and three long die. The bird game pieces are stained and grouped into four colours - red\n light green\n black and yellow. Some design elements\n such as the wings\n are carved into each piece The board is made of green silk\n lined with red cotton\n and embroided with yellow thread.\n\n  subject_terms_1: board games (game sets) play (recreation)\n\n  subject_terms_2: Play Board games Pachisi\n\n  subject_terms_3: Sports and games\n\n  sgcool_label_text: Pachisi is a one of the oldest games originating from the Indian subcontinent. It is often referred to as the national game of India and was played by all groups of society. A pachisi set comprises of a board\n several gaming pieces and dice. Pachisi boards are fashioned in a wide variety of types and are often decorated with embroidery or beads. The gaming pieces were also made in various sizes and materials such as ivory\n bone\n glass\n silver\n although they were most commonly made of painted wood. \\r\\nPieces that were made in the form of female musicians or birds are considered exotic.\n",
-  "createdDate": "20201127000612",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -29,7 +29,7 @@
     "subject_terms_3": "Sports and games",
     "sgcool_label_text": "Pachisi is a one of the oldest games originating from the Indian subcontinent. It is often referred to as the national game of India and was played by all groups of society. A pachisi set comprises of a board, several gaming pieces and dice. Pachisi boards are fashioned in a wide variety of types and are often decorated with embroidery or beads. The gaming pieces were also made in various sizes and materials such as ivory, bone, glass, silver, although they were most commonly made of painted wood. \r\nPieces that were made in the form of female musicians or birds are considered exotic."
   },
-  "nlpDate": "20201127000612",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

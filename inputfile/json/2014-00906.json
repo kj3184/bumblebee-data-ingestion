@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2014-00906\n\n  Image: \n\n  object_work_type: invitations\n\n  title_text: Affordable Art Fair (2) Invite cards for Affordable Art Fair (2)\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: Not indicated\n\n  creator_1: Not indicated\n\n  creation_date: 5-Mar\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process)\n\n  object_colour: multicoloured\n\n  physical_appearance: \\The image features 2 rectangular sets of invitation cards \\\\Affordable Art Fair\\\\ is printed on the left hand side of both invitation cards. The phrase\n\n  subject_terms_1: Contemporary (style of art) collectors fairs \\\\I am an Art Collector\\\\\n\n  subject_terms_2: and the dates Art Collectors and collecting Art fairs Art\n Modern 21st century\n\n  subject_terms_3: \\\\15 - 18 November 2012\\\\\n\n  subject_terms_4: are displayed on both of the invitation cards. The image of an man in a trishaw is displayed on both the invitation cards as well.\\\n\n  context_1: cards (information artifacts)\n\n  context_2: Invitation cards\n\n  context_3: Arts events\n\n  context_5: Affordable Art Fair\n\n  context_6: fairs\n\n  context_7: 15th - 17th Nov 2012\n\n  context_8: 20171115\n\n  context_9: 20171117\n\n  context_10: F1 Pit Building\n\n  context_11: Will Ramsay\n\n  context_12: creators\n",
-  "createdDate": "20201127000613",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -42,7 +42,7 @@
     "context_11": "Will Ramsay",
     "context_12": "creators"
   },
-  "nlpDate": "20201127000613",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00848 \n\n  Image: \n\n  object_work_type: freehand drawings (drawings)\n\n  title_text: Again and Again We Are Somewhere\n\n  preference: main\n\n  title_language: \n\n  creator_2: Dusadee Huntrakul\n\n  creator_role: artists (visual artists)\n\n  creation_date: 2015\n\n  creation_place_original_location: Thailand\n\n  styles_periods_indexing_terms: Contemporary (style of art)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: Rectangular\n\n  materials_name: paper (fiber product) graphite (mineral)\n\n  techniques_name: sketching drawing (image-making)\n\n  object_colour: black-and-white (colours)\n\n  edition_description: Unique\n\n  physical_appearance: This image depicts a hastily drawn amorphous figure. In the background are roughly sketched grass/waves and a mountain.\n\n  subject_terms_1: anthropomorphic amorphous fear\n\n  subject_terms_2: Dreams Fear Drawing Loss (Psychology) Anthropomorphism in art Art\n Thai\n\n  subject_terms_3: Drawing Visual arts\n\n  sgcool_label_text: In Again and again we are somewhere\n Dusadee Huntrakul renders in a seemingly automatic fashion a visage from a nightmare he experienced\n hastily sketched in a bid to capture the memory of a fading dream. A fear stemming from confusion and feelings of being lost is the predominant theme of the work – and in this particular nightmare\n the artist’s loss of his brother has manifested in his subconscious now as disorientation in an unfamiliar environment. \\r\\n\\r\\nAn amorphous figure dominates the drawing\n standing in the foreground of a crudely executed landscape featuring an unknown mountain (or is it a pyramid?)\n and as in the other pieces\n waves. The identity of the figure is terrifying\n but unknown – and from a psychoanalytic viewpoint can be seen as symbolic of the artist’s fear and dread manifest in an anthropomorphic form. \\r\\n\n",
-  "createdDate": "20201127000604",
+  "createdDate": "20201127205926",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -33,7 +33,7 @@
     "subject_terms_3": "Drawing Visual arts",
     "sgcool_label_text": "In Again and again we are somewhere, Dusadee Huntrakul renders in a seemingly automatic fashion a visage from a nightmare he experienced, hastily sketched in a bid to capture the memory of a fading dream. A fear stemming from confusion and feelings of being lost is the predominant theme of the work – and in this particular nightmare, the artist’s loss of his brother has manifested in his subconscious now as disorientation in an unfamiliar environment. \r\n\r\nAn amorphous figure dominates the drawing, standing in the foreground of a crudely executed landscape featuring an unknown mountain (or is it a pyramid?), and as in the other pieces, waves. The identity of the figure is terrifying, but unknown – and from a psychoanalytic viewpoint can be seen as symbolic of the artist’s fear and dread manifest in an anthropomorphic form. \r\n"
   },
-  "nlpDate": "20201127000604",
+  "nlpDate": "20201127205926",
   "connectorId": 0,
   "tags": {}
 }

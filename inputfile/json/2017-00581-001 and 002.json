@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00581-001 and 002 \n\n  Image: \n\n  object_work_type: carriages (vehicles)\n\n  title_text: Wooden carriage\n\n  preference: main\n\n  title_language: \n\n  creation_place_original_location: Java (Indonesia)\n\n  styles_periods_indexing_terms: Peranakan\n\n  inscriptions: \n\n  inscription_language: \n\n  materials_name: wood (plant material) glass (material) lacquer (material) metal gilding (material)\n\n  techniques_name: gilding (technique) lacquering carving (processes)\n\n  object_colour: multicoloured\n\n  physical_appearance: This is a wooden carriage whose body has been intricately carved\n gilded\n and lacquered with scenes of Chinese mythical animals and scrolling foliage. Two lamps are attached to the front of the vehicle\n and the roof of the carriage is supported by four pillars.  Yellow tussles dangle from along the perimeter of this roof.\n\n  subject_terms_1: ceremonial objects qilin phoenixes Peranakan scrolling foliage\n\n  subject_terms_2: Foliation (Architecture and design) Qilin Peranakan (Asian people) Ceremonial objects Phoenix\n\n  subject_terms_3: Religious life and practices\n\n  sgcool_label_text: This rare wooden carriage was likely used as part a Chinese Peranakan ceremony known as Tedun in Central Java.  Its shape is reminiscent of European horse-drawn carriages.  It has a top that is supported by four tubular pillars.  Its surface is carved\n gilded and lacquered with motifs inspired by Javanese and Chinese cultures.  These include Javanese-style scrolling foliage\n and Chinese mythical animals\n qilin and phoenix.  Tedun is an important ceremony that marks either the child’s first year or when the child begins to walk.  During the ceremony\n the child will be seated in this carriage and taken around a chicken cage three times.  The child then selects object(s) from the cage that symbolically represent(s)\n and pre-dict(s) his/her personality and interests.\n",
-  "createdDate": "20201127000604",
+  "createdDate": "20201127205926",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -28,7 +28,7 @@
     "subject_terms_3": "Religious life and practices",
     "sgcool_label_text": "This rare wooden carriage was likely used as part a Chinese Peranakan ceremony known as Tedun in Central Java.  Its shape is reminiscent of European horse-drawn carriages.  It has a top that is supported by four tubular pillars.  Its surface is carved, gilded and lacquered with motifs inspired by Javanese and Chinese cultures.  These include Javanese-style scrolling foliage, and Chinese mythical animals, qilin and phoenix.  Tedun is an important ceremony that marks either the child’s first year or when the child begins to walk.  During the ceremony, the child will be seated in this carriage and taken around a chicken cage three times.  The child then selects object(s) from the cage that symbolically represent(s), and pre-dict(s) his/her personality and interests."
   },
-  "nlpDate": "20201127000604",
+  "nlpDate": "20201127205926",
   "connectorId": 0,
   "tags": {}
 }

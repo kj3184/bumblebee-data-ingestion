@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00294\n\n  Image: \n\n  object_work_type: photographs\n\n  title_text: Group of 50 photographs of P.O.W James Steele and regiment when stationed in Malaysia in 1941 (and 2 later photographs of Steele placing a wreath at ceremony of remembrance)\n\n  preference: main\n\n  title_language: \n\n  creation_date: 1941-1945\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: varies\n\n  materials_name: paper (fiber product)\n\n  techniques_name: photographic processes\n\n  object_colour: varies\n\n  physical_appearance: This is a set of 50 photographs. They are of various sizes.\n\n  subject_terms_1: world wars\n\n  subject_terms_2: World War\n 1939-1945 Photography\n\n  subject_terms_3: 1942-1945 Japanese occupation Photography war personalities\n\n  subject_terms_4: \n\n  context_1: World War\n 1939-1945 1942-1945 Japanese Occupation\n\n  context_2: occupations (armed conflicts) world wars\n\n  context_3: 1942-1945 1939-1945\n\n  context_4: 1939 1942\n\n  context_5: 1945\n\n  context_6: Singapore Malaya\n\n  context_7: Great Britain. Army. Royal Field Artillery\n\n  context_8: armed forces\n\n  sgcool_label_text: A variety of portraits of British soldiers that show them at leisure as well as two photographs of James Steele placing a wreath at a remembrance ceremony\n this collection is part of the archive of James Steele\n Royal Artillery (Field) who served in Malaya from January 1941-February 1942\n when interned as a P.O.W at Changi until his release in October 1945.\n",
-  "createdDate": "20201127000606",
+  "createdDate": "20201127205927",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -38,7 +38,7 @@
     "context_8": "armed forces",
     "sgcool_label_text": "A variety of portraits of British soldiers that show them at leisure as well as two photographs of James Steele placing a wreath at a remembrance ceremony, this collection is part of the archive of James Steele, Royal Artillery (Field) who served in Malaya from January 1941-February 1942, when interned as a P.O.W at Changi until his release in October 1945."
   },
-  "nlpDate": "20201127000606",
+  "nlpDate": "20201127205927",
   "connectorId": 0,
   "tags": {}
 }

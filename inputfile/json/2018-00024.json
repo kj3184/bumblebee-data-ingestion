@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2018-00024\n\n  Image: \n\n  object_work_type: photographs colour photographs\n\n  title_text: Hand-coloured Wedding Photograph\n\n  preference: main\n\n  title_language: \n\n  creator_2: Not indicated\n\n  creator_1: Not indicated\n\n  creation_date: 1930s\n\n  creation_place_original_location: Melaka (inhabited place)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: hand colouring printing (process) photographic processes\n\n  object_colour: multicoloured\n\n  physical_appearance: The image shows a rectangular colour photograph. The surrounding frame has patterns all over its body. The photograph depicts a Peranakan wedding. It features a four people\n comprising of a man\n a woman\n and two children. The adults are standing in the middle\n separating the two children. All of them are dressed in the Peranakan ethnic costumes and have makeup on. They are standing on a carpet\n in the interior of a building. The surrounding consists of potted plants\n photographic frames\n and furniture.\n\n  subject_terms_1: weddings (ceremonies) ethnic groups Peranakan studio portraits children (people by age group) group portraits\n\n  subject_terms_2: Colour photography Weddings Peranakan (Asian people) Children Portraits\n Group Portrait photography\n\n  subject_terms_3: Children Heritage and Culture Portrait photography Marriage customs\n\n  sgcool_label_text: This photograph shows a Peranakan bride and groom in an interior of a house\n accompanied by a pageboy and bridesmaid.  \\r\\n\\r\\nPhotographs were sometimes painted\n usually by an artist who first applied Chinese ink or oil paint to the negative before further working on the print. With the advent of colour negative film in the 1950s\n hand-tinted photographs fell out of vogue.\n",
-  "createdDate": "20201127000603",
+  "createdDate": "20201127205925",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -31,7 +31,7 @@
     "subject_terms_3": "Children Heritage and Culture Portrait photography Marriage customs",
     "sgcool_label_text": "This photograph shows a Peranakan bride and groom in an interior of a house, accompanied by a pageboy and bridesmaid.  \r\n\r\nPhotographs were sometimes painted, usually by an artist who first applied Chinese ink or oil paint to the negative before further working on the print. With the advent of colour negative film in the 1950s, hand-tinted photographs fell out of vogue."
   },
-  "nlpDate": "20201127000603",
+  "nlpDate": "20201127205925",
   "connectorId": 0,
   "tags": {}
 }

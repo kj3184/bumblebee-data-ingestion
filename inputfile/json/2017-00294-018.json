@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00294-018\n\n  Image: \n\n  object_work_type: photographic postcards\n\n  title_text: Post Office\n Mersing 1941 Group of 50 photographs of P.O.W James Steele and regiment when stationed in Malaysia in 1941 (and 2 later photographs of Steele placing a wreath at ceremony of remembrance)\n\n  preference: main alternate\n\n  title_language: \n\n  creation_date: 1941-1945\n\n  creation_place_original_location: Johor Bahru (Johor\n Malaysia) Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: photographic processes\n\n  object_colour: black-and-white (colors)\n\n  physical_appearance: This is a black-and-white photograph of a post and telegraph office. It features a single-storey roofed building\n with a building sign printed at the top-front of the building. There is a group of men standing on the right side of the building. There is a bicycle parked on the front-left of the building. There is a road path that leads to the front door of the building.\n\n  subject_terms_1: world wars black-and-white photographs post offices telegraph offices\n\n  subject_terms_2: World War\n 1939-1945 Photography Telegraph Postal service\n\n  subject_terms_3: Photography Postal services\n\n  subject_terms_4: \n\n  context_1: World War\n 1939-1945\n\n  context_2: world wars\n\n  context_3: 1939-1945\n\n  context_4: 1939\n\n  context_5: 1945\n\n  context_6: Malaya\n\n  context_7: Great Britain. Army. Royal Field Artillery\n\n  context_8: armed forces\n\n  sgcool_label_text: A variety of portraits of British soldiers that show them at leisure as well as two photographs of James Steele placing a wreath at a remembrance ceremony\n this collection is part of the archive of James Steele\n Royal Artillery (Field) who served in Malaya from January 1941-February 1942\n when interned as a P.O.W at Changi until his release in October 1945.\n",
-  "createdDate": "20201127000606",
+  "createdDate": "20201127205926",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -38,7 +38,7 @@
     "context_8": "armed forces",
     "sgcool_label_text": "A variety of portraits of British soldiers that show them at leisure as well as two photographs of James Steele placing a wreath at a remembrance ceremony, this collection is part of the archive of James Steele, Royal Artillery (Field) who served in Malaya from January 1941-February 1942, when interned as a P.O.W at Changi until his release in October 1945."
   },
-  "nlpDate": "20201127000606",
+  "nlpDate": "20201127205926",
   "connectorId": 0,
   "tags": {}
 }

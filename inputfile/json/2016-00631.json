@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00631\n\n  Image: \n\n  object_work_type: certificates\n\n  title_text: Letter of certification of Kaliappan s/o Krishnasamy\n\n  preference: main\n\n  title_language: \n\n  creator_2: Government of Singapore\n\n  creator_role: creators\n\n  creation_date: 12-Sep-78\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process)\n\n  object_colour: grey (colour)\n\n  physical_appearance: \\The image displays a document. At the top centre of the document\n the words \\\\Government of Singapore\\\\ are stated above the coat of arms that displays the words \\\\Majulah Singapura\\\\. The dates \\\\12 Sep 78\\\\ is stated near the top left hand side of the document. The NRIC of \\\\Mr Kaliappan s/o Krishnasamy\\\\ is stated as \\\\0556254/F\\\\. At the bottom left hand side of the document\n\n  subject_terms_1: legal documents examinations (documents) the signature of \\\\S T Amerasinghe\n\n  subject_terms_2: Legal documents Comissioner of Police Singapore\\\\ is displayed.   \\ Examinations\n\n  subject_terms_3: certification\n\n  subject_terms_4: Certification\n\n  context_1: Education\n",
-  "createdDate": "20201127000610",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_4": "Certification",
     "context_1": "Education"
   },
-  "nlpDate": "20201127000610",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

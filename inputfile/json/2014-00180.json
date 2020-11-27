@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2014-00180\n\n  Image: \n\n  object_work_type: stickers\n\n  title_text: Raffles Hotel Service Bell Sticker\n\n  preference: main\n\n  title_language: \n\n  creation_date: Not indicated\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: metal\n\n  techniques_name: metalworking\n\n  object_colour: multicoloured\n\n  physical_appearance: \\The image displays a sticker. It is rectangular in shape and its background is light brown in colour. The words \\\\Service Bell\\\\ are displayed at the centre\n\n  subject_terms_1: in black ink that has become somewhat faded. There is a hole on each side of the rectangular sticker service (general activity) hotels (public accommodations)\n\n  subject_terms_2: Raffles Hotel created by a hole punch. However Tap bells\n\n  subject_terms_3: the edges of three corners have been torn\n\n  subject_terms_4: leaving only an intact circular hole at the bottom left hand corner of the sticker.\\\n\n  context_1: bells (idiophones)\n\n  context_2: Stickers\n\n  context_3: Raffles Hotel\n",
-  "createdDate": "20201127000614",
+  "createdDate": "20201127205930",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "context_2": "Stickers",
     "context_3": "Raffles Hotel"
   },
-  "nlpDate": "20201127000614",
+  "nlpDate": "20201127205930",
   "connectorId": 0,
   "tags": {}
 }

@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00088\n\n  Image: \n\n  object_work_type: drawings (visual works) portraits\n\n  title_text: Portrait of General Wu - with Calligraphy\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: Tan Chong Tee\n\n  creator_1: Chen\n Chongzhi\n 1916-\n\n  creator_role: artists (visual artists)\n\n  creation_date: 1990-2000\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product) ink colour (pigment)\n\n  techniques_name: drawing (image-making)\n\n  object_colour: multicolored\n\n  physical_appearance: This is a drawn portrait of General Wu Tieh-Cheng. He is only drawn from chest up and is shown wearing a suit and glasses. His head is tilted towards left and he is gazing towards the viewer. There is a block of calligraphy on the bottom right of the portrait.\n\n  subject_terms_1: depictions (visual works) resistance movements world wars military officers Chinese script\n\n  subject_terms_2: Wu\n Tiecheng\n 1888-1953 World War\n 1939-1945 Portraits Chen\n Chongzhi\n 1916- Drawing Great Britain. Army. Force 136 Force 136 (Guerilla movement)\n\n  subject_terms_3: 1942-1945 Japanese occupation Tan\n Chong Tee Drawing Force 136 (Guerilla movement) War personalities\n\n  subject_terms_4: \n\n  sgcool_label_text: This portrait belongs to part of a collection of artefacts related to the World War II underground resistance movement known as Force 136. The collection of materials was gathered by Tan Chong Tee (1916-2012)\n who was a key member of this resistance group. The collection consists of original materials belonging to Tan and other members of Force 136 dating from the 1940s to new materials reproduced from memory by Tan Chong Tee\n which date from mid 1990s to early 2000s. \\r\\n\\r\\nForce 136 was set up in 1942-45 as part of the British Special Operations Executive (SOE). It recruited and trained local guerillas to gather intelligence and create an underground spy network to support planned British invasion of Japanese-occupied Malaya.\\r\\n\\r\\nThe portrait depicts politician and general\n Wu Tieh Cheng(1888-1953) and is executed by Tan Chong Tee. \\r\\n\n",
-  "createdDate": "20201127000609",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -33,7 +33,7 @@
     "subject_terms_4": "",
     "sgcool_label_text": "This portrait belongs to part of a collection of artefacts related to the World War II underground resistance movement known as Force 136. The collection of materials was gathered by Tan Chong Tee (1916-2012), who was a key member of this resistance group. The collection consists of original materials belonging to Tan and other members of Force 136 dating from the 1940s to new materials reproduced from memory by Tan Chong Tee, which date from mid 1990s to early 2000s. \r\n\r\nForce 136 was set up in 1942-45 as part of the British Special Operations Executive (SOE). It recruited and trained local guerillas to gather intelligence and create an underground spy network to support planned British invasion of Japanese-occupied Malaya.\r\n\r\nThe portrait depicts politician and general, Wu Tieh Cheng(1888-1953) and is executed by Tan Chong Tee. \r\n"
   },
-  "nlpDate": "20201127000609",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

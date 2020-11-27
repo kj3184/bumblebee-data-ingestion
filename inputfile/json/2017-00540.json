@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00540\n\n  Image: \n\n  object_work_type: fetishes figurines\n\n  title_text: Deity Figure Bulul\n\n  preference: main alternate\n\n  title_language: \n\n  creation_date: 19th century\n\n  creation_place_original_location: NA Luzon (Philippines)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: wood (plant material)\n\n  techniques_name: carving (processes)\n\n  object_colour: brown (colour)\n\n  physical_appearance: This is a fetish figurine depicted to be in a squatting position with its hands folded in front.\n\n  subject_terms_1: magic sculpture indigenous people ancestor worship\n\n  subject_terms_2: Ancestor worship Ifugao (Philippines people) Fetishes (Ceremonial objects) Protection magic Sculpture Figurative art Wood-carved figurines\n\n  subject_terms_3: Religious life and practices Sculpture\n\n  subject_terms_4: \n\n  sgcool_label_text: Bulul figures represent deified ancestors.  They were believed to be inhabited by living spirits which if properly looked after could keep away disease and misfortune. Bulul were often stored in rice granaries where they were believed to keep away marauding vermin and evil spirits alike. Figures carved in a squatting position are a widespread and archaic style common to many indigenous peoples around island Southeast Asia.\n",
-  "createdDate": "20201127000605",
+  "createdDate": "20201127205926",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -30,7 +30,7 @@
     "subject_terms_4": "",
     "sgcool_label_text": "Bulul figures represent deified ancestors.  They were believed to be inhabited by living spirits which if properly looked after could keep away disease and misfortune. Bulul were often stored in rice granaries where they were believed to keep away marauding vermin and evil spirits alike. Figures carved in a squatting position are a widespread and archaic style common to many indigenous peoples around island Southeast Asia."
   },
-  "nlpDate": "20201127000605",
+  "nlpDate": "20201127205926",
   "connectorId": 0,
   "tags": {}
 }

@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00371\n\n  Image: \n\n  object_work_type: slide projectors\n\n  title_text: Rollei Slide Projector and Case Rollei Slide Projector\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: Rollei\n\n  creator_1: Rollei Group of Companies in Singapore\n\n  creator_role: manufacturers\n\n  creation_date: 1970s\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: metal\n\n  techniques_name: metalworking\n\n  object_colour: white (colour) grey (colour) black (colour)\n\n  physical_appearance: \\The image shows a slide projector\n together with its case and containers that hold the slides. There no slides present in the two containers. The brand name \\\\Rollei\\\\ is displayed on the front of the slide projector as well as the lower right hand corner of its case. \\\\Lens made in Singapore\\\\ is engraved on the ring of the lens of the slide projector.\\\n\n  subject_terms_1: cases (containers) slides (photographs)\n\n  subject_terms_2: Projectors Slides (Photography) Containers Singapore\n\n  subject_terms_3: Electronics industry\n\n  sgcool_label_text: Rollei is a renowned German manufacturer of cameras and optics founded in 1920 by Paul Franke and Reinhold Heidecke. To remain competitive against Japanese manufacturers\n Rollei shifted its production to Singapore in 1971\n while retaining research and development work in Braunschweig\n Germany. \\r\\nThis slide projector is an example of the products manufactured by the Rollei production plants in Singapore.\\r\\n\n",
-  "createdDate": "20201127000611",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_3": "Electronics industry",
     "sgcool_label_text": "Rollei is a renowned German manufacturer of cameras and optics founded in 1920 by Paul Franke and Reinhold Heidecke. To remain competitive against Japanese manufacturers, Rollei shifted its production to Singapore in 1971, while retaining research and development work in Braunschweig, Germany. \r\nThis slide projector is an example of the products manufactured by the Rollei production plants in Singapore.\r\n"
   },
-  "nlpDate": "20201127000611",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00062\n\n  Image: \n\n  object_work_type: invitations\n\n  title_text: Invitation card issued to Indian Music Festival\n\n  preference: main\n\n  title_language: \n\n  creator_2: Unknown\n\n  creation_date: 28-Oct-67\n\n  creation_place_original_location: Singapore\n\n  styles_periods_indexing_terms: Not indicated\n\n  inscriptions: \n\n  inscription_language: \n\n  scale_type: Not indicated\n\n  shape: rectangular\n\n  materials_name: printing paper\n\n  techniques_name: printing (process)\n\n  object_colour: multicoloured\n\n  physical_appearance: \\The image shows an invitation card. Some of the words are typewritten\n while others are written in pencil and pen. \\\\Deepavali 1967\\\\ is written in pen at the top right hand side. \\\\92B Coronation Rd West S\\u0027pore 10\\\\ is written at the bottom. \\\\Saturday\n\n  subject_terms_1: 28 October 1967 at 7.30p.m.\\\\ is written at the middle. \\ music festivals\n\n  subject_terms_2: religious holidays Divali Music festivals\n\n  subject_terms_3: Invitation cards Indian music Coronation Road West\n\n  subject_terms_4: Religious festivals\n",
-  "createdDate": "20201127000612",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_3": "Invitation cards Indian music Coronation Road West",
     "subject_terms_4": "Religious festivals"
   },
-  "nlpDate": "20201127000612",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

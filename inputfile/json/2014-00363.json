@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2014-00363\n\n  Image: \n\n  object_work_type: concert programmes clippings (information artifacts)\n\n  title_text: Joan Hammond concert programme and related newspaper cuttings\n\n  preference: main\n\n  title_language: \n\n  creator_2: Craftsman Press Ltd Singapore Music Society\n\n  creator_1: Not indicated\n\n  creator_role: publishers creators\n\n  creation_date: 1953\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process)\n\n  object_colour: black-and-white (colours) multicoloured\n\n  physical_appearance: The image displays three items\n with the left one being a concert programme and the other two being newspaper clippings pasted on purple paper. Pictures accompany the words in all of the items. Joan Hammond is featured in all three items.\n\n  subject_terms_1: conductors celebrities concerts newspapers opera singers recitals\n\n  subject_terms_2: Celebrities Concerts Hammond\n Joan\n 1912 - 1996 Newspapers Susskind\n Walter\n 1913-1980 Concert programmes\n\n  subject_terms_3: Opera Singers Daily newspapers Conductors (Music) Music organisations\n\n  context_1: The concert programme states that the concert was held at the Victoria Memorial Hall on Friday\n 12th June 1953 at 8.45 p.m.\n\n  context_2: concerts\n\n  context_3: 19530612\n\n  context_4: 19530612\n\n  context_5: 19530612\n\n  context_6: Victoria Theatre and Concert Hall\n\n  sgcool_label_text: Not indicated\n",
-  "createdDate": "20201127000613",
+  "createdDate": "20201127205930",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -38,7 +38,7 @@
     "context_6": "Victoria Theatre and Concert Hall",
     "sgcool_label_text": "Not indicated"
   },
-  "nlpDate": "20201127000613",
+  "nlpDate": "20201127205930",
   "connectorId": 0,
   "tags": {}
 }

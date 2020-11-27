@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2018-00053\n\n  Image: \n\n  object_work_type: digital prints artists\\u0027 proofs colour slides\n\n  title_text: The Frame\n\n  preference: main\n\n  title_language: \n\n  creator_2: Tan Lip Seng\n\n  creator_1: Tan\n Lip Seng\n 1942- Tan\n Lip Seng\n\n  creator_role: photographers\n\n  creation_date: 1974\n\n  creation_place_original_location: Singapore (nation)\n\n  styles_periods_indexing_terms: Not indicated\n\n  inscriptions: \n\n  inscription_language: \n\n  scale_type: Not indicated\n\n  shape: rectangular\n\n  materials_name: photographic paper metallic paper photographic film (photographic materials)\n\n  techniques_name: printing (process) montage (image-making technique) photographic processes\n\n  object_colour: multicoloured\n\n  edition_description: prints (visual works)\n\n  physical_appearance: \\The image shows a digital print\n an artist\\u0027s proof\n and a slide. They are rectangular in shape. The background of the digital print and artist\\u0027s proof are blue in colour. The images depict two ladies and a horse. One of the lady is sitting on a horse with her helmet on\n while the other lady stands beside them with her helmet in her hands. The rest of the photograph is fragmented into rectangles\n as a result of horizontal and vertical black lines aligning to form a mesh pattern. The image at the bottom shows a slide. It is in colour. It is held in place by a frame. On the borders of the frame\n \\\\The Frame\\\\ is stated at the top for the image at the bottom. \\\\Tan Lip Seng\n\n  subject_terms_1: proofs (prints by function) women (female humans) prints (visual works) A.R.P.S. EFIAP polo clubs (built complexes) slides (photographs)\n\n  subject_terms_2: Polo Slides (photography) Proofs (Printing) Digitally printed materials 96A Women\n\n  subject_terms_3: Photography Singapore Polo Club BLK 7 Tiong Bahru Road\n\n  subject_terms_4: Singapore 3\\\\ is stated at the bottom for the image at the bottom.  \\\n\n  context_1: Equus caballus (species)\n\n  context_2: Polo ponies\n\n  context_3: Women\n",
-  "createdDate": "20201127000603",
+  "createdDate": "20201127205925",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -38,7 +38,7 @@
     "context_2": "Polo ponies",
     "context_3": "Women"
   },
-  "nlpDate": "20201127000603",
+  "nlpDate": "20201127205925",
   "connectorId": 0,
   "tags": {}
 }

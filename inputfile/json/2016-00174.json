@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00174\n\n  Image: \n\n  object_work_type: folk costume\n\n  title_text: Samfoo with green and yellow floral motif\n\n  preference: main\n\n  title_language: \n\n  creation_date: 1960 - 1969\n\n  creation_place_original_location: Singapore\n\n  styles_periods_indexing_terms: Chinese (culture or style)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: piping (trimming) cotton (textile)\n\n  techniques_name: piping (process) machine sewing (technique)\n\n  object_colour: multicoloured\n\n  physical_appearance: This is a grey samfoo with long sleeves and long pants. A collar is present as well. This samfoo contains green piping at its collar\n side fastenings\n and at the edges of the cuffs. There are no visible tears on the samfoo. Green and yellow floral motifs appear all over the outfit. There are vertical crease lines present on both the shirt and pants.\n\n  subject_terms_1: floral patterns unisex clothing\n\n  subject_terms_2: Motifs Ethnic costume\n\n  subject_terms_3: Ethnic costume Chinese costume\n\n  sgcool_label_text: This is a cotton samfoo with green and yellow floral motifs and green piping. The samfoo is a traditional Chinese outfit which consists of a top (‘sam’) with side fastenings and a mandarin collar\n worn over a pair of pants (‘foo’). Traditionally\n the samfoo is loose fitting and its cut makes it convenient for the wearer to carry out everyday activities.\n",
-  "createdDate": "20201127000612",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -30,7 +30,7 @@
     "subject_terms_3": "Ethnic costume Chinese costume",
     "sgcool_label_text": "This is a cotton samfoo with green and yellow floral motifs and green piping. The samfoo is a traditional Chinese outfit which consists of a top (‘sam’) with side fastenings and a mandarin collar, worn over a pair of pants (‘foo’). Traditionally, the samfoo is loose fitting and its cut makes it convenient for the wearer to carry out everyday activities."
   },
-  "nlpDate": "20201127000612",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00145-001\n\n  Image: \n\n  object_work_type: letters (correspondence)\n\n  title_text: Reflections of Tan Chong Tee: Letter Reflections of Tan Chong Tee: Letters\n Notes\n and Photographs\n\n  preference: main\n\n  title_language: \n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: Rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: writing (processes)\n\n  object_colour: red (colour) black (colour)\n\n  physical_appearance: This is a note written in a mix of traditional and simplified chinese characters on a paper with vertical red lines. The letterhead of the school is printed on top.\n\n  subject_terms_1: Chinese scripts handwriting\n\n  subject_terms_2: Chen\n Chongzhi\n 1916- Letters Chinese characters Writing\n\n  subject_terms_3: History Tan\n Chong Tee Letters war personalities\n\n  sgcool_label_text: These documents and photographs belong to a larger part of a collection of artefacts related to the World War II underground resistance movement known as Force 136. The collection of materials was gathered by Tan Chong Tee (1916- 2012)\n who was a key member of this resistance group. The collection consists of original materials belonging to Tan and other members of Force 136 dating from the 1940s to new materials reproduced from memory by Tan Chong Tee\n which date from the late 1980s to early 2000s. \\r\\n\\r\\nForce 136 was set up in July 1942 as part of the British Special Operations Executive (SOE). It recruited and trained local guerillas to gather intelligence and create an underground spy network to support planned British invasion of Japanese-occupied Malaya.\\r\\n\n",
-  "createdDate": "20201127000608",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -28,7 +28,7 @@
     "subject_terms_3": "History Tan, Chong Tee Letters war personalities",
     "sgcool_label_text": "These documents and photographs belong to a larger part of a collection of artefacts related to the World War II underground resistance movement known as Force 136. The collection of materials was gathered by Tan Chong Tee (1916- 2012), who was a key member of this resistance group. The collection consists of original materials belonging to Tan and other members of Force 136 dating from the 1940s to new materials reproduced from memory by Tan Chong Tee, which date from the late 1980s to early 2000s. \r\n\r\nForce 136 was set up in July 1942 as part of the British Special Operations Executive (SOE). It recruited and trained local guerillas to gather intelligence and create an underground spy network to support planned British invasion of Japanese-occupied Malaya.\r\n"
   },
-  "nlpDate": "20201127000608",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

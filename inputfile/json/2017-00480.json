@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00480\n\n  Image: \n\n  object_work_type: color prints (prints)\n\n  title_text: Menenun (Weaving)\n\n  preference: main\n\n  title_language: \n\n  creator_2: Mochtar Apin\n\n  creator_1: Apin\n Mochtar\n\n  creator_role: artists (visual artists)\n\n  creation_date: 1975\n\n  creation_place_original_location: Bandung (Indonesia)\n\n  styles_periods_indexing_terms: Indonesian (culture or style)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: Square\n\n  materials_name: paper (fiber product)\n\n  techniques_name: block printing (relief printing process)\n\n  object_colour: multicoloured\n\n  edition_description: 10th edition\n\n  physical_appearance: The image captures a girl seated with her right leg folded and right leg outstretched. Not donning any clothes\n she wears her long hair down and kept behind her shoulders.\n\n  subject_terms_1: batik art abstraction nudes (representations) graphic arts\n\n  subject_terms_2: Arts\n Indonesian Female nude in art Graphic arts Batik Abstraction\n\n  subject_terms_3: visual arts Batik\n\n  sgcool_label_text: This work continues Apin’s exploration in the print technique. However beyond the print medium\n there are also photographic and abstraction elements\n combined with his lifelong study of the nude body. Hence this is a strong\n confident work of an artist who is at the peak of his practice. To add to the multi-layered aspect of this work\n the title Menenun which translates to Weaving also touches on the long-standing textile tradition in Indonesian besides of course\n summarizing the technique of this work.\n",
-  "createdDate": "20201127000605",
+  "createdDate": "20201127205926",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -34,7 +34,7 @@
     "subject_terms_3": "visual arts Batik",
     "sgcool_label_text": "This work continues Apin’s exploration in the print technique. However beyond the print medium, there are also photographic and abstraction elements, combined with his lifelong study of the nude body. Hence this is a strong, confident work of an artist who is at the peak of his practice. To add to the multi-layered aspect of this work, the title Menenun which translates to Weaving also touches on the long-standing textile tradition in Indonesian besides of course, summarizing the technique of this work."
   },
-  "nlpDate": "20201127000605",
+  "nlpDate": "20201127205926",
   "connectorId": 0,
   "tags": {}
 }

@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00103\n\n  Image: \n\n  object_work_type: identity cards\n\n  title_text: Namecard of Mr Appavoo Kandiar Mr Appavoo Kandiar\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: Oriental Telephone and Electric Company Co. Ltd.\n (Incorporated in England)\n\n  creator_role: firms\n\n  creation_date: 20th century\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process)\n\n  object_colour: multicoloured\n\n  physical_appearance: \\The image shows a rectangular card which has a brown background. A passport sized photograph of an Indian man is displayed to the left of the card. At the top centre\n \\\\Oriental Telephone \\u0026 Electric Co.\n\n  subject_terms_1: identification photographs Ltd. credentials contractors\n\n  subject_terms_2: Contractors Incorporated in England\\\\ is stated. The name Contracting out Identification cards Identification photographs\n\n  subject_terms_3: \\\\S. Appavoo\\\\ Kandiar\n Appavoo\n\n  subject_terms_4: is stated on the second line from the top. At the bottom towards the left hand side\n\n  context_1: \\\\Dated on 10-4-1961\\\\ is stated. At the bottom towards the right hand side\n\n  context_2: \\\\4th May\n\n  context_3: 1949\\\\ is stated. \\\\In case of doubt\n\n  context_4: please dial 3317\\\\ is stated below the passport sized photograph. Some of the words on the cards have been highlighted blue as well.  \\\n\n  context_5: companies\n\n  context_6: Business enterprises\n\n  context_7: Business enterprises\n",
-  "createdDate": "20201127000612",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -38,7 +38,7 @@
     "context_6": "Business enterprises",
     "context_7": "Business enterprises"
   },
-  "nlpDate": "20201127000612",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

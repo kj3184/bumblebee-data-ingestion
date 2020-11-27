@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00549\n\n  Image: \n\n  object_work_type: buyers\\u0027 guides\n\n  title_text: Christmas shopping guide published by The Straits Times Christmas shopping guide\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: The Straits Times\n\n  creator_1: Straits times\n\n  creator_role: publishers\n\n  creation_date: 1966\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: printing paper\n\n  techniques_name: colour printing\n\n  object_colour: multicoloured\n\n  physical_appearance: \\The image shows the front cover of a shopping guide. \\\\Christmas Shopping Guide\\\\ is displayed at the top and serves as the title. Above it\n\n  subject_terms_1: newspapers shopping products \\\\The Straits Times\\\\ is stated at the top right hand side. The image shows a lady in a dress. She is holding an object and is about to attach it onto a christmas tree that is adorned with decorations\n\n  subject_terms_2: To her right are several presents. There is also a toy doll placed at the base of the christmas tree. \\ Consumer goods Newspapers\n\n  subject_terms_3: Christmas Daily newspapers\n\n  subject_terms_4: Christmas shopping\n\n  context_1: National holidays\n",
-  "createdDate": "20201127000610",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -33,7 +33,7 @@
     "subject_terms_4": "Christmas shopping",
     "context_1": "National holidays"
   },
-  "nlpDate": "20201127000610",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

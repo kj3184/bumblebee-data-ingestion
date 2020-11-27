@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00567\n\n  Image: \n\n  object_work_type: booklets\n\n  title_text: The Government’s Usage of Public Funds The Government’s Usage of Public Funds\n a Mandarin booklet published by the Ministry of Culture\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: Ministry of Culture\n\n  creator_1: Ministry of Culture (TTE)\n\n  creator_role: publishers\n\n  creation_date: 1960\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: printing paper\n\n  techniques_name: colour printing\n\n  object_colour: multicoloured\n\n  physical_appearance: The image shows the front cover of a booklet. It has a yellow background. There are four lines of Chinese characters at the centre. There are two lines of Chinese characters near the bottom. There are drawings of buildings around the booklet as well.\n\n  subject_terms_1: politics government policy governments (administrative bodies) budgets economy economic development\n\n  subject_terms_2: Government policy Pamphlets Budget Government Institutes Political science Economic policy\n\n  subject_terms_3: Economic development Politics and Government\n\n  sgcool_label_text: This booklet was published by the Ministry of Culture to communicate the new government’s messages and larger concerns regarding the state of the nation. The budget that Minister for Finance Dr Goh Keng Swee presented to the Legislative Assembly in 1960 is reproduced in Mandarin here. Topics that were brought up centred round the government’s economic policy\n the review of the year’s expenditure and various revenue proposals such as property tax and business registration tax. This booklet was the third of the Towards Socialism series by the Ministry of Culture.\n",
-  "createdDate": "20201127000610",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_3": "Economic development Politics and Government",
     "sgcool_label_text": "This booklet was published by the Ministry of Culture to communicate the new government’s messages and larger concerns regarding the state of the nation. The budget that Minister for Finance Dr Goh Keng Swee presented to the Legislative Assembly in 1960 is reproduced in Mandarin here. Topics that were brought up centred round the government’s economic policy, the review of the year’s expenditure and various revenue proposals such as property tax and business registration tax. This booklet was the third of the Towards Socialism series by the Ministry of Culture."
   },
-  "nlpDate": "20201127000610",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

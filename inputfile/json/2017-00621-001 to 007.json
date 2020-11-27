@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00621-001 to 007 \n\n  Image: \n\n  object_work_type: black-and-white prints (photographs) photographic prints gelatin silver prints\n\n  title_text: Rampant Series\n\n  preference: main\n\n  title_language: \n\n  creator_2: Simryn Gill\n\n  creator_1: Gill\n Simryn\n 1959-\n\n  creator_role: artists (visual artists)\n\n  creation_date: 1999\n\n  creation_place_original_location: New South Wales\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: Rectangular\n\n  materials_name: paper (fiber product) silver sulfide baryta paper gelatin\n\n  techniques_name: gelatin silver process photographic printing techniques black-and-white photography\n\n  object_colour: black-and-white (colours)\n\n  edition_description: 4th edition\n\n  physical_appearance: This is a series of 7 black-and-white photographs focusing on natural landscapes that include bamboo\n bananas\n camphor laurels\n and sugar can groves. Lungis and sarongs were hung and/or dressed on these plants. All prints have been framed with a black frame.\n\n  subject_terms_1: Saccharum (genus) nature photography sarongs bamboo (plant) Cinnamomum camphora (species)\n\n  subject_terms_2: Nature photography Camphor tree New South Wales Sugarcane Photography\n Artistic Bamboo\n\n  subject_terms_3: visual arts Artistic photography\n\n  sgcool_label_text: In Rampant\n Simryn Gill photographed bamboo\n bananas\n camphor laurels and sugar cane groves in northern New South Wales\n Australia. The plants are dressed with lungis and sarongs—garments from South and Southeast Asia\n where many of these plants originated. Over time\n these plants\n once only found in South and Southeast Asia\n became part of the Australian landscape. Some even came to be regarded as weeds that threaten the native flora\n a point to which the title of the work alludes\n",
-  "createdDate": "20201127000604",
+  "createdDate": "20201127205926",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -33,7 +33,7 @@
     "subject_terms_3": "visual arts Artistic photography",
     "sgcool_label_text": "In Rampant, Simryn Gill photographed bamboo, bananas, camphor laurels and sugar cane groves in northern New South Wales, Australia. The plants are dressed with lungis and sarongs—garments from South and Southeast Asia, where many of these plants originated. Over time, these plants, once only found in South and Southeast Asia, became part of the Australian landscape. Some even came to be regarded as weeds that threaten the native flora, a point to which the title of the work alludes"
   },
-  "nlpDate": "20201127000604",
+  "nlpDate": "20201127205926",
   "connectorId": 0,
   "tags": {}
 }

@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2018-00056\n\n  Image: \n\n  object_work_type: watercolours (paintings) paintings (visual works)\n\n  title_text: At Singapore\n a watercolour painting by William Godfrey Rayson Masters\n\n  preference: main\n\n  title_language: \n\n  creator_2: Captain William Godfrey Rayson Masters\n\n  creator_1: Not indicated\n\n  creator_role: watercolourists\n\n  creation_date: 1859-1860\n\n  creation_place_original_location: Great Britain Singapore (nation) China\n\n  styles_periods_indexing_terms: Not indicated\n\n  inscriptions: \n\n  inscription_language: \n\n  scale_type: Not indicated\n\n  shape: rectangular\n\n  materials_name: watercolour (paint)\n\n  techniques_name: watercolour painting (technique) creating (artistic activity)\n\n  object_colour: multicoloured\n\n  physical_appearance: \\The image shows a painting. The painting has a grey border and it is envlosed within a black frame. The image depicted on the painting shows a body of water and land. The background shows the sky as well as several houses. Tall poles can be seen erected on the sands as well. The foreground shows a number of boats on water. Two people can be seen walking on the sands\n as well as another two on the boats. All of them are wearing brown hats. \\\\At Singapore\\\\ is stated at the bottom left hand corner. \\\\WGR. Masters\\\\ is stated at the bottom right hand corner. \\\n\n  subject_terms_1: cultural landscapes rivers boats bodies of water (natural) dwellings\n\n  subject_terms_2: Boats and boating Rivers Dwellings Bodies of water Landscapes Singapore Watercolour painting\n\n  subject_terms_3: Waterways Watercolour Painting Visual arts\n\n  subject_terms_4: Singapore (nation)\n\n  sgcool_label_text: This charming vignette belongs to a tradition of images that were produced by itinerant artists who travelled through Singapore in the 19th century. This was painted by Captain William Godfrey Rayson Masters while on his expedition to China in 1859-1860 - thus providing us with a specific historical context for the painting. \\r\\n\\r\\nMasters served as a Captain of the Royal Marine Light infantry under the command of Rear-Admiral Hope in 1859-60. He was seriously wounded during the attempt to storm the forts at the entrance to the Pei-Ho river in June 1859. The forts were eventually taken in 1860 and the combined English and French forces entered Tientsin\\r\\n\n",
-  "createdDate": "20201127000603",
+  "createdDate": "20201127205925",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -35,7 +35,7 @@
     "subject_terms_4": "Singapore (nation)",
     "sgcool_label_text": "This charming vignette belongs to a tradition of images that were produced by itinerant artists who travelled through Singapore in the 19th century. This was painted by Captain William Godfrey Rayson Masters while on his expedition to China in 1859-1860 - thus providing us with a specific historical context for the painting. \r\n\r\nMasters served as a Captain of the Royal Marine Light infantry under the command of Rear-Admiral Hope in 1859-60. He was seriously wounded during the attempt to storm the forts at the entrance to the Pei-Ho river in June 1859. The forts were eventually taken in 1860 and the combined English and French forces entered Tientsin\r\n"
   },
-  "nlpDate": "20201127000603",
+  "nlpDate": "20201127205925",
   "connectorId": 0,
   "tags": {}
 }

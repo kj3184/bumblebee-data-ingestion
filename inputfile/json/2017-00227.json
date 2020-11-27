@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00227\n\n  Image: \n\n  object_work_type: tracts (documents)\n\n  title_text: Perfect Man\\u0027s Model (Quanren Juyue) by Karl Friedrich August Gützlaff\n\n  preference: main\n\n  title_language: \n\n  creator_2: Not specified\n\n  creator_1: Gutzlaff\n Karl Friedrich August\n 1803-1851\n\n  creator_role: authors\n\n  creation_date: 1836\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: Rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: bookbinding (process) printing processes\n\n  object_colour: black-and-white (colours)\n\n  edition_description: First\n\n  physical_appearance: The book is bound by white strings that have been threaded through small holes along the edges of the paper. The papers are torn along the top right of the book\n and shows wear along the ridges of the paper. Browning has also occurred throughout the book\n though particularly evident along the edges of the papers.\n\n  subject_terms_1: Confucianism ? missionaries Christianity\n\n  subject_terms_2: Confucianism ? Gutzlaff\n Karl Friedrich August\n 1803-1851 Missionary Tracts Christianity American Board of Commissioners for Foreign Missions\n\n  subject_terms_3: Religion and Philosophy\n\n  sgcool_label_text: \\ (Quanren Juyue)\n which translates roughly as \\\\The Perfect Man’s Model\\\\\n",
-  "createdDate": "20201127000607",
+  "createdDate": "20201127205927",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -33,7 +33,7 @@
     "subject_terms_3": "Religion and Philosophy",
     "sgcool_label_text": "\" (Quanren Juyue), which translates roughly as \"\"The Perfect Man’s Model\"\""
   },
-  "nlpDate": "20201127000607",
+  "nlpDate": "20201127205927",
   "connectorId": 0,
   "tags": {}
 }

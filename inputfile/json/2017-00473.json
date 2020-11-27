@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00473\n\n  Image: \n\n  object_work_type: womenswear wedding clothes\n\n  title_text: Wedding robe with 2 hangings\n\n  preference: main\n\n  title_language: \n\n  creation_date: 1930s-1940s\n\n  creation_place_original_location: Indonesia China\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: silk (textile)\n\n  techniques_name: sewing (needleworking technique)\n\n  object_colour: multicolored\n\n  physical_appearance: This is a silk wedding robe. It has a mandarin collar and side opening. The textile is embroidered with peonies and phoenixes\n flying amongst cloud forms. The bottom hem of the robe features a triangular geometric pattern and layered clouds. There are two embroidered strips with beads hanging from v-shaped ends..\n\n  subject_terms_1: robes (main garments) ceremonial costume phoenixes flower (motif) embroidery (visual works) folk costume\n\n  subject_terms_2: Motifs Rites and ceremonies Ethnic costume Embroidery Wedding costume Robes\n\n  subject_terms_3: Peranakan costumes\n\n  sgcool_label_text: This is a wedding robe worn by a Peranakan bride. With a mandarin collar and side opening\n the red robe is richly embroidered with peonies and phoenixes\n symbols of prosperity and loyalty respectively.  Also included are two embroidered strips with strings of beads hanging from v-shaped ends. Four such hangings would have been attached to a cape placed over the wedding robe.\\r\\n\\r\\nIn Malacca\n the garment was worn during the Chiu Thau ceremony which took place after the Chia Lang Kheh (Dinner for guests on wedding eve) and before the Chim Pang (Meeting of the Bride and Bridegroom).  Wedding robes were specially ordered from Shanghai or made by Shanghainese tailors living in Singapore.\n",
-  "createdDate": "20201127000605",
+  "createdDate": "20201127205926",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -29,7 +29,7 @@
     "subject_terms_3": "Peranakan costumes",
     "sgcool_label_text": "This is a wedding robe worn by a Peranakan bride. With a mandarin collar and side opening, the red robe is richly embroidered with peonies and phoenixes, symbols of prosperity and loyalty respectively.  Also included are two embroidered strips with strings of beads hanging from v-shaped ends. Four such hangings would have been attached to a cape placed over the wedding robe.\r\n\r\nIn Malacca, the garment was worn during the Chiu Thau ceremony which took place after the Chia Lang Kheh (Dinner for guests on wedding eve) and before the Chim Pang (Meeting of the Bride and Bridegroom).  Wedding robes were specially ordered from Shanghai or made by Shanghainese tailors living in Singapore."
   },
-  "nlpDate": "20201127000605",
+  "nlpDate": "20201127205926",
   "connectorId": 0,
   "tags": {}
 }

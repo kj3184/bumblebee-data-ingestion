@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2018-00477\n\n  Image: \n\n  object_work_type: drawings (visual works)\n\n  title_text: Sydney\n\n  preference: main\n\n  title_language: \n\n  creator_2: Choon Ghee Tan\n\n  creator_1: Tan\n Choon Ghee\n 1930- Tan\n Choon Ghee\n\n  creator_role: artists (visual artists)\n\n  creation_date: 1963\n\n  creation_place_original_location: Pulau Pinang (state) Singapore (nation)\n\n  styles_periods_indexing_terms: Not indicated\n\n  inscriptions: \n\n  inscription_language: \n\n  scale_type: Not indicated\n\n  shape: rectangular\n\n  materials_name: paper (fiber product) ink\n\n  techniques_name: drawing (image-making) creating (artistic activity)\n\n  object_colour: black (colour)\n\n  physical_appearance: \\The image shows a drawing. The lines drawn are all black in colour. The foreground shows a body of water. The outline of two human figures can be seen at the bottom left hand corner of the drawing. There are a couple of sailboats on the body of water. There is a large steel arch bridge that spans horizontally across the drawing. There are some buildings in the background. The location\n signature and year\n \\\\Tan. 1963\n\n  subject_terms_1: rivers Sydney\\\\ buildings (structures) arch bridges\n\n  subject_terms_2: Sydney Harbour Bridge (Sydney\n N.S.W.) is stated at the bottom right hand side.\\ Boats and boating Buildings rivers Sydney (N.S.W.)\n\n  subject_terms_3: Waterways Buildings boats Visual arts Bridges\n\n  subject_terms_4: Drawings Sydney (inhabited place)\n\n  context_1: Drawing\n\n  context_2: Sydney Harbour Bridge (bridge)\n",
-  "createdDate": "20201127000602",
+  "createdDate": "20201127205924",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -36,7 +36,7 @@
     "context_1": "Drawing",
     "context_2": "Sydney Harbour Bridge (bridge)"
   },
-  "nlpDate": "20201127000602",
+  "nlpDate": "20201127205924",
   "connectorId": 0,
   "tags": {}
 }

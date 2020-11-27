@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2014-00914\n\n  Image: \n\n  object_work_type: invitations\n\n  title_text: Invite card for a performance by the Padres Performance by the Padres\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: Not indicated\n\n  creation_date: 1997\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process)\n\n  object_colour: multicoloured\n\n  physical_appearance: \\The image shows a rectangular invitation card. \\\\live at moods: Padres\\\\ is stated at the centre of the invitation card. The date\n\n  subject_terms_1: venue pubs music (performing arts)\n\n  subject_terms_2: Bands (Music) Rock groups and time are stated in red. The invitation card features the four band members of the Padres. Two of them are wearing sunglasses and all of them have black tops on.\\ Bars (drinking establishments) Alternative rock music\n\n  subject_terms_3: bands (ensembles) Rock music Musicians\n\n  subject_terms_4: Invitation cards\n\n  context_1: Bands\n",
-  "createdDate": "20201127000612",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -31,7 +31,7 @@
     "subject_terms_4": "Invitation cards",
     "context_1": "Bands"
   },
-  "nlpDate": "20201127000612",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

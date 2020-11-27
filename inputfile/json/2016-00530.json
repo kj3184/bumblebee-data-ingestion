@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00530\n\n  Image: \n\n  object_work_type: magazines (periodicals) monthlies (publications)\n\n  title_text: ‘Growing Up’ magazine ‘Growing Up’ magazine by Ministry of Education\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: Ministry of Education\n\n  creator_1: Singapore\n Ministry of Education\n\n  creator_role: creators\n\n  creation_date: Nov-80\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: printing paper\n\n  techniques_name: printing (process)\n\n  object_colour: multicoloured\n\n  edition_description: Not indicated\n\n  physical_appearance: The image displays the front cover of a magazine. There are Chinese characters at the magazine\\u0027s masthead as well as at its bottom half. Four children dressed in their respective school uniforms are sitting down alongside one another\n at the top of a sloping surface. The background shows trees and it suggests that this image was taken outdoors.\n\n  subject_terms_1: education schoolchildren\n\n  subject_terms_2: Periodicals Publications Education School children\n\n  subject_terms_3: Periodicals Singapore. Ministry of Education Children Education\n\n  sgcool_label_text: This is an issue of a monthly magazine that was published by the Ministry of Education. It is a Chinese publication that provided information on schooling matters and served as a platform for parents and stakeholders in education to share their views.\n",
-  "createdDate": "20201127000610",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -33,7 +33,7 @@
     "subject_terms_3": "Periodicals Singapore. Ministry of Education Children Education",
     "sgcool_label_text": "This is an issue of a monthly magazine that was published by the Ministry of Education. It is a Chinese publication that provided information on schooling matters and served as a platform for parents and stakeholders in education to share their views."
   },
-  "nlpDate": "20201127000610",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

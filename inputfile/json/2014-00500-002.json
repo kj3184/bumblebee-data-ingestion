@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2014-00500-002\n\n  Image: \n\n  object_work_type: clippings (information artifacts) pages (components)\n\n  title_text: Calcutta works for the I. N. A. The Orient Weekly\n\n  preference: main alternate\n\n  title_language: \n\n  creation_date: 19/5/46\n\n  creation_place_original_location: India Singapore Malaya\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing processes\n\n  object_colour: black-and-white prints (prints on paper)\n\n  physical_appearance: This clipping is a page from the periodical \\u0027The Orient Illustrated Weekly\n\\u0027 published on 19 May 1946. It includes six black-and-white photographs of cadet officers from the Indian National Army in Calcutta. The first photograph is of the I.N.A. Rest Camp. Underneath the photographs there are brief captions. The edges of the page are torn.\n\n  subject_terms_1: rallies periodicals Indian (South Asian) political events nationalism\n\n  subject_terms_2: Periodicals anti-imperialist movements Independence movements Provisional Government of Free India Nationalism Bose\n Subhas Chandra\n 1897-1945 self-determination\n national Kolkata (India) Indian National Army Khan\n Shah Nawaz\n 1914-\n\n  subject_terms_3: Indian National Army Monument Site Indian National Army (Singapore) Bose\n Subhas Chandra periodicals\n",
-  "createdDate": "20201127000613",
+  "createdDate": "20201127205930",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -28,7 +28,7 @@
     "subject_terms_2": "Periodicals anti-imperialist movements Independence movements Provisional Government of Free India Nationalism Bose, Subhas Chandra, 1897-1945 self-determination, national Kolkata (India) Indian National Army Khan, Shah Nawaz, 1914-",
     "subject_terms_3": "Indian National Army Monument Site Indian National Army (Singapore) Bose, Subhas Chandra periodicals"
   },
-  "nlpDate": "20201127000613",
+  "nlpDate": "20201127205930",
   "connectorId": 0,
   "tags": {}
 }

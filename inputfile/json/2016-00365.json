@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00365\n\n  Image: \n\n  object_work_type: fly whisks\n\n  title_text: Chaur Sahib\n\n  preference: main\n\n  title_language: \n\n  creation_date: 1801 - 1900\n\n  creation_place_original_location: India\n Northwestern\n\n  inscriptions: \n\n  inscription_language: \n\n  materials_name: wool (hair material) metal\n\n  techniques_name: forming (physical activity) metalworking\n\n  object_colour: multicoloured\n\n  physical_appearance: The image shows a set of two flywhisks. Both of them have a handle that is golden in colour. Long white woolly hair hangs out from the top of the handle. Some strands of hair end below the base of the handle of the flywhisks.\n\n  subject_terms_1: ceremonial objects ritual objects implement (object genre) Sikhism\n\n  subject_terms_2: Ceremonial objects Sikhism Customs and practices\n\n  subject_terms_3: Sikhism\n\n  sgcool_label_text: Chaur sahib and chauri are ceremonial flywhisks that are used to fan the Sikh holy scriptures\n the Guru Granth Sahib (holy scripture of the Sikh faith)\n as an act of devotion and respect during religious observances. Legend has it that when the Guru Granth Sahib was first installed at the Golden Temple in Amritsar\n Punjab\n India\n Guru Arjan Dev (the 5th Sikh Guru). The chaur sahib continue to be important ritual objects used in Sikh temples\n as seen in Singapore\\u0027s Sikh Gurudwaras as well.\n",
-  "createdDate": "20201127000611",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -28,7 +28,7 @@
     "subject_terms_3": "Sikhism",
     "sgcool_label_text": "Chaur sahib and chauri are ceremonial flywhisks that are used to fan the Sikh holy scriptures, the Guru Granth Sahib (holy scripture of the Sikh faith), as an act of devotion and respect during religious observances. Legend has it that when the Guru Granth Sahib was first installed at the Golden Temple in Amritsar, Punjab, India, Guru Arjan Dev (the 5th Sikh Guru). The chaur sahib continue to be important ritual objects used in Sikh temples, as seen in Singapore\u0027s Sikh Gurudwaras as well."
   },
-  "nlpDate": "20201127000611",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

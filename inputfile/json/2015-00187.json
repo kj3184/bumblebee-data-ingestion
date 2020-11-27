@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2015-00187\n\n  Image: \n\n  object_work_type: folk costume\n\n  title_text: Red full length cheongsam with sequinned motif of phoenix\n\n  preference: main\n\n  title_language: \n\n  creator_2: Not indicated\n\n  creator_1: Not indicated\n\n  creation_date: 1988\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  materials_name: sequins (spangles) velvet (fabric weave)\n\n  techniques_name: embroidering machine sewing (technique)\n\n  object_colour: multicoloured\n\n  physical_appearance: This is a full length cheongsam. It is red in colour and it has a motif of a pheonix at its front. The pheonix is gold in colour. There is a high slit present on the left side of the cheongsam. The cheongsam is sleeveless and it has a high collar. The cheongsam is draped on a mannequin.\n\n  subject_terms_1: dresses (garments) costumes (character dress) womenswear birds (motifs)\n\n  subject_terms_2: Women\\u0027s clothing Motifs Qipao Ethnic costume\n\n  subject_terms_3: Ethnic costume Chinese costume\n\n  sgcool_label_text: This cheongsam designed for the theatre is quite significant - intended for the actress in the role of a night club owner\n the garment in red velvet with an elaborate sequinned motif - seems appropriate for the setting.  The high mandarin collar\n raglan shoulder\n sleeveless and a highly cut skirt is indicative of the role of a cabaret owner in her 40s.\\r\\nThe costume was tailored for Dr Margaret Chan who played the role of the cabaret owner. \\r\\nBeauty World\n 1988 is among the most well known Singapore musicals. Written by Michael Chiang\n the play was first directed by Ong Keng Sen and presnted by Theatreworks. The songs were writteby Dick Lee.\n",
-  "createdDate": "20201127000612",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -30,7 +30,7 @@
     "subject_terms_3": "Ethnic costume Chinese costume",
     "sgcool_label_text": "This cheongsam designed for the theatre is quite significant - intended for the actress in the role of a night club owner, the garment in red velvet with an elaborate sequinned motif - seems appropriate for the setting.  The high mandarin collar, raglan shoulder, sleeveless and a highly cut skirt is indicative of the role of a cabaret owner in her 40s.\r\nThe costume was tailored for Dr Margaret Chan who played the role of the cabaret owner. \r\nBeauty World, 1988 is among the most well known Singapore musicals. Written by Michael Chiang, the play was first directed by Ong Keng Sen and presnted by Theatreworks. The songs were writteby Dick Lee."
   },
-  "nlpDate": "20201127000612",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

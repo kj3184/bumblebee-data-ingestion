@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2018-00138\n\n  Image: \n\n  object_work_type: photographs black-and-white photographs\n\n  title_text: Studio portrait of a seated nyonya with child\n\n  preference: main\n\n  title_language: \n\n  creator_2: Not indicated\n\n  creator_1: Not indicated\n\n  creation_date: 1870s\n\n  creation_place_original_location: Singapore (nation)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process) photographic processes\n\n  object_colour: grey monochrome\n\n  physical_appearance: The image shows a black-and-white photograph. It is rectangular and it features a lady and a child. Both of them are sitting down\n with the child sitting on a miniature chair on the left hand side of the photograph. Both of them are dressed in their ethnic costumes and they are looking towards the direction where the photograph was captured.\n\n  subject_terms_1: women (female humans) Peranakan double portraits studio portraits children (people by age group) folk costume\n\n  subject_terms_2: Ethnic costume Peranakan (Asian people) Children Portrait photography Black-and-white photography Women\n\n  subject_terms_3: Children Portrait photography Peranakan costumes Women\n\n  sgcool_label_text: This studio portrait shows a nyonya seated beside a child. \\r\\n\\r\\nStudios were already established across the Strait Settlements and the Dutch East Indies by the 1840s and became increasingly prevalent in the 1850s. During the 1920s\n Chinese-owned studios dominated the studio photography trade in Southeast Asia.\n",
-  "createdDate": "20201127000602",
+  "createdDate": "20201127205925",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -31,7 +31,7 @@
     "subject_terms_3": "Children Portrait photography Peranakan costumes Women",
     "sgcool_label_text": "This studio portrait shows a nyonya seated beside a child. \r\n\r\nStudios were already established across the Strait Settlements and the Dutch East Indies by the 1840s and became increasingly prevalent in the 1850s. During the 1920s, Chinese-owned studios dominated the studio photography trade in Southeast Asia."
   },
-  "nlpDate": "20201127000602",
+  "nlpDate": "20201127205925",
   "connectorId": 0,
   "tags": {}
 }

@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2018-00166\n\n  Image: \n\n  object_work_type: photographs black-and-white photographs\n\n  title_text: Photograph of two Indo Eurasian and a child on a patio\n\n  preference: main\n\n  title_language: \n\n  creator_2: Not indicated\n\n  creator_1: Not indicated\n\n  creation_date: Late 19th century\n\n  creation_place_original_location: Indonesia (nation)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process) photographic processes\n\n  object_colour: grey monochrome\n\n  physical_appearance: The image shows a black-and-white photograph. It is rectangular and it features two ladies and a child. All of them are looking towards the direction where the photograph was captured. The ladies are dressed in their ethnic costumes. There are large potted plants in the background.\n\n  subject_terms_1: women (female humans) Peranakan children (people by age group) group portraits folk costume\n\n  subject_terms_2: Eurasians Ethnic costume Children Portraits\n Group Portrait photography Black-and-white photography Women\n\n  subject_terms_3: Children Portrait photography Peranakan costumes Women\n\n  sgcool_label_text: This photograph shows two Indo Eurasian women in sarong kebayas and a child on the patio. \\r\\n\\r\\nWith continuous improvement of camera technology\n it became possible to take photographs outside a studio in the first decades of the 20th century. Many middle-class families collected photographs in albums as a way of documenting family life\n or documentasi keluarga.\n",
-  "createdDate": "20201127000602",
+  "createdDate": "20201127205925",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -31,7 +31,7 @@
     "subject_terms_3": "Children Portrait photography Peranakan costumes Women",
     "sgcool_label_text": "This photograph shows two Indo Eurasian women in sarong kebayas and a child on the patio. \r\n\r\nWith continuous improvement of camera technology, it became possible to take photographs outside a studio in the first decades of the 20th century. Many middle-class families collected photographs in albums as a way of documenting family life, or documentasi keluarga."
   },
-  "nlpDate": "20201127000602",
+  "nlpDate": "20201127205925",
   "connectorId": 0,
   "tags": {}
 }

@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2014-00911\n\n  Image: \n\n  object_work_type: fliers (printed matter)\n\n  title_text: Flyer for South Asian Digital Cinema\n hosted by Asian Film Archives Southeast Asian Digital Cinema\n hosted by Asian FIlm Archives\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: Asian Film Archive\n\n  creator_1: Not indicated\n\n  creator_role: creators\n\n  creation_date: 2007\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: hexagonal\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process)\n\n  object_colour: multicoloured\n\n  physical_appearance: \\The image displays a hexagonal flyer. \\\\Asian Film Archive presents Southeast Asian Digital Cinema\\\\ is stated near the centre of the flyer. The logo of the \\\\Asian Film Archive\\\\ is present at the centre of the flyer. There are 5 different images occupying the flyer. 3 of them feature the faces of people. The other 2 feature a close-up of an open mouth and the back of a person who is wearing a blue shirt\n\n  subject_terms_1: respectively.\\ film (performing arts)\n\n  subject_terms_2: Arts\n Southeast Asian festivals Motion pictures\n\n  subject_terms_3: Fliers (Ephemera) Films\n\n  subject_terms_4: Film festivals\n\n  context_2: Southeast Asian Digital Cinema\n\n  context_3: film festivals\n\n  context_4: Aug - Oct 2007\n\n  context_5: 20070801\n\n  context_6: 20071031\n\n  context_7: Not indicated\n",
-  "createdDate": "20201127000612",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -38,7 +38,7 @@
     "context_6": "20071031",
     "context_7": "Not indicated"
   },
-  "nlpDate": "20201127000612",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

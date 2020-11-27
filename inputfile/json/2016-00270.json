@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00270\n\n  Image: \n\n  object_work_type: sculpture (visual works)\n\n  title_text: Garuda Sculpture Garuda\n\n  preference: main alternate\n\n  title_language: \n\n  creation_date: 15th century\n\n  creation_place_original_location: Tibet Autonomous Region (China)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: copper (metal)\n\n  techniques_name: sculpting\n\n  object_colour: bronze (color)\n\n  physical_appearance: This is a sculpture of Garuda. The sculpture has opened wings\n with a featured head with horns. The sculpture\\u0027s hands are outstretched\n palm facing the front\n with the tip of the middle finger and thumb touching. The legs of the sculpture are featured\n with feet having three clawed toes. The sculpture is mounted on a stand. It has a slight orange tint around the surface of its head.\n\n  subject_terms_1: deities Buddhism Hinduism\n\n  subject_terms_2: Garuda (Mythical bird) Buddhist mythology Hindu mythology Sculpture Gods\n\n  subject_terms_3: Religious life and practices Sculpture\n\n  sgcool_label_text: Garuda is a figure who transcends specific religion\n as he is worshipped in an independent cult. His image is also found in Buddhist as well as Hindu art. In Hinduism he is Vishnu\\u0027s mount\n while in Buddhism he is a guardian deity.\\r\\n\\r\\nThis sculpture emphasizes the connections between and makes an important addition to the Himalayan collection\n which is envisioned to be a small\n choice collection which covered different functions and types. The artistic qualities of this proposed work are strong: there is a clear sense of character and a Garuda is a figure who transcends specific religion\n as he is worshipped in an independent cult. His image is also found in Buddhist as well as Hindu art. In Hinduism he is Vishnu\\u0027s mount\n while in Buddhism he is a guardian deity.\n",
-  "createdDate": "20201127000611",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -29,7 +29,7 @@
     "subject_terms_3": "Religious life and practices Sculpture",
     "sgcool_label_text": "Garuda is a figure who transcends specific religion, as he is worshipped in an independent cult. His image is also found in Buddhist as well as Hindu art. In Hinduism he is Vishnu\u0027s mount, while in Buddhism he is a guardian deity.\r\n\r\nThis sculpture emphasizes the connections between and makes an important addition to the Himalayan collection, which is envisioned to be a small, choice collection which covered different functions and types. The artistic qualities of this proposed work are strong: there is a clear sense of character and a Garuda is a figure who transcends specific religion, as he is worshipped in an independent cult. His image is also found in Buddhist as well as Hindu art. In Hinduism he is Vishnu\u0027s mount, while in Buddhism he is a guardian deity."
   },
-  "nlpDate": "20201127000611",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

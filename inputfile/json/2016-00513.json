@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00513\n\n  Image: \n\n  object_work_type: black-and-white photographs\n\n  title_text: Untitled (M. Hassan Railway Food Station)\n\n  preference: main\n\n  title_language: \n\n  creator_2: Kwek Leng Joo\n\n  creator_1: Kwek\n Leng Joo\n\n  creator_role: photographers\n\n  creation_date: 2010\n\n  creation_place_original_location: Malaysia Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process)\n\n  object_colour: grey monochrome\n\n  physical_appearance: \\The image shows a photograph in black-and-white.The left side of the photograph shows the waiting area of Tanjong Pagar railway station\n where some people can be seen to be sitting down and pacing. At the foreground of the photograph\n an elderly man wearing a watch is sitting down. He is looking towards a coffee shop with its name in Arabic characters. Food such as sandwiches and beverages like coffee and tea are present in the stall. Two ladies are standing behind the counter of the coffee shop. Numerous glass cups and mineral water bottles are stacked on the counter. A sign informing that the coffee shop is a \\\\No Smoking Area by Law\\\\ is stated at the bottom of the top shelf\n\n  subject_terms_1: railroad stations coffee shops located on the right of the photograph\\\n\n  subject_terms_2: Canteens (Establishments) Pertadbiran Keretapi Tanah Melayu Railroad stations Coffee shops canteens (eating and recreation spaces)\n\n  subject_terms_3: Rail transport (Stations) Photography Black-and-white photography Tanjong Pagar Railway Station\n\n  subject_terms_4: Pertadbiran Keretapi Tanah Melayu\n",
-  "createdDate": "20201127000610",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_3": "Rail transport (Stations) Photography Black-and-white photography Tanjong Pagar Railway Station",
     "subject_terms_4": "Pertadbiran Keretapi Tanah Melayu"
   },
-  "nlpDate": "20201127000610",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

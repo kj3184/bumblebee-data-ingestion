@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2015-00528\n\n  Image: \n\n  object_work_type: pins (jewellery)\n\n  title_text: Turban Pin\n\n  preference: main\n\n  title_language: \n\n  creator_2: Unknown\n\n  creation_date: 20th century\n\n  creation_place_original_location: Malaysia India Singapore\n\n  styles_periods_indexing_terms: Not indicated\n\n  inscriptions: \n\n  inscription_language: \n\n  scale_type: Not indicated\n\n  shape: irregular\n\n  materials_name: gold (metal)\n\n  techniques_name: forming (physical activity)\n\n  object_colour: gold (colour)\n\n  physical_appearance: The image shows a turban pin. It is gold in colour. The pin is shaped to be a peacock. The tips of the peacock-shaped ornament wings are pointy and the gold wires are formed into four circles. The peacock-shaped ornament is fashioned to be upright.\n\n  subject_terms_1: jewellery filigree worn costume accessories ornaments (object genre) Pavo (genus) goldwork (visual works) turbans decorative art (art genre)\n\n  subject_terms_2: Dress accessories Goldwork Peacocks Gold jewellery Turbans Ethnic jewellery Filigree\n\n  subject_terms_3: Jewellery Indian costumes\n\n  sgcool_label_text: Traditional south Indian jewellery is usually crafted to complement the shape and structure of the parts of the body\n from head to toe. This is an unusual gold filigree turban ornament in the shape of a peacock. This an heirloom collected by Dr. R. D. Gangatharan’s family.\n",
-  "createdDate": "20201127000612",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_3": "Jewellery Indian costumes",
     "sgcool_label_text": "Traditional south Indian jewellery is usually crafted to complement the shape and structure of the parts of the body, from head to toe. This is an unusual gold filigree turban ornament in the shape of a peacock. This an heirloom collected by Dr. R. D. Gangatharan’s family."
   },
-  "nlpDate": "20201127000612",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

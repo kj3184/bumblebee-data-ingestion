@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00525\n\n  Image: \n\n  object_work_type: magazines (periodicals)\n\n  title_text: Darul Islam\n\n  preference: main\n\n  title_language: \n\n  creator_2: Not indicated\n\n  creator_1: Not indicated\n\n  creator_role: Not indicated\n\n  creation_date: 1950\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: printing paper\n\n  techniques_name: printing (process)\n\n  object_colour: multicoloured\n\n  edition_description: Not indicated\n\n  physical_appearance: \\The image displays the front cover of a magazine. Tamil inscriptions are present at the upper half of the front page. The numeral \\u00276\\u0027 can be seen at the bottom left hand side. \\\\Darul Islam\\\\ is stated at the bottom right hand side. The image of a palanquin being carried and transported by a group of people is depicted. Groups of men in religious headgear can be seen looking in the direction of the palanquin. A horse can also be discerned at the bottom left hand corner of the image. The left hand side of the magazine cover features a drawing depicting a palanquin on an elephant decked out in decorative coverings.\\\n\n  subject_terms_1: politics Islam palanquins\n\n  subject_terms_2: Periodicals Islam and politics Litters\n\n  subject_terms_3: Periodicals Islam\n\n  sgcool_label_text: This is a rare magazine as it shows another aspect of the South Asian Muslim community in Singapore.  It reveals the presence of the Singapore Indian Muslim League who were sympathetic to Mr Muhammad Ali Jinnah (1876- 1948).\n",
-  "createdDate": "20201127000610",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -33,7 +33,7 @@
     "subject_terms_3": "Periodicals Islam",
     "sgcool_label_text": "This is a rare magazine as it shows another aspect of the South Asian Muslim community in Singapore.  It reveals the presence of the Singapore Indian Muslim League who were sympathetic to Mr Muhammad Ali Jinnah (1876- 1948)."
   },
-  "nlpDate": "20201127000610",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

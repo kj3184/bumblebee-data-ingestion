@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00479\n\n  Image: \n\n  object_work_type: screen prints color prints (prints)\n\n  title_text: Batik Variant\n\n  preference: main\n\n  title_language: \n\n  creator_2: Mochtar Apin\n\n  creator_1: Apin\n Mochtar\n\n  creator_role: artists (visual artists)\n\n  creation_date: 1971\n\n  creation_place_original_location: Bandung (Indonesia)\n\n  styles_periods_indexing_terms: Indonesian (culture or style)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: Rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: screen printing\n\n  object_colour: multicoloured\n\n  edition_description: 1st edition\n\n  physical_appearance: Split into three colours of blue\n green\n and red\n the design of the background of thie print is filled with floral patterns. Printed atop\n are geometric patterns that cover the entire composition. It is placed in a white frame.\n\n  subject_terms_1: batik art geometric patterns repeated motif flower patterns\n\n  subject_terms_2: Arts\n Indonesian Reinterpreting history Batik Geometry in art\n\n  subject_terms_3: visual arts\n\n  sgcool_label_text: Apin did numerous works tackling the batik medium. Most of these works were titled Batik Variant with some having more than a few editions. From these series of works we can see his attempts at inserting the vernacular or ‘tradition’ into his practice which is known more for its progressiveness and universality ie. abstraction.\\r\\n\\r\\nThis work is culturally significant\n especially since Indonesia has a well established history in the production of batik textiles. It was for this very reason that Apin’s interpretation of this entrenched tradition provides an interesting study of the medium in relation to the art and craft discourse. The 1970s period also saw many modern Indonesian artists re-visiting traditional culture and mythology. Subsequently some would incorporate these elements into their visual language.\n",
-  "createdDate": "20201127000605",
+  "createdDate": "20201127205926",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -34,7 +34,7 @@
     "subject_terms_3": "visual arts",
     "sgcool_label_text": "Apin did numerous works tackling the batik medium. Most of these works were titled Batik Variant with some having more than a few editions. From these series of works we can see his attempts at inserting the vernacular or ‘tradition’ into his practice which is known more for its progressiveness and universality ie. abstraction.\r\n\r\nThis work is culturally significant, especially since Indonesia has a well established history in the production of batik textiles. It was for this very reason that Apin’s interpretation of this entrenched tradition provides an interesting study of the medium in relation to the art and craft discourse. The 1970s period also saw many modern Indonesian artists re-visiting traditional culture and mythology. Subsequently some would incorporate these elements into their visual language."
   },
-  "nlpDate": "20201127000605",
+  "nlpDate": "20201127205926",
   "connectorId": 0,
   "tags": {}
 }

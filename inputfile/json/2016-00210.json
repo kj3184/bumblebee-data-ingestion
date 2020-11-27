@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00210\n\n  Image: \n\n  object_work_type: sculpture (visual works)\n\n  title_text: Radha Folk-style sculpture of Radha\n\n  preference: main alternate\n\n  title_language: \n\n  creation_date: 17th century\n\n  creation_place_original_location: Bihar and Orissa (India)\n\n  styles_periods_indexing_terms: folk art (traditional art)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: bronze (metal)\n\n  techniques_name: sculpting\n\n  object_colour: bronze (color)\n\n  physical_appearance: This is a bronze sculpture of Radha in a poised standing position. The forms of the limbs in this sculpture takes on a geometric rather than realistic form. Her head is tilted to her left\n with her right arm held up in a bent position. Her left arm is extended downwards. Her legs are placed slightly apart. The sculpture is standing on a patterned base. There are no chips or broken fragments seen on this sculpture.\n\n  subject_terms_1: Jainism deities folk art (traditional art)\n\n  subject_terms_2: Folk art Jainism Radha Sculpture Gods\n\n  subject_terms_3: Religious life and practices\n\n  sgcool_label_text: The folk-style sculpture shows Radha standing in a pronounced triple flexion. The plastic forms of her body are articulated as geometric shapes. Her head is tilted to the left as her right hand is lifted up and her left extended downwards. She is beckoning to her lover\n Krishna\n who probably formed a companion piece to this sculpture. Her ears and nose are pierced and were possibly adorned with real jewellery.\\r\\n\\r\\nRadha\n whose name means ‘prosperity’\n was chief among the milkmaids (gopis). She was the favourite consort of the young cowherd Krishna. She is often depicted standing next to him and together they represent love\n passion\n and devotion. Primarily Hindu deities they were also worshipped by Jains.\n",
-  "createdDate": "20201127000612",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -30,7 +30,7 @@
     "subject_terms_3": "Religious life and practices",
     "sgcool_label_text": "The folk-style sculpture shows Radha standing in a pronounced triple flexion. The plastic forms of her body are articulated as geometric shapes. Her head is tilted to the left as her right hand is lifted up and her left extended downwards. She is beckoning to her lover, Krishna, who probably formed a companion piece to this sculpture. Her ears and nose are pierced and were possibly adorned with real jewellery.\r\n\r\nRadha, whose name means ‘prosperity’, was chief among the milkmaids (gopis). She was the favourite consort of the young cowherd Krishna. She is often depicted standing next to him and together they represent love, passion, and devotion. Primarily Hindu deities they were also worshipped by Jains."
   },
-  "nlpDate": "20201127000612",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

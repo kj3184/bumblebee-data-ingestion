@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00920\n\n  Image: \n\n  object_work_type: view cameras\n\n  title_text: Half plate tailboard field camera \n Watsons (Watson \\u0026 Son)\n\n  preference: main\n\n  title_language: \n\n  creation_date: 1890\n\n  creation_place_original_location: London\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: mahogany (wood) glass (material) brass (alloy) metal\n\n  object_colour: multicolored\n\n  physical_appearance: This is a field camera equipment set. It consists of several parts. There is a large brown bag with two straps along the front flap. On the left\n there is a folded wooden stand. The camera on the left is made from wood\n with a circular lens in the center. There are two more wooden panels placed in front of it. There is a black cloth on the right. In the center sits a lens and a package of plates.\n\n  subject_terms_1: camera accessories vintage (period) photography (discipline) camera components cameras (photographic equipment)\n\n  subject_terms_2: Photography View cameras Vintage\n\n  subject_terms_3: Photography\n\n  sgcool_label_text: The camera bears the inscription ‘W Watson \\u0026 Sons Ltd. Manufacturers. 313 High Holborn\n London’. \\r\\n\\r\\nBefore the advent of the portable camera in the late 19th century\n the taking of photographs was limited to the studio. However portable cameras remained affordable only to the rich until the first decades of the 20th century.\\r\\n\n",
-  "createdDate": "20201127000604",
+  "createdDate": "20201127205925",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -28,7 +28,7 @@
     "subject_terms_3": "Photography",
     "sgcool_label_text": "The camera bears the inscription ‘W Watson \u0026 Sons Ltd. Manufacturers. 313 High Holborn, London’. \r\n\r\nBefore the advent of the portable camera in the late 19th century, the taking of photographs was limited to the studio. However portable cameras remained affordable only to the rich until the first decades of the 20th century.\r\n"
   },
-  "nlpDate": "20201127000604",
+  "nlpDate": "20201127205925",
   "connectorId": 0,
   "tags": {}
 }

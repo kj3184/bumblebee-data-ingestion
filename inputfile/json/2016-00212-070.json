@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00212-070\n\n  Image: \n\n  object_work_type: black-and-white photographs\n\n  title_text: Concert Hall\n Botanical Gardens\n Batavia\n Java Photograph album of views and portraits in the Punjab\n Cashmere\n Ceylon\n Burma\n Penang\n Singapore\n and Java\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: John Thomson\n\n  creator_1: Thomson\n J. (John)\n 1837-1921\n\n  creator_role: photographers\n\n  creation_date: before 28 Jul 1876\n\n  creation_place_original_location: Singapore Jakarta (Indonesia)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: albumen (egg white protein) paper (fiber product) albumen paper\n\n  techniques_name: albumen process\n\n  object_colour: black-and-white (colors)\n\n  physical_appearance: This is a photograph of a concert hall in the Botanical Gardens in Batavia (Jakarta)\n Indonesia. The concert hall has decorated roofs and shuttered windows. The building has a small porch on the left. The edges of the photographs are curved. The title is written at the bottom\n below the photographs.\n\n  subject_terms_1: colonization concert halls botanical gardens\n\n  subject_terms_2: Colonization Music-halls Photographs Thomson\n J. (John)\n 1837-1921 Kebun Raya Bogor Jakarta (Indonesia)\n\n  subject_terms_3: Photography Parks and gardens\n",
-  "createdDate": "20201127000611",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -31,7 +31,7 @@
     "subject_terms_2": "Colonization Music-halls Photographs Thomson, J. (John), 1837-1921 Kebun Raya Bogor Jakarta (Indonesia)",
     "subject_terms_3": "Photography Parks and gardens"
   },
-  "nlpDate": "20201127000611",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

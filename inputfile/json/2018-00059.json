@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2018-00059\n\n  Image: \n\n  object_work_type: maps (documents) pictorial maps\n\n  title_text: Van Keulen\\u0027s Map of Java\n\n  preference: main\n\n  title_language: \n\n  creator_2: Gerard van Keulen\n\n  creator_1: not indicated\n\n  creator_role: engravers (printmakers) hydrographers mathematicians\n\n  creation_date: c1753\n\n  creation_place_original_location: not indicated\n\n  styles_periods_indexing_terms: not indicated\n\n  inscriptions: \n\n  inscription_language: \n\n  scale_type: not indicated\n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: papermaking copper engraving (printing process) hand coloring\n\n  object_colour: multicoloured\n\n  physical_appearance: This is a multicoloured map of Java which was created by Gerard Van Keulen. This map\n divided into western and eastern parts\n has an inset map and view of Batavia.There are many lines of text in Dutch throughout the map specifying the names of places in Dutch-colonised Java in the 18th century.\n\n  subject_terms_1: seas topography (attribute) hydrography cartography (discipline)\n\n  subject_terms_2: Pictorial maps Seas Hydrography Cartography Navigation\n\n  subject_terms_4: Jakarta (inhabited place) East Indies (general region) Nederlandsche Oost-Indische Compagnie Java (island)\n\n  sgcool_label_text: This two-part map of Java was produced by Gerard van Keulen\n an engraver\n mathematician and hydrographer for the Dutch East India Company. It was published later by his son Johannes van Keulen II in Part VI of his collection of sea charts\n the Zee Fakkel\n in 1653. Apart from the main map which shows both West and East Java\n the insets provide a map and view of Batavia.\n",
-  "createdDate": "20201127000603",
+  "createdDate": "20201127205925",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -34,7 +34,7 @@
     "subject_terms_4": "Jakarta (inhabited place) East Indies (general region) Nederlandsche Oost-Indische Compagnie Java (island)",
     "sgcool_label_text": "This two-part map of Java was produced by Gerard van Keulen, an engraver, mathematician and hydrographer for the Dutch East India Company. It was published later by his son Johannes van Keulen II in Part VI of his collection of sea charts, the Zee Fakkel, in 1653. Apart from the main map which shows both West and East Java, the insets provide a map and view of Batavia."
   },
-  "nlpDate": "20201127000603",
+  "nlpDate": "20201127205925",
   "connectorId": 0,
   "tags": {}
 }

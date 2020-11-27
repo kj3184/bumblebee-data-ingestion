@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00899\n\n  Image: \n\n  object_work_type: barrettes (hair ornaments\n\n  title_text: Majie\\u0027s hairclip\n\n  preference: main\n\n  title_language: \n\n  creation_date: Mid-20th century\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: plastic (organic material)\n\n  techniques_name: molding (forming)\n\n  object_colour: multicolored\n\n  physical_appearance: This is a hairclip. It is black in colour. It has an intricate design made of interweaving of scrolling patterns\n with two small stars on the left.\n\n  subject_terms_1: cultural ceremonies ceremonial objects maids (servants) openwork customs (social concepts)\n\n  subject_terms_2: Hairpins Rites and ceremonies Ceremonial objects Household employees\n\n  subject_terms_3: Lu\n Earl Ming-Teh\n\n  subject_terms_4: \n\n  sgcool_label_text: This hairclip belonged to a majie\n a Cantonese female domestic helper. In adherence to tradition\n majies underwent a sor hei (combing up) ceremony where they took an oath before a statuette of Guan Yin (Goddess of Mercy) to remain unmarried and celibate. Sor hei\n in literal terms\n means to “comb up” the hair into a bun or plait.\n",
-  "createdDate": "20201127000604",
+  "createdDate": "20201127205926",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -30,7 +30,7 @@
     "subject_terms_4": "",
     "sgcool_label_text": "This hairclip belonged to a majie, a Cantonese female domestic helper. In adherence to tradition, majies underwent a sor hei (combing up) ceremony where they took an oath before a statuette of Guan Yin (Goddess of Mercy) to remain unmarried and celibate. Sor hei, in literal terms, means to “comb up” the hair into a bun or plait."
   },
-  "nlpDate": "20201127000604",
+  "nlpDate": "20201127205926",
   "connectorId": 0,
   "tags": {}
 }

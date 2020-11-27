@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2015-00004\n\n  Image: \n\n  object_work_type: documents (object genre)\n\n  title_text: National Service Call-Up Notice\n\n  preference: main\n\n  title_language: \n\n  creator_2: MINDEF Central Manpower Base\n\n  creator_1: Not indicated\n\n  creator_role: creators\n\n  creation_date: October 2nd\n 1969\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process)\n\n  object_colour: grey (colour)\n\n  physical_appearance: \\The image shows a document. There are two punched holes on its left hand side. The address of \\\\William Oh\\\\ is displayed above the title of the notice. The title of the notice is \\\\National Service Call-up (Full Time) Community Centres\\\\ and it is underlined. There are four paragraphs written in English\n\n  subject_terms_1: parties (events) military service followed by three paragraphs written in the Chinese language. The date \\\\20.10.69\\\\ is stated in purple. The coat-of-arms of the \\\\Central Manpower Base\n\n  subject_terms_2: Draft Kallang parties\n\n  subject_terms_3: Singapore 14\\\\ is stamped at the upper right hand side of the document in purple.\\\n\n  subject_terms_4: armed forces\n\n  context_1: Recruiting and enlistment\n",
-  "createdDate": "20201127000612",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -33,7 +33,7 @@
     "subject_terms_4": "armed forces",
     "context_1": "Recruiting and enlistment"
   },
-  "nlpDate": "20201127000612",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

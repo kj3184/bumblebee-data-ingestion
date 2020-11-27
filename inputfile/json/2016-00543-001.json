@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00543-001\n\n  Image: \n\n  object_work_type: newspapers\n\n  title_text: University Tribune “Nantah Unruly Elements expelled and warned” University Tribune “Nantah Unruly Elements expelled and warned” Front Page and Page 8\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: Tak Seng Press\n Singapore Publication Committee of the Nanyang University Students\\u0027 Union\n\n  creator_1: Not indicated\n\n  creator_role: editors (people who revise) publishers printers (people)\n\n  creation_date: June\n 1961\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: printing paper\n\n  techniques_name: colour printing\n\n  object_colour: multicoloured\n\n  edition_description: Issue 11\n\n  physical_appearance: \\The image shows the front and back cover of a newspaper. \\\\University tribune\\\\ is the masthead for the page on the right side. \\\\June 1961\n\n  subject_terms_1: students boycotts editorials No 11\\\\\n\n  subject_terms_2: boycotts :Nanyang University Students\\u0027 Union\\\\ Demonstrations Student unions Editorials Nanyang University Student expulsion\n\n  subject_terms_3: Nanyang University and \\\\Price 20 cents\\\\ is displayed below the masthead for the page on the right side. \\\\“Nantah Unruly Elements - Expelled and Warned” serves as the headline for the page on the right side. \\\\With the compliments of Nanyang University Students\\u0027 Union Jurong Road\n\n  subject_terms_4: Singapore\\\\ is handwritten at the top right hand side for the page on the right side. \\\\Page 8\\\\ is stated at the top left hand corner for the page on the left side. \\\\Disruptive Activities Condemned -  At N.U.S.U. Emergency General Meeting\\\\ is the headline for the page on the left side. At the bottom of the page on the left side\n\n  context_1: \\\\Edited \\u0026 Published by the Publication Committee of the Nanyang University Students\\u0027 Union and Printed by Tak Seng Press\n\n  context_2: Singapore\\\\ is stated.  \\\n\n  context_3: universities (institutions)\n\n  context_4: Newspapers\n\n  context_5: Newspapers\n",
-  "createdDate": "20201127000610",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -38,7 +38,7 @@
     "context_4": "Newspapers",
     "context_5": "Newspapers"
   },
-  "nlpDate": "20201127000610",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

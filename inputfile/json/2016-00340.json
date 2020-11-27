@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00340\n\n  Image: \n\n  object_work_type: scarves (costume accessories) shawls stoles (outerwears)\n\n  title_text: Cotton Stole\n\n  preference: main\n\n  title_language: \n\n  creation_date: 1901 - 2000\n\n  creation_place_original_location: Rajasthan (India)\n\n  styles_periods_indexing_terms: Islamic Indian\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: silver (metal) cotton (textile) ink\n\n  techniques_name: weaving sewing (needleworking technique) calligraphy (process) block printing (relief printing process)\n\n  object_colour: multicoloured\n\n  physical_appearance: This cotton stole is predominantly dark green in colour. There is a silver-coloured border along the perimeter of the rectangular stole. Within the border\n there are medallion-shaped patterns running vertically from the top to the bottom of the stole. And within each medallion\n there is a calligraphic writing in script language.\n\n  subject_terms_1: textiles (visual works) Islam nasta?liq  running ornament medallions (ornament areas)\n\n  subject_terms_2: God (Islam) Textiles Stoles (Clothing) Motifs Calligraphy\n Persian Shawls\n\n  subject_terms_3: Islam\n\n  sgcool_label_text: This cotton stole from the Rajasthan region is embellished with block-printing done in silver. The surface of the stole has a repeated medallion\n within which appears the word “Allah” in Nastaliq calligraphy. The narrow border shows a flower vine pattern.\n",
-  "createdDate": "20201127000611",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -30,7 +30,7 @@
     "subject_terms_3": "Islam",
     "sgcool_label_text": "This cotton stole from the Rajasthan region is embellished with block-printing done in silver. The surface of the stole has a repeated medallion, within which appears the word “Allah” in Nastaliq calligraphy. The narrow border shows a flower vine pattern."
   },
-  "nlpDate": "20201127000611",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

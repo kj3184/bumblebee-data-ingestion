@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2018-00195-004\n\n  Image: \n\n  object_work_type: envelopes\n\n  title_text: Group of 6 envelopes for negatives: Envelope from Rex Studio Group of 6 envelopes for negatives\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: Rex Studio\n\n  creator_1: Not indicated\n\n  creator_role: creators\n\n  creation_date: 1950s-1970s\n\n  creation_place_original_location: Singapore (nation)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process) photographic processes\n\n  object_colour: grey (colour)\n\n  physical_appearance: \\The image shows an envelope. It is rectangular and it has a background that is grey in colour. \\\\Rex Studio: 1064-F Yio Chu Kang Road Chia Keng Viallage Singapore\\\\ is stated at the top. There are Chinese characters to the left of the envelope\n\n  subject_terms_1: as well as handwritten information in pencil.\\ photography studios (organizations)\n\n  subject_terms_2: negatives (photographs) Photography\n\n  subject_terms_3: Stamped envelopes\n\n  subject_terms_4: Photography\n\n  context_21: This envelope belongs to a photography studio called Rex Studio.\n\n  context_22: 1064-F Yio Chu Kang Road Chia Keng Viallage Singapore\n",
-  "createdDate": "20201127000602",
+  "createdDate": "20201127205924",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -34,7 +34,7 @@
     "context_21": "This envelope belongs to a photography studio called Rex Studio.",
     "context_22": "1064-F Yio Chu Kang Road Chia Keng Viallage Singapore"
   },
-  "nlpDate": "20201127000602",
+  "nlpDate": "20201127205924",
   "connectorId": 0,
   "tags": {}
 }

@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00198\n\n  Image: \n\n  object_work_type: black-and-white photographs\n\n  title_text: Chettiar man at a studio Photograph of a Chettiar man taken at a studio\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: Yong Fong Studio\n\n  creator_1: Not indicated\n\n  creator_role: photography studios (organizations)\n\n  creation_date: 1900 - 1999\n\n  creation_place_original_location: India Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process) photographic processes\n\n  object_colour: grey monochrome\n\n  physical_appearance: \\The image shows a photograph that is in black-and-white. There is an inner and outer border. Both of these borders are demarcated by a grey band. There is no frame. The bottom left hand side of the photograph has been torn. At the middle\n the photograph has been completely torn horizontally as well.  A man dressed in his ethnic costume is featured in the photograph. His right hand is resting on the wall beside the gate\n and also holding onto a handkerchief. There are several rings and bracelets on that hand. There is a dog to his right. The man is looking towards the direction in which this photograph was taken. Lines of sacred ash have been applied on his arms\n chest\n and forhead. There is a flower pot on either side of him. The background of the photograph suggests that this was taken in the interior of a building. At the bottom of the photograph\\u0027s border\n \\\\Yong Fong\\\\\n\n  subject_terms_1: businessmen \\\\79 South Bridge Road\\\\ Hinduism studio portraits\n\n  subject_terms_2: Ethnic costume Photography Studios and dark rooms Portrait photography Businessmen Nattukottai Chettiars and \\\\Singapore\\\\ Bhasma\n\n  subject_terms_3: Hinduism Businesspeople are stated. Four Chinese characters are stated above \\\\79 South Bridge Road\\\\. \\ Indian costumes\n\n  subject_terms_4: folk costume\n\n  context_1: Black-and-white photography\n\n  context_2: Portrait photography\n\n  context_23: This item was produced at a photographic studio called Yong Fong.\n\n  context_24: 79 South Bridge Road Singapore.\n\n  sgcool_label_text: Not indicated\n",
-  "createdDate": "20201127000612",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -37,7 +37,7 @@
     "context_24": "79 South Bridge Road Singapore.",
     "sgcool_label_text": "Not indicated"
   },
-  "nlpDate": "20201127000612",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

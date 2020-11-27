@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00902\n\n  Image: \n\n  object_work_type: academic costume\n\n  title_text: Graduation Gown by David Jones\n\n  preference: main\n\n  title_language: \n\n  creator_2: David Jones \\u0026 Co. (?)\n\n  creator_1: David Jones \\u0026 Co.\n\n  creator_role: retailers\n\n  creation_date: 1952\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: cotton (textile)\n\n  techniques_name: sewing (needleworking technique)\n\n  object_colour: black (color)\n\n  physical_appearance: This is a black graduation gown and collar. The gown has oversized sleeves\n and opens down the front. There is a rectangular label attached to the back of the gown. Beside the gown\n there is a collar with a purple rim. The gown is slightly crumpled and creased.\n\n  subject_terms_1: commencements philanthropists\n\n  subject_terms_2: Commencement ceremonies University of Sydney Philanthropists Academic costume\n\n  subject_terms_3: Lu\n Earl Ming-Teh\n\n  subject_terms_4: \n\n  sgcool_label_text: This graduation gown belonged to Dr Earl Lu (1925-2005)\n one of Singapore’s most prominent art patrons and philanthropists.  Lu graduated with a Bachelor of Medicine and Surgery degree from the University of Sydney in Australia.  \\r\\n\\r\\nThe gown has a label from Australian upmarket department store David Jones. Founded in 1838\n David Jones is currently the oldest departmental store in the world that had been operating under the same name.  \\r\\n\n",
-  "createdDate": "20201127000604",
+  "createdDate": "20201127205925",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -33,7 +33,7 @@
     "subject_terms_4": "",
     "sgcool_label_text": "This graduation gown belonged to Dr Earl Lu (1925-2005), one of Singapore’s most prominent art patrons and philanthropists.  Lu graduated with a Bachelor of Medicine and Surgery degree from the University of Sydney in Australia.  \r\n\r\nThe gown has a label from Australian upmarket department store David Jones. Founded in 1838, David Jones is currently the oldest departmental store in the world that had been operating under the same name.  \r\n"
   },
-  "nlpDate": "20201127000604",
+  "nlpDate": "20201127205925",
   "connectorId": 0,
   "tags": {}
 }

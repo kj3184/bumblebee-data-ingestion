@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00655\n\n  Image: \n\n  object_work_type: hair ornaments\n\n  title_text: Beaded hair ornament\n\n  preference: main\n\n  title_language: \n\n  creation_date: 20th century\n\n  creation_place_original_location: Gujarat (India)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: glass (material) textile material\n\n  techniques_name: sewing (needleworking technique)\n\n  object_colour: multicolored\n\n  physical_appearance: This is a beaded hair ornament. It consists of two dangling sections\n each decorated with numerous coloured beads and white buttons amongst coloured threads. Each section branches out to three separate sections at the end\n with the six end sections each having a multicolored striped ball attached to it. The beaded ornament is held together by a looped thread at the top.\n\n  subject_terms_1: beadwork (visual works) folk costume\n\n  subject_terms_2: Hair ornaments Ethnic jewelry\n\n  subject_terms_3: Indian costumes\n\n  subject_terms_4: \n",
-  "createdDate": "20201127000604",
+  "createdDate": "20201127205926",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -29,7 +29,7 @@
     "subject_terms_3": "Indian costumes",
     "subject_terms_4": ""
   },
-  "nlpDate": "20201127000604",
+  "nlpDate": "20201127205926",
   "connectorId": 0,
   "tags": {}
 }

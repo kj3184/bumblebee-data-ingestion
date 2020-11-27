@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00079\n\n  Image: \n\n  object_work_type: cards (information artefacts)\n\n  title_text: Application for accommodation card issued by Singapore Improvement Trust\n Registration No: 002991\n\n  preference: main\n\n  title_language: \n\n  creator_2: Unknown\n\n  creation_date: Mid-20th century\n\n  creation_place_original_location: Singapore\n\n  styles_periods_indexing_terms: Not indicated\n\n  inscriptions: \n\n  inscription_language: \n\n  scale_type: Not indicated\n\n  shape: rectangular\n\n  materials_name: printing paper\n\n  techniques_name: printing (process)\n\n  object_colour: multicoloured\n\n  physical_appearance: \\The image shows a card. It is rectangular in shape and it has a grey background. There is a passport sized photograph of a man at the right hand side of the card. \\\\Singapore Improvement Trust\n\n  subject_terms_1: Application For Accomodation\\\\ is stated at the top. \\\\V. Gurusamy\\\\ musicians\n\n  subject_terms_2: Singapore Improvement Trust and \\\\14 Rappa Terrace Musicians\n\n  subject_terms_3: Singapore 8\\\\ are handwritten on the card. \\ Musicians\n\n  subject_terms_4: public housing\n\n  context_1: Housing\n\n  context_2: Singapore Improvement Trust\n",
-  "createdDate": "20201127000612",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -34,7 +34,7 @@
     "context_1": "Housing",
     "context_2": "Singapore Improvement Trust"
   },
-  "nlpDate": "20201127000612",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

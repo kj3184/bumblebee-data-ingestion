@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2014-00909-008\n\n  Image: \n\n  object_work_type: brochures\n\n  title_text: 120 by TheatreWorks (2007) Brochures and cards for performances by Theatreworks (20) - 12\n a new production by theatreworks\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: TheatreWorks (Singapore) Ong Keng Sen Robin Loon\n\n  creator_1: Ong\n Keng Sen TheatreWorks (Firm : Singapore) Loon\n Robin\n\n  creator_role: performance artists theatre directors playwrights\n\n  creation_date: 2007\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process)\n\n  object_colour: multicoloured\n\n  physical_appearance: \\The image shows a rectangular brochure. \\\\National Museum of Singapore presents 120 A new production by TheatreWorks / Ong Keng Sen\\\\ is stated at the centre of the brochure. \\\\120\\\\ is displayed in large purple fonts and the \\\\0\\\\ is represented as purple flowers. \\\\13 \\u0026 14 Oct 2007 8 pm National Museum of Singapore $28 Online booking at www.nationalmuseum.sg or ring 6332-3659 for more details www.theatreworks.org.sg www.72-13.com\\\\ is stated at the lower right hand corner of the borchure. \\\n\n  subject_terms_1: theater (discipline) national museums (buildings) performances (creative events)\n\n  subject_terms_2: National Museum (Singapore) Brochures Performances Theatres\n\n  subject_terms_3: Arts events National Museum of Singapore (Place) English theatre (Art)\n\n  context_1: 120\n\n  context_2: performances (creative events)\n\n  context_3: 12 - 14 October 2007\n\n  context_4: 20071012\n\n  context_5: 20071014\n\n  context_6: The National Museum of Singapore\n 93 Stamford Road\n 178897\n\n  context_7: National Museum of Singapore\n\n  context_8: Hosts\n\n  sgcool_label_text: Not indicated\n",
-  "createdDate": "20201127000613",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -40,7 +40,7 @@
     "context_8": "Hosts",
     "sgcool_label_text": "Not indicated"
   },
-  "nlpDate": "20201127000613",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

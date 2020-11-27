@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00042\n\n  Image: \n\n  object_work_type: Bible boxes\n\n  title_text: Tortoiseshell bible box Bible box\n\n  preference: main alternate\n\n  title_language: \n\n  creation_date: 18th century\n\n  creation_place_original_location: Jakarta Sri Lanka\n\n  styles_periods_indexing_terms: Dutch colonial\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: silver (metal) tortoise shell\n\n  techniques_name: moulding (forming) chasing (metalworking) engraving (action)\n\n  object_colour: dark brown silver (color)\n\n  physical_appearance: This is a dark brown bible box. It has a thick spine on the left\n and opens by two clasps on the right. It has chased and engraved silver mounts along the peripheries and the spine. The silver mounts are decorated with foliate arabesques and floral motifs.\n\n  subject_terms_1: scrolls (motif) cases (containers) colonialism cultural diffusion flower (motif) Christianity\n\n  subject_terms_2: Motifs Book boxes Culture diffusion Imperialism Bible Christianity Tortoiseshell\n\n  subject_terms_3: Christianity\n\n  subject_terms_4: \n\n  sgcool_label_text: This is a rare dutch colonial bible box made in Batavia or Sri Lanka for the colonial market. It is conventional in design with a hinged lid and is thicker at the front than at the back to emulate a leather-bound book. It has chased and engraved silver mounts along the peripheries and along the \\u0027spine\\u0027\n and the box itself is made of tortoiseshell. The hinged lid is kept closed by two silver clasps\n engraved with floral motifs\n while the remaining silver mounts are decorated with foliate arabesques.\\r\\n\\r\\nBible boxes such as this were made by local artisans for wives of the dutch colonial officials living in Sri Lanka or Batavia. These boxes would have traditionally held a small personal bible.\n",
-  "createdDate": "20201127000609",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -31,7 +31,7 @@
     "subject_terms_4": "",
     "sgcool_label_text": "This is a rare dutch colonial bible box made in Batavia or Sri Lanka for the colonial market. It is conventional in design with a hinged lid and is thicker at the front than at the back to emulate a leather-bound book. It has chased and engraved silver mounts along the peripheries and along the \u0027spine\u0027, and the box itself is made of tortoiseshell. The hinged lid is kept closed by two silver clasps, engraved with floral motifs, while the remaining silver mounts are decorated with foliate arabesques.\r\n\r\nBible boxes such as this were made by local artisans for wives of the dutch colonial officials living in Sri Lanka or Batavia. These boxes would have traditionally held a small personal bible."
   },
-  "nlpDate": "20201127000609",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

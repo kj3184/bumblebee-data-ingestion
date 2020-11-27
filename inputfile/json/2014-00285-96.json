@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2014-00285-96\n\n  Image: \n\n  object_work_type: black-and-white photographs\n\n  title_text: Military Personnel and a Dog Photography Album (donation from Anthony Robert Saint Claire)\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: Robert Arthur Polglaze\n\n  creator_1: Not indicated\n\n  creator_role: photographers\n\n  creation_date: 1940s\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process) photographic processes\n\n  object_colour: grey monochrome\n\n  physical_appearance: \\The image shows a black-and-white photograph. It is rectangular and it features a three men and a dog. All three men are wearing shirts with the sleeves folded above the elbows\n pants\n and black shoes. They are sitting down beside one another and a dog is with them. They are looking in the direction where the photograph was captured. There is a large vehicle directly behind them. \\\\1602989\\\\ is displayed on the side body of the vehicle. Further in the background\n\n  subject_terms_1: Canis (genus) a tower can be seen at the top of the photograph\\ military personnel\n\n  subject_terms_2: Dogs Portraits\n Group Portrait photography Soldiers group portraits\n\n  subject_terms_3: Black-and-white photography\n\n  subject_terms_4: Portrait photography\n",
-  "createdDate": "20201127000613",
+  "createdDate": "20201127205930",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_3": "Black-and-white photography",
     "subject_terms_4": "Portrait photography"
   },
-  "nlpDate": "20201127000613",
+  "nlpDate": "20201127205930",
   "connectorId": 0,
   "tags": {}
 }

@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00506\n\n  Image: \n\n  object_work_type: dresses (garments)\n\n  title_text: Red Metallic Fiber Dress Red Metallic Fiber Dress by Sylvia Kho nee Wong Sien Moy\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: Sylvia Kho\n\n  creator_1: Kho\n Sylvia\n 1917-\n\n  creator_role: fashion designers\n\n  creation_date: 1960s\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: polyester (fiber)\n\n  techniques_name: sewing (needleworking technique)\n\n  object_colour: red (colour)\n\n  physical_appearance: This is a long-sleeved red metallic fiber dress with Chinese buttons that run down the center of the piece.\n\n  subject_terms_1: custom-made womenswear metallic (colour attribute)\n\n  subject_terms_2: Custom-made clothing Women\\u0027s clothing Kho\n Sylvia\n 1917- Dresses\n\n  subject_terms_3: Fashion design Kho\n Sylvia\n 1917-\n\n  sgcool_label_text: Mrs Sylvia Kho (nee Wong Sien Moy) was a prominent bridal designer in Singapore from the 1950s to 1990s. Beyond wedding gowns\n she also designed dresses for her female relatives. This red metallic fiber dress with Chinese knot buttons was designed and made by Sylvia Kho for her seventh sister\n Mrs Florence Chong (nee Wong Chit Moy).\n",
-  "createdDate": "20201127000605",
+  "createdDate": "20201127205926",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_3": "Fashion design Kho, Sylvia, 1917-",
     "sgcool_label_text": "Mrs Sylvia Kho (nee Wong Sien Moy) was a prominent bridal designer in Singapore from the 1950s to 1990s. Beyond wedding gowns, she also designed dresses for her female relatives. This red metallic fiber dress with Chinese knot buttons was designed and made by Sylvia Kho for her seventh sister, Mrs Florence Chong (nee Wong Chit Moy)."
   },
-  "nlpDate": "20201127000605",
+  "nlpDate": "20201127205926",
   "connectorId": 0,
   "tags": {}
 }

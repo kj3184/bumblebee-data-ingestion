@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00723\n\n  Image: \n\n  object_work_type: lace (needlework)\n\n  title_text: Four laces A Group of 4 Laces\n\n  preference: main alternate\n\n  title_language: \n\n  creation_date: 20th century\n\n  creation_place_original_location: France Indonesia Straits Settlements\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: paper (fiber product) cotton (textile)\n\n  techniques_name: sewing (needleworking technique)\n\n  object_colour: white (color)\n\n  physical_appearance: This is a set of four laces. Two of them are strips of lace of varying lengths and design. Another two are needlepoint lace in the form of the letter \\u0027F\\u0027. The needlepoint lace letters are still attached to their paper packaging.\n\n  subject_terms_1: needlepoint (visual works) exports flower (motif) scrolls (motifs) trimming (material)\n\n  subject_terms_2: Exports Motifs Bobbin lace Needlepoint lace\n\n  subject_terms_3: Textile art and design\n\n  sgcool_label_text: There are 2 strips of lace of varying lengths and design and 2 needlepoint lace letter F produced in France. The making of bobbin lace was an established tradition in port cities like Malacca and Palembang by the early 20th century.It is part of a donation which contains a mixture of materials used in the making of kebayas and baju panjangs.\n",
-  "createdDate": "20201127000609",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -29,7 +29,7 @@
     "subject_terms_3": "Textile art and design",
     "sgcool_label_text": "There are 2 strips of lace of varying lengths and design and 2 needlepoint lace letter F produced in France. The making of bobbin lace was an established tradition in port cities like Malacca and Palembang by the early 20th century.It is part of a donation which contains a mixture of materials used in the making of kebayas and baju panjangs."
   },
-  "nlpDate": "20201127000609",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

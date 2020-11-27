@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2018-00149\n\n  Image: \n\n  object_work_type: cartes-de-visite (card photographs)\n\n  title_text: Photograph of Chinese man\n\n  preference: main\n\n  title_language: \n\n  creator_2: Not indicated\n\n  creator_1: Not indicated\n\n  creation_date: 1880s\n\n  creation_place_original_location: Java (island)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process) photographic processes\n\n  object_colour: grey monochrome\n\n  physical_appearance: The image shows a black-and-white photograph. It is rectangular and it features a man. He is wearing an opened overshirt and looking towards the direction in which the photograph was captured. Only his face and ipper torso are captured in the portrait.\n\n  subject_terms_1: men (male humans) Peranakan black-and-white photographs studio portraits folk costume\n\n  subject_terms_2: Ethnic costume Peranakan (Asian people) Portrait photography Men Black-and-white photography\n\n  subject_terms_3: Portrait photography Peranakan costumes\n\n  sgcool_label_text: This carte de visite shows a man in an opened overshirt. The back of the carte is inscribed with Chinese script. \\r\\n\\r\\nStudios were already established across the Strait Settlements and the Dutch East Indies by the 1840s and became increasingly prevalent in the 1850s. During the 1920s\n Chinese-owned studios dominated the studio photography trade in Southeast Asia.\n",
-  "createdDate": "20201127000602",
+  "createdDate": "20201127205925",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -31,7 +31,7 @@
     "subject_terms_3": "Portrait photography Peranakan costumes",
     "sgcool_label_text": "This carte de visite shows a man in an opened overshirt. The back of the carte is inscribed with Chinese script. \r\n\r\nStudios were already established across the Strait Settlements and the Dutch East Indies by the 1840s and became increasingly prevalent in the 1850s. During the 1920s, Chinese-owned studios dominated the studio photography trade in Southeast Asia."
   },
-  "nlpDate": "20201127000602",
+  "nlpDate": "20201127205925",
   "connectorId": 0,
   "tags": {}
 }

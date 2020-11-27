@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00614\n\n  Image: \n\n  object_work_type: receipts (financial records)\n\n  title_text: Receipt for the purchase of the violin belonging to S Gopalakrishnan\n\n  preference: main\n\n  title_language: \n\n  creator_2: T.M.A. (Pte) Limoited\n\n  creator_role: creators\n\n  creation_date: 19720712\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process)\n\n  object_colour: Portrait\n\n  physical_appearance: \\The image shows a rectangular receipt. It is grey in colour. The serial no \\\\25683\\\\ is displayed on the top right hand corner of the receipt. The date at the top right hand side states \\\\17 July 1972\\\\. The total amount from the purchase of two items is stated as \\\\$417.00\\\\. The receipt indicates a cash sale transaction\n\n  subject_terms_1: companies violins sales records as seen from the words\n\n  subject_terms_2: \\\\Cash Sale\\\\ at the top left hand side.\\ Business enterprises Bowed string instruments Receipts (acknowledgement) Violin\n\n  subject_terms_3: invoices\n\n  subject_terms_4: Invoices\n\n  context_1: Business enterprises\n\n  context_22: This receipt was issued by a company called T.M.A. (Pte) Ltd\n\n  context_23: 61 - 63 High Street\n Singapore\n 6.\n\n  context_24: 17th July 1972\n",
-  "createdDate": "20201127000610",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -35,7 +35,7 @@
     "context_23": "61 - 63 High Street, Singapore, 6.",
     "context_24": "17th July 1972"
   },
-  "nlpDate": "20201127000610",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2015-00554\n\n  Image: \n\n  object_work_type: cards (information artefacts)\n\n  title_text: 14th year anniversary rally for the late Mr G Sarangapany\n\n  preference: main\n\n  title_language: \n\n  creator_2: Viknesh Printings\n\n  creator_1: Not indicated\n\n  creator_role: printers (people)\n\n  creation_date: 1988\n\n  creation_place_original_location: Singapore\n\n  styles_periods_indexing_terms: Not indicated\n\n  inscriptions: \n\n  inscription_language: \n\n  scale_type: Not indicated\n\n  shape: rectangular\n\n  materials_name: printing paper\n\n  techniques_name: printing (process)\n\n  object_colour: black-and-white (colours)\n\n  physical_appearance: \\The image shows a rectangular card. It was a border where a picture and several lines of Tamil scripts are displayed within. \\\\7-5-1988\\\\ is stated at the top. The picture shows a man who is dressed in a long sleeved shirt and sarong. \\\\Viknesh printings blk 1002 #03-1457 Lor 8 Toa Payoh S\\u0027pore Tel: 2504921\\\\ is displayed at the bottom outside the border. \\\n\n  subject_terms_1: anniversaries reformers rallies founders (originators)\n\n  subject_terms_2: Anniversaries Reformers Caran?kapa?n?i\n 1903-1974 Demonstrations\n\n  subject_terms_3: Pioneers Thamizhavel Govindasamy Sarangapany\n\n  sgcool_label_text: G Sarangapany\n titled Thamizhavel\n arrived in Singapore in 1924. A believer of Periyar’s principles\n he played a key role in extending the Self-Respect Movement to Singapore and Malaya and became the agent for distribution of the movement’s magazine Kudi Arasu in British Malaya. He later helped arrange Periyar’s visits to Singapore and Malaya. \\r\\n\\r\\nHe was an active writer and publisher in his own right. In 1929 he set up the Tamil magazine Munnetram\n and Tamil Murasu in 1935. Through his writings he promoted the principles of the Tamil reform movement. He encouraged Tamils to make Singapore their home\n helped them gain citizenship and championed for the cause of the Tamil language to be recognised as one of the national languages in Singapore. This is a collection of archival photographs\n documents donated by the family of Sarangapany’s close associate\n Murugu Srinivasan.\n",
-  "createdDate": "20201127000612",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -34,7 +34,7 @@
     "subject_terms_3": "Pioneers Thamizhavel Govindasamy Sarangapany",
     "sgcool_label_text": "G Sarangapany, titled Thamizhavel, arrived in Singapore in 1924. A believer of Periyar’s principles, he played a key role in extending the Self-Respect Movement to Singapore and Malaya and became the agent for distribution of the movement’s magazine Kudi Arasu in British Malaya. He later helped arrange Periyar’s visits to Singapore and Malaya. \r\n\r\nHe was an active writer and publisher in his own right. In 1929 he set up the Tamil magazine Munnetram, and Tamil Murasu in 1935. Through his writings he promoted the principles of the Tamil reform movement. He encouraged Tamils to make Singapore their home, helped them gain citizenship and championed for the cause of the Tamil language to be recognised as one of the national languages in Singapore. This is a collection of archival photographs, documents donated by the family of Sarangapany’s close associate, Murugu Srinivasan."
   },
-  "nlpDate": "20201127000612",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

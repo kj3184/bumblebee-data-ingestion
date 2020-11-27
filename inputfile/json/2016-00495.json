@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00495\n\n  Image: \n\n  object_work_type: black-and-white photographs\n\n  title_text: Untitled (station interior)\n\n  preference: main\n\n  title_language: \n\n  creator_2: Kwek Leng Joo Swan and Maclaren Architects\n\n  creator_1: Kwek\n Leng Joo Swan \\u0026 Maclaren\n\n  creator_role: photographers designers\n\n  creation_date: 2010\n\n  creation_place_original_location: Malaysia Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process)\n\n  object_colour: grey monochrome\n\n  physical_appearance: \\The image shows a photograph in black-and-white. It has a black frame and its border is white in colour. The ceiling is concave and it is high from the ground. There are numerous people in the photograph\n some sitting down and standing up. A number of them are queueing up at the ticket counter\n which is located at the left hand side of the photograph. At the centre of the image\n a shop called \\\\Tourism Malaysia\\\\ is present. The framed initials of the Federated Malay States Railway\n\n  subject_terms_1: railroad stations interior spaces (spaces by location) historic monuments \\\\FMSR\\\\ Neoclassical\n\n  subject_terms_2: Motifs Federated Malay States Railways Neoclassicism (Architecture) Pertadbiran Keretapi Tanah Melayu Railroad stations is displayed slightly above the centre of the photograph Tanjong Pagar (Singapore) Art deco (Architecture) Historic monuments\n\n  subject_terms_3: Rail transport (Stations) Photography Pertadbiran Keretapi Tanah Melayu at its background. Each capital letter is framed separately Tanjong Pagar Railway Station\n\n  subject_terms_4: in a single row. The coat-of-arms of the Federated Malay States Railway is displayed in between the framed letters of \\\\FMSR\\\\\\\n\n  context_1: Art Deco\n\n  context_2: Black-and-white photography\n\n  context_3: Rail transport\n",
-  "createdDate": "20201127000610",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -35,7 +35,7 @@
     "context_2": "Black-and-white photography",
     "context_3": "Rail transport"
   },
-  "nlpDate": "20201127000610",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

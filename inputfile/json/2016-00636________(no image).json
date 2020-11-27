@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00636\\r\\n\\r\\n(no image)\n\n  Image: \n\n  object_work_type: \n\n  title_text: Table screen\n\n  preference: \n\n  title_language: \n\n  creator_2: \n\n  creator_1: \n\n  creator_role: \n\n  creation_date: \n\n  creation_place_original_location: \n\n  styles_periods_indexing_terms: \n\n  inscriptions: \n\n  inscription_language: \n\n  scale_type: \n\n  shape: \n\n  materials_name: \n\n  techniques_name: \n\n  object_colour: \n\n  edition_description: \n\n  physical_appearance: \n\n  subject_terms_1: \n\n  subject_terms_2: \n\n  subject_terms_3: \n\n  subject_terms_4: \n\n  context_1: \n\n  context_2: \n\n  context_3: \n\n  context_4: \n\n  context_5: \n\n  context_6: \n\n  context_7: \n\n  context_8: \n\n  context_9: \n\n  context_10: \n\n  context_11: \n\n  context_12: \n\n  context_13: \n\n  context_14: \n\n  context_15: \n\n  context_16: \n\n  context_17: \n\n  context_18: \n\n  context_19: \n\n  context_20: \n\n  context_21: \n\n  context_22: \n\n  context_23: \n\n  context_24: \n\n  sgcool_label_text: \n",
-  "createdDate": "20201127000610",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -60,7 +60,7 @@
     "context_24": "",
     "sgcool_label_text": ""
   },
-  "nlpDate": "20201127000610",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

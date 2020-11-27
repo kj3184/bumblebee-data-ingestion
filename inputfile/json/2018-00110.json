@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2018-00110\n\n  Image: \n\n  object_work_type: photographs black-and-white photographs\n\n  title_text: Studio portrait of children in New Year attire\n\n  preference: main\n\n  title_language: \n\n  creator_2: G.R. Lambert \\u0026 Company\n\n  creator_1: G.R. Lambert \\u0026 Co.\n\n  creator_role: photography studios (organizations)\n\n  creation_date: 1890s-1900s\n\n  creation_place_original_location: Singapore (nation)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process) photographic processes\n\n  object_colour: grey monochrome\n\n  physical_appearance: \\The image shows a black-and-white photograph. It is rectangular and it features five children. Three of them are standing up while the other two are sitting down. They are wearing their ethnic costumes and all of them have headgear on. The background suggests that the photograph was taken in the interior of a building. \\\\Chinese Childeren in Newjarsdress 373\\\\ is stated at the bottom of the photograph. \\\n\n  subject_terms_1: anniversaries Peranakan studio portraits children (people by age group) group portraits folk costume\n\n  subject_terms_2: Ethnic costume Children New Year Peranakan (Asian people) Portraits\n Group Portrait photography Black-and-white photography\n\n  subject_terms_3: Children Portrait photography Peranakan costumes\n\n  sgcool_label_text: This studio portrait shows five children sumptuously dressed for the New Year. Visible in the hands of one of the girls is an embroidered ceremonial handkerchief or bim poh lenggang. Beside her figure is the inscription ‘Chinese Childeren in Newjarsdress 373’.\\r\\n\\r\\nG.R. Lambert and Co was a leading and the most enduring of the European photography studios in Singapore. The studio was established in 1867 by Gustave Richard Lambert\n who was originally from Dresden\n Germany. Popular among the elites\n the firm was often chosen as the official photographers for important state events in Singapore. In 1861 it was appointed as the official photographer of the King of Siam and the Sultan of Johore.\n",
-  "createdDate": "20201127000603",
+  "createdDate": "20201127205925",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_3": "Children Portrait photography Peranakan costumes",
     "sgcool_label_text": "This studio portrait shows five children sumptuously dressed for the New Year. Visible in the hands of one of the girls is an embroidered ceremonial handkerchief or bim poh lenggang. Beside her figure is the inscription ‘Chinese Childeren in Newjarsdress 373’.\r\n\r\nG.R. Lambert and Co was a leading and the most enduring of the European photography studios in Singapore. The studio was established in 1867 by Gustave Richard Lambert, who was originally from Dresden, Germany. Popular among the elites, the firm was often chosen as the official photographers for important state events in Singapore. In 1861 it was appointed as the official photographer of the King of Siam and the Sultan of Johore."
   },
-  "nlpDate": "20201127000603",
+  "nlpDate": "20201127205925",
   "connectorId": 0,
   "tags": {}
 }

@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2018-00015\n\n  Image: \n\n  object_work_type: installations (visual works)\n\n  title_text: Invisible Force\n\n  preference: main\n\n  title_language: \n\n  creator_2: Ni Youyu\n\n  creator_1: Not indicated\n\n  creator_role: creators\n\n  creation_date: 2015\n\n  creation_place_original_location: China (nation)\n\n  styles_periods_indexing_terms: Not indicated\n\n  inscriptions: \n\n  inscription_language: \n\n  scale_type: Not indicated\n\n  shape: rectangular\n\n  materials_name: mixed media photographic paper magnets steel (alloy)\n\n  techniques_name: forming (physical activity) photographic processes metalworking creating (artistic activity)\n\n  object_colour: multicoloured\n\n  edition_description: Unique\n\n  physical_appearance: The image shows an installation. It is rectangular in shape. The background of the installation is black in colour. There are numerous bright specks scattered throughout the entire installation. The installation resembles stars in a dark sky.\n\n  subject_terms_1: celestial sky mixed media works stars (extraterrestial bodies) force (mechanical concept) space (astronomical concept)\n\n  subject_terms_2: Stars Constellations Derivative works Installations (Art) Force and energy\n\n  subject_terms_3: Installations (Art)\n\n  sgcool_label_text: Invisible Force reproduces part of the starry sky as photographed by NASA\n strictly in accordance with the location and the size of the stars\n by using nearly 30\n000 industrial magnets that weigh almost two tonnes. Through the use of magnets\n the work ingeniously represents the invisible gravitational forces between the celestial bodies.\n",
-  "createdDate": "20201127000603",
+  "createdDate": "20201127205925",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -35,7 +35,7 @@
     "subject_terms_3": "Installations (Art)",
     "sgcool_label_text": "Invisible Force reproduces part of the starry sky as photographed by NASA, strictly in accordance with the location and the size of the stars, by using nearly 30,000 industrial magnets that weigh almost two tonnes. Through the use of magnets, the work ingeniously represents the invisible gravitational forces between the celestial bodies."
   },
-  "nlpDate": "20201127000603",
+  "nlpDate": "20201127205925",
   "connectorId": 0,
   "tags": {}
 }

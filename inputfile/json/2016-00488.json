@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00488\n\n  Image: \n\n  object_work_type: black-and-white photographs\n\n  title_text: Untitled (locomotive no. 6423)\n\n  preference: main\n\n  title_language: \n\n  creator_2: Kwek Leng Joo\n\n  creator_1: Kwek\n Leng Joo\n\n  creator_role: photographers\n\n  creation_date: 2010\n\n  creation_place_original_location: Malaysia Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process)\n\n  object_colour: grey monochrome\n\n  physical_appearance: \\The image shows a photograph in black-and-white. It has a black frame and its border is white in colour. Three men in uniforms can be seen standing\n one on the extreme left and the other two on the extreme right hand side of the photograph respectively.  They are using a long metal tool and are applying some force to it\n onto the locomotive. A large portion of the photograph is taken up by the locomotive that is stationed atop a railway turntable. The number \\\\6423\\\\ is displayed at the front of the locomotive. The initials of the Malaysia rail operator\n\n  subject_terms_1: railroads (infrastructure) blue collar workers turntables (rail transportation structure) \\\\KTM\\\\ trains (vehicle groupings)\n\n  subject_terms_2: Railroads is displayed on top of the front door of the locomotive as well. \\ Locomotives Pertadbiran Keretapi Tanah Melayu Railroad trains Tanjong Pagar (Singapore) Blue collar workers Turntables (Railroads)\n\n  subject_terms_3: locomotives Photography Pertadbiran Keretapi Tanah Melayu\n\n  subject_terms_4: Black-and-white photography\n\n  context_1: Rail transport\n",
-  "createdDate": "20201127000610",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -33,7 +33,7 @@
     "subject_terms_4": "Black-and-white photography",
     "context_1": "Rail transport"
   },
-  "nlpDate": "20201127000610",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

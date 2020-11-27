@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2018-00034\n\n  Image: \n\n  object_work_type: hardcover books rare books illustrated books\n\n  title_text: Henry. Keppel’s\n A visit to the Indian Archipelago\n in H.M. ship Maeander\n with portions of the private journal of Sir James Brooke\n K.C.R.\n\n  preference: main\n\n  title_language: \n\n  creator_2: Captain. The Honorary Henry Keppel\n R.N. James Brooke London: Richard Bentley\n New Burlington Street J \\u0026 C Walker Oswald W. Brierly Day \\u0026 Son\n Lithographers to the Queen\n\n  creator_1: Richard Bentley (Firm) Keppel\n Henry\n Sir\n 1809-1904 Day \\u0026 Son Brierly\n Oswald Walters\n Sir\n 1817-1894 James\n Rajah of Sarawak\n 1803-1868 J \\u0026 C Walker (Firm)\n\n  creator_role: publishers engravers (printmakers) authors lithographers contributors illustrators\n\n  creation_date: 1853\n\n  creation_place_original_location: Southeast Asia Greater London (metropolitan area)\n\n  styles_periods_indexing_terms: Not indicated\n\n  inscriptions: \n\n  inscription_language: \n\n  scale_type: Not indicated\n\n  shape: rectangular\n\n  materials_name: paper (fiber product) printing paper\n\n  techniques_name: book cloth (textile material) bookbinding (process) colour printing illustration (process)\n\n  object_colour: grey (colour) monochrome\n\n  edition_description: First Edition\n\n  physical_appearance: \\The book is hardcover and its front cover and spine are black in colour. The book is open and the contents of two pages are displayed. The title\n contributor\n author\n illustrator\n and publisher are displayed on the page on the right hand side of the book. There is an image of a mountain with a body of water and some small boats on the left page. \\\\Santabong Entrance\\\\ is stated at the bottom of the image. \\\\O.W. Brierly\\\\\n\n  subject_terms_1: frigates \\\\G. Hawkins\\\\ colonial settlements mountains expeditions (journeys) archipelagoes\n\n  subject_terms_2: Voyages and travels Illustrated books Mountains and \\\\Day \\u0026 Son Frigates Colonies\n\n  subject_terms_3: Lithographers to the Queen\\\\ are stated at the bottom as well. \\ Colonial administrators Keppel\n Henry\n Sir Military transportation\n\n  subject_terms_4: travel literature\n\n  context_1: Travel writing\n\n  context_2: Non-fiction\n\n  context_3: Malay Archipelago (islands)\n",
-  "createdDate": "20201127000603",
+  "createdDate": "20201127205925",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -38,7 +38,7 @@
     "context_2": "Non-fiction",
     "context_3": "Malay Archipelago (islands)"
   },
-  "nlpDate": "20201127000603",
+  "nlpDate": "20201127205925",
   "connectorId": 0,
   "tags": {}
 }

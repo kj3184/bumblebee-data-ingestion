@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00541\n\n  Image: \n\n  object_work_type: newsletters\n\n  title_text: Plebleian Newsletter in English (19 copies)\n\n  preference: main\n\n  title_language: \n\n  creator_2: Barisan Sosialis\n\n  creator_1: Barisan Sosialis (Singapore)\n\n  creator_role: publishers creators\n\n  creation_date: 1963 - 1966\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: printing paper\n\n  techniques_name: colour printing\n\n  object_colour: multicoloured\n\n  physical_appearance: \\The image displays a series of newsletters. They are rectangular in shape and they are arranged in two stacks. The stack on the left has a blue masthead while the stack on the right has a red masthead. \\\\Plebeian Express\\\\ is the masthead for the newletters. \\\\Published by the Barisan Sosialis No 436C\n\n  subject_terms_1: political campaigns propaganda Victoria Street political organizations socialism\n\n  subject_terms_2: Socialist propaganda Political campaigns Political party organization Political science Singapore 7\n\n  subject_terms_3: Barisan Sosialis Tel 25660\\\\ is stated below the masthead. \\\\1st October 1966: US \\u0027Peace Talks\\u0027 Swindle \\u0026 The Test of US Security\\\\ serves as the headline for the stack of newsletters with red mastheads. \\\n\n  subject_terms_4: politics\n\n  context_1: Newsletters\n\n  context_2: Newsletters\n",
-  "createdDate": "20201127000610",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -34,7 +34,7 @@
     "context_1": "Newsletters",
     "context_2": "Newsletters"
   },
-  "nlpDate": "20201127000610",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

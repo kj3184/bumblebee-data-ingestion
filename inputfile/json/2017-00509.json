@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00509\n\n  Image: \n\n  object_work_type: canvas paining acrylic paintings (visual works)\n\n  title_text: Passage to Little India (Billboard Painting)\n\n  preference: main\n\n  title_language: \n\n  creator_2: Navin Rawanchaikul\n\n  creator_1: Rawanchaikul\n Navin\n\n  creator_role: artists (visual artists)\n\n  creation_date: 2016\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: Rectangular\n\n  materials_name: canvas (textile material) canvas board acrylic paint\n\n  techniques_name: acrylic painting (technique)\n\n  object_colour: multicoloured\n\n  physical_appearance: \\This is an acrylic painted billboard featuring a collage of the sights and people of Little India. The title\n \\\\A Passage to Little India\\\\ is painted in red and yellow in bold across the top panel.\\\n\n  subject_terms_1: communities (inhabited places) billboard art photomontages\n\n  subject_terms_2: Communities Billboards Acrylic painting Local history Photomontage Little India (Singapore) Rawanchaikul\n Navin\n\n  subject_terms_3: History Acrylic painting Poster art Little India Conservation Area Little India Sub Zone\n\n  subject_terms_4: \n\n  sgcool_label_text: \\The large billboard painting covers the history of Little India in Singapore through archival and recent pictures of the community. The compiled images of people and places integrate texts and titles like a movie poster\n providing an introductory note to the visualised narrative of the artist\\u0027s journey through Little India\n past and present\n which is further fleshed out through the two accompanying pieces of \\\\Passage to Little India\\\\.\\\n",
-  "createdDate": "20201127000605",
+  "createdDate": "20201127205926",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -33,7 +33,7 @@
     "subject_terms_4": "",
     "sgcool_label_text": "\"The large billboard painting covers the history of Little India in Singapore through archival and recent pictures of the community. The compiled images of people and places integrate texts and titles like a movie poster, providing an introductory note to the visualised narrative of the artist\u0027s journey through Little India, past and present, which is further fleshed out through the two accompanying pieces of \"\"Passage to Little India\"\".\""
   },
-  "nlpDate": "20201127000605",
+  "nlpDate": "20201127205926",
   "connectorId": 0,
   "tags": {}
 }

@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2014-00285-014\n\n  Image: \n\n  object_work_type: black-and-white photographs\n\n  title_text: Photography Album (donation from Anthony Robert Saint Claire) Shackle Club\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: Robert Arthur Polglaze\n\n  creator_1: Not indicated\n\n  creator_role: photographers\n\n  creation_date: 1940s\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process) photographic processes\n\n  object_colour: grey monochrome\n\n  physical_appearance: \\The image shows a black-and-white photograph. It is rectangular and it features the front exterior of a multi-storey roofed building. It has numerous windows and a triangular roof where two flags are hung. \\\\Shackle Club\\\\ is stated at the front of the building. \\\\NAAFI\\\\ is stated to the right and left of \\\\Shackle Club\\\\. There are several vehicles\n\n  subject_terms_1: clubs (associations) such as cars and jeeps\n\n  subject_terms_2: Navy\n Army and Air Force Institutes parked at the entrance of the building. A number of people can be seen walking along the roads adjacent to the building.\\ Recreation centres\n\n  subject_terms_3: Recreation clubs recreation centres\n\n  subject_terms_4: Black-and-white photography\n\n  context_1: Photography\n",
-  "createdDate": "20201127000614",
+  "createdDate": "20201127205930",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -33,7 +33,7 @@
     "subject_terms_4": "Black-and-white photography",
     "context_1": "Photography"
   },
-  "nlpDate": "20201127000614",
+  "nlpDate": "20201127205930",
   "connectorId": 0,
   "tags": {}
 }

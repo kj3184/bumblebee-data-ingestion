@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2018-00192\n\n  Image: \n\n  object_work_type: negatives (photographs) black-and-white negatives\n\n  title_text: Negative of a nyonya with a parasol\n\n  preference: main\n\n  title_language: \n\n  creator_2: Not indicated\n\n  creator_1: Not indicated\n\n  creation_date: 1940s\n\n  creation_place_original_location: Singapore (nation)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: plastic (organic material)\n\n  techniques_name: printing (process) photographic processes\n\n  object_colour: grey monochrome\n\n  physical_appearance: The image shows a black-and-white negative of a photograph. It features a lady. She is standing and looking towards the direction in which the photograph was captured. There is a parasol that she has opened as well. She is wearing her ethnic costume and the background of the negative shows grass and trees.\n\n  subject_terms_1: women (female humans) Peranakan portraits folk costume\n\n  subject_terms_2: Ethnic costume Peranakan (Asian people) Portrait photography Women\n\n  subject_terms_3: Portrait photography Peranakan costumes Women\n\n  sgcool_label_text: This plastic film negative shows a nyonya posing with a parasol.\n",
-  "createdDate": "20201127000602",
+  "createdDate": "20201127205924",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -31,7 +31,7 @@
     "subject_terms_3": "Portrait photography Peranakan costumes Women",
     "sgcool_label_text": "This plastic film negative shows a nyonya posing with a parasol."
   },
-  "nlpDate": "20201127000602",
+  "nlpDate": "20201127205924",
   "connectorId": 0,
   "tags": {}
 }

@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00800\n\n  Image: \n\n  object_work_type: installations (visual works)\n\n  title_text: The Flower Field\n\n  preference: main\n\n  title_language: \n\n  creator_2: Imhathai Suwatthanasilp\n\n  creator_role: artists (visual artists)\n\n  creation_date: 2012\n\n  creation_place_original_location: Thailand\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: wood (plant material) cloth glass (material) human hair\n\n  techniques_name: weaving installing\n\n  object_colour: multicolored\n\n  physical_appearance: This installation depicts human hair\n woven into flowers\n that are presented through a lightbox. The lightbox sits atop of a mattress\n within a bed frame. The hairs are arranged at random. There are no inscriptions seen.\n\n  subject_terms_1: disease human hair flower (motif) symbolism\n\n  subject_terms_2: Motifs Hair in art Symbolism Installations (Art) Cancer\n\n  subject_terms_3: Installation art\n\n  sgcool_label_text: Imhathai is a forerunner in the use of human hair in the making of works. Conceptualised for the Hair for Hope exhibition in support of cancer victims and survivors\n the strands of hair which constitute the hand woven flowers in The Flower Bed originate from cancer victims\n chemotherapy patients\n cancer survivors\n and donors to the program. The thousands of hand-woven flowers representative of Elysium\n consoling cancer victims and relations of the pain they are currently undergoing\n while reminding them of a better place that is to come. Marveling at the degree of detail in each piece\n a viewer is also reminded of the necessary perseverance to overcome times of challenge. With this particular work\n Imhathai Suwatthanasilp reaffirms her position as one of the top contemporary artists pushing the boundaries of the textile medium.\n",
-  "createdDate": "20201127000604",
+  "createdDate": "20201127205926",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -31,7 +31,7 @@
     "subject_terms_3": "Installation art",
     "sgcool_label_text": "Imhathai is a forerunner in the use of human hair in the making of works. Conceptualised for the Hair for Hope exhibition in support of cancer victims and survivors, the strands of hair which constitute the hand woven flowers in The Flower Bed originate from cancer victims, chemotherapy patients, cancer survivors, and donors to the program. The thousands of hand-woven flowers representative of Elysium, consoling cancer victims and relations of the pain they are currently undergoing, while reminding them of a better place that is to come. Marveling at the degree of detail in each piece, a viewer is also reminded of the necessary perseverance to overcome times of challenge. With this particular work, Imhathai Suwatthanasilp reaffirms her position as one of the top contemporary artists pushing the boundaries of the textile medium."
   },
-  "nlpDate": "20201127000604",
+  "nlpDate": "20201127205926",
   "connectorId": 0,
   "tags": {}
 }

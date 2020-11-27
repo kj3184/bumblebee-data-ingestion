@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00343\n\n  Image: \n\n  object_work_type: loudspeakers\n\n  title_text: Rediffusion loudspeaker Rediffusion set (c)\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: Rediffusion Singaore\n\n  creator_1: Rediffusion Pte Ltd (Singapore) (TTE)\n\n  creator_role: companies\n\n  creation_date: Not indicated\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular cuboid\n\n  materials_name: metal\n\n  techniques_name: forming (physical activity)\n\n  object_colour: multicoloured\n\n  physical_appearance: \\The image shows a loudspeaker. It is rectangular in shape and there are two circular knobs at the bottom of the loudspeaker. \\\\Rediffusion: The Great Family Entertainer\\\\ is stated at the bottom of the loudspeaker. \\\\Digital and Broadcasting\\\\ is stated at the bottom left hand side as well. The side surfaces of the loudspeaker is white in colour\n\n  subject_terms_1: ways of life analog while its driver in the front surface is black in colour.\\\n\n  subject_terms_2: Broadcasting Ways of life radio (telecommunication systems) Radio\n\n  subject_terms_3: Loudspeakers\n\n  subject_terms_4: Radio (programmes)\n",
-  "createdDate": "20201127000611",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_3": "Loudspeakers",
     "subject_terms_4": "Radio (programmes)"
   },
-  "nlpDate": "20201127000611",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

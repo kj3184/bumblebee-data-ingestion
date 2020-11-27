@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00603\n\n  Image: \n\n  object_work_type: black-and-white photographs\n\n  title_text: S Gopalakrishnan with the employees of the Far East Air Force (outside the grounds)\n\n  preference: main\n\n  title_language: \n\n  creation_date: 1941 - 1970\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process) photographic processes\n\n  object_colour: grey monochrome\n\n  physical_appearance: The image shows a rectangular photograph that is in black-and-white. The photograph features four rows of men posing as a group. The men in the last two rows are standing up while the men in the front two rows are either sitting on chairs or on the grass. All of them are looking towards the direction in which the photograph was captured. Some of the men are decked in military uniform while others are in formal plain clothes. There are trees around them and a single storey roofed building can be seen in the background.\n\n  subject_terms_1: personnel groups (organizations) air forces studio portraits group portraits\n\n  subject_terms_2: Great Britain. Royal Air Force Employees Portraits\n Group Portrait photography Black-and-white photography\n\n  subject_terms_3: Great Britain. Royal Air Force Portrait photography Military facilities\n\n  sgcool_label_text: Mr. S Gopalakrishnan (b. in 1920 in Tanjavur) was a prominent violinist\n and Carnatic singer. He arrived in Singapore in 1939 and actively participated in the Indian classical music scene here. Mr Gopalakrishnan performed alongside veterans of classical performers such as Pandit M Ramalingam and MV Gurusamy at temple and other music festivals. He also taught violin lessons at the Singapore Malayalee Association from the 1970s to 2000s. He was a member of the Tamils Reform Association and performed his wedding according to the principles of the Self-Respect Movement. He was also employed as a compositor at the Far East Air Force from 1954 to 1970.\n",
-  "createdDate": "20201127000610",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -29,7 +29,7 @@
     "subject_terms_3": "Great Britain. Royal Air Force Portrait photography Military facilities",
     "sgcool_label_text": "Mr. S Gopalakrishnan (b. in 1920 in Tanjavur) was a prominent violinist, and Carnatic singer. He arrived in Singapore in 1939 and actively participated in the Indian classical music scene here. Mr Gopalakrishnan performed alongside veterans of classical performers such as Pandit M Ramalingam and MV Gurusamy at temple and other music festivals. He also taught violin lessons at the Singapore Malayalee Association from the 1970s to 2000s. He was a member of the Tamils Reform Association and performed his wedding according to the principles of the Self-Respect Movement. He was also employed as a compositor at the Far East Air Force from 1954 to 1970."
   },
-  "nlpDate": "20201127000610",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

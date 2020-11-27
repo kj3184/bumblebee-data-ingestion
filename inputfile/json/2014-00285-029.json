@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2014-00285-029\n\n  Image: \n\n  object_work_type: black-and-white photographs\n\n  title_text: Photography Album (donation from Anthony Robert Saint Claire) Admiral Mountbatten reading the order of the day after the Japanese surrender\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: Robert Arthur Polglaze\n\n  creator_1: Not indicated\n\n  creator_role: photographers\n\n  creation_date: 1940s\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process) photographic processes\n\n  object_colour: grey monochrome\n\n  physical_appearance: The image shows a black-and-white photograph. It is rectangular and it features military personnel on the balcony\n steps\n and outside of a building that has colonnades. Everyone in the photograph is standing. There are two rows of military personnel standing at attention and facing the steps of the building. A military personnel dressed in white is standing on the steps with a podium that is covered with the flag of the Union Jack. He seems to be the centre of attention as military personnel from the ground\n the steps\n and the balcony are all facing in his direction.\n\n  subject_terms_1: city halls world wars admirals military personnel\n\n  subject_terms_2: World War\n 1939 - 1945 Great Britain\n Army Mountbatten of Burma\n Louis Mountbatten\n Earl\n 1900 - 1979 City halls Black-and-white photography\n\n  subject_terms_3: Photography Wars City Hall (Singapore) Mountbatten\n Louis\n Lord Surrender of Japan\n 1945\n\n  context_1: World War\n 1939 - 1945\n\n  context_2: world wars\n\n  context_3: 1939 - 1945\n\n  context_4: 1939\n\n  context_5: 1945\n\n  context_6: Southeast Asia\n\n  sgcool_label_text: Not indicated\n",
-  "createdDate": "20201127000613",
+  "createdDate": "20201127205930",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -38,7 +38,7 @@
     "context_6": "Southeast Asia",
     "sgcool_label_text": "Not indicated"
   },
-  "nlpDate": "20201127000613",
+  "nlpDate": "20201127205930",
   "connectorId": 0,
   "tags": {}
 }

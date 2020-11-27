@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2018-00040\n\n  Image: \n\n  object_work_type: religious texts document genres\n\n  title_text: Dutch book of sermons in VOC binding\\r\\n4th edition\n\n  preference: main\n\n  title_language: \n\n  creator_2: Johannes Bulaeus Viglius Cornelius Dominus\n\n  creator_1: not indicated\n\n  creator_role: authors revisers\n\n  creation_date: not indicated\n\n  creation_place_original_location: Jakarta (inhabited place)\\r\\n\n\n  styles_periods_indexing_terms: not indicated\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: papermaking\n\n  object_colour: multicoloured\n\n  edition_description: Rare edition\n\n  physical_appearance: This is a fourth edition Dutch book of sermons in a black VOC binding. This book has a distinct monogram of the Dutch East India Company\n also known as the VOC\n on the binding. The monogram is encased by patterns in the shape of rectangular frames. The book has two gold clasps\n one at the top right and the bottom right of the binding.\n\n  subject_terms_1: missionaries rare books ships sermons Dutch Colonial seamen\n\n  subject_terms_2: Sailors Missionaries Sermons Nederlandsche Oost-Indische Compagnie Ships Rare books Monograms\n\n  sgcool_label_text: This rare Dutch book of sermons with the distinct VOC monogram was intended primarily for the use of the Dutch sailors and missionaries and shows the importance of religion in the everyday operations of the VOC.  Although the name on the title page attributes the book to one to a minister of the name Justus Bulaeus (1580-1611)\n it is believed that the author was his son\n Johannes Bulaeus (1595-1650/1). This edition was revised and enlarged by Viglius Cornelius Dominus\n whose name is not mentioned except for his initials on the title-page. He added summaries and references to Bible verses and prayers to the original text.\n",
-  "createdDate": "20201127000603",
+  "createdDate": "20201127205925",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -33,7 +33,7 @@
     "subject_terms_2": "Sailors Missionaries Sermons Nederlandsche Oost-Indische Compagnie Ships Rare books Monograms",
     "sgcool_label_text": "This rare Dutch book of sermons with the distinct VOC monogram was intended primarily for the use of the Dutch sailors and missionaries and shows the importance of religion in the everyday operations of the VOC.  Although the name on the title page attributes the book to one to a minister of the name Justus Bulaeus (1580-1611), it is believed that the author was his son, Johannes Bulaeus (1595-1650/1). This edition was revised and enlarged by Viglius Cornelius Dominus, whose name is not mentioned except for his initials on the title-page. He added summaries and references to Bible verses and prayers to the original text."
   },
-  "nlpDate": "20201127000603",
+  "nlpDate": "20201127205925",
   "connectorId": 0,
   "tags": {}
 }

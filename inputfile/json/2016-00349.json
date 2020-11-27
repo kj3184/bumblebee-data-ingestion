@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00349\n\n  Image: \n\n  object_work_type: boxes (container)\n\n  title_text: Nantang Red Lacquered Box\n\n  preference: main\n\n  title_language: \n\n  creator_2: Sihe Hao\n Hong Kong /\n\n  creator_role: manufacturers\n\n  creation_date: 1950s - 1960s\n\n  creation_place_original_location: Hong Kong (China) Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: spherical\n\n  materials_name: bamboo (material) lacquer (material)\n\n  techniques_name: forming (physical activity) coating (process)\n\n  object_colour: multicoloured\n\n  physical_appearance: A red lacquered box is depicted in the picture. The cover of the box is decorated with two peonies that are golden in colour. In between the two peonies\n there are Chinese characters stating the name of the Cantonese restaurant\n Nantang\n the phone number of the restauranr\n and its address and telephone number. These characters are written in a vertical alignment\n running from the top to bottom. The circular cover has a golden circumference at its edges. The cover of the box looks to have several scratches on it.\n\n  subject_terms_1: gift giving weddings (ceremonies) flower (motif) packing material lacquerware customs (social)\n\n  subject_terms_2: Motifs Gifts Lacquer boxes Marriage customs and rites\n\n  subject_terms_3: Marriage customs\n\n  sgcool_label_text: The post-war period saw the establishment of several famous Chinese restaurants in Tua Po (Kreta Ayer area)\n including Nantang Restaurant at 8 Mosque Street and Da Dong Restaurant\n which was just a few doors away on the same street. Judging from the five-digit telephone number on the box\n it is possibly dated to the fifties and sixties. It was imported from Hong Kong\n with the name of the import company or the lacquerware maker inscribed on its base.      \\r\\nThe box\n made of bamboo and lacquered in an auspicious red\n was traditionally used as a container for wedding pastries. The bride’s family would distribute boxes of these to relatives and friends ahead of the wedding\n often together with the wedding invitation card.\n",
-  "createdDate": "20201127000611",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -31,7 +31,7 @@
     "subject_terms_3": "Marriage customs",
     "sgcool_label_text": "The post-war period saw the establishment of several famous Chinese restaurants in Tua Po (Kreta Ayer area), including Nantang Restaurant at 8 Mosque Street and Da Dong Restaurant, which was just a few doors away on the same street. Judging from the five-digit telephone number on the box, it is possibly dated to the fifties and sixties. It was imported from Hong Kong, with the name of the import company or the lacquerware maker inscribed on its base.      \r\nThe box, made of bamboo and lacquered in an auspicious red, was traditionally used as a container for wedding pastries. The bride’s family would distribute boxes of these to relatives and friends ahead of the wedding, often together with the wedding invitation card."
   },
-  "nlpDate": "20201127000611",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

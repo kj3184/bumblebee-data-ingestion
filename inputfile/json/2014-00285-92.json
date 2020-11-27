@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2014-00285-92\n\n  Image: \n\n  object_work_type: black-and-white photographs\n\n  title_text: Cinema - Changi Photography Album (donation from Anthony Robert Saint Claire)\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: Robert Arthur Polglaze\n\n  creator_1: Not indicated\n\n  creator_role: photographers\n\n  creation_date: 1940s\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process) photographic processes\n\n  object_colour: grey monochrome\n\n  physical_appearance: \\The image shows a black-and-white photograph. It is rectangular and it features a single-storey building in the background and an open space in the foreground. \\\\Changi Open-Air Talkies\\\\ is displayed at the right hand side of the photograph\n\n  subject_terms_1: motion pictures (visual works) in the form of a sign designating the name of the building. There are also Chinese characters above it. Several people\n\n  subject_terms_2: Sound motion pictures like a man dressed in a long sleeve shirt and pants Theatres\n\n  subject_terms_3: two women adorning a headscarf Movie theatres Films\n\n  subject_terms_4: and a couple of children\n\n  context_1: can be seen in the open space in front of the building. To the left of the photograph\n\n  context_2: there is a stand which contains several rectangular photographs in a notice board format.\\\n\n  context_3: open-air theatres\n\n  context_4: Black-and-white photography\n\n  context_5: Photography\n",
-  "createdDate": "20201127000613",
+  "createdDate": "20201127205930",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -37,7 +37,7 @@
     "context_4": "Black-and-white photography",
     "context_5": "Photography"
   },
-  "nlpDate": "20201127000613",
+  "nlpDate": "20201127205930",
   "connectorId": 0,
   "tags": {}
 }

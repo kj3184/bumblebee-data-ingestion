@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00837 to 00841\n\n  Image: \n\n  object_work_type: porcelain (visual works) containers (receptacles)\n\n  title_text: \\\\\\Spotted Nyona\\\\ series \\\n\n  preference: main\n\n  title_language: \n\n  creator_2: Hans Tan\n\n  creator_role: designers\n\n  creation_date: 2012\n\n  creation_place_original_location: Singapore\n\n  styles_periods_indexing_terms: Contemporary (style of art)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: concave cylindrical biconvex irregular\n\n  materials_name: clay ceramic glaze porcelain (material)\n\n  object_colour: technique of sandblasting taken from SGCOOL label field\n\n  physical_appearance: This is a set of porcelain ware whose original aesthetic remains in the form of spots/dots while the rest have been sandblasted away\n thereby exposing the white porcelain beneath.\n\n  subject_terms_1: Chinese (culture or style) commissions (orders for works) Peranakan\n\n  subject_terms_2: Reinterpreting history Porcelain\n Peranakan Contemporary art Geometry in art Zhongguo wen hua xi lie\n\n  subject_terms_3: customs Decorative arts\n\n  sgcool_label_text: refer to parts\n",
-  "createdDate": "20201127000604",
+  "createdDate": "20201127205926",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -31,7 +31,7 @@
     "subject_terms_3": "customs Decorative arts",
     "sgcool_label_text": "refer to parts"
   },
-  "nlpDate": "20201127000604",
+  "nlpDate": "20201127205926",
   "connectorId": 0,
   "tags": {}
 }

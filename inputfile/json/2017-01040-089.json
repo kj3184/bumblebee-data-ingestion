@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-01040-089\n\n  Image: \n\n  object_work_type: photographs black-and-white photographs\n\n  title_text: Sixteen Months in Singapore: Photograph of Corporal A. Silver and woman in dresses \\Personal photograph album titled \\\\Sixteen Months in Singapore\\\\\\\n\n  preference: main alternate\n\n  title_language: \n\n  creation_date: 1951-1952\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: photographic processes\n\n  object_colour: black-and-white (colors)\n\n  physical_appearance: This is a black-and-white photograph. It is rectangular in shape and portrait in orientation. It features two women\n both in mid-lengthed dresses. They are both looking forward and smiling. Behind them\n there are several potted plants on the ledge. There are no tears or folds seen on the photograph.\n\n  subject_terms_1: women (female humans) snapshots\n\n  subject_terms_2: Photographs Portrait photography Women\n\n  subject_terms_3: Portrait photography Women\n\n  subject_terms_4: \n\n  sgcool_label_text: This is a personal photograph album that belonged to a Corporal A. Silver who spent 16 months in Singapore between 1951 and 1952. Silver was presumably a Jewish lady who was stationed in Singapore to serve at the Royal Air Force (RAF) Hospital at Changi. The album contains photographs that document her working and personal life\n including friends she made within the Jewish community in Singapore.\n",
-  "createdDate": "20201127000603",
+  "createdDate": "20201127205925",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -30,7 +30,7 @@
     "subject_terms_4": "",
     "sgcool_label_text": "This is a personal photograph album that belonged to a Corporal A. Silver who spent 16 months in Singapore between 1951 and 1952. Silver was presumably a Jewish lady who was stationed in Singapore to serve at the Royal Air Force (RAF) Hospital at Changi. The album contains photographs that document her working and personal life, including friends she made within the Jewish community in Singapore."
   },
-  "nlpDate": "20201127000603",
+  "nlpDate": "20201127205925",
   "connectorId": 0,
   "tags": {}
 }

@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2018-00158\n\n  Image: \n\n  object_work_type: photographs black-and-white photographs\n\n  title_text: Photograph of a group of Europeans in the verandah of a colonial house A group of Europeans in the verandah of a colonial house\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: Not indicated\n\n  creator_1: Not indicated\n\n  creation_date: Late 19th centiury / early 1900s\n\n  creation_place_original_location: Java (island)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process) photographic processes\n\n  object_colour: grey monochrome\n\n  physical_appearance: The image shows a black-and-white photograph. It is rectangular and it features an image of a bungalow.  It is situated in the background of the photograph. There are groups of people standing in the verandah of the bungalow and sitting on its front steps.\n\n  subject_terms_1: servants bungalows families (kinship groups)\n\n  subject_terms_2: Architecture\n Colonial Europeans Household employees Bungalows Families Black-and-white photography\n\n  subject_terms_3: Photography Colonial architecture\n\n  sgcool_label_text: This photograph shows a colonial bungalow with family and servants posing on the veranda.The European men are dressed in white cotton drill jackets known as ‘jas tutup’ (“closed coat”) and matching trousers\n or white shirts paired with batik trousers.\\r\\n\\r\\nWith continuous improvement of camera technology\n it became possible to take photographs outside a studio in the first decades of the 20th century. Many middle-class families collected photographs in albums as a way of documenting family life\n or documentasi keluarga.\n",
-  "createdDate": "20201127000602",
+  "createdDate": "20201127205925",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -31,7 +31,7 @@
     "subject_terms_3": "Photography Colonial architecture",
     "sgcool_label_text": "This photograph shows a colonial bungalow with family and servants posing on the veranda.The European men are dressed in white cotton drill jackets known as ‘jas tutup’ (“closed coat”) and matching trousers, or white shirts paired with batik trousers.\r\n\r\nWith continuous improvement of camera technology, it became possible to take photographs outside a studio in the first decades of the 20th century. Many middle-class families collected photographs in albums as a way of documenting family life, or documentasi keluarga."
   },
-  "nlpDate": "20201127000602",
+  "nlpDate": "20201127205925",
   "connectorId": 0,
   "tags": {}
 }

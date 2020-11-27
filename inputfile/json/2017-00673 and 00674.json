@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00673 and 00674\n\n  Image: \n\n  object_work_type: admission tickets\n\n  title_text: Complimentary admission passes to Singapore History Museum\n\n  preference: main\n\n  title_language: \n\n  creator_2: Not specified\n\n  creation_date: 1990\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: Rectangular\n\n  materials_name: paper (fibre product)\n\n  techniques_name: printing (process)\n\n  object_colour: multicoloured\n\n  edition_description: 202739\n\n  physical_appearance: \\This is a complimentary pass ticket for entry into the Singapore History Museum. The ticket has perforations that separates the ticket into three stubs; the first indicates that it is an SHM Complimentary Pass with the ticket number 202739\n the second and third are identical and both indicate that it is valid for single visits only\n and carries the National Heritage Board logo. An image of a pair of sanndals\n and the word \\\\Complimentary Pass\\\\ runs vertically down the side of the two latter stubs. \\\n\n  subject_terms_1: history museums (institutions)\n\n  subject_terms_2: Singapore History Museum Museum tickets Singapore. National Heritage Board national museums (institutions)\n\n  subject_terms_3: Singapore History Museum Singapore. National Heritage Board Museums National Museum (Singapore)\n\n  sgcool_label_text: This complimentary one-time admission pass allowed entrance for a maximum of 4 people to the Singapore History Museum and its regular exhibitions. In 1993\n the National Museum became part of the National Heritage Board (NHB) and the national collection of paintings\n archaeological wares\n ethnographical and historic material were then split into three different museums. The Singapore History Museum was housed in the museum’s original premises at Stamford Road. Following the museum’s redevelopment in 2006\n the institution was renamed as the National Museum of Singapore.\n",
-  "createdDate": "20201127000604",
+  "createdDate": "20201127205926",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -31,7 +31,7 @@
     "subject_terms_3": "Singapore History Museum Singapore. National Heritage Board Museums National Museum (Singapore)",
     "sgcool_label_text": "This complimentary one-time admission pass allowed entrance for a maximum of 4 people to the Singapore History Museum and its regular exhibitions. In 1993, the National Museum became part of the National Heritage Board (NHB) and the national collection of paintings, archaeological wares, ethnographical and historic material were then split into three different museums. The Singapore History Museum was housed in the museum’s original premises at Stamford Road. Following the museum’s redevelopment in 2006, the institution was renamed as the National Museum of Singapore."
   },
-  "nlpDate": "20201127000604",
+  "nlpDate": "20201127205926",
   "connectorId": 0,
   "tags": {}
 }

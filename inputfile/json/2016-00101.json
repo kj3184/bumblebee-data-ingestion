@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00101\n\n  Image: \n\n  object_work_type: business cards\n\n  title_text: Namecard of S Appavoo Mr. S Appavoo\n\n  preference: main alternate\n\n  title_language: \n\n  creation_date: 20th century\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process)\n\n  object_colour: black-and-white (colours)\n\n  physical_appearance: \\The image shows a rectangular card which has words and numbers printed in black ink. The card is grey in colour. At the top right hand corner\n \\\\Tel. 34583\\\\ is stated. At the middle\n\n  subject_terms_1: proprietors general contractors companies \\\\S. Appavoo\n\n  subject_terms_2: Contractors Business enterprises General Contractor Street addresses\n\n  subject_terms_3: Businesspeople Kandiar\n Appavoo No. 79 Bukit Timah Road\n\n  subject_terms_4: Singapore-9\\\\ is displayed. At the bottom left hand side\n\n  context_1: \\\\Managing Proprietor: A. Narayanasamy\\\\ is displayed. \\\n\n  context_2: street addresses\n\n  context_3: Business cards\n\n  context_4: Business enterprises\n",
-  "createdDate": "20201127000612",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -33,7 +33,7 @@
     "context_3": "Business cards",
     "context_4": "Business enterprises"
   },
-  "nlpDate": "20201127000612",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

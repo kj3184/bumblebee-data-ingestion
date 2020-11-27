@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00582\n\n  Image: \n\n  object_work_type: sewing kits buttons (fasteners)\n\n  title_text: WWII British Army personal kit\n\n  preference: main\n\n  title_language: \n\n  creation_date: 1942 - 1945\n\n  creation_place_original_location: Singapore Malaya\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: cloth shoe polish plastic (organic material)\n\n  techniques_name: forming (physical activity) sewing (needleworking technique)\n\n  object_colour: multicoloured\n\n  physical_appearance: \\The image shows several items\n some of which are lying on a white cloth and others in a brown bag. There are a few black buttons inside the brown bag. Two more are lying on the white cloth. There is a bone-shaped thread roll that has linen thread looped around it. A blue sewing kit lies nearby. The words\n \\\\Needles for Housewives 1943\\\\ and \\\\Manufactured by Alfred Shrimpton \\u0026 Sons Ltd.\n\n  subject_terms_1: personalia Britannia Works soldiers\n\n  subject_terms_2: Great Britain. Army Thread Redditch Buttons\n\n  subject_terms_3: England\\\\ Wars\n\n  subject_terms_4: are displayed on the front of the sewing kit. At the right hand side of the white cloth\n\n  context_1: a tin of shoe polish and a khaki cloth are present.\\\n\n  context_2: world wars\n\n  context_3: World War\n 1939 - 1945\n\n  context_4: 1942-1945 Japanese occupation\n\n  context_6: World War\n 1939 - 1945\n\n  context_7: world wars\n\n  context_8: 1939 - 1945\n\n  context_9: 1939\n\n  context_10: 1945\n\n  context_11: Southeast Asia\n\n  context_12: Great Britain. Army\n",
-  "createdDate": "20201127000610",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -40,7 +40,7 @@
     "context_11": "Southeast Asia",
     "context_12": "Great Britain. Army"
   },
-  "nlpDate": "20201127000610",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

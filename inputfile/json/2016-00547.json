@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00547\n\n  Image: \n\n  object_work_type: magazines (periodicals)\n\n  title_text: Vision magazine\n Vol. 3\n\n  preference: main\n\n  title_language: \n\n  creator_2: Not indicated\n\n  creator_1: Not indicated\n\n  creation_date: Feb-78\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: printing paper\n\n  techniques_name: colour printing\n\n  object_colour: multicoloured\n\n  edition_description: No. 2\n\n  physical_appearance: \\The image shows the front cover of a magazine. The word \\\\Vision\\\\ is stated at the top. The numeral \\\\14\\\\ is stated at the top right hand side\n\n  subject_terms_1: secondary schools (institutions) enclosed by a white circle. There are numeorus images below the word and numeral on the magazine. The images at the bottom centre and bottom right show a group of young people\n\n  subject_terms_2: Education\n Secondary all in the same uniform Students\n\n  subject_terms_3: standing together in an outdoor environment. \\\n\n  subject_terms_4: students\n\n  context_1: Periodicals\n\n  context_2: Periodicals\n",
-  "createdDate": "20201127000610",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -34,7 +34,7 @@
     "context_1": "Periodicals",
     "context_2": "Periodicals"
   },
-  "nlpDate": "20201127000610",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

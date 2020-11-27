@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00517 \n\n  Image: \n\n  object_work_type: packaging\n\n  title_text: Packaging of Swimming Beaver Toy Swimming Beaver Toy\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: Tomy (present name: Takara Tomy)\n\n  creator_1: Takaratomi\n Kabushiki Kaisha\n\n  creator_role: toymakers\n\n  creation_date: 1977\n\n  creation_place_original_location: Tokyo (Japan) Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: plastic (organic material)\n\n  techniques_name: forming (physical activity) toy making\n\n  object_colour: multicoloured\n\n  physical_appearance: \\The image shows a rectangular packaging of a toy. The colour of the packaging is in blue and white. \\\\Swimming Beaver\\\\ is stated at the top of the packaging. The image of a cartonnish beaver floating on the surface of water is displayed.\\\n\n  subject_terms_1: toys (recreational artefacts) entertaining brand name objects\n\n  subject_terms_2: Bathtub toys Packaging Brand name products Amusements\n\n  sgcool_label_text: The Swimming Beaver is an example of the low value added toys manufactured by Tomy Singapore.The toy would have been designed in Tokyo and sophisticated parts would have been imported to Singapore in putting it together. Most of its metallic parts would have been produced in Singapore. \\r\\n\\r\\nTomy Singapore is perhaps most remembered for its (supposedly) annual donation of toys (valued at $100\n000) to Singapore’s poor children every Christmas.\\r\\n\n",
-  "createdDate": "20201127000610",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -31,7 +31,7 @@
     "subject_terms_2": "Bathtub toys Packaging Brand name products Amusements",
     "sgcool_label_text": "The Swimming Beaver is an example of the low value added toys manufactured by Tomy Singapore.The toy would have been designed in Tokyo and sophisticated parts would have been imported to Singapore in putting it together. Most of its metallic parts would have been produced in Singapore. \r\n\r\nTomy Singapore is perhaps most remembered for its (supposedly) annual donation of toys (valued at $100,000) to Singapore’s poor children every Christmas.\r\n"
   },
-  "nlpDate": "20201127000610",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

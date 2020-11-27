@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00366\n\n  Image: \n\n  object_work_type: porcelain (visual works) coffeepots\n\n  title_text: Coffee pot Imari porcelain coffee pot\n\n  preference: main alternative\n\n  title_language: \n\n  creation_date: late 17th to early 18th century\n\n  creation_place_original_location: Arita-machi (Japan)\n\n  styles_periods_indexing_terms: Imari\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: octagonal\n\n  materials_name: gilt paint enamel paint porcelain (material)\n\n  techniques_name: pottery glazing (process or technique) firing (technique) gilding (technique)\n\n  object_colour: multicolored\n\n  physical_appearance: This is a porcelain coffee pot. It is octagonal in shape\n with a tapered body\n curved handle\n and domed cover. It is painted with multicolored enamels in the form of repeating flower motifs. The pot is fitted with gold mounts\n and sits on a four legged gold base. The tap and the tripod base are in the shape of dolphins\n while the top of the pot is shaped as a horse.\n\n  subject_terms_1: exports tea services cultural diffusion flower (motif)\n\n  subject_terms_2: Exports Motifs Coffeepots Imari porcelain cultural diffusion\n\n  subject_terms_3: Ceramics Decorative arts\n\n  sgcool_label_text: This coffee pot has been decorated with European made gilded mounts. Japanese ceramics\n such as Imari wares\n were mainly introduced to Europe in the latter part of the 17th century through the trades of the Dutch East India Company. Imari porcelain was made in Arita\n and is named after the port from which they are exported\n and are known for their underglaze blue\n iron-red and gold colours. Coffee became popular in Europe around the mid-17th century which increased the demand for coffee-specific wares.\n",
-  "createdDate": "20201127000611",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -30,7 +30,7 @@
     "subject_terms_3": "Ceramics Decorative arts",
     "sgcool_label_text": "This coffee pot has been decorated with European made gilded mounts. Japanese ceramics, such as Imari wares, were mainly introduced to Europe in the latter part of the 17th century through the trades of the Dutch East India Company. Imari porcelain was made in Arita, and is named after the port from which they are exported, and are known for their underglaze blue, iron-red and gold colours. Coffee became popular in Europe around the mid-17th century which increased the demand for coffee-specific wares."
   },
-  "nlpDate": "20201127000611",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

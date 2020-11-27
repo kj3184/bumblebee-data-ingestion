@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00576\n\n  Image: \n\n  object_work_type: headgear\n\n  title_text: Talapa Chetti Melaka or Headgear\n\n  preference: main\n\n  title_language: English\n\n  creation_date: Mid 20th century\n\n  creation_place_original_location: Malacca (Malaysia : State)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: cotton (textile)\n\n  techniques_name: sewing (needleworking technique)\n\n  object_colour: multicolored\n\n  physical_appearance: This is a talapa or headgear. It is made from batik fabric\n with multicolored batik patterns and colours. There is a small triangle in the middle of the headgear.\n\n  subject_terms_1: cultural diffusion folk costume\n\n  subject_terms_2: ethnic costume Headgear Culture diffusion Batik\n\n  subject_terms_3: Batik Indian costumes\n\n  subject_terms_4: \n\n  sgcool_label_text: The Peranakan Indians (also known as Chetti Melaka) have a 500 year history in the region. Historically\n south Indian traders who operated in the Malacca straits intermattied with Chinese and Malay women giving birth to a hhybrid community with an eclectic culture. The culture of Peranakan Indian community is a reflection of their multi-ethnic origins; their language\ndress\n cuisine and lifestyle are a combination of Indian\n Malay and Chinese components. Gajah Berang in Malacca is uniquely Chetti Melaka settlement that Peranakan Indians in Malaysia and Singapore trace their oirgins to. The Peranakan Indians also remain staucnh Hindus celebrating Hindu festivals. This is a traditional talapa or headgear worn by the Peranakan Indian men. Made from batik fabric\n the name talapa is a Tamil word; this headgear is but one aspect of the community\\u0027s hybrid culture.\n",
-  "createdDate": "20201127000604",
+  "createdDate": "20201127205926",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -30,7 +30,7 @@
     "subject_terms_4": "",
     "sgcool_label_text": "The Peranakan Indians (also known as Chetti Melaka) have a 500 year history in the region. Historically, south Indian traders who operated in the Malacca straits intermattied with Chinese and Malay women giving birth to a hhybrid community with an eclectic culture. The culture of Peranakan Indian community is a reflection of their multi-ethnic origins; their language,dress, cuisine and lifestyle are a combination of Indian, Malay and Chinese components. Gajah Berang in Malacca is uniquely Chetti Melaka settlement that Peranakan Indians in Malaysia and Singapore trace their oirgins to. The Peranakan Indians also remain staucnh Hindus celebrating Hindu festivals. This is a traditional talapa or headgear worn by the Peranakan Indian men. Made from batik fabric, the name talapa is a Tamil word; this headgear is but one aspect of the community\u0027s hybrid culture."
   },
-  "nlpDate": "20201127000604",
+  "nlpDate": "20201127205926",
   "connectorId": 0,
   "tags": {}
 }

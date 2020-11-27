@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2018-00635\n\n  Image: \n\n  object_work_type: watercolors (paintings) paintings (visual works)\n\n  title_text: Kallang River\n\n  preference: main\n\n  title_language: \n\n  creator_2: Idris Mohd Ali\n\n  creator_1: Idris Mohamed Ali\n\n  creator_role: painters (artists)\n\n  creation_date: 1968\n\n  creation_place_original_location: Singapore (nation)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product) watercolor (paint)\n\n  techniques_name: watercolour painting (technique)\n\n  object_colour: multicolored\n\n  physical_appearance: This is a watercolour painting. It is landscape in orientation. It features a scene of boats on the Kallang River. There are no individuals seen on the painting. There is a signature and year inscribed on the bottom-left of the painting.\n\n  subject_terms_1: rivers sampans boats\n\n  subject_terms_2: Boats and boating Rivers Landscapes Singapore Watercolor painting\n\n  subject_terms_3: Kallang River Heritage and Culture Idris Mohamed Ali Visual arts\n\n  subject_terms_4: Singapore (nation) Kallang River (river)\n\n  sgcool_label_text: Known for his watercolour landscapes and street scenes\n Idris Mohamed Ali’s works reveal a strong understanding of colour\n depth and realism. His paintings of old Singapore are especially important as they serve as a visual documentation of our national heritage. \\r\\nStarted painting at 10 and not being able to afford formal art training\n Idris learnt from books\n observation\n practice and a brief tutelage under pioneer Malay artist\n S. Mahdar. In 1962\n at the age of 18\n this self-taught artist had his first group exhibition at the Singapore Victoria Memoral Hall.\\r\\n\n",
-  "createdDate": "20201127000602",
+  "createdDate": "20201127205924",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -33,7 +33,7 @@
     "subject_terms_4": "Singapore (nation) Kallang River (river)",
     "sgcool_label_text": "Known for his watercolour landscapes and street scenes, Idris Mohamed Ali’s works reveal a strong understanding of colour, depth and realism. His paintings of old Singapore are especially important as they serve as a visual documentation of our national heritage. \r\nStarted painting at 10 and not being able to afford formal art training, Idris learnt from books, observation, practice and a brief tutelage under pioneer Malay artist, S. Mahdar. In 1962, at the age of 18, this self-taught artist had his first group exhibition at the Singapore Victoria Memoral Hall.\r\n"
   },
-  "nlpDate": "20201127000602",
+  "nlpDate": "20201127205924",
   "connectorId": 0,
   "tags": {}
 }

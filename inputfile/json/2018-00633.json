@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2018-00633\n\n  Image: \n\n  object_work_type: watercolours (paintings)\n\n  title_text: Tanjung Rhu Singapore\n\n  preference: main\n\n  title_language: \n\n  creator_2: Idris Mohd Ali\n\n  creator_1: Idris Mohamed Ali Idris Mohd Ali\n 1944-\n\n  creator_role: painters (artist)\n\n  creation_date: 1963\n\n  creation_place_original_location: Singapore (inhabited place)\n\n  styles_periods_indexing_terms: Not indicated\n\n  inscriptions: \n\n  inscription_language: \n\n  scale_type: Not indicated\n\n  shape: rectangular\n\n  materials_name: paper (fiber product) gouache (paint) watercolour (paint)\n\n  techniques_name: gouache (technique) watercolour painting (technique)\n\n  object_colour: multicoloured\n\n  physical_appearance: The image shows a watercolour painting. The painting depicts several boats that are coloured brown\n on water. Each boat has a long mast extending from its centre. There are a couple of men on the decks of the boats. The outlines of birds can be discerned near the top of the painting\n beneath the sky. The name of the painting\n and the name of the artist are stated at the bottom right hand side of the painting. But the inscriptions are not clear enough to discern the exact wordings.\n\n  subject_terms_1: capes (landforms) boats\n\n  subject_terms_2: Boats and boating Capes (Coasts) Singapore Watercolour painting\n\n  subject_terms_3: Heritage and Culture Tanjong Rhu Watercolour Painting Visual arts\n\n  sgcool_label_text: Known for his watercolour landscapes and street scenes\n Idris Mohamed Ali’s works reveal a strong understanding of colour\n depth and realism. His paintings of old Singapore are especially important as they serve as a visual documentation of our national heritage. \\r\\nStarted painting at 10 and not being able to afford formal art training\n Idris learnt from books\n observation\n practice and a brief tutelage under pioneer Malay artist\n S. Mahdar. In 1962\n at the age of 18\n this self-taught artist had his first group exhibition at the Singapore Victoria Memoral Hall.\\r\\n\n",
-  "createdDate": "20201127000602",
+  "createdDate": "20201127205924",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -34,7 +34,7 @@
     "subject_terms_3": "Heritage and Culture Tanjong Rhu Watercolour Painting Visual arts",
     "sgcool_label_text": "Known for his watercolour landscapes and street scenes, Idris Mohamed Ali’s works reveal a strong understanding of colour, depth and realism. His paintings of old Singapore are especially important as they serve as a visual documentation of our national heritage. \r\nStarted painting at 10 and not being able to afford formal art training, Idris learnt from books, observation, practice and a brief tutelage under pioneer Malay artist, S. Mahdar. In 1962, at the age of 18, this self-taught artist had his first group exhibition at the Singapore Victoria Memoral Hall.\r\n"
   },
-  "nlpDate": "20201127000602",
+  "nlpDate": "20201127205924",
   "connectorId": 0,
   "tags": {}
 }

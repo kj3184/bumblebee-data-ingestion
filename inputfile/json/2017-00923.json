@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00923\n\n  Image: \n\n  object_work_type: box cameras\n\n  title_text: Rolleiflex I\n Franke \\u0026 Heidecke\n\n  preference: main\n\n  title_language: \n\n  creator_2: Rollei (?)\n\n  creator_role: manufacturers\n\n  creation_date: 1928\n\n  creation_place_original_location: Germany\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: glass (material) metal\n\n  object_colour: black (color)\n\n  physical_appearance: This is a Rolleiflex box camera. It is a black box camera with a leather exterior. The front of the camera consists of two lenses\n arranged vertically on top of one another. There are inscriptions around the lens as well as the top front of the camera. The edges of the camera is slightly faded.\n\n  subject_terms_1: vintage (period) photography (discipline) cameras (photographic equipment)\n\n  subject_terms_2: Photography Cameras Vintage Rolleiflex camera\n\n  subject_terms_3: Photography\n\n  sgcool_label_text: The Rolleiflex was introduced by the German company Franke \\u0026 Heidecke in 1929. It was a welcomed improvement from the smaller format of the 35mm film and was popular among both professional and amateur photographers. In Singapore\n the camera was available in shops like Singapore Photo Co. which was located at High Street in 1931. \\r\\n\\r\\nBefore the advent of the portable camera in the late 19th century\n the taking of photographs was limited to the studio. However portable cameras remained affordable only to the rich until the first decades of the 20th century.\n",
-  "createdDate": "20201127000604",
+  "createdDate": "20201127205925",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -30,7 +30,7 @@
     "subject_terms_3": "Photography",
     "sgcool_label_text": "The Rolleiflex was introduced by the German company Franke \u0026 Heidecke in 1929. It was a welcomed improvement from the smaller format of the 35mm film and was popular among both professional and amateur photographers. In Singapore, the camera was available in shops like Singapore Photo Co. which was located at High Street in 1931. \r\n\r\nBefore the advent of the portable camera in the late 19th century, the taking of photographs was limited to the studio. However portable cameras remained affordable only to the rich until the first decades of the 20th century."
   },
-  "nlpDate": "20201127000604",
+  "nlpDate": "20201127205925",
   "connectorId": 0,
   "tags": {}
 }

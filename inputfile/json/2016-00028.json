@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00028\n\n  Image: \n\n  object_work_type: krises\n\n  title_text: keris Javanese keris and sheath\n\n  preference: main alternate\n\n  title_language: \n\n  creation_date: mid to late 19th century\n\n  creation_place_original_location: Yogyakarta (Indonesia)\n\n  styles_periods_indexing_terms: Javanese (culture or style)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: wood (plant material) gold (metal) antler (material) steel (alloy) diamond (material)\n\n  techniques_name: forging (metal forming)\n\n  object_colour: multicolored\n\n  physical_appearance: This is a keris with a gold-coated sheath. The keris has a narrow\n wavy black blade with stylistic pamor patterns\n and gold decoratives added near the handle. The handle is carved to resemble the head of a Hindu diety\n Kala\n and adorned with diamonds. The sheath is a wooden frame\n coated in gold and carved with floral motifs.\n\n  subject_terms_1: fetishes ceremonial weapons flower (motif) daggers (weapons)\n\n  subject_terms_2: Motifs ceremonial objects Javanese (Indonesian people) Daggers\n\n  subject_terms_3: Heritage and Culture\n\n  subject_terms_4: keris\n\n  sgcool_label_text: The extraordinary quality of this keris can be seen in both the valuable materials and high level of craftsmanship used to make it. Such keris were not for ordinary people but only for people of direct royal descent. \\r\\n\\r\\nKeris were an important dress accessory and status symbol\n as well as a weapon and also were regarded as powerful objects of supernatural protection. The keris was thought to contain a spirit or isi which if properly cared for would ward off both physical and magical injury.\n",
-  "createdDate": "20201127000612",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -31,7 +31,7 @@
     "subject_terms_4": "keris",
     "sgcool_label_text": "The extraordinary quality of this keris can be seen in both the valuable materials and high level of craftsmanship used to make it. Such keris were not for ordinary people but only for people of direct royal descent. \r\n\r\nKeris were an important dress accessory and status symbol, as well as a weapon and also were regarded as powerful objects of supernatural protection. The keris was thought to contain a spirit or isi which if properly cared for would ward off both physical and magical injury."
   },
-  "nlpDate": "20201127000612",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

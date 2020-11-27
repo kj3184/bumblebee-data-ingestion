@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00559\n\n  Image: \n\n  object_work_type: manuals (instructional materials)\n\n  title_text: Manual for operating a pager by Singapore Telecoms\n\n  preference: main\n\n  title_language: \n\n  creator_2: Singapore Telecoms\n\n  creator_1: Telecoms (Organization : Singapore)\n\n  creator_role: creators\n\n  creation_date: 1980s\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: printing paper\n\n  techniques_name: colour printing\n\n  object_colour: multicoloured\n\n  physical_appearance: \\The image shows the front cover of a manual. It has a white background. \\\\Radio Paging Service\n\n  subject_terms_1: for people who need to keep in touch\\\\ is stated at the centre towards the top. \\\\Operating Procedure for Display Paper\\\\ is stated at the centre. An image of a blue pager is shown. The logo of Singapore Telecom is displayed in white at the bottom. \\ electronic (technology-related concept)\n\n  subject_terms_2: beepers Beepers (Pagers)\n\n  subject_terms_3: Handbooks and manuals\n\n  subject_terms_4: Singapore Telecom\n",
-  "createdDate": "20201127000610",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_3": "Handbooks and manuals",
     "subject_terms_4": "Singapore Telecom"
   },
-  "nlpDate": "20201127000610",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

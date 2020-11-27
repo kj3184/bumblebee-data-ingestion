@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00608\n\n  Image: \n\n  object_work_type: womenswear trousers\n\n  title_text: Red silk trousers Trousers\n\n  preference: main alternate\n\n  title_language: \n\n  creation_date: 20th century\n\n  creation_place_original_location: Kachchh (India)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: silk (textile) silver thread\n\n  techniques_name: sewing (needleworking technique)\n\n  object_colour: red (color) silver (color)\n\n  physical_appearance: This is a pair of silk trousers. It is red\n with silver embroided floral and foliage design along the bottom. The trousers are mid-length.\n\n  subject_terms_1: flower (motif) foliage (motif) folk costume\n\n  subject_terms_2: Motifs Ethnic costume Memons Pants\n\n  subject_terms_3: Indian costumes\n\n  subject_terms_4: \n\n  sgcool_label_text: Ladies trousers\n worn by the Kutchi Memon community. The trousers would have been manufactured and embroidered in north India\n",
-  "createdDate": "20201127000604",
+  "createdDate": "20201127205926",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -30,7 +30,7 @@
     "subject_terms_4": "",
     "sgcool_label_text": "Ladies trousers, worn by the Kutchi Memon community. The trousers would have been manufactured and embroidered in north India"
   },
-  "nlpDate": "20201127000604",
+  "nlpDate": "20201127205926",
   "connectorId": 0,
   "tags": {}
 }

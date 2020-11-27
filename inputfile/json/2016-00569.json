@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00569\n\n  Image: \n\n  object_work_type: boxes (containers) photographs black-and-white photographs ointment vessels leaflets (printed works) packaging\n\n  title_text: Bottle of Tiger Oil in paper packaging Bottles of Tiger Oil in paper packaging and in a paper box\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: Haw Par Brothers International Ltd Singapore\n\n  creator_1: Haw Par Brothers International Limited (TTE)\n\n  creator_role: companies\n\n  creation_date: 1950s - 1970s\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: varies\n\n  materials_name: paper (fiber product) glass (material) printing paper\n\n  techniques_name: forming (physical activity) printing (process) colour printing\n\n  object_colour: multicoloured\n\n  physical_appearance: \\The image shows several items\n such as a brown rectangular box\n three rectangular packagings\n a yellow bottle containing oil\n and a leaflet. The words \\\\Tiger Oil\\\\ are displayed on the box and the packagings\n\n  subject_terms_1: in English and in Chinese characters. There are Arabic scripts and the Malay words \\\\Minjak Tjap Harim\\\\ are displayed on one side of the packagings. The image of a Tiger appears on both the box and the packagings.\\ brand name objects\n\n  subject_terms_2: Business enterprises Boxes Pamphlets Bottles Businesspeople ointment Packaging Brand name products\n\n  subject_terms_3: Aw\n Boon Haw Business owners Ointments\n\n  subject_terms_4: Business enterprises\n",
-  "createdDate": "20201127000610",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_3": "Aw, Boon Haw Business owners Ointments",
     "subject_terms_4": "Business enterprises"
   },
-  "nlpDate": "20201127000610",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

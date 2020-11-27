@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00526\n\n  Image: \n\n  object_work_type: publications (documents)\n\n  title_text: Jinnah\n The Great- World Muslims\n Memorial No 1\n\n  preference: main\n\n  title_language: \n\n  creator_2: Not indicated\n\n  creator_1: Not indicated\n\n  creator_role: Not indicated\n\n  creation_date: Not indicated\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: printing paper\n\n  techniques_name: printing (process)\n\n  object_colour: multicoloured\n\n  edition_description: Not indicated\n\n  physical_appearance: \\The image displays the front cover of a publication. There are Tamil inscriptions at the top. \\\\Jinnah the Great\\\\ is stated below the headlines. \\\\Memorial Number 1\\\\ and \\\\The Jinnah Library\n\n  subject_terms_1: Singapore\\\\ are stated at the right hand side. \\\\Price: 70 cents\\\\ is stated at the bottom left hand side. The image of a man sitting down cross-legged is displayed at the centre. He is decked out in a suit and tie.\\ governors general politicians\n\n  subject_terms_2: Jinnah\n Mahomed Ali\n 1876-1948 founders (originators)\n\n  subject_terms_3: Publications\n\n  subject_terms_4: Politicians\n",
-  "createdDate": "20201127000610",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -33,7 +33,7 @@
     "subject_terms_3": "Publications",
     "subject_terms_4": "Politicians"
   },
-  "nlpDate": "20201127000610",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }
