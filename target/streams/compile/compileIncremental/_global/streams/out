@@ -2,27 +2,27 @@
 [0m[[0m[0mdebug[0m] [0m[0mIncrementalCompile.incrementalCompile[0m
 [0m[[0m[0mdebug[0m] [0m[0mprevious = Stamps for: 15 products, 6 sources, 11 libraries[0m
 [0m[[0m[0mdebug[0m] [0m[0mcurrent source = Set(${BASE}/src/main/scala/com/taiger/bumblebee/data/ingestion/jobs/ArtefactTypeModelTraining.scala, ${BASE}/src/main/scala/jsonclass/Tag.scala, ${BASE}/src/main/scala/jsonclass/Metadata.scala, ${BASE}/src/main/scala/jsonclass/OutputCsv.scala, ${BASE}/src/main/scala/com/taiger/bumblebee/data/ingestion/jobs/DataIngestionSolution.scala, ${BASE}/src/main/scala/com/taiger/bumblebee/data/ingestion/jobs/SparkCommonUtils.scala)[0m
-[0m[[0m[0mdebug[0m] [0m[0m> initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(${BASE}/src/main/scala/com/taiger/bumblebee/data/ingestion/jobs/DataIngestionSolution.scala), unmodified = ...),Set(),Set(),API Changes: Set())[0m
+[0m[[0m[0mdebug[0m] [0m[0m> initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(${BASE}/src/main/scala/com/taiger/bumblebee/data/ingestion/jobs/DataIngestionSolution.scala, ${BASE}/src/main/scala/com/taiger/bumblebee/data/ingestion/jobs/ArtefactTypeModelTraining.scala), unmodified = ...),Set(${BASE}/target/scala-2.12/classes/com/taiger/bumblebee/data/ingestion/jobs/DataIngestionSolution$.class),Set(),API Changes: Set())[0m
 [0m[[0m[0mdebug[0m] [0m[0m[0m
 [0m[[0m[0mdebug[0m] [0m[0mInitial source changes:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	removed: Set()[0m
 [0m[[0m[0mdebug[0m] [0m[0m	added: Set()[0m
-[0m[[0m[0mdebug[0m] [0m[0m	modified: Set(${BASE}/src/main/scala/com/taiger/bumblebee/data/ingestion/jobs/DataIngestionSolution.scala)[0m
-[0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	modified: Set(${BASE}/src/main/scala/com/taiger/bumblebee/data/ingestion/jobs/DataIngestionSolution.scala, ${BASE}/src/main/scala/com/taiger/bumblebee/data/ingestion/jobs/ArtefactTypeModelTraining.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set(${BASE}/target/scala-2.12/classes/com/taiger/bumblebee/data/ingestion/jobs/DataIngestionSolution$.class)[0m
 [0m[[0m[0mdebug[0m] [0m[0mExternal API changes: API Changes: Set()[0m
 [0m[[0m[0mdebug[0m] [0m[0mModified binary dependencies: Set()[0m
-[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set(com.taiger.bumblebee.data.ingestion.jobs.DataIngestionSolution)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set(com.taiger.bumblebee.data.ingestion.jobs.DataIngestionSolution, com.taiger.bumblebee.data.ingestion.jobs.ArtefactTypeModelTraining)[0m
 [0m[[0m[0mdebug[0m] [0m[0mSources indirectly invalidated by:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	product: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	product: Set(${BASE}/src/main/scala/com/taiger/bumblebee/data/ingestion/jobs/DataIngestionSolution.scala)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	binary dep: Set()[0m
 [0m[[0m[0mdebug[0m] [0m[0m	external source: Set()[0m
-[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated classes: Set(com.taiger.bumblebee.data.ingestion.jobs.DataIngestionSolution)[0m
-[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated sources:Set(${BASE}/src/main/scala/com/taiger/bumblebee/data/ingestion/jobs/DataIngestionSolution.scala)[0m
-[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: com.taiger.bumblebee.data.ingestion.jobs.DataIngestionSolution[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated classes: Set(com.taiger.bumblebee.data.ingestion.jobs.DataIngestionSolution, com.taiger.bumblebee.data.ingestion.jobs.ArtefactTypeModelTraining)[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated sources:Set(${BASE}/src/main/scala/com/taiger/bumblebee/data/ingestion/jobs/DataIngestionSolution.scala, ${BASE}/src/main/scala/com/taiger/bumblebee/data/ingestion/jobs/ArtefactTypeModelTraining.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: com.taiger.bumblebee.data.ingestion.jobs.DataIngestionSolution, com.taiger.bumblebee.data.ingestion.jobs.ArtefactTypeModelTraining[0m
 [0m[[0m[0mdebug[0m] [0m[0mcompilation cycle 1[0m
-[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /Users/kunal/Projects/Data_ingestion_job/bumblebee-data-ingestion-job/target/scala-2.12/classes ...[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 2 Scala sources to /Users/kunal/Projects/Data_ingestion_job/bumblebee-data-ingestion-job/target/scala-2.12/classes ...[0m
 [0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.12:1.4.3:compile for Scala 2.12.10[0m
-[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 35888dc8 for Scala compiler version 2.12.10[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 76fd3dc4 for Scala compiler version 2.12.10[0m
 [0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
 [0m[[0m[0mdebug[0m] [0m[0m	/Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/jre/classes:/Users/kunal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.10/scala-library-2.12.10.jar[0m
@@ -34,5 +34,5 @@
 [0m[[0m[0mdebug[0m] [0m[0mFinal step, transitive dependencies:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
 [0m[[0m[0mdebug[0m] [0m[0mNo classes were invalidated.[0m
-[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 5.144251717 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 2.1805788 s[0m
 [0m[[0m[0minfo[0m] [0m[0mdone compiling[0m

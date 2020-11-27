@@ -29,7 +29,7 @@ object ArtefactTypeModelTraining {
       .options(Map("inferSchema" -> "false", "delimiter" -> ",", "header" -> "true", "multiline" -> "false"))
       .format("com.databricks.spark.csv")
       .schema(artefactTypeHeader)
-      .csv("inputfile/ObjectType_Master.csv");
+      .csv("./data/ObjectType_Master.csv");
 
     /**
      * verify the objecttype list
