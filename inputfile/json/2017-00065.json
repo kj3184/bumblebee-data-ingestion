@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00065\n\n  Image: \n\n  object_work_type: covers (overlying objects) handkerchiefs\n\n  title_text: Ceremonial handkerchief or dowry tray cover\n\n  preference: main\n\n  title_language: \n\n  creation_date: 19th - early 20th century\n\n  creation_place_original_location: Sumatra (Indonesia)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: square (shape)\n\n  materials_name: wool (textile) thread\n\n  techniques_name: sewing (needleworking technique) embroidering\n\n  object_colour: multicolored\n\n  physical_appearance: This is a square handkerchief. It features a multicoloured embroidery decorated with motifs including stylised flowers\n birds\n animals and insects. The central square decoration features butterflies and phoenixes. Four peony blooms surround the corners of the central motif.\n\n  subject_terms_1: geometric motifs ceremonial objects birds (motifs) flower (motif) cultural diffusion embroidery (visual works)\n\n  subject_terms_2: Handkerchiefs Motifs Embroidery Culture diffusion Ceremonial objects Dowry\n\n  subject_terms_3: Textile art and design\n\n  sgcool_label_text: This handkerchief (sapu tangan) was probably used as a decorative tray cover that was placed over items presented on trays as part of a ceremony.  The choice of auspicious decorative motifs (stylised motifs of flowers\n birds\n animals and insects) suggests that this handkerchief was part of the bridal trousseau prepared for the groom and his family.  Pairs of butterflies in the central square decoration and phoenixes enclosed in squares at the four corners of the cloth symbolise martial harmony\n while the fretwork border\n possibly a variant of the banji pattern\n is believed by the Chinese to contain talismanic properties.  It is plausible that European influence is present in this piece given the choice of European flowers such as the rose in the embroidery\n and the similarity to European cross-stich designs.\n",
-  "createdDate": "20201127000609",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -29,7 +29,7 @@
     "subject_terms_3": "Textile art and design",
     "sgcool_label_text": "This handkerchief (sapu tangan) was probably used as a decorative tray cover that was placed over items presented on trays as part of a ceremony.  The choice of auspicious decorative motifs (stylised motifs of flowers, birds, animals and insects) suggests that this handkerchief was part of the bridal trousseau prepared for the groom and his family.  Pairs of butterflies in the central square decoration and phoenixes enclosed in squares at the four corners of the cloth symbolise martial harmony, while the fretwork border, possibly a variant of the banji pattern, is believed by the Chinese to contain talismanic properties.  It is plausible that European influence is present in this piece given the choice of European flowers such as the rose in the embroidery, and the similarity to European cross-stich designs."
   },
-  "nlpDate": "20201127000609",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

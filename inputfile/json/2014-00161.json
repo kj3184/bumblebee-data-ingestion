@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2014-00161\n\n  Image: \n\n  object_work_type: coffee cups saucers (plates)\n\n  title_text: Two Coffee Cup Sets Two Coffee Cup and Saucer Sets\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: Not indicated\n\n  creation_date: Not indicated\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  materials_name: ceramic (material)\n\n  techniques_name: forming (physical activity)\n\n  object_colour: grey (colour)\n\n  physical_appearance: \\The image displays two sets of coffee cups and saucers. Both of them are of the same size and shape. The cup and saucer on the left hand side of the image both have a green band running around them. The initials \\\\RH\\\\ are displayed on the both of them in green. The cup and saucer on the right hand side of the image both have a gold band running around them. The initials \\\\RH\\\\ are displayed on the both of them in gold. \\\n\n  subject_terms_1: tableware\n\n  subject_terms_2: Coffee cups Drinking cups Raffles Hotel Ceramic tableware\n\n  sgcool_label_text: Not indicated\n",
-  "createdDate": "20201127000614",
+  "createdDate": "20201127205930",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -28,7 +28,7 @@
     "subject_terms_2": "Coffee cups Drinking cups Raffles Hotel Ceramic tableware",
     "sgcool_label_text": "Not indicated"
   },
-  "nlpDate": "20201127000614",
+  "nlpDate": "20201127205930",
   "connectorId": 0,
   "tags": {}
 }

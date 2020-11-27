@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2018-00064\n\n  Image: \n\n  object_work_type: maps (documents) pictorial maps\n\n  title_text: Blaeu\\u0027s Map of the Moluccas\n\n  preference: main\n\n  title_language: \n\n  creator_2: Willem Blaeu Jodocus Hondius\n\n  creator_1: not indicated\n\n  creator_role: engravers (printmakers) publishers cartographers\n\n  creation_date: c1640\n\n  creation_place_original_location: not indicated\n\n  styles_periods_indexing_terms: not indicated\n\n  inscriptions: \n\n  inscription_language: \n\n  scale_type: The scale is centralised at the bottom of the map.\n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: papermaking copper engraving (printing process) hand coloring\n\n  object_colour: multicoloured\n\n  physical_appearance: This is a multicoloured map of the Moluccas\n created by Jodocus Hondius and published by Willem Blaeu. There are two cartographic cartouches at the top of the map. The cartouche on the top left shows early Dutch settlement on the island of Bachian while the cartouche on the top right shows the title of the map. An illustration on the lower right corner of the map shows a Moluccan couple in Europeanised native dress.There are many lines of text in Latin throughout the map specifying the title\n scale and the names of all the spice islands represented in the map.\n\n  subject_terms_1: topographical views settlement (population activity) indigenous people cartouches (ornament) cartography (discipline)\n\n  subject_terms_2: Pictorial maps Linschoten\n Jan Huygen van\n 1563-1611 Indigenous people Maluku (Indonesia) Nederlandsche Oost-Indische Compagnie Cartography Cartouches\n Ornamental (Decorative arts)\n\n  subject_terms_4: Bacan\n Pulau (island) Moluccas (island group)\n\n  sgcool_label_text: This map of the Moluccas or Spice Islands was first produced by the map engraver Jodocus Hondius and subsequently bought over by cartographer and map publisher Willem Blaeu who published this map. As the first large scale map of the Moluccas\n this map shows its various islands\n along with pictorial depictions of the relief and settlements on the islands\n including that of the early Dutch settlement on Bachian.\n",
-  "createdDate": "20201127000603",
+  "createdDate": "20201127205925",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -34,7 +34,7 @@
     "subject_terms_4": "Bacan, Pulau (island) Moluccas (island group)",
     "sgcool_label_text": "This map of the Moluccas or Spice Islands was first produced by the map engraver Jodocus Hondius and subsequently bought over by cartographer and map publisher Willem Blaeu who published this map. As the first large scale map of the Moluccas, this map shows its various islands, along with pictorial depictions of the relief and settlements on the islands, including that of the early Dutch settlement on Bachian."
   },
-  "nlpDate": "20201127000603",
+  "nlpDate": "20201127205925",
   "connectorId": 0,
   "tags": {}
 }

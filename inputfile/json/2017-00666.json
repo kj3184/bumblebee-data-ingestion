@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00666\n\n  Image: \n\n  object_work_type: lithographs colour prints (prints)\n\n  title_text: Print from Hugo V Pedersen\\u0027s Door den Oost-Indischen Archipel of a Chinese opium den in Singapore\n\n  preference: main\n\n  title_language: \n\n  creator_2: Not specified\n\n  creation_date: 1902\n\n  creation_place_original_location: Netherlands\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: Rectangular\n\n  materials_name: lithographic ink paper (fibre product)\n\n  techniques_name: hand colouring printing techniques\n\n  object_colour: multicoloured\n\n  edition_description: First\n\n  physical_appearance: This is a coloured print that features a drawing of a dimly-lit room filled with people lying on plants. Candles and laterns are seen hanging from the ceiling.\n\n  subject_terms_1: Orientalism travel sketches drug abuse\n\n  subject_terms_2: Opium abuse Orientalism Exoticism in art Lithography Colour prints Drawing Singapore\n\n  subject_terms_3: Pedersen\n Hugo V. Visual arts\n\n  sgcool_label_text: This is a print from Hugo V Pedersen\\u0027s book\n Door den Oost-Indischen Archipel\n which charted his travels in the East Indian Archipelago. The print was based on an actual sketch of a Chinese opium den in Singapore\n which is presented as a dark\n mystical place. Pedersen was a Danish artist who travelled to the Far East\n including Singapore\n in 1895.\n",
-  "createdDate": "20201127000604",
+  "createdDate": "20201127205926",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -31,7 +31,7 @@
     "subject_terms_3": "Pedersen, Hugo V. Visual arts",
     "sgcool_label_text": "This is a print from Hugo V Pedersen\u0027s book, Door den Oost-Indischen Archipel, which charted his travels in the East Indian Archipelago. The print was based on an actual sketch of a Chinese opium den in Singapore, which is presented as a dark, mystical place. Pedersen was a Danish artist who travelled to the Far East, including Singapore, in 1895."
   },
-  "nlpDate": "20201127000604",
+  "nlpDate": "20201127205926",
   "connectorId": 0,
   "tags": {}
 }

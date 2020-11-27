@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00285\n\n  Image: \n\n  object_work_type: posters\n\n  title_text: Young Songwriters Society poster Young Songwriters Society poster 1988\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: Young Songwriters Society Anterluck Services\n\n  creator_role: creators designers\n\n  creation_date: 1988\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: colour printing\n\n  object_colour: multicoloured\n\n  physical_appearance: \\The image shows a poster and it has white background. There are three Chinese characters and the year \\u00271988\\u0027 that are displayed in blue in large fonts near the top of the poster. At the top centre of the poster\n there is a single row of Chinese characters and the words \\\\The Young Songwriters Society\\\\. At the bottom of the poster\n\n  subject_terms_1: concerts the logos of McDonald\\u0027s societies festivals music (performing arts)\n\n  subject_terms_2: Folk music Concerts Music festivals Societies Metro department store Folk musicians\n\n  subject_terms_3: and PRS are displayed as sponsors. In the middle of the poster Music organisations\n\n  subject_terms_4: there are cartoon sketches of more than fifty human figures who are either dancing\n\n  context_1: playing musical instruments and singing\n\n  context_2: and holding a long blue banner. Below the cartoon sketches of the human figures\n\n  context_3: there are several rows of Chinese characters together with English words and numbers denoting prices\n\n  context_4: dates\n\n  context_5: and a postal code. Ther are slight tears on the sides of the poster.\\\n\n  context_6: musicians\n\n  context_7: Posters\n\n  context_8: Chinese folk songs\n",
-  "createdDate": "20201127000611",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -39,7 +39,7 @@
     "context_7": "Posters",
     "context_8": "Chinese folk songs"
   },
-  "nlpDate": "20201127000611",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

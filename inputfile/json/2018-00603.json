@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2018-00603\n\n  Image: \n\n  object_work_type: digital prints photocollages (photographic compositions)\n\n  title_text: Bandar Sri Tiang Kolom (from the Candangan-Candangan Untuk Negaraku series)\n\n  preference: main\n\n  title_language: \n\n  creator_2: Liew Kung Yu\n\n  creator_1: Not indicated\n\n  creator_role: artists (visual artists)\n\n  creation_date: 2009\n\n  creation_place_original_location: Kuala Lumpur (inhabited place)\n\n  styles_periods_indexing_terms: Not indicated\n\n  inscriptions: \n\n  inscription_language: \n\n  scale_type: Not indicated\n\n  shape: rectangular\n\n  materials_name: Perspex (TM) mixed media photographic paper\n\n  techniques_name: photographic processes creating (artistic activity) collage (technique)\n\n  object_colour: multicoloured\n\n  physical_appearance: \\The image shows a photocollage. It is rectangular in shape. There are red flowers depicted in the photocollage\n at its four sides. At the lower hand side\n two elderly men are depicted. They are smiling and one of them is pointing. At the loer right hand side\n there is a green sign with the words \\\\Cadangan Untuk Negara Ku\\\\. The buildings depicted in the photocollage are arranged in five sections\n\n  subject_terms_1: cultural landscapes bungalows depictions (visual works) terrace houses monuments buildings (structures) villages and tiny bridges connect these sections. Villages towns\n\n  subject_terms_2: Colour prints terrace houses Terrace houses Villages Buildings Digitally printed materials Monuments Cultural landscapes Bungalows Cities and towns nationalism\n\n  subject_terms_3: Photography Buildings Heritage and Culture National identity colonial buildings\n\n  subject_terms_4: pillars\n\n  context_1: and balustrades can be discerned.\\\n\n  context_2: flower (motif)\n\n  context_3: Photomontages\n\n  context_4: Visual Arts\n\n  context_5: Malaysia (nation)\n",
-  "createdDate": "20201127000602",
+  "createdDate": "20201127205924",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -39,7 +39,7 @@
     "context_4": "Visual Arts",
     "context_5": "Malaysia (nation)"
   },
-  "nlpDate": "20201127000602",
+  "nlpDate": "20201127205924",
   "connectorId": 0,
   "tags": {}
 }

@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00624\n\n  Image: \n\n  object_work_type: invitations\n\n  title_text: Wedding invitation of Krishnasamy and Malaiammal at Sri Krishnan Temple\n Waterloo Street\n\n  preference: main\n\n  title_language: \n\n  creation_date: 26 March 2605 (1945)\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process)\n\n  object_colour: multicoloured\n\n  physical_appearance: The image displays an invitation card. The invitation card is written totally in green Tamil scripts. There is a patterned border that separates the Tamil scripts from the outer perimeter of the invitation card. There is a slight tear on the right hand side of the invitation card. At the top centre of the invitation\n there is an image of a four-armed goddess.\n\n  subject_terms_1: weddings (ceremonies) Wedding announcements customs (social concepts)\n\n  subject_terms_2: Invitation cards Marriage Special events Marriage customs and rites\n\n  subject_terms_3: Marriage customs\n\n  sgcool_label_text: Not indicated\n",
-  "createdDate": "20201127000610",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -29,7 +29,7 @@
     "subject_terms_3": "Marriage customs",
     "sgcool_label_text": "Not indicated"
   },
-  "nlpDate": "20201127000610",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

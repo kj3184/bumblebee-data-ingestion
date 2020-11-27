@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2014-00108\n\n  Image: \n\n  object_work_type: hardcover books\n\n  title_text: Twentieth Century Impression of British Malaya: Its History\n People\n Commerce\n Industries and Resources Twentieth Century Impression of British Malaya\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: Arnold Wright H.A. Cartwright Lloyd\\u0027s Greater Britain Publishing Company\n Ltd.\n 1908\n\n  creator_1: Not indicated Cartwright\n H.A. Wright\n Arnold\n 1858-1941\n\n  creator_role: publishers editorial writers\n\n  creation_date: 1908\n\n  creation_place_original_location: Malaysia Great Britain Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product) book cloth (textile material) printing paper\n\n  techniques_name: bookbinding (process) colour printing\n\n  object_colour: maroon (colour)\n\n  edition_description: Not indicated\n\n  physical_appearance: \\The book is hardcover and its front cover and spine are maroon in colour. The shortened title of the book\n \\\\Twentieth Century Impression of British Malaya\\\\\n\n  subject_terms_1: reference books colonial settlements and its publisher\n\n  subject_terms_2: Straits Settlement Reference books Malaya \\\\Lloyd\\u0027s Greater Britain Publishing Company Colonies\n\n  subject_terms_3: 1826-1867 Straits settlements Ltd. Writers\n\n  subject_terms_4: 1908\\\\\n\n  context_1: are displayed on its spine. The image on the front cover of the book is of the flag for the Straits Settlements from 1874 until 1942. It features the British Blue Ensign and three crowns for each settlement\\\n\n  context_2: travel literature\n\n  context_3: Travel writing\n\n  context_4: Non-fiction\n",
-  "createdDate": "20201127000614",
+  "createdDate": "20201127205930",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -37,7 +37,7 @@
     "context_3": "Travel writing",
     "context_4": "Non-fiction"
   },
-  "nlpDate": "20201127000614",
+  "nlpDate": "20201127205930",
   "connectorId": 0,
   "tags": {}
 }

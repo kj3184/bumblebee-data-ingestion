@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2018-00172\n\n  Image: \n\n  object_work_type: photographs black-and-white photographs colour photographs\n\n  title_text: Passport portraits of Herbert Lim Eng Kwan\n\n  preference: main\n\n  title_language: \n\n  creator_2: Not indicated\n\n  creator_1: Not indicated\n\n  creation_date: 1930s-1990s\n\n  creation_place_original_location: Singapore (nation)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process) photographic processes\n\n  object_colour: multicoloured\n\n  physical_appearance: The image shows ten images. Eight of them are in black-and-white while the other two are in colour. All of the images show a bespectacled man\\u0027s face and his upper torso. He is dressed in a suit and tie. The photographs are of different sizes. The photographs on the left depict the man when he was younger\n while the ones on the right depict the man when he was older.\n\n  subject_terms_1: men (male humans) studio portraits\n\n  subject_terms_2: Colour photography Portrait photography Men Black-and-white photography\n\n  subject_terms_3: Lim\n Herbie Eng Kwan Portrait photography\n\n  sgcool_label_text: These ten photographs are portraits of Herbert Lim Eng Kwan (1927-2002)\n  Chairman of Singapore Tourist Association from 1967 to 1970\n and founder and managing director of Jackie\\u0027s Bowl for over 20 years. ‘Herbie’ was the son of the Peranakan businessman Lim Chong Pang (1904 – 1956) and grandson of the pineapple and rubber planter and prominent philanthropist Lim Nee Soon (1879 – 1936).\n",
-  "createdDate": "20201127000602",
+  "createdDate": "20201127205925",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -31,7 +31,7 @@
     "subject_terms_3": "Lim, Herbie Eng Kwan Portrait photography",
     "sgcool_label_text": "These ten photographs are portraits of Herbert Lim Eng Kwan (1927-2002),  Chairman of Singapore Tourist Association from 1967 to 1970, and founder and managing director of Jackie\u0027s Bowl for over 20 years. ‘Herbie’ was the son of the Peranakan businessman Lim Chong Pang (1904 – 1956) and grandson of the pineapple and rubber planter and prominent philanthropist Lim Nee Soon (1879 – 1936)."
   },
-  "nlpDate": "20201127000602",
+  "nlpDate": "20201127205925",
   "connectorId": 0,
   "tags": {}
 }

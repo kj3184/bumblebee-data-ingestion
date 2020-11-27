@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2014-00909-013\n\n  Image: \n\n  object_work_type: brochures\n\n  title_text: Brochures and cards for performances by Theatreworks (20) - 72-13 (4/9) 72-13 (04)\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: Not indicated\n\n  creator_1: Not indicated\n\n  creator_role: Not indicated\n\n  creation_date: Not indicated\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: square (shape)\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process)\n\n  object_colour: multicoloured\n\n  physical_appearance: \\The image shows a square brochure. \\\\72-13\\\\ is displayed at the centre of the brochure in blue font. \\\\04\\\\ is stated at the lower left hand corner of the brochure. The image at the background shows a group of people facing a body of water. There are ships in the distance near the horizon. A number of people are wearing straw hats and carrying large bags and rolled-up straw mats\\\n\n  subject_terms_1: theatres (buildings)\n\n  subject_terms_2: Brochures Theatres\n\n  subject_terms_3: Theatre organisations\n\n  context_20: 72-13 was an old rice warehouse\n\n  context_21: 72-13 Mohammed Sultan Road\n Singapore 239007\n\n  context_22: 2005\n\n  context_23: 5-Sep\n\n  context_24: 5-Sep\n\n  sgcool_label_text: Not indicated\n",
-  "createdDate": "20201127000613",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -37,7 +37,7 @@
     "context_24": "5-Sep",
     "sgcool_label_text": "Not indicated"
   },
-  "nlpDate": "20201127000613",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

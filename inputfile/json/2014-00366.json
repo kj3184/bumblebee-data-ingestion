@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2014-00366\n\n  Image: \n\n  object_work_type: colour photographs\n\n  title_text: Hindu family in Singapore Photo of a Hindu family in Singapore\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: Not indicated\n\n  creator_1: Not indicated\n\n  creation_date: 1900s\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process) photographic processes\n\n  object_colour: multicoloured\n\n  physical_appearance: The image shows a rectangular photograph that is in colour. The photograph features three male adults\n a lady\n and a child. All of them are facing towards the direction where the photograph was captured. The lady\n who is sitting down\n is dressed in her ethnic costume. The males and the child are dressed in shirts and pants. The background of the photograph suggests that it was taken in the interior of a building.\n\n  subject_terms_1: families (kinship groups) studio portraits folk costume group portraits\n\n  subject_terms_2: Colour photography Tamil (Indic people) Ethnic costume Portraits\n Group Portrait photography Families\n\n  subject_terms_3: Portrait photography\n\n  sgcool_label_text: This is a photograph of an unidentified Hindu family in Singapore taken in the early 1900s. Hinduism in Singapore can be traced back to the early 19th century when Indian immigrants arrived in Singapore to work for the British East India Company. The Sri Mariamman Temple in South Bridge Road is the oldest Hindu temple in Singapore\n which was established by Narayana Pillay in 1827.\n",
-  "createdDate": "20201127000613",
+  "createdDate": "20201127205930",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -31,7 +31,7 @@
     "subject_terms_3": "Portrait photography",
     "sgcool_label_text": "This is a photograph of an unidentified Hindu family in Singapore taken in the early 1900s. Hinduism in Singapore can be traced back to the early 19th century when Indian immigrants arrived in Singapore to work for the British East India Company. The Sri Mariamman Temple in South Bridge Road is the oldest Hindu temple in Singapore, which was established by Narayana Pillay in 1827."
   },
-  "nlpDate": "20201127000613",
+  "nlpDate": "20201127205930",
   "connectorId": 0,
   "tags": {}
 }

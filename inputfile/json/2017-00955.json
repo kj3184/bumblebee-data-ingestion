@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00955\n\n  Image: \n\n  object_work_type: colour lithographs\n\n  title_text: Rafflesia patma Coloured lithograph of the Rafflesia patma\n\n  preference: main alternative\n\n  title_language: \n\n  creator_2: Flore des serres et des Jardins de l\\u0027Europe\n\n  creator_1: Not indicated\n\n  creator_role: publishers\n\n  creation_date: 1862-1865\n\n  creation_place_original_location: Belgium\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: printing paper\n\n  techniques_name: printing (process)\n\n  object_colour: multicoloured\n\n  physical_appearance: \\The image shows a lithographic print. It is rectangular in shape and \\\\Rafflesia Patma B1\\\\ is stated at the bottom centre. Above it is a large image of a flower.It has five petals that surround the processes and disc of the flowering plant. The petals are light green in colour while the centre is pink.\\\n\n  subject_terms_1: Angiospermae (division) botany\n\n  subject_terms_2: Rafflesiaceae Lithographs Botany\n\n  subject_terms_3: Plants Visual arts\n\n  sgcool_label_text: The Rafflesia patma is a parasitic plant species from the genus Rafflesia\n named after Sir Stamford Raffles. In an expedition in Sumatra in 1821\n Raffles together with the botanist Joseph came across the flower now known as the Rafflesia arnoldii. This coloured print of the Rafflesia patma was reproduced in horticultural journal Flore des serres et des Jardins de l\\u0027Europe\n founded by the Belgian horticulturalist Louis Benoit van Houtte.\n",
-  "createdDate": "20201127000603",
+  "createdDate": "20201127205925",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_3": "Plants Visual arts",
     "sgcool_label_text": "The Rafflesia patma is a parasitic plant species from the genus Rafflesia, named after Sir Stamford Raffles. In an expedition in Sumatra in 1821, Raffles together with the botanist Joseph came across the flower now known as the Rafflesia arnoldii. This coloured print of the Rafflesia patma was reproduced in horticultural journal Flore des serres et des Jardins de l\u0027Europe, founded by the Belgian horticulturalist Louis Benoit van Houtte."
   },
-  "nlpDate": "20201127000603",
+  "nlpDate": "20201127205925",
   "connectorId": 0,
   "tags": {}
 }

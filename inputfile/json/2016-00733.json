@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00733\n\n  Image: \n\n  object_work_type: black-and-white photographs\n\n  title_text: Toa Payoh: A New Estate\n\n  preference: main\n\n  title_language: \n\n  creator_2: Loke Hong Seng\n\n  creator_1: Loke\n Hong Seng\n\n  creator_role: photographers\n\n  creation_date: 2015 [1971]\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process)\n\n  object_colour: grey monochrome\n\n  edition_description: 15-Jan\n\n  physical_appearance: The image shows a photograph in black-and-white that is enclosed by a white frame. The background of the image contains buildings\n of different heights\n spanning the horizon. Vehicles and roads can be discerned as well. The foreground of the image contains a large field. Several workers\n all wearing straw hats\n are using hand-held tools to work the ground.\n\n  subject_terms_1: residential structures blue collar workers urban development planned communities new towns (modern settlements) flats (apartments)\n\n  subject_terms_2: Toa Payoh (Singapore) Planned communities Apartments Blue collar workers Urban development Black-and-white photography Singapore\n Housing and Development Board New towns\n\n  subject_terms_3: Photography Singapore. Housing and Development Board Toa Payoh Housing Estate\n\n  sgcool_label_text: Loke Hong Seng (b. 1943) was working as a radio announcer with Radio Television Singapore in the 1960s when he picked up photography and subsequently grew to specialize in street photography. His images of 1960s and 1970s Singapore offer a candid view of everyday life in the early days of the nation’s development. The photograph shows the Toa Payoh New Town being built\n with new HDB blocks visible in the background.\n",
-  "createdDate": "20201127000609",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -33,7 +33,7 @@
     "subject_terms_3": "Photography Singapore. Housing and Development Board Toa Payoh Housing Estate",
     "sgcool_label_text": "Loke Hong Seng (b. 1943) was working as a radio announcer with Radio Television Singapore in the 1960s when he picked up photography and subsequently grew to specialize in street photography. His images of 1960s and 1970s Singapore offer a candid view of everyday life in the early days of the nation’s development. The photograph shows the Toa Payoh New Town being built, with new HDB blocks visible in the background."
   },
-  "nlpDate": "20201127000609",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

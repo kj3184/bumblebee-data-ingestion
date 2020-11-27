@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00843\n\n  Image: \n\n  object_work_type: figurative art figurines porcelain (visual works)\n\n  title_text: Model of a Monkey Group\n\n  preference: main\n\n  title_language: \n\n  creation_date: 1736-1795\n\n  creation_place_original_location: China\n\n  styles_periods_indexing_terms: Chinese (culture or style)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: overglaze (material) porcelain enamel porcelain (material)\n\n  techniques_name: freehand drawing (technique) firing (technique) enameling porcelain painting (image-making) molding (forming) overglazing throwing (pottery techniques)\n\n  object_colour: multicoloured\n\n  physical_appearance: This porcelain work shows a seated monkey holding onto a younger\n smaller monkey on its back. The adult monkey is painted brown\n whilst the smaller one is grey. Their faces and ears however\n are painted in light brown. The monkeys are raised on a painted blue rock with peach and leaves.\n\n  subject_terms_1: monkeys (animals) plant-derived motif animal art\n\n  subject_terms_2: Leaves in art Peach in art Pottery\n Chinese Figurative art Monkeys\n\n  subject_terms_3: Chinese decorative arts\n\n  subject_terms_4: \n\n  sgcool_label_text: This model shows a figure of a seated monkey holding a younger monkey on its back. The group is painted in polychrome enamels and gold.  To create a distinction\n the young monkey is painted in dark grey and the adult monkey is unevenly painted in shades of brown with fine parallel lines to simulate its body hair. Its abdomen is paler in colour\n and its ears and face are painted in light brown. The sensitive treatment on the application of polychrome enamels by differentiating the use of lines and colour shades gives it a naturalistic appeal.\\r\\n\\r\\nIt marks a high point of Chinese porcelain depicting animal forms. It is realistically modelled and it shows why Chinese porcelain figures were so highly sought after in Europe. In the 16th – 18th centuries\n Chinese porcelain became fashionable in the West\n and were primarily exported as luxury goods.\\r\\n\n",
-  "createdDate": "20201127000604",
+  "createdDate": "20201127205926",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -31,7 +31,7 @@
     "subject_terms_4": "",
     "sgcool_label_text": "This model shows a figure of a seated monkey holding a younger monkey on its back. The group is painted in polychrome enamels and gold.  To create a distinction, the young monkey is painted in dark grey and the adult monkey is unevenly painted in shades of brown with fine parallel lines to simulate its body hair. Its abdomen is paler in colour, and its ears and face are painted in light brown. The sensitive treatment on the application of polychrome enamels by differentiating the use of lines and colour shades gives it a naturalistic appeal.\r\n\r\nIt marks a high point of Chinese porcelain depicting animal forms. It is realistically modelled and it shows why Chinese porcelain figures were so highly sought after in Europe. In the 16th – 18th centuries, Chinese porcelain became fashionable in the West, and were primarily exported as luxury goods.\r\n"
   },
-  "nlpDate": "20201127000604",
+  "nlpDate": "20201127205926",
   "connectorId": 0,
   "tags": {}
 }

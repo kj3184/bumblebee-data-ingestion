@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00213\n\n  Image: \n\n  object_work_type: oil paintings (visual works)\n\n  title_text: Penang seascape Painting of Penang by Robert Smith\n\n  preference: main alternate\n\n  title_language: \n\n  creator_1: Smith\n Robert\n 1787-1873\n\n  creator_role: painters (artists)\n\n  creation_date: 1814-1819\n\n  creation_place_original_location: Pulau Pinang (Malaysia :  State)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: canvas (textile material) oil paint (paint)\n\n  techniques_name: oil painting (technique)\n\n  object_colour: multicolored\n\n  physical_appearance: This is an oil painting of the island of Penang along the sea. The coast line runs through the painting from the bottom-left to the center. On the right\n there is a hill\n with some trees and vegetation. Across the sea on the left\n there are a few faint mountains on the horizon. There are no inscriptions on the painting.\n\n  subject_terms_1: colonization scenery (landscapes)\n\n  subject_terms_2: Painting George Town (Pulau Pinang\n Malaysia) Colonization\n\n  subject_terms_3: Oil painting\n\n  sgcool_label_text: This is one of the earliest oil paintings of Penang. It was made by Colonel Robert Smith around the time he was superintending engineer and executive officer of Penang in 1814–15 and 1817–19\n at the time when the British organised a colony at Singapore. This painting is one of ten views made by Smith\n who commissioned prints after them from William Daniell in 1821.\\r\\n\\r\\nThe idyllic image of the island of Penang shows George Town below along the sea. At the right\n flags fly from Mount Erskine\n which was the principal signalling station for the channel. Robert Smith was a sophisticated landscape painter adept at capturing weather\n light\n and the sweep of a scene.\n",
-  "createdDate": "20201127000611",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -31,7 +31,7 @@
     "subject_terms_3": "Oil painting",
     "sgcool_label_text": "This is one of the earliest oil paintings of Penang. It was made by Colonel Robert Smith around the time he was superintending engineer and executive officer of Penang in 1814–15 and 1817–19, at the time when the British organised a colony at Singapore. This painting is one of ten views made by Smith, who commissioned prints after them from William Daniell in 1821.\r\n\r\nThe idyllic image of the island of Penang shows George Town below along the sea. At the right, flags fly from Mount Erskine, which was the principal signalling station for the channel. Robert Smith was a sophisticated landscape painter adept at capturing weather, light, and the sweep of a scene."
   },
-  "nlpDate": "20201127000611",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00508\n\n  Image: \n\n  object_work_type: multi-channel video installations video art\n\n  title_text: Passage to Little India (Multi-channel Video)\n\n  preference: main\n\n  title_language: \n\n  creator_2: Navin Rawanchaikul\n\n  creator_1: Rawanchaikul\n Navin\n\n  creator_role: artists (visual artists)\n\n  creation_date: 2016\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  materials_name: NA (most are object facet and not materials?)\n\n  techniques_name: videography\n\n  object_colour: multicoloured\n\n  physical_appearance: This is an image of a clip in a multi-video installation. There are six screens; the first from the left shows a group of Indian men gathered near a walkway with railings\n the second shows another group gathered for a picture\n the third shows some men sitting and lying on a grass patch\n the fourth an Indian lady posing in her hawker stall whilst a man stands to her right behind her\n the fifth shows two men where the man standing has his arm on the shoulders of the seated man\n and lastly\n a man who si mopping the floor.\n\n  subject_terms_1: communities (inhabited places) local history (discipline) DVDs\n\n  subject_terms_2: DVD Communities Video installations (Art) Local history Little India (Singapore) Rawanchaikul\n Navin\n\n  subject_terms_3: History Films Little India Sub Zone Little India Conservation Area?\n\n  subject_terms_4: \n\n  sgcool_label_text: \\This multi-channel video installation forms the third part of \\\\Passage to Little India\\\\ and reveals the life of the community\n",
-  "createdDate": "20201127000605",
+  "createdDate": "20201127205926",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_4": "",
     "sgcool_label_text": "\"This multi-channel video installation forms the third part of \"\"Passage to Little India\"\" and reveals the life of the community"
   },
-  "nlpDate": "20201127000605",
+  "nlpDate": "20201127205926",
   "connectorId": 0,
   "tags": {}
 }

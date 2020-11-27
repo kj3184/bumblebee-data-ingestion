@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00193\n\n  Image: \n\n  object_work_type: black-and-white photographs\n\n  title_text: Photograph of 60th wedding of Ramasamy Chettiar \\u0026 Yeggammai Achi 60th wedding of Ramasamy Chettiar \\u0026 Yeggammai Achi\n\n  preference: main alternate\n\n  title_language: \n\n  creation_date: 1950 - 2000\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process)\n\n  object_colour: grey monochrome\n\n  physical_appearance: The image shows a photograph that is in black-and-white. A man and a woman are featured in the photograph. The woman is dressed in her ethnic costume and is sitting on the left. A bare chested man with a headgear sits beside her to the right. Both of them are wearing garlands and looking towards the direction in which the photograph was taken. The background of the photograph suggests that they are sitting in a building.\n\n  subject_terms_1: weddings (ceremonies) Hinduism rites of passage spouses folk costume\n\n  subject_terms_2: Rites and ceremonies Spouses Ethnic costume Hindu marriage customs and rites Black-and-white photography\n\n  subject_terms_3: Photography Hinduism Indian costumes Marriage customs\n\n  sgcool_label_text: The region of Chettinad in Southern Indian state of Tamil Nadu is the region of origin of the Chettiar community of business or the Vaishya caste. The Nagarattar Chettiars are among the early Indian migrants to the Southeast Asian region with business establishments in Vietnam\n Myanmar\n Malaysia and Singapore. Their migration and establishment of money lending business in Singapore-Malaya in particular are of special significance to the Indian Heritage Centre (IHC). Their presence in the Straits Settlements can be traced to the early 18th century onwards. This is a collection of travel documents\n photographs and horoscopes from the family of Ramasamy Chettiar.\n",
-  "createdDate": "20201127000612",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -29,7 +29,7 @@
     "subject_terms_3": "Photography Hinduism Indian costumes Marriage customs",
     "sgcool_label_text": "The region of Chettinad in Southern Indian state of Tamil Nadu is the region of origin of the Chettiar community of business or the Vaishya caste. The Nagarattar Chettiars are among the early Indian migrants to the Southeast Asian region with business establishments in Vietnam, Myanmar, Malaysia and Singapore. Their migration and establishment of money lending business in Singapore-Malaya in particular are of special significance to the Indian Heritage Centre (IHC). Their presence in the Straits Settlements can be traced to the early 18th century onwards. This is a collection of travel documents, photographs and horoscopes from the family of Ramasamy Chettiar."
   },
-  "nlpDate": "20201127000612",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

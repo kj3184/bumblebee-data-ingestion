@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-01036\n\n  Image: \n\n  object_work_type: photographs black-and-white photographs\n\n  title_text: Photograph of Chinese opera actors on stage Chinese opera actors on stage\n\n  preference: main\n\n  title_language: \n\n  creator_2: John Thomson\n\n  creator_1: Thomson\n J. (John)\n 1837-1921\n\n  creator_role: photographers\n\n  creation_date: 1860s\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: photographic processes\n\n  object_colour: black-and-white (colors)\n\n  physical_appearance: This is a black-and-white photograph. It features two Chinese opera singers on stage. They are elaborately dressed in opera costumes\n on either side of a draped textile. The woman on the left is holding a fan in her hand. The photograph is slightly faded\n especially along the right side. There are no tears or folds seen.\n\n  subject_terms_1: operas (performances) folk costume\n\n  subject_terms_2: Chinese operas Ethnic costume Photographs Carte de visite photographs\n\n  subject_terms_3: Chinese costumes Photography Chinese operas (Music)\n\n  subject_terms_4: \n\n  sgcool_label_text: This carte-de-visite format photograph of two Chinese opera actors was taken by John Thomson\n who arrived in Singapore in 1862 and established a studio at Beach Road on 16 June that year. Thomson would later travel to photograph in Siam and China before embarking on a series on street life in London.\\r\\n\n",
-  "createdDate": "20201127000603",
+  "createdDate": "20201127205925",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -33,7 +33,7 @@
     "subject_terms_4": "",
     "sgcool_label_text": "This carte-de-visite format photograph of two Chinese opera actors was taken by John Thomson, who arrived in Singapore in 1862 and established a studio at Beach Road on 16 June that year. Thomson would later travel to photograph in Siam and China before embarking on a series on street life in London.\r\n"
   },
-  "nlpDate": "20201127000603",
+  "nlpDate": "20201127205925",
   "connectorId": 0,
   "tags": {}
 }

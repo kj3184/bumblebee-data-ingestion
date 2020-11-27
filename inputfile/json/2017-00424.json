@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00424\n\n  Image: \n\n  object_work_type: gouaches (paintings)\n\n  title_text: Chinese and foreign merchants in Canton\n\n  preference: main\n\n  title_language: \n\n  creator_2: *As mentioned in the stylistic significance field\n this work has been attributed to Paqua. NA Paqua\n\n  creator_role: NA artists (visual artists)\n\n  creation_date: Early 19th century\n\n  creation_place_original_location: Guangzhou (China)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: Rectangular\n\n  materials_name: gouache (paint) paper (fibre product)\n\n  techniques_name: gouache (technique)\n\n  object_colour: multicoloured\n\n  physical_appearance: There are seven men depicted in this scene. On the left amidst the crowd of four\n is a man in a tailcoat and top hat. He holds in his right hand a parchment\n and a cane on his left. To his left is a moustached man in official robes. Standing to the back of these two men is a man in a colourful turban and Arabic shoes. The men in mandarin garb have long hair queues; in particular\n one man in crimson has his neck chained and is being forcefully being taken away by a man in blue.\n\n  subject_terms_1: arrests (legal events) cultural pluralism officials\n\n  subject_terms_2: China trade painting Parsees Arrest\n\n  subject_terms_3: Painting visual arts\n\n  subject_terms_4: \n\n  sgcool_label_text: A Parsi merchant\n with his colourful turban\n European man in a tophat\n and Chinese men with long hair queues participate in some as yet unknown activity. The Parsi community was present in Canton by the mid-18th century\n helping to facilitate the British-dominated China trade by importing opium and cotton from India into China\n while exporting tea and silk back to Europe and beyond. By the 19th century\n there was a sizeable community of Europeans.\\r\\n \\r\\n\n",
-  "createdDate": "20201127000605",
+  "createdDate": "20201127205926",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_4": "",
     "sgcool_label_text": "A Parsi merchant, with his colourful turban, European man in a tophat, and Chinese men with long hair queues participate in some as yet unknown activity. The Parsi community was present in Canton by the mid-18th century, helping to facilitate the British-dominated China trade by importing opium and cotton from India into China, while exporting tea and silk back to Europe and beyond. By the 19th century, there was a sizeable community of Europeans.\r\n \r\n"
   },
-  "nlpDate": "20201127000605",
+  "nlpDate": "20201127205926",
   "connectorId": 0,
   "tags": {}
 }

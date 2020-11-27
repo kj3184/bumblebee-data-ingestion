@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00403\n\n  Image: \n\n  object_work_type: cellular telephones\n\n  title_text: Motorola DynaTac 8000M Motorola DynaTac 8000M brick cellular phone\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: Motorola\n\n  creator_1: Motorola\n Inc.\n\n  creator_role: manufacturers\n\n  creation_date: 1980s\n\n  creation_place_original_location: United States Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular cuboid\n\n  materials_name: plastic (organic material) metal\n\n  techniques_name: forming (physical activity) metalworking\n\n  object_colour: multicoloured\n\n  physical_appearance: The image depicts a cellular phone. It has a white frame and a single metal antenna which is located at the top of the phone. The antenna does not seem to be extendable or shortened. The 12-key telephone keypad looks slightly worn out\n with several keypads having numbers and letters which are faded. The structure of the phone is elongated and it is not sleek. There are nine more keys below the 12-key telephone keypads. The brand name of the cellular phone is not displayed on the front of the phone. A blank LED screen is located above the 12-key telephone keypads. There are no visible cracks on the phone.\n\n  subject_terms_1: telecommunication systems technology (general associated concept) brand name objects\n\n  subject_terms_2: Product obsolescence Cell phones Technology Brand name products\n\n  sgcool_label_text: Made in USA\n this Motorola cellular phone is one of the early cellular phones and has the typical 12-key telephone keypad and nine additional special keys\n namely Rcl (recall)\n Clr (clear)\n Snd (send)\n Sto (store)\n Fcn (function)\n End\n Pwr (power)\n Lock and Vol (volume). Limited information was shown on its LED display. The battery allowed for a call of up to 60 minutes\n after which it was necessary to charge the phone up to 10 hours with a separate charger.\n",
-  "createdDate": "20201127000611",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -31,7 +31,7 @@
     "subject_terms_2": "Product obsolescence Cell phones Technology Brand name products",
     "sgcool_label_text": "Made in USA, this Motorola cellular phone is one of the early cellular phones and has the typical 12-key telephone keypad and nine additional special keys, namely Rcl (recall), Clr (clear), Snd (send), Sto (store), Fcn (function), End, Pwr (power), Lock and Vol (volume). Limited information was shown on its LED display. The battery allowed for a call of up to 60 minutes, after which it was necessary to charge the phone up to 10 hours with a separate charger."
   },
-  "nlpDate": "20201127000611",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

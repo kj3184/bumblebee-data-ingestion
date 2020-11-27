@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00519\n\n  Image: \n\n  object_work_type: miniatures (toys)\n\n  title_text: ‘Lucozade\\u0027 Delivery Van\n\n  preference: main\n\n  title_language: \n\n  creator_2: Blue Box Toys\n\n  creator_1: Not indicated\n\n  creator_role: toymakers manufacturers\n\n  creation_date: 1968 - 1979\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: plastic (organic material)\n\n  techniques_name: forming (physical activity) toy making\n\n  object_colour: multicoloured\n\n  physical_appearance: \\The image displays a toy van in a packaging. \\\\Lucozade Delivery Van\\\\ is stated in white on the packaging. The image of a building with the Palladian style of architecture\n\n  subject_terms_1: and a fountain entertaining\n\n  subject_terms_2: serves as the background of the packaging. The miniature van is yellow in colour and \\\\Lucozade\\\\ is stated on the side of the miniature van. \\ Miniature objects Amusements\n\n  subject_terms_3: brand name objects\n\n  subject_terms_4: Brand name products\n",
-  "createdDate": "20201127000610",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_3": "brand name objects",
     "subject_terms_4": "Brand name products"
   },
-  "nlpDate": "20201127000610",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

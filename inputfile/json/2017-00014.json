@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00014\n\n  Image: \n\n  object_work_type: stands (support objects)\n\n  title_text: Mother-of-pearl inlaid stand\n\n  preference: main\n\n  title_language: \n\n  creation_date: Early 20th century\n\n  creation_place_original_location: Pulau Pinang (Malaysia: State) China\n\n  inscriptions: \n\n  inscription_language: \n\n  materials_name: mother of pearl\n\n  techniques_name: inlays (process) carving (processes)\n\n  object_colour: multicoloured\n\n  physical_appearance: This is a wooden stand with mother of pearl inlays. It consists of three platforms\n with the centre one being taller than the other two flanking it. Abstract vegetal motifs in mother of pearl decorate the frames and beams of the piece.\n\n  subject_terms_1: Peranakan plant-derived motifs censer stands altar components\n\n  subject_terms_2: Censers Peranakan (Asian people) Altarpieces\n\n  subject_terms_3: Furniture design Religious life and practices\n\n  sgcool_label_text: This wooden stand was likely to have been used as a stand for a censor\n and placed in a prominent position on an altar. It consists of three platforms\n each framed by borders decorated with abstract vegetal designs in mother-of-pearl. Despite the adoption of numerous Malay cultural practices\n such as language and dress\n the religion practiced by the Peranakans was essentially a traditional Chinese form\n which was polytheistic in nature and incorporated elements of ancestor worship\n Buddhism and Taoism. Blackwood furniture with mother-of-pearl inlays was extremely popular with wealthy Peranakans in the 19th century.\n",
-  "createdDate": "20201127000609",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -28,7 +28,7 @@
     "subject_terms_3": "Furniture design Religious life and practices",
     "sgcool_label_text": "This wooden stand was likely to have been used as a stand for a censor, and placed in a prominent position on an altar. It consists of three platforms, each framed by borders decorated with abstract vegetal designs in mother-of-pearl. Despite the adoption of numerous Malay cultural practices, such as language and dress, the religion practiced by the Peranakans was essentially a traditional Chinese form, which was polytheistic in nature and incorporated elements of ancestor worship, Buddhism and Taoism. Blackwood furniture with mother-of-pearl inlays was extremely popular with wealthy Peranakans in the 19th century."
   },
-  "nlpDate": "20201127000609",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2018-00195-003\n\n  Image: \n\n  object_work_type: envelopes\n\n  title_text: Group of 6 envelopes for negatives Group of 6 envelopes for negatives: Envelope from Fee Fee Photographic Store\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: Fee Fee Photographic Studio\n\n  creator_1: Not indicated\n\n  creator_role: creators\n\n  creation_date: 1950s-1970s\n\n  creation_place_original_location: Singapore (nation)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process) photographic processes\n\n  object_colour: grey (colour)\n\n  physical_appearance: \\The image shows an envelope. It is rectangular and it has a background that is grey in colour. \\\\Fee Fee Photographic Store: 160\n\n  subject_terms_1: stores Cross Street\n\n  subject_terms_2: Photography Singapore\n\n  subject_terms_3: 1. Tel: 77289\\\\ is stated near the bottom. \\\\14 May 1966\\\\ is stated at the upper right hand side. A table with a list of items\\u0027 names and their respective prices is displayed in the middle.\\\n\n  subject_terms_4: negatives (photographs)\n\n  context_1: Stamped envelopes\n\n  context_2: Photography\n\n  context_23: This envelope belongs to a photography store called Fee Fee Photographic Store.\n\n  context_24: 160\n Cross Street\n Singapore\n 1\\\\\n",
-  "createdDate": "20201127000602",
+  "createdDate": "20201127205924",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -36,7 +36,7 @@
     "context_23": "This envelope belongs to a photography store called Fee Fee Photographic Store.",
     "context_24": "160, Cross Street, Singapore, 1\"\""
   },
-  "nlpDate": "20201127000602",
+  "nlpDate": "20201127205924",
   "connectorId": 0,
   "tags": {}
 }

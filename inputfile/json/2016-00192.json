@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00192\n\n  Image: \n\n  object_work_type: identity cards\n\n  title_text: Identity card\n of Ramasamy Chettiar S/O Chockalingam Chettiar Ramasamy Chettiar S/O Chockalingam Chettiar\n\n  preference: main alternate\n\n  title_language: \n\n  creator_1: Malaysia\n National Registration Department\n\n  creator_role: creators\n\n  creation_date: 19661020\n\n  creation_place_original_location: Kuala Lumpur (Malaysia)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process)\n\n  object_colour: multicoloured\n\n  physical_appearance: \\The image shows a rectangular card that is predominantly blue in colour. The number \\\\1480607\\\\ is displayed at the top of the card. \\\\Kad Pengenalan\\\\ is stated below the number \\\\1480607\\\\. \\\\Persekutuan Tanah Melayu\\\\ is displayed near the bottom of the card. At the centre of a card\n\n  subject_terms_1: identification photographs citizenship personal identification numbers a passport-sized photograph of a man of Indian descent is displayed. On both sides of the photograph\n\n  subject_terms_2: Fingerprints Identification there is a single fingerprint.\\ Malaysia Identification numbers\n Personal Citizenship Identification photographs\n\n  subject_terms_3: fingerprints\n\n  subject_terms_4: Identification cards\n",
-  "createdDate": "20201127000612",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -31,7 +31,7 @@
     "subject_terms_3": "fingerprints",
     "subject_terms_4": "Identification cards"
   },
-  "nlpDate": "20201127000612",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

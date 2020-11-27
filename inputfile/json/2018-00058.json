@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2018-00058\n\n  Image: \n\n  object_work_type: maps (documents) cartes à figures (maps)\n\n  title_text: Jan Jansson\\u0027s 1632 Map of Asia\n\n  preference: main\n\n  title_language: \n\n  creator_2: Jan Jansson\n\n  creator_1: not indicated\n\n  creator_role: publishers cartographers\n\n  creation_date: 1632\n\n  creation_place_original_location: not indicated\n\n  styles_periods_indexing_terms: Baroque\n\n  inscriptions: \n\n  inscription_language: \n\n  scale_type: not indicated\n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: papermaking copper engraving (printing process) hand coloring\n\n  object_colour: multicoloured\n\n  physical_appearance: This multicoloured map is Jan Jansson\\u0027s map of Asia in 1632. All four sides of the map is covered by vignettes of the detailed maps of Dutch trading ports and the aps of Goa\n Calcutta\n Kandy (Ceylon)\n Bantam\n Gammalamme (Moluccas) and Macao. There are also many lines of text in Dutch throughout the map specifying the names of places and communities in Asia in the 18th century.\n\n  subject_terms_1: trade (general function) vignettes (visual works) indigenous people ports (settlements) cartography (discipline)\n\n  subject_terms_2: Commerce Maps Harbours Linschoten\n Jan Huygen van\n 1563-1611 Nederlandsche Oost-Indische Compagnie Vignettes Cartography\n\n  subject_terms_3: Harbours\n\n  subject_terms_4: Calcutta (inhabited place)\\r\\n Goa (state) Moluccas (island group) Macao (inhabited place) Kandy (former nation/state/empire) Banten (former nation/state/empire)\n\n  sgcool_label_text: This richly illustrated map of Asia was published in 1632 by the Dutch cartographer and map publisher Jan Jansson. It features vignettes of the various Dutch ports in Asia and corresponding depictions of local peoples in their respective costumes.\n",
-  "createdDate": "20201127000603",
+  "createdDate": "20201127205925",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -35,7 +35,7 @@
     "subject_terms_4": "Calcutta (inhabited place)\r\n Goa (state) Moluccas (island group) Macao (inhabited place) Kandy (former nation/state/empire) Banten (former nation/state/empire)",
     "sgcool_label_text": "This richly illustrated map of Asia was published in 1632 by the Dutch cartographer and map publisher Jan Jansson. It features vignettes of the various Dutch ports in Asia and corresponding depictions of local peoples in their respective costumes."
   },
-  "nlpDate": "20201127000603",
+  "nlpDate": "20201127205925",
   "connectorId": 0,
   "tags": {}
 }

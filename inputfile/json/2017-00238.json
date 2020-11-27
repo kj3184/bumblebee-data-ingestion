@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00238\n\n  Image: \n\n  object_work_type: oil paintings (visual works) canvas paintings\n\n  title_text: Chrysanthemum Bunga Crisant\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: Emiria Soenassa\n\n  creator_role: artists (visual artists)\n\n  creation_date: 1946-1949\n\n  creation_place_original_location: Indonesia\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: Rectangular\n\n  materials_name: canvas board oil paint (paint)\n\n  techniques_name: painting (image-making)\n\n  object_colour: multicoloured\n\n  physical_appearance: This is a still life of a vase of chrysanthemums in bloom with a hint of browning to perhaps indicate wilting as evidenced by the bend in stalks of the flowers. This is contrasted with the bulbous curves of the vase\n and the black emptiness of the background.\n\n  subject_terms_1: flower vases still lifes chrysanthemum (genus)\n\n  subject_terms_2: Chrysanthemums in art Flower vases Still-life in art\n\n  subject_terms_3: visual arts oil painting\n\n  sgcool_label_text: As a sole female participant in PERSAGI (Persatuan Ahli Gambar Indonesia or Association of Indonesian Draftsmen) \n Emiria Soenassa is a pioneering modern artist from Indonesia.  Her flowers\n rather than being an idealised represntation of dainty flowers\n are depicted boldly with forceful strokes and a sense of tention is created through the stark contrast of bright and dark hues.  \\r\\n\n",
-  "createdDate": "20201127000606",
+  "createdDate": "20201127205927",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -31,7 +31,7 @@
     "subject_terms_3": "visual arts oil painting",
     "sgcool_label_text": "As a sole female participant in PERSAGI (Persatuan Ahli Gambar Indonesia or Association of Indonesian Draftsmen) , Emiria Soenassa is a pioneering modern artist from Indonesia.  Her flowers, rather than being an idealised represntation of dainty flowers, are depicted boldly with forceful strokes and a sense of tention is created through the stark contrast of bright and dark hues.  \r\n"
   },
-  "nlpDate": "20201127000606",
+  "nlpDate": "20201127205927",
   "connectorId": 0,
   "tags": {}
 }

@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00178\n\n  Image: \n\n  object_work_type: womenswear housecoats\n\n  title_text: Orange batik housecoat\n\n  preference: main\n\n  title_language: \n\n  creation_date: Not indicated\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: cloth\n\n  techniques_name: batik machine sewing (technique)\n\n  object_colour: multicoloured\n\n  physical_appearance: This is a batik housecoat that has medium length sleeves. It is predominantly orange in colour but there are floral patterns all over the entire costume. The designs are in blue\n green\n and a darker hue of orange that its background. It contains only one pocket\n on the left side\n near the region of the hips. There is also a vertical running zipper in place of buttons in front at the centre. A collar is present as well. There are no visible tears on the cheongsam.\n\n  subject_terms_1: dresses (garments) floral patterns allover patterns\n\n  subject_terms_2: Coats Motifs Women\\u0027s clothing\n\n  sgcool_label_text: This is an orange batik housecoat that was worn for less formal occasions. The housecoat has a zip at the front for easy wearing and has two front pockets.\n",
-  "createdDate": "20201127000612",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -28,7 +28,7 @@
     "subject_terms_2": "Coats Motifs Women\u0027s clothing",
     "sgcool_label_text": "This is an orange batik housecoat that was worn for less formal occasions. The housecoat has a zip at the front for easy wearing and has two front pockets."
   },
-  "nlpDate": "20201127000612",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

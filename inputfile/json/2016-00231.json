@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00231\n\n  Image: \n\n  object_work_type: steamers (cookware)\n\n  title_text: Puttu kudam Puttu maker\n\n  preference: main\n\n  title_language: \n\n  creation_date: 1900 - 1999\n\n  creation_place_original_location: Kerala (India)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: bamboo (material) brass (alloy)\n\n  techniques_name: forming (physical activity) metalworking\n\n  object_colour: multicoloured\n\n  physical_appearance: The image displays a puttu maker. It comprises of a pot as its base\n with five tubes at the top. These five tubes can be detached from its base. All of the five tubes are wrapped with cloth and have ropes tied around them.\n\n  subject_terms_1: cooking utensils implements (object genre) kitchenware\n\n  subject_terms_2: Food steamers Kitchen utensils Steaming (Cooking)\n\n  subject_terms_3: Indian food\n\n  sgcool_label_text: This puttu maker is of highly unusual design\n comprising of a brass pot\n with five bamboo inserts. Puttu is a popular breakfast/snack in Kerala\n made of a mix of steamed broken rice and grated coconut. The mix of rice and coconut would be stuffed into the bamboo tubes\n and then steamed by heating the water in the pot.\n",
-  "createdDate": "20201127000611",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -29,7 +29,7 @@
     "subject_terms_3": "Indian food",
     "sgcool_label_text": "This puttu maker is of highly unusual design, comprising of a brass pot, with five bamboo inserts. Puttu is a popular breakfast/snack in Kerala, made of a mix of steamed broken rice and grated coconut. The mix of rice and coconut would be stuffed into the bamboo tubes, and then steamed by heating the water in the pot."
   },
-  "nlpDate": "20201127000611",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2014-00357\n\n  Image: \n\n  object_work_type: lithographic engravings (prints)\n\n  title_text: View of the Entrance to New Harbour - Singapore\n\n  preference: main\n\n  title_language: \n\n  creator_2: John Cameron Vincent Brooks\n\n  creator_1: Not indicated Brooks\n Vincent\n 1815?-1885\n\n  creator_role: engravers (printmakers) creators\n\n  creation_date: Not indicated\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: lithographic ink limestone\n\n  techniques_name: lithography\n\n  object_colour: multicoloured\n\n  physical_appearance: The image depicts a print that is encased within a frame. There is a white boundary surrounding the print. A picture of a body of water and landforms is depicted. There are some trees and shrubs atop these landforms. The landforms are not uniform and protrude outwards and inwards\n In the distance at the horizon\n the outlines of more land masses can be discerned.\n\n  subject_terms_1: harbours derivative works landscapes (representations)\n\n  subject_terms_2: Lithography Harbours Landscapes Derivative works\n\n  subject_terms_3: New Harbour Visual arts\n\n  sgcool_label_text: This lithographic print was reproduced in John Cameron’s Our Tropical Possessions in Malayan India (Smith\n Elder \\u0026 Co\n London\n 1865). It was based on a photograph taken c.1860\n and engraved by Vincent Brooks.The print presents a view of New Harbour before it was developed into Keppel Harbour.\n",
-  "createdDate": "20201127000613",
+  "createdDate": "20201127205930",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_3": "New Harbour Visual arts",
     "sgcool_label_text": "This lithographic print was reproduced in John Cameron’s Our Tropical Possessions in Malayan India (Smith, Elder \u0026 Co, London, 1865). It was based on a photograph taken c.1860, and engraved by Vincent Brooks.The print presents a view of New Harbour before it was developed into Keppel Harbour."
   },
-  "nlpDate": "20201127000613",
+  "nlpDate": "20201127205930",
   "connectorId": 0,
   "tags": {}
 }

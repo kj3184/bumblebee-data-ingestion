@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00046\n\n  Image: \n\n  object_work_type: cigar cases\n\n  title_text: Silver Cheroot Case\n\n  preference: main\n\n  title_language: English\n\n  creation_date: Circa 1815\n\n  creation_place_original_location: Tiruchchirappalli (India)\n\n  styles_periods_indexing_terms: Indian (South Asian)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: silver (metal)\n\n  techniques_name: forging (metal forming)\n\n  object_colour: silver (color)\n\n  physical_appearance: This is a silver cheroot case. It opens by a lid. The body of the case features dense foliage that also incorporates deity figures\n animals and mythical creatures. The case appears to be in good condition\n with no scratches.\n\n  subject_terms_1: colonialism deities cultural diffusion foliage (motif)\n\n  subject_terms_2: Motifs Culture diffusion Imperialism Cigarette cases Gods\n\n  subject_terms_3: \n\n  subject_terms_4: \n\n  sgcool_label_text: This high quality silver cheroot case would have been manufactured in Trichinopoly (currently\n Tirichirapalli)\n as a luxury item made for Colonial consumption. The case is made of heavy silver\n utilising deep\n almost 3-dimensional repousse. The decoration comprises of dense acanthus-leaf foliage\n within which appear mounted figures and animals. The lid of the case opens to reveal a segmented interior\n which would have held twelve cheroots in such a way as to minimise damage. The object is typical of silver manufactured in Trichinopoly\n which was known for the manufacture of small\n highly prized\n luxury items such as this cheroot case. Stylistically\n the figures are also reminiscent of “swami silver” that was manufactured in the Madras region\n and was so termed by the British\n for the liberal use of deity or mythological imagery on the surface of silver objects.\n",
-  "createdDate": "20201127000609",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -31,7 +31,7 @@
     "subject_terms_4": "",
     "sgcool_label_text": "This high quality silver cheroot case would have been manufactured in Trichinopoly (currently, Tirichirapalli), as a luxury item made for Colonial consumption. The case is made of heavy silver, utilising deep, almost 3-dimensional repousse. The decoration comprises of dense acanthus-leaf foliage, within which appear mounted figures and animals. The lid of the case opens to reveal a segmented interior, which would have held twelve cheroots in such a way as to minimise damage. The object is typical of silver manufactured in Trichinopoly, which was known for the manufacture of small, highly prized, luxury items such as this cheroot case. Stylistically, the figures are also reminiscent of “swami silver” that was manufactured in the Madras region, and was so termed by the British, for the liberal use of deity or mythological imagery on the surface of silver objects."
   },
-  "nlpDate": "20201127000609",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

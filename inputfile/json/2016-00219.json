@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00219\n\n  Image: \n\n  object_work_type: bangles\n\n  title_text: Large gold bangle with birds\n\n  preference: main\n\n  title_language: \n\n  creation_date: 1800 - 1899\n\n  creation_place_original_location: Tamil Nadu (India)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: circular (shape)\n\n  materials_name: gold (metal)\n\n  techniques_name: jewellery making metalworking\n\n  object_colour: gold (colour)\n\n  physical_appearance: The image shows a bangle. It is gold in colour. The inner circumference does not have any inscriptions or designs on it. The motif of peacocks can be discerned near the screw of the bangle. The outer surface of the bangle is ribbed. The screw that is lodged in the bangle can be separated from the latter.\n\n  subject_terms_1: gift giving decorations (personal artifacts) commemoratives birds (motif) commemorative jewellery goldwork (visual works)\n\n  subject_terms_2: Motifs Goldwork Gold jewelry Appreciation of a person’s creative works Ethnic jewellery\n\n  subject_terms_3: Jewellery\n\n  sgcool_label_text: This is an elaborately crafted gold bangle with a ribbed outer surface and smoothly finished inner circumference. A pair of finely sculpted peacocks flanks the screw which is seen in the form of a spire akin to the tower of a south Indian temple. Bangles such as these would have been made to be presented by royalty to scholars\n artists\n etc as a sign of imperial honour.\n",
-  "createdDate": "20201127000611",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -29,7 +29,7 @@
     "subject_terms_3": "Jewellery",
     "sgcool_label_text": "This is an elaborately crafted gold bangle with a ribbed outer surface and smoothly finished inner circumference. A pair of finely sculpted peacocks flanks the screw which is seen in the form of a spire akin to the tower of a south Indian temple. Bangles such as these would have been made to be presented by royalty to scholars, artists, etc as a sign of imperial honour."
   },
-  "nlpDate": "20201127000611",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

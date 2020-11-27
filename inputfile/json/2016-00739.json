@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00739\n\n  Image: \n\n  object_work_type: black-and-white photographs\n\n  title_text: A Splendid View During a Flood\n\n  preference: main\n\n  title_language: \n\n  creator_2: Loke Hong Seng\n\n  creator_1: Loke\n Hong Seng\n\n  creator_role: photographers\n\n  creation_date: 2015 [1973]\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: square\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process)\n\n  object_colour: grey monochrome\n\n  edition_description: 15-May\n\n  physical_appearance: The image shows a photograph in black-and-white that is enclosed by a white frame. A single village can be seen in the background of the photograph. Some clothes are being hung outside and a pair of windows are visible. The foreground of the photograph shows the reflection of the images of the background on a body of water. A ripple effect can also be seen on the water. There are also trees and leaves close by the village.\n\n  subject_terms_1: residential structures floods (natural events) dwellings landscapes (representations)\n\n  subject_terms_2: Dwellings Floods Landscapes Singapore Black-and-white photography Street photography\n\n  subject_terms_3: Potong Pasir Artistic photography\n\n  sgcool_label_text: Loke Hong Seng (b. 1943) was working as a radio announcer with Radio Television Singapore in the 1960s when he picked up photography and subsequently grew to specialize in street photography. His images of 1960s and 1970s Singapore offer a candid view of everyday life in the early days of the nation’s development. This photograph shows a one of the massive floods that took place in Potong Pasir in the 1970s. Though captured in a dreamy manner\n it reveals a frequent occurrence that people in Singapore faced during those years.\n",
-  "createdDate": "20201127000609",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -33,7 +33,7 @@
     "subject_terms_3": "Potong Pasir Artistic photography",
     "sgcool_label_text": "Loke Hong Seng (b. 1943) was working as a radio announcer with Radio Television Singapore in the 1960s when he picked up photography and subsequently grew to specialize in street photography. His images of 1960s and 1970s Singapore offer a candid view of everyday life in the early days of the nation’s development. This photograph shows a one of the massive floods that took place in Potong Pasir in the 1970s. Though captured in a dreamy manner, it reveals a frequent occurrence that people in Singapore faced during those years."
   },
-  "nlpDate": "20201127000609",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

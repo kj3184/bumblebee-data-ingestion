@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00610\n\n  Image: \n\n  object_work_type: black-and-white photographs colour photographs\n\n  title_text: 2 photographs of  performances at Veeramakaliamman Temple Performances at Veeramakaliamman Temple\n\n  preference: main alternate\n\n  title_language: \n\n  creation_date: 1970s-1990s\n\n  creation_place_original_location: Singapore\n\n  styles_periods_indexing_terms: Indian (South Asian)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process) photographic processes\n\n  object_colour: grey monochrome multicoloured\n\n  physical_appearance: The image shows a set of two photographs. One of them is in black and white while the other is a coloured photograph. Both the photographs feature musicians who are sitting down. There are also different types of musical instruments as well as microphones present. Both photographs are taken in the interior of a building. There are framed images of Hindu deities and Hindu idols.\n\n  subject_terms_1: temples (buidings) singers musical performances musicians music (performing arts)\n\n  subject_terms_2: Carnatic music Colour photography Tamil (Indic people) Hindu temples Singers Musicians Performances Black-and-white photography\n\n  subject_terms_3: Temples Performing Arts Photography Indian music Sri Veeramakaliamman Temple (Place) Musicians\n\n  sgcool_label_text: Mr. S Gopalakrishnan (b. in 1920 in Tanjavur) was a prominent violinist\n and Carnatic singer. He arrived in Singapore in 1939 and actively participated in the Indian classical music scene here. Mr Gopalakrishnan performed alongside veterans of classical performers such as Pandit M Ramalingam and MV Gurusamy at temple and other music festivals. He also taught violin lessons at the Singapore Malayalee Association from the 1970s to 2000s. He was a member of the Tamils Reform Association and performed his wedding according to the principles of the Self-Respect Movement. He was also employed as a compositor at the Far East Air Force from 1954 to 1970.\n",
-  "createdDate": "20201127000610",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -30,7 +30,7 @@
     "subject_terms_3": "Temples Performing Arts Photography Indian music Sri Veeramakaliamman Temple (Place) Musicians",
     "sgcool_label_text": "Mr. S Gopalakrishnan (b. in 1920 in Tanjavur) was a prominent violinist, and Carnatic singer. He arrived in Singapore in 1939 and actively participated in the Indian classical music scene here. Mr Gopalakrishnan performed alongside veterans of classical performers such as Pandit M Ramalingam and MV Gurusamy at temple and other music festivals. He also taught violin lessons at the Singapore Malayalee Association from the 1970s to 2000s. He was a member of the Tamils Reform Association and performed his wedding according to the principles of the Self-Respect Movement. He was also employed as a compositor at the Far East Air Force from 1954 to 1970."
   },
-  "nlpDate": "20201127000610",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

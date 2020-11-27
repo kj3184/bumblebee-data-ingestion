@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00032\n\n  Image: \n\n  object_work_type: black-and-white prints (photographs) photographic prints gelatin silver prints\n\n  title_text: Looking into the Future\n\n  preference: main\n\n  title_language: \n\n  creator_2: Koon\n Sang Ho\n\n  creator_role: photographers\n\n  creation_date: c.1956\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: square\n\n  materials_name: silver sulfide paper (fibre product) baryta paper gelatin\n\n  techniques_name: gelatin silver process photographic printing techniques black-and-white photography\n\n  object_colour: black-and-white (colours)\n\n  physical_appearance: This print captures a man docking a sampan and securing its oars. He dons a sarong bottom and has his head wrapped in a head scarf. There is yellowing along the perimeter of the print\n and the backing on which it is mounted has brown spotting. On the bottom right corner of the print\n an RPS Associate 1957 is embossed and on the verso\n the photographer studio\\u0027s chop and title of the work can be found.\n\n  subject_terms_1: headscarves boats docks (general waterside structures)\n\n  subject_terms_2: Wooden boats Headgear Portrait photography Photography\n Artistic Docks\n\n  subject_terms_3: visual arts Potrait photography Artistic photography\n\n  context_21: 40 Holloway  Lane\n Singapore 7\n\n  context_22: c.1956\n\n  context_23: 1951\n\n  context_24: 1961\n\n  sgcool_label_text: Ho Koon Sang was a member of the Photographic Society of Singapore and an Associate of the Royal Photographic Society in London. This photograph was part of a set of 12 prints sent to the Royal Photographic Society in 1956.\n",
-  "createdDate": "20201127000609",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -35,7 +35,7 @@
     "context_24": "1961",
     "sgcool_label_text": "Ho Koon Sang was a member of the Photographic Society of Singapore and an Associate of the Royal Photographic Society in London. This photograph was part of a set of 12 prints sent to the Royal Photographic Society in 1956."
   },
-  "nlpDate": "20201127000609",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

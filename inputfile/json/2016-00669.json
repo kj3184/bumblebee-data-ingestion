@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00669\n\n  Image: \n\n  object_work_type: photometers\n\n  title_text: Paterson light measure probe\n\n  preference: main\n\n  title_language: \n\n  creator_2: Paterson Photographic Equipment\n\n  creator_role: manufacturers\n\n  creation_date: 1980s-1990s\n\n  creation_place_original_location: Tipton (England) Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: plastic (organic material) metal\n\n  techniques_name: forming (physical activity) metalworking\n\n  object_colour: black (colour)\n\n  physical_appearance: The light measuring probe is predominantly black in colour\n with a silver-surfaced screen. Below the screen\n the name of the company\n \\u0027Paterson\\u0027\n and the model of the device\n \\u0027PDB 2053\\u0027\n are displayed. There is a rotating button with several numerals around its circumference. A wire with a probe is connected from the base of measuring device.\n\n  subject_terms_1: light meters (measuring devices) photographic equipment light measuring devices\n\n  subject_terms_2: Photometry Measuring instruments Probes (Electronic instruments) Photography Equipment and supplies\n\n  subject_terms_3: Photography\n\n  context_20: The set of equipment was used by The Picture Farm Pte Ltd\n\n  context_21: 45 Jalan Pemimpin\n #09-00 Foo Wah Industrial Building\n Thomson\n Singapore\n\n  context_22: 1970 - present\n\n  context_23: 1970\n\n  context_24: present\n\n  sgcool_label_text: The light measure probe is used during photographic film processing. This is part of the darkroom photography equipment that was previously used by The Picture Farm\n which was set up by the renowned photographer Willie Tang.\n",
-  "createdDate": "20201127000610",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -36,7 +36,7 @@
     "context_24": "present",
     "sgcool_label_text": "The light measure probe is used during photographic film processing. This is part of the darkroom photography equipment that was previously used by The Picture Farm, which was set up by the renowned photographer Willie Tang."
   },
-  "nlpDate": "20201127000610",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

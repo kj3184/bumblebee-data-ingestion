@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00477\n\n  Image: \n\n  object_work_type: single-sitter portraits pastels (visual works)\n\n  title_text: Chairil Anwar\n\n  preference: main\n\n  title_language: \n\n  creator_2: Mochtar Apin\n\n  creator_1: Apin\n Mochtar\n\n  creator_role: artists (visual artists)\n\n  creation_date: 1947\n\n  creation_place_original_location: Bandung (Indonesia)\n\n  styles_periods_indexing_terms: Indonesian (culture or style)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: Rectangular\n\n  materials_name: pastel (material) drawing paper\n\n  techniques_name: sketching drawing (image-making) colouring (process)\n\n  object_colour: multicoloured\n\n  physical_appearance: This is a portrait of a Chairil Anwar\n one of Southeast Asia\\u0027s most important poets. The figure\\u0027s head angles away from the audience\n and he is depicted to be wearing a blue shirt and is himself set against a colourful background. Yellow has been used to indicate the colour of the figure\\u0027s skin. The artist\\u0027s signature and date of work is found on the bottom left corner\n\n  subject_terms_1: figurative art identity forms of expression (artistic concept)\n\n  subject_terms_2: Identity Figurative expressionism Figurative painting Anwar\n Chairil\n 1922-1949 Figurative art\n\n  subject_terms_3: visual arts\n\n  sgcool_label_text: Executed after the Japanese Occupation\n the work is a portrait of one of the most important poets in Southeast Asia. Here we can still observe Apin’s impressionist tendencies\n similar to the works done during his  PERSAGI days. Together with Chairil Anwar\n Apin was also part of the Gelanggang group of artists and writers. The group played an important role in the discourse of Indonesia’s cultural identity during the post-colonial period as outlined in the Gelanggang Manifesto of 1946.\n",
-  "createdDate": "20201127000605",
+  "createdDate": "20201127205926",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -33,7 +33,7 @@
     "subject_terms_3": "visual arts",
     "sgcool_label_text": "Executed after the Japanese Occupation, the work is a portrait of one of the most important poets in Southeast Asia. Here we can still observe Apin’s impressionist tendencies, similar to the works done during his  PERSAGI days. Together with Chairil Anwar, Apin was also part of the Gelanggang group of artists and writers. The group played an important role in the discourse of Indonesia’s cultural identity during the post-colonial period as outlined in the Gelanggang Manifesto of 1946."
   },
-  "nlpDate": "20201127000605",
+  "nlpDate": "20201127205926",
   "connectorId": 0,
   "tags": {}
 }

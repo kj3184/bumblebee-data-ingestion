@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00544\n\n  Image: \n\n  object_work_type: songbooks\n\n  title_text: Assembly Songs Songbook\n Young Singaporean Supplement\n\n  preference: main\n\n  title_language: \n\n  creator_2: Ministry of Education Singapore Education Publishing Bureau\n\n  creator_1: Not indicated Singapore\n Ministry of Education\n\n  creator_role: publishers creators\n\n  creation_date: 1967 - 1980\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: printing paper\n\n  techniques_name: colour printing\n\n  object_colour: multicoloured\n\n  edition_description: Not indicated\n\n  physical_appearance: \\The image shows the front cover of a songbook. It is rectangular in shape and there are patterned drawings of leaves in a circular direction. \\\\Assembly Songs\\\\ is stated at the centre. \\\\Young Singaporeans Supplement\\\\ is stated at the bottom. There are Chinese characters present on the songbook as well.\\\n\n  subject_terms_1: students education schools (institutions) songs (oral or performed works) cultural heritage\n\n  subject_terms_2: School songbooks Education Songs Students Singapore\n\n  subject_terms_3: Singapore. Ministry of Education Education Heritage and Culture\n\n  sgcool_label_text: The Singapore Education Publishing Bureau (EPB) was set up by the Singapore Ministry of Education (MOE) in 1967.  EPB worked with the MOE to develop syllabus for Civic and moral education and mother tongue languages. \\r\\n\\r\\nThis included song books such as this assembly songs book for young Singaporeans which includes “Singapura” written in 1962 and the national anthem written in 1958.\n",
-  "createdDate": "20201127000610",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -33,7 +33,7 @@
     "subject_terms_3": "Singapore. Ministry of Education Education Heritage and Culture",
     "sgcool_label_text": "The Singapore Education Publishing Bureau (EPB) was set up by the Singapore Ministry of Education (MOE) in 1967.  EPB worked with the MOE to develop syllabus for Civic and moral education and mother tongue languages. \r\n\r\nThis included song books such as this assembly songs book for young Singaporeans which includes “Singapura” written in 1962 and the national anthem written in 1958."
   },
-  "nlpDate": "20201127000610",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

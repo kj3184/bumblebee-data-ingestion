@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00901\n\n  Image: \n\n  object_work_type: rosaries\n\n  title_text: Majie\\u0027s Buddhist rosary\n\n  preference: main\n\n  title_language: \n\n  creation_date: Mid-20th century\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: wood (plant material)\n\n  techniques_name: woodcarving\n\n  object_colour: multicolored\n\n  physical_appearance: This is a rosary made of wooden beads. The beads are held together by a blue string\n with a tassel at the end. There are two smaller red beads amongst the brown beads.\n\n  subject_terms_1: cultural ceremonies ceremonial objects maids (servants) Buddhism customs (social concepts)\n\n  subject_terms_2: Rites and ceremonies Buddhism Ceremonial objects Household employees Buddhist rosary\n\n  subject_terms_3: Lu\n Earl Ming-Teh Buddhism\n\n  subject_terms_4: \n\n  sgcool_label_text: This Buddhist rosary belonged to belonged to a Cantonese female domestic helper\n Ms Leong Kun Toh who was a practicing Buddhist. It would have been used for prayers and recitation of mantras. While some majies like Kun Toh would live with their employers until they passed on\n other majies choose to stay at Buddhist-run chai tong; or “vegetarian houses\n” upon retirement.\n",
-  "createdDate": "20201127000604",
+  "createdDate": "20201127205925",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -30,7 +30,7 @@
     "subject_terms_4": "",
     "sgcool_label_text": "This Buddhist rosary belonged to belonged to a Cantonese female domestic helper, Ms Leong Kun Toh who was a practicing Buddhist. It would have been used for prayers and recitation of mantras. While some majies like Kun Toh would live with their employers until they passed on, other majies choose to stay at Buddhist-run chai tong; or “vegetarian houses,” upon retirement."
   },
-  "nlpDate": "20201127000604",
+  "nlpDate": "20201127205925",
   "connectorId": 0,
   "tags": {}
 }

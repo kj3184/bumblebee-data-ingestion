@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00764\n\n  Image: \n\n  object_work_type: vases\n\n  title_text: Baluster vase\n\n  preference: main\n\n  title_language: \n\n  creation_date: Mid - late 19th century\n\n  creation_place_original_location: Singapore China\n\n  styles_periods_indexing_terms: Qing (dynastic styles and periods)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: porcelain (material)\n\n  techniques_name: firing (technique)\n\n  object_colour: multicolored\n\n  physical_appearance: This is a large porcelain baluster vase. It has a wide base and a narrow opening aat the top. The body is intricately decorated with painted floral and foliage designs with depictions of birds and dragons. Along the neck of the vase\n there are small moulded figures of lions.\n\n  subject_terms_1: Peranakan lion\\u0027s head (motif) birds (motif) flower (motif) Chinese export porcelain foliage (motif)\n\n  subject_terms_2: Exports Motifs Porcelain\n Chinese Ming-Qing dynasties\n 1368-1912 Peranakan (Asian people) Vases\n\n  subject_terms_3: Chinese decorative arts\n\n  sgcool_label_text: This is a large baluster vase dated to the Qing period in China. Such vases were often used on altars in Peranakan homes as decorative objects containing flowers. This vase is considered an early example of export porcelain used in Peranakan homes before the later tradition of porcelain commissioned to the specific tastes of Peranakans\n known as nyonyaware.\\r\\n\\r\\n This item is donated by the family of prominent Peranakan\n Ong Sam Leong (b. 1857\n Singapore – d. 7 February 1918\n Singapore). It comes from his ancestral home of Bukit Rose\n formerly at 259 Bukit Timah Road. Ong was a well-known successful businessman who made is money in the mining of phosphate on Christmas island\n which was historically a territory of colonial Singapore.\n",
-  "createdDate": "20201127000609",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -30,7 +30,7 @@
     "subject_terms_3": "Chinese decorative arts",
     "sgcool_label_text": "This is a large baluster vase dated to the Qing period in China. Such vases were often used on altars in Peranakan homes as decorative objects containing flowers. This vase is considered an early example of export porcelain used in Peranakan homes before the later tradition of porcelain commissioned to the specific tastes of Peranakans, known as nyonyaware.\r\n\r\n This item is donated by the family of prominent Peranakan, Ong Sam Leong (b. 1857, Singapore – d. 7 February 1918, Singapore). It comes from his ancestral home of Bukit Rose, formerly at 259 Bukit Timah Road. Ong was a well-known successful businessman who made is money in the mining of phosphate on Christmas island, which was historically a territory of colonial Singapore."
   },
-  "nlpDate": "20201127000609",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

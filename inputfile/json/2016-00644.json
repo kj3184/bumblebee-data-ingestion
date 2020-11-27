@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00644\n\n  Image: \n\n  object_work_type: telephones\n\n  title_text: Coinafon – Orange Public Phone\n\n  preference: main\n\n  title_language: \n\n  creator_2: Singapore Telecoms\n\n  creator_1: Telecommunication Authority of Singapore (LC) Telecommunication Authority of Singapore (TTE)\n\n  creator_role: manufacturers\n\n  creation_date: 1980s\n\n  creation_place_original_location: Singapore\n\n  styles_periods_indexing_terms: Not indicated\n\n  inscriptions: \n\n  inscription_language: \n\n  scale_type: Not indicated\n\n  shape: irregular\n\n  materials_name: wire metal plastic (organic material)\n\n  techniques_name: forming (physical activity) metalworking\n\n  object_colour: multicoloured\n\n  physical_appearance: \\The image shows a telephone. It is predominantly orange in colour. The handset is connected to the telephone body through black wires. There is an opening at the top of the telephone body and \\\\10¢\\\\ is displayed beside the opening slot. The number pad of the telephone is also visible and to the left of the image is a series of eight images. The images depict symbols and words for instructions on how to use the telephone.\\\n\n  subject_terms_1: technology (general associated concept) brand name objects\n\n  subject_terms_2: Telephone Technology Brand name products\n\n  sgcool_label_text: A common sight in Singapore during the 1970s and 1980s\n this orange public phone was introduced by the Singapore Telephone Board in 1971. Users would have to insert 10 cents to operate the pay phone. The rise of mobile phone technology in the late 1990s led to the decline in usage of such public phone services.\n",
-  "createdDate": "20201127000610",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -33,7 +33,7 @@
     "subject_terms_2": "Telephone Technology Brand name products",
     "sgcool_label_text": "A common sight in Singapore during the 1970s and 1980s, this orange public phone was introduced by the Singapore Telephone Board in 1971. Users would have to insert 10 cents to operate the pay phone. The rise of mobile phone technology in the late 1990s led to the decline in usage of such public phone services."
   },
-  "nlpDate": "20201127000610",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

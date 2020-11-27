@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00604\n\n  Image: \n\n  object_work_type: textiles (visual works) yardage\n\n  title_text: Yardage\n\n  preference: main\n\n  title_language: English\n\n  creation_date: 20th century\n\n  creation_place_original_location: Rajasthan (India)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: wool (textile) cotton (textile)\n\n  techniques_name: sewing (needleworking technique)\n\n  object_colour: multicolored\n\n  physical_appearance: This is a piece of fabric. It features a plaid pattern\n with multicolored embroidery along the bottom hem to create repeated triangular scrolls. The left end of the yardage is laid out\n while the rest of the length of the fabric is collected on the right.\n\n  subject_terms_1: cloth plaid (pattern) embroidery (visual works)\n\n  subject_terms_2: Plaid Embroidery Textile fabrics Bishnois\n\n  subject_terms_3: Textile art and design Indian costumes\n\n  subject_terms_4: \n\n  sgcool_label_text: This yardage would have been stitched into a skirt\n worn by women of the Bishnoi community of Rajasthan. The handwoven material is made of cotton\n and embroidered in bright wool\n",
-  "createdDate": "20201127000604",
+  "createdDate": "20201127205926",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -30,7 +30,7 @@
     "subject_terms_4": "",
     "sgcool_label_text": "This yardage would have been stitched into a skirt, worn by women of the Bishnoi community of Rajasthan. The handwoven material is made of cotton, and embroidered in bright wool"
   },
-  "nlpDate": "20201127000604",
+  "nlpDate": "20201127205926",
   "connectorId": 0,
   "tags": {}
 }

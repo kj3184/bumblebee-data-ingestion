@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00472\n\n  Image: \n\n  object_work_type: womenswear wedding clothes\n\n  title_text: Two-piece wedding outfit\n\n  preference: main\n\n  title_language: \n\n  creation_date: 1930s-1940s\n\n  creation_place_original_location: Indonesia China\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: silk (textile)\n\n  techniques_name: sewing (needleworking technique)\n\n  object_colour: multicolored\n\n  physical_appearance: This is a two-piece wedding outfit. It is a set consisting of a turquoise blue embroided jacket with matching skirt. The jacket is embroided with flowers such as chrysanthemum and the Buddha hand citron. The edges are decorated with an embroided scallop border. The buttons run down the left of the jacket. The pleated skirt is decorated with similar motifs\n with a phoenix and a butterfly embroided in the center panel.\n\n  subject_terms_1: tops (garments\n general) ceremonial costume phoenixes skirts (garments) flower (motif) embroidery (visual works) folk costume\n\n  subject_terms_2: Motifs Ethnic costume Embroidery Skirts Wedding costume Jackets\n\n  subject_terms_3: Peranakan costumes\n\n  sgcool_label_text: This is a two-piece wedding outfit worn by a Peranakan bride. The turquoise blue jacket is embroidered with a variety of auspicious flowers such as chrysanthemum and Buddha hand citron. An elaborate scalloped border adorns its edges. The matching skirt with pleats is similarly decorated with floral patterns. A phoenix is depicted in a landscape of peonies and butterflies on the central panel. The bride wore turquoise or green-coloured wedding robes on the twelfth and last day of wedding celebrations.\\r\\n\\r\\nPeranakan wedding practices closely resembled old wedding customs in Fujian province\n from which many Peranakans hail. For Peranakans living in Malacca and Singapore\n wedding robes were often specially ordered from Shanghai or made by Shanghainese tailors living in Singapore.\\r\\n\n",
-  "createdDate": "20201127000605",
+  "createdDate": "20201127205926",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -29,7 +29,7 @@
     "subject_terms_3": "Peranakan costumes",
     "sgcool_label_text": "This is a two-piece wedding outfit worn by a Peranakan bride. The turquoise blue jacket is embroidered with a variety of auspicious flowers such as chrysanthemum and Buddha hand citron. An elaborate scalloped border adorns its edges. The matching skirt with pleats is similarly decorated with floral patterns. A phoenix is depicted in a landscape of peonies and butterflies on the central panel. The bride wore turquoise or green-coloured wedding robes on the twelfth and last day of wedding celebrations.\r\n\r\nPeranakan wedding practices closely resembled old wedding customs in Fujian province, from which many Peranakans hail. For Peranakans living in Malacca and Singapore, wedding robes were often specially ordered from Shanghai or made by Shanghainese tailors living in Singapore.\r\n"
   },
-  "nlpDate": "20201127000605",
+  "nlpDate": "20201127205926",
   "connectorId": 0,
   "tags": {}
 }

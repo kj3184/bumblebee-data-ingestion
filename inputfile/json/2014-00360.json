@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2014-00360\n\n  Image: \n\n  object_work_type: visas\n\n  title_text: Travel Visa belonging to Mdm Wong Lai Tuan issued by the Chinese Consul-General in Singapore\n\n  preference: main\n\n  title_language: \n\n  creator_2: Wu Paak-Shing Chinese Consul-General in Singapore\n\n  creator_1: Not indicated\n\n  creator_role: creators consuls\n\n  creation_date: 7th day of Oct 1946\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process)\n\n  object_colour: multicoloured\n\n  physical_appearance: \\The image shows a travel visa. It is rectangular in shape and \\\\Consulate General of the Republic of China Singapore\\\\ is stated at the top of the visa. Several vertical lines of Chinese characters are stated at the centre of the visa. There is a paragraph of English text below the Chinese characters. The last line states the date\n\n  subject_terms_1: certification \\\\7th day of Oct 1946\\\\. \\\\Wu Paak-Shing\\\\ is designated as the \\\\Consul-General\\\\. There are a couple of blue circular stamps with the words \\\\Consulate General of the Republic of China and Singapore\\\\ on them.\\ emigration\n\n  subject_terms_2: Chinese legal documents Emigration and immigration Certification Visas\n\n  subject_terms_3: Legal documents\n",
-  "createdDate": "20201127000613",
+  "createdDate": "20201127205930",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -31,7 +31,7 @@
     "subject_terms_2": "Chinese legal documents Emigration and immigration Certification Visas",
     "subject_terms_3": "Legal documents"
   },
-  "nlpDate": "20201127000613",
+  "nlpDate": "20201127205930",
   "connectorId": 0,
   "tags": {}
 }

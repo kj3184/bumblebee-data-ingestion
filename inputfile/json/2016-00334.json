@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00334\n\n  Image: \n\n  object_work_type: scarves (costume accessories) shawls stoles (outerwears)\n\n  title_text: Brocade\n\n  preference: main\n\n  title_language: \n\n  creation_date: 1900 - 1939\n\n  creation_place_original_location: Gujarat (India)\n\n  styles_periods_indexing_terms: Indian (South Asian)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: brocade (textile) silk (textile) gold (metal)\n\n  techniques_name: weaving sewing (needleworking technique)\n\n  object_colour: multicoloured\n\n  physical_appearance: The image consists of a large brocde stole and a smaller one. Both are rectangular in shape and predominantly green and white in colour. It has diaper patterns that extend all over its surface. The sides of each lozenge is a fish\n and in the centre there is a tortoise with red eyes. The big brocade stole has two holes\n one at its lower right side and the other towards its left side at its horizontal mid-point.\n\n  subject_terms_1: textiles (visual works) motifs Hinduism symbolism (artistic concept) diaper patterns allover patterns avatara\n\n  subject_terms_2: Textiles Stoles (Clothing) Motifs Avatars (Religion) Hinduism Shawls Hindu symbolism Vishnu (Hindu deity)\n\n  subject_terms_3: Hinduism\n\n  sgcool_label_text: This is a brocade from the Gujarat region of western India. Gujarat was a major centre of textile manufacture and trade\n and Gujarati brocades were of fine design and craftsmanship. Although weaving has a long history in the region\n many techniques and motifs were brought in from Persia during the reign of the Mughals. Traditional Indian patterns\n such as flora and fauna were also integrated into the new approach\n leading to the depictions of various symbols on textile.\\r\\n\\r\\nThis brocade symbolically represents Vishnu – the trellis pattern is formed by a very unusual fish pattern\n while the central motif is a tortoise. The fish and tortoise are the first and second avatars of Vishnu.\n",
-  "createdDate": "20201127000611",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -30,7 +30,7 @@
     "subject_terms_3": "Hinduism",
     "sgcool_label_text": "This is a brocade from the Gujarat region of western India. Gujarat was a major centre of textile manufacture and trade, and Gujarati brocades were of fine design and craftsmanship. Although weaving has a long history in the region, many techniques and motifs were brought in from Persia during the reign of the Mughals. Traditional Indian patterns, such as flora and fauna were also integrated into the new approach, leading to the depictions of various symbols on textile.\r\n\r\nThis brocade symbolically represents Vishnu – the trellis pattern is formed by a very unusual fish pattern, while the central motif is a tortoise. The fish and tortoise are the first and second avatars of Vishnu."
   },
-  "nlpDate": "20201127000611",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

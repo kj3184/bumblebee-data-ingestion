@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2014-00916-003\n\n  Image: \n\n  object_work_type: magazines (periodicals)\n\n  title_text: Big O covers (3) Farefurious\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: Little Ong\n\n  creator_1: Not indicated\n\n  creator_role: designers\n\n  creation_date: Not indicated\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process) bookbinding (process)\n\n  object_colour: multicoloured\n\n  physical_appearance: \\The image shows a rectangular magazine cover. \\\\Farefurious\\\\ is the headline for the magazine cover. \\\\Speechless corner\\\\ is stated on the top right hand corner. The cover contains a hand holding a fare card at the top\n\n  subject_terms_1: satire (artistic device) and red outlines of double decker buses at the bottom of the cover.\\\n\n  subject_terms_2: Local transit Transportation Fares public transit (infrastructure) Political satire\n\n  subject_terms_3: Periodicals Satire and humour\n\n  subject_terms_4: Periodicals\n",
-  "createdDate": "20201127000612",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -31,7 +31,7 @@
     "subject_terms_3": "Periodicals Satire and humour",
     "subject_terms_4": "Periodicals"
   },
-  "nlpDate": "20201127000612",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

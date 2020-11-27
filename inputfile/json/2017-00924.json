@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00924\n\n  Image: \n\n  object_work_type: 35mm cameras\n\n  title_text: Retina I\n Kodak\n\n  preference: main\n\n  title_language: \n\n  creator_2: Kodak (?)\n\n  creator_1: Eastman Kodak Company\n\n  creator_role: manufacturers\n\n  creation_date: 1934\n\n  creation_place_original_location: Germany\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: glass (material) metal\n\n  object_colour: black (color) silver (color)\n\n  physical_appearance: This is a 35mm Retina I camera by Kodak. It is black\n and irregular in shape. There are two silver knob at the top of the camera\n with a viewer in the middle. The front of the camera opens sideways to reveal the retina lens. The lens has multiple rotational adjustment knobs around it.\n\n  subject_terms_1: vintage (period) photography (discipline) cameras (photographic equipment)\n\n  subject_terms_2: Photography Cameras Kodak camera Vintage\n\n  subject_terms_3: Photography\n\n  sgcool_label_text: Launched in 1934\n the Retina I was the first 35mm miniature camera and the first to use the Kodak 35mm daylight-loading film magazine. In Singapore\n the Retina I was advertised in 1935 as having the capacity to take approximately thirty-six photographs. \\r\\n\\r\\nBefore the advent of the portable camera in the late 19th century\n the taking of photographs was limited to the studio. However portable cameras remained affordable only to the rich until the first decades of the 20th century.\n",
-  "createdDate": "20201127000604",
+  "createdDate": "20201127205925",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -31,7 +31,7 @@
     "subject_terms_3": "Photography",
     "sgcool_label_text": "Launched in 1934, the Retina I was the first 35mm miniature camera and the first to use the Kodak 35mm daylight-loading film magazine. In Singapore, the Retina I was advertised in 1935 as having the capacity to take approximately thirty-six photographs. \r\n\r\nBefore the advent of the portable camera in the late 19th century, the taking of photographs was limited to the studio. However portable cameras remained affordable only to the rich until the first decades of the 20th century."
   },
-  "nlpDate": "20201127000604",
+  "nlpDate": "20201127205925",
   "connectorId": 0,
   "tags": {}
 }

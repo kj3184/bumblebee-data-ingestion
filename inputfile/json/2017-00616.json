@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00616\n\n  Image: \n\n  object_work_type: calendars (documents by form) carvings (visual works)\n\n  title_text: Carved Wooden Calendar with Lime Highlights\n\n  preference: main\n\n  title_language: \n\n  creation_date: circa 1935\n\n  creation_place_original_location: Bali (Indonesia : Province)\n\n  styles_periods_indexing_terms: Indonesian (culture or style)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: wood (plant material) calcium hydroxide\n\n  techniques_name: woodcarving\n\n  object_colour: dark brown\n\n  physical_appearance: This is a wood carving of a Lombok calendar. It is carved with a stylised bird on the right with a leafy border. The face of the calender shows 35 squares that are engraved with a series of crosses\n lines\n circles and other markings. It is bordered by another leafy edge on the left. The edges of the engraving are highlighted with white and faded edges.\n\n  subject_terms_1: ways of life Balinese birds (motifs) customs (social concepts)\n\n  subject_terms_2: Lombok (Indonesia) Motifs Lifestyles Wood-carving Calendars Manners and customs\n\n  subject_terms_3: Heritage and Culture\n\n  subject_terms_4: \n",
-  "createdDate": "20201127000604",
+  "createdDate": "20201127205926",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -30,7 +30,7 @@
     "subject_terms_3": "Heritage and Culture",
     "subject_terms_4": ""
   },
-  "nlpDate": "20201127000604",
+  "nlpDate": "20201127205926",
   "connectorId": 0,
   "tags": {}
 }

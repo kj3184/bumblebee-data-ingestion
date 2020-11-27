@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2014-00354\n\n  Image: \n\n  object_work_type: black-and-white photographs\n\n  title_text: Drying the coffee\n\n  preference: main\n\n  title_language: \n\n  creator_2: G.R. Lambert \\u0026 Company\n\n  creator_1: G.R. Lambert \\u0026 Co.\n\n  creator_role: photography studios (organizations)\n\n  creation_date: early - mid 20th century\n\n  creation_place_original_location: Malaysia Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process) photographic processes\n\n  object_colour: grey (colour) monochrome\n\n  physical_appearance: \\The image shows a photograph that is in black-and-white. It is rectangular and it features a group of people in a coffee farm. Three rectangular farm beds can be seen and there is an individual in each one of them\n using a hoe to separate and spread the coffee beans out. There are others who are watching and talking to one another. There is a farmhouse at the back\n and trees in the background. \\\\Drying the coffee 127\\\\ is stated in white at the lower right hand side of the photograph. \\\n\n  subject_terms_1: farmhouses coffee (food\n dye) indigenous people farming (function) farmers (people in agriculture)\n\n  subject_terms_2: Farmhouses Farmers Coffee Harvesting Indigenous people Black-and-white photography\n\n  subject_terms_3: Photography G. R. Lambert \\u0026 Co.\n\n  sgcool_label_text: This is an original photograph from G R lambert \\u0026 Company that shows the process of drying the coffee.\n",
-  "createdDate": "20201127000613",
+  "createdDate": "20201127205930",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_3": "Photography G. R. Lambert \u0026 Co.",
     "sgcool_label_text": "This is an original photograph from G R lambert \u0026 Company that shows the process of drying the coffee."
   },
-  "nlpDate": "20201127000613",
+  "nlpDate": "20201127205930",
   "connectorId": 0,
   "tags": {}
 }

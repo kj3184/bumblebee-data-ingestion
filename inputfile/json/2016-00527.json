@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00527\n\n  Image: \n\n  object_work_type: travel guidebooks\n\n  title_text: ‘Welcome to Singapore’ guide by Singapore Tourism\n\n  preference: main\n\n  title_language: \n\n  creator_2: Singapore Tourist Promotion Board (STPB)\n\n  creator_1: Singapore Tourist Promotion Board\n\n  creator_role: creators\n\n  creation_date: Aug-78\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: printing paper\n\n  techniques_name: printing (process)\n\n  object_colour: multicoloured\n\n  edition_description: 8\n\n  physical_appearance: The image displays the front cover of a travel guidebook. It is rectangular in shape. The image on the front cover features two ladies posing and looking in the direction where the photograph was captured. They are dressed in sarong wear and the background features flowers and foliage. The lady in blue to the right is holding a vintage bird cage and leaning against a cane armchair\n which the other lady is sitting on.\n\n  subject_terms_1: tourism travel cultural heritage\n\n  subject_terms_2: Voyages and travels Tourism Singapore Guidebooks\n\n  subject_terms_3: Singapore Tourist Promotion Board Cultural development Description and travel\n\n  sgcool_label_text: This “Welcome to Singapore” visitor guide was published in 1978 by the Singapore Tourist Promotion Board (STPB). Catered to tourists\n this free publication provides an overview of Singapore’s cultural heritage and introduces the main attractions of Singapore. \\r\\n\\r\\nThe cover of the visitor guide features a tropical scene of ladies dressed in sarong wear and contains a foreword by the Chairman of the Tourist Promotion Board.\\r\\nSTPB was created in 1964 as a statutory board by the government to develop and promote Singapore as a tourist destination. \\r\\n\\r\\nSTPB’s efforts in marketing Singapore as a holiday destination paid off\n with tourist arrivals increasing from 100\n000 in 1964 to over 2 million by 1978.\n",
-  "createdDate": "20201127000610",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -33,7 +33,7 @@
     "subject_terms_3": "Singapore Tourist Promotion Board Cultural development Description and travel",
     "sgcool_label_text": "This “Welcome to Singapore” visitor guide was published in 1978 by the Singapore Tourist Promotion Board (STPB). Catered to tourists, this free publication provides an overview of Singapore’s cultural heritage and introduces the main attractions of Singapore. \r\n\r\nThe cover of the visitor guide features a tropical scene of ladies dressed in sarong wear and contains a foreword by the Chairman of the Tourist Promotion Board.\r\nSTPB was created in 1964 as a statutory board by the government to develop and promote Singapore as a tourist destination. \r\n\r\nSTPB’s efforts in marketing Singapore as a holiday destination paid off, with tourist arrivals increasing from 100,000 in 1964 to over 2 million by 1978."
   },
-  "nlpDate": "20201127000610",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

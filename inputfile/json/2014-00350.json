@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2014-00350\n\n  Image: \n\n  object_work_type: maps (documents)\n\n  title_text: Map of Singapore by Brockhaus\n\n  preference: main\n\n  title_language: \n\n  creator_2: Brockhaus\\u0027 Konversation Lexicon F.A. Brockhaus\\u0027 Geogr. - artist Anstalt\n Leipzig Bibliographisches Insitut\n Leipzig\n\n  creator_1: Grosse Brockhaus F.A. Brockhaus Wiesbaden (Firm) Bibliographisches Institut\n Leipzig\n\n  creator_role: publishers corporate authors\n\n  creation_date: 1894\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  scale_type: 1 : 18500 1 : 100\n000\n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process) mapmaking (process)\n\n  object_colour: multicoloured\n\n  physical_appearance: \\The map is rectangular in shape and there is a white boundary separating it from the brown frame. The map is separated into a larger part and a smaller one. There are two different sets of scales used in this map. On the upper left hand corner is the smaller parts\n with a scale of \\\\1: 100\n\n  subject_terms_1: islands (landforms) landmarks 000\\\\. It shows the Singapore Harbour as well as Pulau Blakang Mati and Pulau Brani. The scale of the bigger map inhabited places villages\n\n  subject_terms_2: Singapore River (Singapore) \\\\1: 18500\\\\ Villages Islands Street names Human settlements\n\n  subject_terms_3: Sentosa is stated at the bottom right hand corner. It features the Singapore River as well as other areas such as kampungs Streets and Places Pulau Brani\n\n  subject_terms_4: man-made and natural landmarks. Street names are also stated accordingly. There are also tiny drawings in red on the map to represent the spatial layout of buildings and settlements.\\\n\n  context_1: rivers\n\n  context_2: Singapore Maps\n\n  context_3: Singapore River\n",
-  "createdDate": "20201127000613",
+  "createdDate": "20201127205930",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -36,7 +36,7 @@
     "context_2": "Singapore Maps",
     "context_3": "Singapore River"
   },
-  "nlpDate": "20201127000613",
+  "nlpDate": "20201127205930",
   "connectorId": 0,
   "tags": {}
 }

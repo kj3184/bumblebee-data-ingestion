@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2018-00171\n\n  Image: \n\n  object_work_type: passports\n\n  title_text: Passport of Tan Tik Sioc\n\n  preference: main\n\n  title_language: \n\n  creator_2: Consulate of the Repbulic of China at Surabaya\n\n  creator_1: Not indicated\n\n  creator_role: creators\n\n  creation_date: 1910s\n\n  creation_place_original_location: Java (island)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process)\n\n  object_colour: multicoloured\n\n  physical_appearance: \\The image shows a passport document. It is rectangular in shape and at the upper right hand side of the certificate\n a black-and-white passport sized photograph of a man is present. \\\\Passport\\\\ is stated at the top centre\n\n  subject_terms_1: citizenship papers below a logo. \\\\11 Jul 1927\\\\ is stated at the bottom left hand side\n\n  subject_terms_2: together with a signature and a stamp. \\\\Consulate of the Repbulic of China Surabaya\\\\ is stamped at the bottom and top right. \\ Diplomatic and consular service China Passports\n\n  subject_terms_3: passport photographs\n\n  subject_terms_4: Identification photographs\n",
-  "createdDate": "20201127000602",
+  "createdDate": "20201127205925",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_3": "passport photographs",
     "subject_terms_4": "Identification photographs"
   },
-  "nlpDate": "20201127000602",
+  "nlpDate": "20201127205925",
   "connectorId": 0,
   "tags": {}
 }

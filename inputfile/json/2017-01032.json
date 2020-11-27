@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-01032\n\n  Image: \n\n  object_work_type: photographs black-and-white photographs\n\n  title_text: Two-part panoramic view of Telok Ayer Bay from Mount Erskine\n\n  preference: main\n\n  title_language: \n\n  creator_2: August Sachtler (?)\n\n  creator_role: photographers\n\n  creation_date: 1870\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: photographic processes\n\n  object_colour: black-and-white (colors)\n\n  physical_appearance: This is a panaromic black-and-white photograph of Telok Ayer Bay from Mount Erskine. It features an elevated view down a street on the left\n with numerous roofed buildings. There is a view of the bay on the right\n with several ships scattered out at sea. The photograph is slightly faded\n and has several stain marks along the top. There is a vertical line across the center\n where photographs were stitched together. There is a title at the bottom of the photograph.\n\n  subject_terms_1: panoramic photography aerial photographs aerial views\n\n  subject_terms_2: Aerial views Empress Place (Singapore) Aerial photographs Singapore Carte de visite photographs Photography\n Panoramic Thian Hock Keng (Singapore)\n\n  subject_terms_3: Photography Mount Erskine Thian Hock Keng Telok Ayer Basin St Andrew\\u0027s Cathedral Amoy Street Empress Place Building Former Supreme Court (Singapore)\n\n  subject_terms_4: \n\n  sgcool_label_text: This is a view from Mount Erskine\n looking down Amoy Street. The roof of the Chinese temple\n Thian Hock Keng\n features in the foreground\n while St Andrew\\u0027s Cathedral\n the Court House and the Empress Place Building are faintly visible in the background. Telok Ayer Bay is shown on the right of the image\n with the old Telok Ayer market along the coast\n and a scattering of ships further out at sea.\n",
-  "createdDate": "20201127000603",
+  "createdDate": "20201127205925",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_4": "",
     "sgcool_label_text": "This is a view from Mount Erskine, looking down Amoy Street. The roof of the Chinese temple, Thian Hock Keng, features in the foreground, while St Andrew\u0027s Cathedral, the Court House and the Empress Place Building are faintly visible in the background. Telok Ayer Bay is shown on the right of the image, with the old Telok Ayer market along the coast, and a scattering of ships further out at sea."
   },
-  "nlpDate": "20201127000603",
+  "nlpDate": "20201127205925",
   "connectorId": 0,
   "tags": {}
 }

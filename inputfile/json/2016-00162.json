@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00162\n\n  Image: \n\n  object_work_type: scores\n\n  title_text: Thirupugazh Composition Music Notes for a Thirupugazh Composition\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: Shri Retnam\n\n  creator_1: Not indicated\n\n  creator_role: creators\n\n  creation_date: 1968-1969\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: handwriting\n\n  object_colour: black-and-white (colours)\n\n  physical_appearance: \\The image shows a handwritten note. The writing is black in colour and the notes are composed entirely in Tamil script\n  along with a few numbers as pointers. The Tamil scripts written on the paper are predominantly in straight horizontal lines from left to right. At the bottom centre of the page\n \\\\2 Times\\\\ is stated. Towards the upper right hand side of the page\n\n  subject_terms_1: Hinduism hymns (documents) \\\\3 Times\\\\ is stated. \\ music (performing arts)\n\n  subject_terms_2: Scores Hymns Hinduism composition (artistic arrangement) Murugan (Hindu deity)\n\n  subject_terms_3: Carnatic music Indian music Hinduism\n\n  subject_terms_4: Instrumental music\n",
-  "createdDate": "20201127000612",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_3": "Carnatic music Indian music Hinduism",
     "subject_terms_4": "Instrumental music"
   },
-  "nlpDate": "20201127000612",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00892\n\n  Image: \n\n  object_work_type: womenswear underwear\n\n  title_text: Under blouse\n\n  preference: main\n\n  title_language: \n\n  creation_date: Mid-20th century\n\n  creation_place_original_location: Singapore\n\n  styles_periods_indexing_terms: Chinese (culture or style)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: cotton (textile)\n\n  techniques_name: sewing (needleworking technique)\n\n  object_colour: white (color)\n\n  physical_appearance: This is a white under blouse. The blouse buttons down the front. It has short sleeves and a v-neck. The fabric features a light repeated floral pattern. There are two pockets in the front near the bottom hem. The blouse is slightly crumpled along the folds.\n\n  subject_terms_1: maids (servants) flower (motif) folk costume\n\n  subject_terms_2: Motifs Ethnic costume Underwear Household employees\n\n  subject_terms_3: Chinese costumes Lu\n Earl Ming-Teh\n\n  subject_terms_4: \n\n  sgcool_label_text: This loose-fitting cotton camisole with a woven floral design belonged to a majie\n a Cantonese female domestic helper. It was worn under the samfoo\n their traditional attire which consists of a white mandarin-collar top and black trousers.\n",
-  "createdDate": "20201127000604",
+  "createdDate": "20201127205926",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -31,7 +31,7 @@
     "subject_terms_4": "",
     "sgcool_label_text": "This loose-fitting cotton camisole with a woven floral design belonged to a majie, a Cantonese female domestic helper. It was worn under the samfoo, their traditional attire which consists of a white mandarin-collar top and black trousers."
   },
-  "nlpDate": "20201127000604",
+  "nlpDate": "20201127205926",
   "connectorId": 0,
   "tags": {}
 }

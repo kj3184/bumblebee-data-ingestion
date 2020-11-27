@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00765\n\n  Image: \n\n  object_work_type: spittoons\n\n  title_text: Spittoon\n\n  preference: main\n\n  title_language: \n\n  creation_date: 1900-1920\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: brass (alloy)\n\n  techniques_name: forging (metal forming)\n\n  object_colour: bronze (color)\n\n  physical_appearance: This is a small brass spittoon. It has a round bulbous body and a wide trumpet-shaped mouth. There are no engravings on its body. It has a circular base with several decorative bands around the body.\n\n  subject_terms_1: Peranakan altar components\n\n  subject_terms_2: Peranakan (Asian people) Altars Betel chewing Spittoons\n\n  subject_terms_3: \n\n  sgcool_label_text: This small brass spittoon is an unusual item to be found on an altar in a Peranakan home. It is a simple spittoon with a wide trumpet-shaped mouth and a bulbous body. Spittoons were used by Peranakan women for daily hygienic disposal of spittle from chewing betel leaves with areca nut.\\r\\n\\r\\nThis item is donated by the family of prominent Peranakan\n Ong Sam Leong (b. 1857\n Singapore – d. 7 February 1918\n Singapore). It comes from his ancestral home of Bukit Rose\n formerly at 259 Bukit Timah Road. Ong was a well-known successful businessman who made is money in the mining of phosphate on Christmas island\n which was historically a territory of colonial Singapore.\n",
-  "createdDate": "20201127000609",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -29,7 +29,7 @@
     "subject_terms_3": "",
     "sgcool_label_text": "This small brass spittoon is an unusual item to be found on an altar in a Peranakan home. It is a simple spittoon with a wide trumpet-shaped mouth and a bulbous body. Spittoons were used by Peranakan women for daily hygienic disposal of spittle from chewing betel leaves with areca nut.\r\n\r\nThis item is donated by the family of prominent Peranakan, Ong Sam Leong (b. 1857, Singapore – d. 7 February 1918, Singapore). It comes from his ancestral home of Bukit Rose, formerly at 259 Bukit Timah Road. Ong was a well-known successful businessman who made is money in the mining of phosphate on Christmas island, which was historically a territory of colonial Singapore."
   },
-  "nlpDate": "20201127000609",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

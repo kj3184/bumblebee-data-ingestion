@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00888\n\n  Image: \n\n  object_work_type: corantos\n\n  title_text: A Courante of Newes from the East India \\1622 English Coranto Titled \\\\A Courante of Newes from the East India\\\\\\\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: Not specified\n\n  creation_date: 8 Feb 1622\n\n  creation_place_original_location: Not specified\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: Rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: compiling (additive processes)\n\n  object_colour: multicoloured\n\n  physical_appearance: \\This is a coranto reporting on events in the East Indies. Its cover is largely red\n but has a dark brown spine\n along which the words \\\\A Courante of Newes from the East India 1622\\\\ is imprinted. \\\n\n  subject_terms_1: reporting broadsides (notices)\n\n  subject_terms_2: Broadsides British Spice trade Reports East India Company East Indies Banda Islands (Indonesia) Netherlands\n\n  subject_terms_3: East India Company Trade and Industry\n\n  sgcool_label_text: This coranto is possibly the earliest surviving broadshaeet reporting on events in the East Indies. Written to the British East India Company\n it reports on the Dutch East India Company\\u0027s capture of the Banda islands of Lantore (Great Banda) and Polaroone (Pulo Run) from the British in 1621. The report focused on the purported sacking and violence commited by the Dutch\n and the forcible removal of the Banda inhabitants to Batavia.\n",
-  "createdDate": "20201127000604",
+  "createdDate": "20201127205926",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -30,7 +30,7 @@
     "subject_terms_3": "East India Company Trade and Industry",
     "sgcool_label_text": "This coranto is possibly the earliest surviving broadshaeet reporting on events in the East Indies. Written to the British East India Company, it reports on the Dutch East India Company\u0027s capture of the Banda islands of Lantore (Great Banda) and Polaroone (Pulo Run) from the British in 1621. The report focused on the purported sacking and violence commited by the Dutch, and the forcible removal of the Banda inhabitants to Batavia."
   },
-  "nlpDate": "20201127000604",
+  "nlpDate": "20201127205926",
   "connectorId": 0,
   "tags": {}
 }

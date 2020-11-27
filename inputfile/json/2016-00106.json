@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00106\n\n  Image: \n\n  object_work_type: identity cards\n\n  title_text: Identity card  issued to Mr Appavoo Kandiar by Royal Air Force Station (Seletar)\n\n  preference: main\n\n  title_language: \n\n  creator_2: Royal Air Force United Engineers Ltd\n\n  creator_1: NA RAF Seletar (Singapore)\n\n  creator_role: firms clients\n\n  creation_date: 1941\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process)\n\n  object_colour: multicoloured\n\n  physical_appearance: \\The image shows a rectangular card.  A passport sized photograph of an Indian man is displayed at the bottom left of the card. \\\\Royal Air Force Civilian Staff / Works / Trading Pass\\\\ is stated at the top of the identity card. Just below the headings\n\n  subject_terms_1: contractors air bases \\\\S. Appervoo\\\\ is stated as the holder. \\\\Singapore 395 Coronation Road\\\\ is stated as the address. \\\\Sub Contractor United Engineers\\\\ is stated as the occupation. \\\\United Engineers Ltd\\\\ is stated as the employer\\u0027s name\n\n  subject_terms_2: Contractors Contracting out Identification cards and \\\\Singapore\\\\ is stated as the address. There is a pink stamp at the middle which states \\\\RAF Station Seletar Singapore\\\\ and \\\\17 Nov 1941\\\\. Near the bottom of the card RAF Seletar (Singapore)\n\n  subject_terms_3: it states \\\\Valid for Out-Stations: Lobokiad: Jabi and Ipoh.  \\ Kandiar\n Appavoo\n\n  subject_terms_4: identification photographs\n\n  context_1: Identification photographs\n\n  context_2: Royal Air Force Station (Seletar\n Singapore)\n",
-  "createdDate": "20201127000612",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -34,7 +34,7 @@
     "context_1": "Identification photographs",
     "context_2": "Royal Air Force Station (Seletar, Singapore)"
   },
-  "nlpDate": "20201127000612",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

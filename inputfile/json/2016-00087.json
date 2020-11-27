@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00087\n\n  Image: \n\n  object_work_type: certificates\n\n  title_text: Certificate presented to MV Gurusamy for his services at the first South East Asia Cultural Festival\n\n  preference: main\n\n  title_language: \n\n  creator_2: Unknown\n\n  creation_date: 1963\n\n  creation_place_original_location: Singapore\n\n  styles_periods_indexing_terms: Not indicated\n\n  inscriptions: \n\n  inscription_language: \n\n  scale_type: Not indicated\n\n  shape: rectangular\n\n  materials_name: printing paper\n\n  techniques_name: printing (process)\n\n  object_colour: multicoloured\n\n  physical_appearance: \\The image shows a certificate. It is rectangular in shape and it has a brown background. There is border made up of foliage designs\n surrounding the contents of the certificates. \\\\South East Asia Cultural Festival\\\\ is stated along the border of the crest at the top centre of the certificate. The \\\\First South East Asia Cultural Festival 1963\\\\ is stated near the bottom of the certificate. \\\\Mr M.V. Gurusamy\\\\ is handwritten at the centre of the certificate. \\\n\n  subject_terms_1: musicians honours festivals cultural events\n\n  subject_terms_2: Certification Appreciation of a person’s creative works Musicians Festivals\n\n  subject_terms_3: Victoria Theatre and Concert Hall National Theatre (Singapore) Musicians\n\n  context_1: This certificate was presented to M.V. Gurusamy at the South East Asia Cultural Festival that was held in Singapore\n\n  context_2: cultural ceremonies\n\n  context_3: 19630808 - 19630815\n\n  context_4: 19630808\n\n  context_5: 19630815\n\n  context_6: Singapore\n\n  sgcool_label_text: This plaque is a token of appreciation for participating in the SEA Cultural Festival. It was given to Feng Huang Motion Picture Co. The plaque shows the façade of the old National Theatre\n a public theatre built to commemorate Singapore\\u0027s self government in 1959. The theatre closed down in 1984.\\r\\nThe South East Asia Cultural Festival was held in Singapore from 8 to 15 August 1963. It featured a series of performances involving about 1\n500 artistes from 11 Asian countries. The old National Theatre (now torn down) and the Victoria Theatre.\n",
-  "createdDate": "20201127000612",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -38,7 +38,7 @@
     "context_6": "Singapore",
     "sgcool_label_text": "This plaque is a token of appreciation for participating in the SEA Cultural Festival. It was given to Feng Huang Motion Picture Co. The plaque shows the façade of the old National Theatre, a public theatre built to commemorate Singapore\u0027s self government in 1959. The theatre closed down in 1984.\r\nThe South East Asia Cultural Festival was held in Singapore from 8 to 15 August 1963. It featured a series of performances involving about 1,500 artistes from 11 Asian countries. The old National Theatre (now torn down) and the Victoria Theatre."
   },
-  "nlpDate": "20201127000612",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

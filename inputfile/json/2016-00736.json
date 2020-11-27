@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00736\n\n  Image: \n\n  object_work_type: black-and-white photographs\n\n  title_text: Loading and Unloading in a Team of Three\n\n  preference: main\n\n  title_language: \n\n  creator_2: Loke Hong Seng\n\n  creator_1: Loke\n Hong Seng\n\n  creator_role: photographers\n\n  creation_date: 2015 [1971]\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process)\n\n  object_colour: grey monochrome\n\n  edition_description: 15-May\n\n  physical_appearance: The image shows a photograph in black-and-white that is enclosed by a white frame. At the background on the left is the Former Supreme Court of Singapore. In the foreground\n there are several small boats with roofs. Three workers can be seen and one of them is carrying two sacks on his right shoulder. He is walking across a plank that serves as a connector between two of the small boats. Another worker in shorts is walking in the opposite direction and he is not carrying any sacks.\n\n  subject_terms_1: blue collar workers transporting quays rivers boats sacks (generic containers) trade (function)\n\n  subject_terms_2: Singapore River (Singapore) Boat Quay (Singapore) Boats and boating Business Blue collar workers Bags Black-and-white photography\n\n  subject_terms_3: Photography National monuments Fullerton Building Singapore River Boat Quay Sub Zone\n\n  sgcool_label_text: Loke Hong Seng (b. 1943) was working as a radio announcer with Radio Television Singapore in the 1960s when he picked up photography and subsequently grew to specialize in street photography. His images of 1960s and 1970s Singapore offer a candid view of everyday life in the early days of the nation’s development. In this scene\n Loke was drawn to how the workers worked together in loading and unloading rice from the boats at Boat Quay\n bearing sacks of rice on their shoulders while walking on two narrow planks of wood.\n",
-  "createdDate": "20201127000609",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -33,7 +33,7 @@
     "subject_terms_3": "Photography National monuments Fullerton Building Singapore River Boat Quay Sub Zone",
     "sgcool_label_text": "Loke Hong Seng (b. 1943) was working as a radio announcer with Radio Television Singapore in the 1960s when he picked up photography and subsequently grew to specialize in street photography. His images of 1960s and 1970s Singapore offer a candid view of everyday life in the early days of the nation’s development. In this scene, Loke was drawn to how the workers worked together in loading and unloading rice from the boats at Boat Quay, bearing sacks of rice on their shoulders while walking on two narrow planks of wood."
   },
-  "nlpDate": "20201127000609",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2018-00463\n\n  Image: \n\n  object_work_type: drawings (visual works)\n\n  title_text: Untitled (Singapore\n Malay Television Celebrity)\n\n  preference: main\n\n  title_language: \n\n  creator_2: Choon Ghee Tan\n\n  creator_1: Tan\n Choon Ghee\n 1930- Tan\n Choon Ghee\n\n  creator_role: artists (visual artists)\n\n  creation_date: 1963\n\n  creation_place_original_location: Pulau Pinang (state) Singapore (nation)\n\n  styles_periods_indexing_terms: Not indicated\n\n  inscriptions: \n\n  inscription_language: \n\n  scale_type: Not indicated\n\n  shape: rectangular\n\n  materials_name: paper (fiber product) ink\n\n  techniques_name: drawing (image-making) creating (artistic activity)\n\n  object_colour: black (colour)\n\n  physical_appearance: \\The image shows a drawing. The lines drawn are all black in colour. The figure of a man has been drawn. He is depicted as having a moustache\n and sitting down with one feet over the other knee.He is also drawn to be wearing slippers and his stomach is drawn to be portly. The signature and year\n \\\\Tan. 1963\\\\ is stated at the bottom right hand side. There are two vertical lines of Chinese characters\n\n  subject_terms_1: television personalities above the signature and year. \\\n\n  subject_terms_2: Celebrities celebrities Malays (Asian people) Television actors and actresses\n\n  subject_terms_3: Drawings Television actors\n\n  subject_terms_4: Drawing\n",
-  "createdDate": "20201127000602",
+  "createdDate": "20201127205924",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -34,7 +34,7 @@
     "subject_terms_3": "Drawings Television actors",
     "subject_terms_4": "Drawing"
   },
-  "nlpDate": "20201127000602",
+  "nlpDate": "20201127205924",
   "connectorId": 0,
   "tags": {}
 }

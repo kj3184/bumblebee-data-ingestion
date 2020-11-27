@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00212-043\n\n  Image: \n\n  object_work_type: black-and-white photographs portraits\n\n  title_text: Photograph album of views and portraits in the Punjab\n Cashmere\n Ceylon\n Burma\n Penang\n Singapore\n and Java Girl with excessive facial hair disorder\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: John Thomson\n\n  creator_1: Thomson\n J. (John)\n 1837-1921\n\n  creator_role: photographers\n\n  creation_date: before 28 Jul 1876\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: albumen (egg white protein) paper (fiber product) albumen paper\n\n  techniques_name: albumen process\n\n  object_colour: black-and-white (colors)\n\n  physical_appearance: This is a portrait of a girl. She is sitting kneeled on the floor\n with her hands on her lap. She is wearing a long sleeved top and a wrapped skirt. She has excess hair growth especially on her face. The title is written at the bottom\n below the photograph.\n\n  subject_terms_1: disease indigenous people girls\n\n  subject_terms_2: Hypertrichosis Photographs Thomson\n J. (John)\n 1837-1921 Portrait photography Indigenous people\n\n  subject_terms_3: Portrait photography\n",
-  "createdDate": "20201127000611",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -31,7 +31,7 @@
     "subject_terms_2": "Hypertrichosis Photographs Thomson, J. (John), 1837-1921 Portrait photography Indigenous people",
     "subject_terms_3": "Portrait photography"
   },
-  "nlpDate": "20201127000611",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

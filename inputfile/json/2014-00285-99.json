@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2014-00285-99\n\n  Image: \n\n  object_work_type: black-and-white photographs\n\n  title_text: Military Personnel on his 21st Birthday\n Sitting on a Charpai (Bed) Photography Album (donation from Anthony Robert Saint Claire)\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: Robert Arthur Polglaze\n\n  creator_1: Not indicated\n\n  creator_role: photographers\n\n  creation_date: 1940s\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process) photographic processes\n\n  object_colour: grey monochrome\n\n  physical_appearance: The image shows a black-and-white photograph. It is rectangular and it features a man. He is bare-chested and wearing shorts. He is sitting on a bed\n with a book in one hand and a cigarette in the other. At the lefthand side of the photograph is a notice board with several notes and cut-outs pasted on it. There is a also a stand underneath the notice board\n where there are some items on it.\n\n  subject_terms_1: portraits reading (activity) military personnel\n\n  subject_terms_2: Reading Portrait photography Soldiers Black-and-white photography\n\n  subject_terms_3: Portrait photography\n\n  sgcool_label_text: Not indicated\n",
-  "createdDate": "20201127000613",
+  "createdDate": "20201127205930",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_3": "Portrait photography",
     "sgcool_label_text": "Not indicated"
   },
-  "nlpDate": "20201127000613",
+  "nlpDate": "20201127205930",
   "connectorId": 0,
   "tags": {}
 }

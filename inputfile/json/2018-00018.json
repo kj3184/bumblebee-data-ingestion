@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2018-00018\n\n  Image: \n\n  object_work_type: single-channel video video art\n\n  title_text: EARTH\n\n  preference: main\n\n  title_language: \n\n  creator_2: Tzu Nyen Ho\n\n  creator_1: Ho\n Tzu Nyen\n 1976-\n\n  creator_role: creators\n\n  creation_date: 2009 - 2017\n\n  creation_place_original_location: Singapore (nation)\n\n  styles_periods_indexing_terms: Not indicated\n\n  inscriptions: \n\n  inscription_language: \n\n  scale_type: Not indicated\n\n  materials_name: mixed media\n\n  techniques_name: creating (artistic activity) videography\n\n  object_colour: multicoloured\n\n  edition_description: 3/3 (+ 1AP)\n\n  physical_appearance: This is an image of a rectangular still from within a video clip. It features a large number of people. None of them are standing up\n but lying down or leaning against fragments of pallets and cardboard boxes. Most of the males are bare-chested. There are wreckage and items such as tires and wires\n mainly at the foreground of the image.  A washing machine can be seen at the left hand side of the still. The background of the still is dark\n and some greenery can be seen. The centre of the still seems to be more brightly lit than the other areas.\n\n  subject_terms_1: appropriation (imagery) video recordings groups of people derivative works apocalyptic art film (performing arts)\n\n  subject_terms_2: Appropriation (Art) Apocalyptic films Video recordings People Derivative works Motion pictures\n\n  subject_terms_3: Films\n\n  sgcool_label_text: EARTH presents a vision of a post-apocalyptic world\n where a sprawl of human bodies is arranged across a bleak landscape of detritus. The lighting\n composition and tableau of the work are steeped in references to canonical works of Western art which depict the extremities of the human spirit\n in suffering\n heroism and hubris. As the light and camera pan over sections of this unearthly sprawl\n the human figures stir\n rising and then falling back into slumber once again. The rhythms and cadences of these movements evoke that of an organism silently breathing\n as the light alternately picks out individual bodies and merges them into one massive entity.\n",
-  "createdDate": "20201127000603",
+  "createdDate": "20201127205925",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -34,7 +34,7 @@
     "subject_terms_3": "Films",
     "sgcool_label_text": "EARTH presents a vision of a post-apocalyptic world, where a sprawl of human bodies is arranged across a bleak landscape of detritus. The lighting, composition and tableau of the work are steeped in references to canonical works of Western art which depict the extremities of the human spirit, in suffering, heroism and hubris. As the light and camera pan over sections of this unearthly sprawl, the human figures stir, rising and then falling back into slumber once again. The rhythms and cadences of these movements evoke that of an organism silently breathing, as the light alternately picks out individual bodies and merges them into one massive entity."
   },
-  "nlpDate": "20201127000603",
+  "nlpDate": "20201127205925",
   "connectorId": 0,
   "tags": {}
 }

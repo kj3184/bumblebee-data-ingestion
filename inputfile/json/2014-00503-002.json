@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2014-00503-002\n\n  Image: \n\n  object_work_type: clippings (information artifacts) pages (components)\n\n  title_text: The Orient India Celebrates Her Independence Day\n\n  preference: main alternate\n\n  title_language: \n\n  creation_date: August\n 1947\n\n  creation_place_original_location: India Singapore Malaya\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing processes\n\n  object_colour: black-and-white prints (prints on paper)\n\n  physical_appearance: This clipping is a page from the publication \\u0027The Orient Illustrated Weekly\\u0027. The title is printed at the top of the page. The page features seven black-and-white photographs depicting scenes of India on India\\u0027s independence day. There are captions at the bottom of the page. The edges of the page is slightly torn\n especially at the bottom.\n\n  subject_terms_1: celebrations periodicals Indian (South Asian) political events Independence Day parades nationalism\n\n  subject_terms_2: Periodicals anti-imperialist movements Provisional Government of Free India Nationalism Delhi (India) self-determination\n national Independence Day (India)\n\n  subject_terms_3: Indian National Army Monument Site Indian National Army (Singapore) periodicals\n\n  context_1: India Independence Day\n\n  context_2: Independence Day\n\n  context_3: 15/8/57\n\n  context_4: 15/8/57\n\n  context_5: 15/8/57\n\n  context_6: Delhi (India)\n\n  sgcool_label_text: \\Prior to the World War II period\n Indians in Singapore and Malaya retained strong political\n sentimental and economic ties with their home country. Anti-colonial thoughts and actions\n inspired by the \\\\call for freedom\\\\ in India\n",
-  "createdDate": "20201127000613",
+  "createdDate": "20201127205930",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -35,7 +35,7 @@
     "context_6": "Delhi (India)",
     "sgcool_label_text": "\"Prior to the World War II period, Indians in Singapore and Malaya retained strong political, sentimental and economic ties with their home country. Anti-colonial thoughts and actions, inspired by the \"\"call for freedom\"\" in India"
   },
-  "nlpDate": "20201127000613",
+  "nlpDate": "20201127205930",
   "connectorId": 0,
   "tags": {}
 }

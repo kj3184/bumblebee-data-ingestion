@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00659\n\n  Image: \n\n  object_work_type: bags (costume accessories)\n\n  title_text: Bag Beaded bag\n\n  preference: main alternate\n\n  title_language: \n\n  creation_date: 20th century\n\n  creation_place_original_location: Gujarat (India)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: glass (material) textile materials\n\n  techniques_name: sewing (needleworking technique) embroidering\n\n  object_colour: multicolored\n\n  physical_appearance: This is a bag with decorative beadwork embroidery. It is rectangular in shape\n with two straps at the top. The border is lined with pink textile frills. The center of the bag features a stylized beaded design of a plant. It is surrounded by a geometric pattern.\n\n  subject_terms_1: geometric motifs beadwork (visual works) embroidery (visual works) foliage (motif)\n\n  subject_terms_2: Motifs Embroidery Bags\n\n  subject_terms_3: Decorative arts\n\n  subject_terms_4: \n",
-  "createdDate": "20201127000604",
+  "createdDate": "20201127205926",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -29,7 +29,7 @@
     "subject_terms_3": "Decorative arts",
     "subject_terms_4": ""
   },
-  "nlpDate": "20201127000604",
+  "nlpDate": "20201127205926",
   "connectorId": 0,
   "tags": {}
 }

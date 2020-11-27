@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00939\n\n  Image: \n\n  object_work_type: figurines Buddhas (visual works)\n\n  title_text: Standing Buddha\n\n  preference: main\n\n  title_language: \n\n  creation_date: 18th century\n\n  creation_place_original_location: Sri Lanka\n\n  styles_periods_indexing_terms: Sri Lankan\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular?\n\n  materials_name: ivory (material)\n\n  techniques_name: carving (processes)\n\n  object_colour: ivory (colour)\n\n  physical_appearance: This is an ivory figure of a standing buddha. His right hand is raised in the vitarka mudra\n whist his left hand is placed by his side. The identifiable physical attributes (lakshana) are the flaming ushnisha\n the snail-shell coils as his hair\n the elongated ear lobes\n and the lotus flower upon which he stands. His eyes are closed\n and the monastic robe clings onto his body and reaches down to his ankles.\n\n  subject_terms_1: sculpture Buddhism vitarka mudra\n\n  subject_terms_2: Buddhism Figurines Buddha Sculpture\n\n  subject_terms_3: Buddhism Sculpture\n\n  subject_terms_4: \n\n  sgcool_label_text: The Buddha has the deeply folded robes\n and an erect posture\n which are prevalent in this period in Sri Lanka. The end of his robe is placed over his left shoulder\n with his left arm by his side. The right hand forms a gesture of teaching. He stands on a delicately articulated lotus base. The flame usnisha\n also a distinctive feature of Sri Lanka Buddha figures\n is separately carved. \\r\\n\\r\\nThe Buddhist faith witnessed a revival during the 18th century in Sri Lanka under the reign of Kirti Sri Rajasimha (1747-1782). Ivory for Buddhist imagery was used more frequently from then onwards. The refinement in the art of ivory carving achieved by artists can be seen in this piece. \\r\\n\n",
-  "createdDate": "20201127000604",
+  "createdDate": "20201127205925",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -31,7 +31,7 @@
     "subject_terms_4": "",
     "sgcool_label_text": "The Buddha has the deeply folded robes, and an erect posture, which are prevalent in this period in Sri Lanka. The end of his robe is placed over his left shoulder, with his left arm by his side. The right hand forms a gesture of teaching. He stands on a delicately articulated lotus base. The flame usnisha, also a distinctive feature of Sri Lanka Buddha figures, is separately carved. \r\n\r\nThe Buddhist faith witnessed a revival during the 18th century in Sri Lanka under the reign of Kirti Sri Rajasimha (1747-1782). Ivory for Buddhist imagery was used more frequently from then onwards. The refinement in the art of ivory carving achieved by artists can be seen in this piece. \r\n"
   },
-  "nlpDate": "20201127000604",
+  "nlpDate": "20201127205925",
   "connectorId": 0,
   "tags": {}
 }

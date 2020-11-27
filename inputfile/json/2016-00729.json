@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00729\n\n  Image: \n\n  object_work_type: black-and-white photographs\n\n  title_text: A Visit to the National Museum\n\n  preference: main\n\n  title_language: \n\n  creator_2: Loke Hong Seng\n\n  creator_1: Loke\n Hong Seng\n\n  creator_role: photographers\n\n  creation_date: 2015 [1969]\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process)\n\n  object_colour: grey monochrome\n\n  edition_description: 15-Jan\n\n  physical_appearance: \\The image shows a photograph in black-and-white that is enclosed by a white frame. The background of the image displays the façade of the National Museum of Singapore. The foreground of the photograph shows a large group of students dressed in their school uniforms. Many of them are eating ice-creams and looking in the direction where the photograph was captured. There are a few adults present as well. Some of the students are standing on the porch of the National Museum as well. At the bottom of the photograph to the left hand side\n there is a designation of \\\\1/15\\\\. At the bottom right hand side\n\n  subject_terms_1: there is a signature in Chinese characters.\\ students national monuments walking tours\n\n  subject_terms_2: National monuments School children national museums (buildings) School field trips Street photography National Museum (Singapore)\n\n  subject_terms_3: National monuments Children National Museum of Singapore (Place) Black-and-white photography\n\n  subject_terms_4: Photography\n",
-  "createdDate": "20201127000609",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -33,7 +33,7 @@
     "subject_terms_3": "National monuments Children National Museum of Singapore (Place) Black-and-white photography",
     "subject_terms_4": "Photography"
   },
-  "nlpDate": "20201127000609",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

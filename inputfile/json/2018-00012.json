@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2018-00012\n\n  Image: \n\n  object_work_type: installations (visual works)\n\n  title_text: TRANCE TRANCE \\r\\nPart 1: WARPAPER\\r\\nPart 2: Video Installation (Year Zero; For What It’s Worth; Are We All Just Dust?; Thousand Hills) \\r\\nPart 3: Metamorphosis\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: Arnont Nongyao Piyarat Piyaponwiwat\n\n  creator_1: Not indicated\n\n  creator_role: artists (visual artists)\n\n  creation_date: 2014\n\n  creation_place_original_location: Thailand (nation)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: mixed media\n\n  techniques_name: installing\n\n  object_colour: multicoloured\n\n  physical_appearance: This installation art is created by a combination of audio and visual works. There is a foldable rusted chair occupying a central position in a space. In front of the chair\n there is a projection on a wall. The projection features a multicolored soundwave pattern.\n\n  subject_terms_1: political art propaganda video recordings sound art multimedia works interactive art\n\n  subject_terms_2: Trance Interactive art Sound art Video recordings Multimedia (Art) Propaganda Installations (Art) Politics in art\n\n  subject_terms_3: Music Films Installation art\n\n  context_1: Thammasat University Massacre\n\n  context_2: massacres\n\n  context_3: 10/6/76\n\n  context_4: 10/6/76\n\n  context_5: 10/6/76\n\n  context_6: Mahawitthayalai Thammasat\n\n  context_7: students police officers\n\n  context_8: groups (organizations) armed forces\n\n  sgcool_label_text: TRANCE was produced in collaboration between two of Thailand’s most promising young artists Arnont Nongyao and Piyarat Piyapongwiwat. Emerging from both artists’ interests in music\n vibration and acoustics\n as well as linguistic theory\n TRANCE was produced as an examination of contemporary political issues through the propaganda music that inspired people from diverse cultures and backgrounds into committing some of the worst human atrocities in history. Comprising of 3 parts\n the works bring to the forefront\n for examination\n the trance-inducing properties of propaganda tunes\n and that in spite of their happy melodies and feel-good effects\n the atrocities these compositions have inspired people to commit.\n",
-  "createdDate": "20201127000603",
+  "createdDate": "20201127205925",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -40,7 +40,7 @@
     "context_8": "groups (organizations) armed forces",
     "sgcool_label_text": "TRANCE was produced in collaboration between two of Thailand’s most promising young artists Arnont Nongyao and Piyarat Piyapongwiwat. Emerging from both artists’ interests in music, vibration and acoustics, as well as linguistic theory, TRANCE was produced as an examination of contemporary political issues through the propaganda music that inspired people from diverse cultures and backgrounds into committing some of the worst human atrocities in history. Comprising of 3 parts, the works bring to the forefront, for examination, the trance-inducing properties of propaganda tunes, and that in spite of their happy melodies and feel-good effects, the atrocities these compositions have inspired people to commit."
   },
-  "nlpDate": "20201127000603",
+  "nlpDate": "20201127205925",
   "connectorId": 0,
   "tags": {}
 }

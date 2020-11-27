@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00595\n\n  Image: \n\n  object_work_type: womenswear tunics\n\n  title_text: Embroidered Tunic Chola\n\n  preference: main alternate\n\n  title_language: English\n\n  creation_date: 20th century\n\n  creation_place_original_location: Multan District (Pakistan)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: silk (textile) cotton (textile)\n\n  techniques_name: sewing (needleworking technique) embroidering\n\n  object_colour: multicolored\n\n  physical_appearance: This is an embroidered tunic. It has short sleeves. It is multicolored\n with various coloured panellings and dense embroidered geometrical designs. It has a small square collar.\n\n  subject_terms_1: tops (garments\n general) geometric motifs ceremonial costume blouses (main garments) embroidery (visual works) wedding dresses folk costume\n\n  subject_terms_2: Tunics Blouses Motifs Sindhi (South Asian people) Ethnic costume Embroidery Wedding costume\n\n  subject_terms_3: Indian costumes\n\n  subject_terms_4: \n\n  sgcool_label_text: This is an exceptional example of an embroidered tunic that would be worn by brides in the Lohana Hindu community of Sindh\n Pakistan. This is a rare example\n showcasing extremely dense\n fine embroidery.\n",
-  "createdDate": "20201127000604",
+  "createdDate": "20201127205926",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -30,7 +30,7 @@
     "subject_terms_4": "",
     "sgcool_label_text": "This is an exceptional example of an embroidered tunic that would be worn by brides in the Lohana Hindu community of Sindh, Pakistan. This is a rare example, showcasing extremely dense, fine embroidery."
   },
-  "nlpDate": "20201127000604",
+  "nlpDate": "20201127205926",
   "connectorId": 0,
   "tags": {}
 }

@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00212-084\n\n  Image: \n\n  object_work_type: black-and-white photographs\n\n  title_text: Photograph album of views and portraits in the Punjab\n Cashmere\n Ceylon\n Burma\n Penang\n Singapore\n and Java Neo-gothic monument in front of church\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: John Thomson\n\n  creator_1: Thomson\n J. (John)\n 1837-1921\n\n  creator_role: photographers\n\n  creation_date: before 28 Jul 1876\n\n  creation_place_original_location: Singapore\n\n  styles_periods_indexing_terms: Gothic Revival\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: albumen (egg white protein) paper (fiber product) albumen paper\n\n  techniques_name: albumen process\n\n  object_colour: black-and-white (colors)\n\n  physical_appearance: This is a photograph featuring a neogothic stone monument. The monument is tall and narrow\n with a cross at the top. There is a statue of a man holding a book in the centre. The monument is on a flight of steps\n and is surrounded by a gate. In the background\n there is a church. The photograph has a few tears and folds especially at the top corners.\n\n  subject_terms_1: sculptures churches (buildings) monuments religious buildings\n\n  subject_terms_2: Photographs Thomson\n J. (John)\n 1837-1921 Gothic revival (Architecture) Monuments Church buildings\n\n  subject_terms_3: Photography Religious buildings\n",
-  "createdDate": "20201127000611",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_2": "Photographs Thomson, J. (John), 1837-1921 Gothic revival (Architecture) Monuments Church buildings",
     "subject_terms_3": "Photography Religious buildings"
   },
-  "nlpDate": "20201127000611",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

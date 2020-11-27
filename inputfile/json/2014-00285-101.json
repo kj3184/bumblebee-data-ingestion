@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2014-00285-101\n\n  Image: \n\n  object_work_type: black-and-white photographs\n\n  title_text: View from the Top of Cathay Buildings Photography Album (donation from Anthony Robert Saint Claire)\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: Robert Arthur Polglaze\n\n  creator_1: Not indicated\n\n  creator_role: photographers\n\n  creation_date: 1940s\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process) photographic processes\n\n  object_colour: grey monochrome\n\n  physical_appearance: The image shows a black-and-white photograph. It is rectangular and it features a bird\\u0027s-eye view of the cityscape. Numerous roofed buildings are located very closely to one another. They are interspersed by tall trees as well. The trees become dense at the right hand side of the photograph. A building with a dome can be seen and further into the background towards the horizon is a building with a spire.\n\n  subject_terms_1: colonial cities cityscapes (representations)\n\n  subject_terms_2: Cityscapes Cathay (Organization) Black-and-white photography Colonial cities\n\n  subject_terms_3: Photography Cathay Building\n\n  sgcool_label_text: Not indicated\n",
-  "createdDate": "20201127000613",
+  "createdDate": "20201127205930",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_3": "Photography Cathay Building",
     "sgcool_label_text": "Not indicated"
   },
-  "nlpDate": "20201127000613",
+  "nlpDate": "20201127205930",
   "connectorId": 0,
   "tags": {}
 }

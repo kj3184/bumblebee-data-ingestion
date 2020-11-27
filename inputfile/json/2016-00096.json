@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00096\n\n  Image: \n\n  object_work_type: black-and-white photographs\n\n  title_text: Thamizhavel G Sarangapany being garlanded\n\n  preference: main\n\n  title_language: \n\n  creation_date: 1960s\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process) photographic processes\n\n  object_colour: grey monochrome\n\n  physical_appearance: The image shows a photograph that is in black-and-white. It is rectangular and it features four men\n of which two are sitting down while the other two are standing up. One man is adorned with a garland around his neck and another man standing across him is adjusting the position of the garland. Both of them are smiling. The background of the photograph suggests that it was taken in the interior of a building.\n\n  subject_terms_1: honours commemorations (events)\n\n  subject_terms_2: Tamil (Indic people) Caran?kapa?n?i\n 1903-1974 Black-and-white photography\n\n  subject_terms_3: Photography Thamizhavel Govindasamy Sarangapany\n\n  sgcool_label_text: A native of Karuvakurichi village\n near Mannargudi town in Tamil Nadu\n S. Appavoo Kandiar was a general contractor specializing in pipe and cable laying\n handling of cargo and a concrete bricks supplier. Mr.Kandiar was a successful contractor; called a millionaire by the Straits Times in 1957\n he owned properties in Bukit Timah and Coronation Road areas. He was a contemporary of Indian pioneers such as P.Govindasamy Pillai\n Govindasamy Sarangapany\n Pakkirisami Pillai\n and had friendly associations with them.\n",
-  "createdDate": "20201127000612",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -29,7 +29,7 @@
     "subject_terms_3": "Photography Thamizhavel Govindasamy Sarangapany",
     "sgcool_label_text": "A native of Karuvakurichi village, near Mannargudi town in Tamil Nadu, S. Appavoo Kandiar was a general contractor specializing in pipe and cable laying, handling of cargo and a concrete bricks supplier. Mr.Kandiar was a successful contractor; called a millionaire by the Straits Times in 1957, he owned properties in Bukit Timah and Coronation Road areas. He was a contemporary of Indian pioneers such as P.Govindasamy Pillai, Govindasamy Sarangapany, Pakkirisami Pillai, and had friendly associations with them."
   },
-  "nlpDate": "20201127000612",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

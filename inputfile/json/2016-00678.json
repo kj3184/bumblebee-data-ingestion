@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00678\n\n  Image: \n\n  object_work_type: folk costume\n\n  title_text: Padded Baju Panjang\n\n  preference: main\n\n  title_language: \n\n  creation_date: late 19th - early 20th century\n\n  creation_place_original_location: Indonesia Straits Settlements\n\n  styles_periods_indexing_terms: Peranakan\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: silk (textile)\n\n  techniques_name: sewing (needleworking technique)\n\n  object_colour: purple (color)\n\n  physical_appearance: This is a baju panjang. It is made of silk fabric with curving foliate patterns. It is padded on the inside.\n\n  subject_terms_1: tops (garments\n general) flowers (motifs) Peranakan\n\n  subject_terms_2: Motifs Ethnic costume Peranakan (Asian people)\n\n  subject_terms_3: Peranakan costumes\n\n  subject_terms_4: Baju Panjang\n\n  sgcool_label_text: The baju panjang is made of silk fabric with curving foliate patterns. It is thickly lined and padded on the inside. Family lore has it that the nyonya bride wore this when visiting relatives in the cold months of China after her Penang wedding. In late 19th century Penang\n there was a large selection of materials to choose from for the making of baju panjang\n including silk\n European cotton and velvet. It is part of a donation which contains a mixture of garments worn by Peranakan men and women.\n",
-  "createdDate": "20201127000610",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -31,7 +31,7 @@
     "subject_terms_4": "Baju Panjang",
     "sgcool_label_text": "The baju panjang is made of silk fabric with curving foliate patterns. It is thickly lined and padded on the inside. Family lore has it that the nyonya bride wore this when visiting relatives in the cold months of China after her Penang wedding. In late 19th century Penang, there was a large selection of materials to choose from for the making of baju panjang, including silk, European cotton and velvet. It is part of a donation which contains a mixture of garments worn by Peranakan men and women."
   },
-  "nlpDate": "20201127000610",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

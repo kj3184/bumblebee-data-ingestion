@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2018-00038\n\n  Image: \n\n  object_work_type: rare books books\n\n  title_text: John Skinner’s\n A true relation of the unjust\n cruell\n and barbarous proceedings against the English at Amboina in the East-Indies\n by the Netherlandish Governour\n\n\n  preference: main\n\n  title_language: \n\n  creator_2: John Skinner\n\n  creator_1: not indicated\n\n  creator_role: authors\n\n  creation_date: 1624\n\n  creation_place_original_location: London (inhabited place)\n\n  styles_periods_indexing_terms: not indicated\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: papermaking\n\n  object_colour: brown (colour)\n\n  edition_description: Rare edition\n\n  physical_appearance: \\This is John Skinner’s \\\\A true relation of the unjust\n\n  subject_terms_1: cruell propaganda conflict (general sense) massacres\n\n  subject_terms_2: Conflicts Spice trade Adaptations Massacres Propaganda East India Company Ambon (Indonesia) Nederlandsche Oost-Indische Compagnie and barbarous proceedings against the English at Amboina in the East-Indies\\\\\n\n  subject_terms_3: by the Netherlandish Governour.This book is brown in colour but looks moderately discoloured. It is heavily browned on the interior. The first leaves of the book are waterstained\n\n  subject_terms_4: mounted and shaved. The book has been rebacked with the original backstrip laid down. \\\n\n  context_1: adaptations (literary works)\n\n  context_2: Rare books\n",
-  "createdDate": "20201127000603",
+  "createdDate": "20201127205925",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -36,7 +36,7 @@
     "context_1": "adaptations (literary works)",
     "context_2": "Rare books"
   },
-  "nlpDate": "20201127000603",
+  "nlpDate": "20201127205925",
   "connectorId": 0,
   "tags": {}
 }

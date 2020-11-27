@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00358\n\n  Image: \n\n  object_work_type: copper engravings (visual works) plans (maps)\n\n  title_text: City plan of old Batavia\n\n  preference: main\n\n  title_language: \n\n  creator_1: Jonghe\n Clement de\n 1624 or 1625-1677\n\n  creator_role: printmakers\n\n  creation_date: 1660s\n\n  creation_place_original_location: Jakarta (Indonesia)\n\n  inscriptions: \n\n  inscription_language: \n\n  scale_type: 0.166666667\n\n  shape: rectangular\n\n  materials_name: copper (metal)\n\n  techniques_name: copper engraving (printing process)\n\n  object_colour: black-and-white (colors)\n\n  physical_appearance: This copper engraving is a city plan map of Batavia. The title is engraved at the top of the map\n on a designed bannner. On the right of the banner is an emblem of a lion. The engraving shows a detailed layout of the city with extensive network of canals. The left of the map shows several ships and boats at the harbour of Batavia. On the right\n there is a detailed lettered legend identifying key sites. The scale is printed near the bottom\n above a scenic view of the harbour. There is a signature of the creator at the bottom of the map.\n\n  subject_terms_1: colonization harbours ships historical maps colonial settlements\n\n  subject_terms_2: Engraving Maps ships harbors Historical geography Maps Colonies Jakarta (Indonesia)\n\n  subject_terms_3: Urban planning\n\n  sgcool_label_text: This copper engraving illustrates a detailed city plan of Batavia (Jakarta)\n the Dutch capital of the Dutch East Indies. The map was from Clemendt de Jonghe\n an important and well-known editor and seller of prints and maps in Amsterdam during the 1650s to 1670s.\n",
-  "createdDate": "20201127000611",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_3": "Urban planning",
     "sgcool_label_text": "This copper engraving illustrates a detailed city plan of Batavia (Jakarta), the Dutch capital of the Dutch East Indies. The map was from Clemendt de Jonghe, an important and well-known editor and seller of prints and maps in Amsterdam during the 1650s to 1670s."
   },
-  "nlpDate": "20201127000611",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00062\n\n  Image: \n\n  object_work_type: covers (overlying objects) handkerchiefs\n\n  title_text: Ceremonial handkerchief or dowry tray cover\n\n  preference: main\n\n  title_language: \n\n  creation_date: early 20th century\n\n  creation_place_original_location: Sumatra (Indonesia)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: square (shape)\n\n  materials_name: silk (textile) metal thread\n\n  techniques_name: sewing (needleworking technique) embroidering\n\n  object_colour: multicolored\n\n  physical_appearance: This is a square handkerchief. It features a multicolored dense embroidery depicting several animal and floral motifs. The center of the handkerchief shows a circular medallion with a peony and a phoenix. It is framed by more floral motifs\n with a figure of an elephant\n tiger\n lion\n and gilin on the four corders. The square handkerchief has three borders of decorative bands that contain Daoist symbolisms and sylised animals.\n\n  subject_terms_1: geometric motifs Taoism ceremonial objects birds (motifs) flower (motif) embroidery (visual works) trousseaux\n\n  subject_terms_2: Handkerchiefs Motifs Taoism Embroidery Ceremonial objects Dowry\n\n  subject_terms_3: Taoism Textile art and design\n\n  sgcool_label_text: This handkerchief (sapu tangan) was probably used as a decorative tray cover that was placed over items presented on trays as part of a ceremony.  A peony in bloom and a phoenix dominates the central circular medallion.  It is surrounded by floral sprays\n and framed by an elephant\n tiger\n lion and qilin on the four corners.  Following the edges of this main square decoration are three borders of distinct decorative bands.  The innermost and outermost borders\n like the main square silk fabric\n are worked with silk floss in satin and voided satin stitches.  They contain auspicious Daoist symbols such as the double knot of happiness\n conch and a pair of castanets.  The middle border consists of a polychrome border of drawn thread embroidery\n consisting of stylised animals\n human figures and floral motifs.  The handkerchief could have been part of the bridal trousseau prepared for the groom and his family.\n",
-  "createdDate": "20201127000609",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -29,7 +29,7 @@
     "subject_terms_3": "Taoism Textile art and design",
     "sgcool_label_text": "This handkerchief (sapu tangan) was probably used as a decorative tray cover that was placed over items presented on trays as part of a ceremony.  A peony in bloom and a phoenix dominates the central circular medallion.  It is surrounded by floral sprays, and framed by an elephant, tiger, lion and qilin on the four corners.  Following the edges of this main square decoration are three borders of distinct decorative bands.  The innermost and outermost borders, like the main square silk fabric, are worked with silk floss in satin and voided satin stitches.  They contain auspicious Daoist symbols such as the double knot of happiness, conch and a pair of castanets.  The middle border consists of a polychrome border of drawn thread embroidery, consisting of stylised animals, human figures and floral motifs.  The handkerchief could have been part of the bridal trousseau prepared for the groom and his family."
   },
-  "nlpDate": "20201127000609",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

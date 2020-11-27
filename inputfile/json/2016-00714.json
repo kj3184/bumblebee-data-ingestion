@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00714\n\n  Image: \n\n  object_work_type: slippers (shoes)\n\n  title_text: Blue Velvet Slippers with Rat Motif\n\n  preference: main\n\n  title_language: \n\n  creation_date: early-mid 20th century\n\n  creation_place_original_location: Straits Settlements\n\n  styles_periods_indexing_terms: Peranakan\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: metal thread velvet (fabric weave)\n\n  techniques_name: sewing (needleworking technique)\n\n  object_colour: multicolored\n\n  physical_appearance: This is a pair of blue velvet slippers. On each face\n there is an embroidery of elaborate foliate and lozenge motifs in gold-coloured metal threads. In the centre\n the slippers feature the figure of a rat. The slipper is covered with turquoise velvet. The slippers have low heels.\n\n  subject_terms_1: Peranakan lozenges wedding clothes foliage (motif) embroidery (visual works) footwear\n\n  subject_terms_2: Motifs Embroidery Peranakan (Asian people) Women\\u0027s shoes Wedding costume\n\n  subject_terms_3: Peranakan costumes\n\n  sgcool_label_text: The face of each slipper is embroidered with elaborate foliate and lozenge patterns in gold-coloured metallic thread. The central motif is a figure of a rat. The entire slipper is covered with a layer of turquoise-coloured velvet. The heel is low. This pair was probably made to be worn by a bride for silk and velvet were the preferred base for wedding shoes. It is part of a donation which contains a mixture of garments worn by Peranakan men and women.\n",
-  "createdDate": "20201127000609",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -30,7 +30,7 @@
     "subject_terms_3": "Peranakan costumes",
     "sgcool_label_text": "The face of each slipper is embroidered with elaborate foliate and lozenge patterns in gold-coloured metallic thread. The central motif is a figure of a rat. The entire slipper is covered with a layer of turquoise-coloured velvet. The heel is low. This pair was probably made to be worn by a bride for silk and velvet were the preferred base for wedding shoes. It is part of a donation which contains a mixture of garments worn by Peranakan men and women."
   },
-  "nlpDate": "20201127000609",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2018-00200\n\n  Image: \n\n  object_work_type: photographs colour photographs\n\n  title_text: Photograph of Mrs Lee Choon Guan\n\n  preference: main\n\n  title_language: \n\n  creator_2: Not indicated\n\n  creator_1: Not indicated\n\n  creation_date: 1978\n\n  creation_place_original_location: Singapore (nation)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process) photographic processes\n\n  object_colour: multicoloured\n\n  physical_appearance: \\The image shows a colour photograph. It features an elderly lady sitting on a striped couch. She is bespectacled and looking towards the direction where the photograph is captured. A cake has been placed in front of her. The numeral \\u0027100\\u0027 is positioned on top of the cake. \\\\To the Grand Dame of Singapore\\\\ is stated on the bottom tier of the cake.\\\n\n  subject_terms_1: women (female humans) portraits birthdays\n\n  subject_terms_2: Birthdays Portrait photography Women Centenarians\n\n  subject_terms_3: Portrait photography Women\n\n  sgcool_label_text: This photograph shows Mrs Lee Choon Guan at her 100th birthday celebrations.\n",
-  "createdDate": "20201127000602",
+  "createdDate": "20201127205924",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -31,7 +31,7 @@
     "subject_terms_3": "Portrait photography Women",
     "sgcool_label_text": "This photograph shows Mrs Lee Choon Guan at her 100th birthday celebrations."
   },
-  "nlpDate": "20201127000602",
+  "nlpDate": "20201127205924",
   "connectorId": 0,
   "tags": {}
 }

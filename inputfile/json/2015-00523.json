@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2015-00523\n\n  Image: \n\n  object_work_type: saris (garments)\n\n  title_text: Sari\n\n  preference: main\n\n  title_language: \n\n  creator_2: Unknown\n\n  creation_date: 20th century\n\n  creation_place_original_location: Malaysia Singapore\n\n  styles_periods_indexing_terms: Not indicated\n\n  inscriptions: \n\n  inscription_language: \n\n  scale_type: Not indicated\n\n  shape: rectangular\n\n  materials_name: silk (textile)\n\n  techniques_name: weaving machine sewing (technique)\n\n  object_colour: multicoloured\n\n  physical_appearance: The image shows a sari. It is rectangular in shape. It is predominantly purple in colour\n except for a band of gold towards the left hand side. There are repeated gold floral motifs on this band. There are dark blue tassels extending from the left hand side of the sari.\n\n  subject_terms_1: womenswear floral patterns folk costume allover patterns\n\n  subject_terms_2: Women\\u0027s clothing Motifs Saris Ethnic costume\n\n  subject_terms_3: Indian costumes\n\n  sgcool_label_text: The sari is a traditional pan-Indian drape\n woven in various parts of the sub-continent. Kanchipuram in Tamil Nadu\n an illustrious weaving centre\n is renowned for the “Kanchivaram Silk Sari”\n worn during special occasions as well as by Tamil brides. This collection of saris were donated by Dr.R.D.Gangatharan in memory of his mother\n the late Lakshmi Rangasamy Davar. Lakshmi Rangasamy Davar\n was a woman pioneer – she was an educationist\n musician and philanthropist.\n",
-  "createdDate": "20201127000612",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_3": "Indian costumes",
     "sgcool_label_text": "The sari is a traditional pan-Indian drape, woven in various parts of the sub-continent. Kanchipuram in Tamil Nadu, an illustrious weaving centre, is renowned for the “Kanchivaram Silk Sari”, worn during special occasions as well as by Tamil brides. This collection of saris were donated by Dr.R.D.Gangatharan in memory of his mother, the late Lakshmi Rangasamy Davar. Lakshmi Rangasamy Davar, was a woman pioneer – she was an educationist, musician and philanthropist."
   },
-  "nlpDate": "20201127000612",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

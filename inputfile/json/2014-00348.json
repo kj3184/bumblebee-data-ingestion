@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2014-00348\n\n  Image: \n\n  object_work_type: rare books\n\n  title_text: The Port of Singapore by G.W.A. Trimmer The Port of Singapore\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: G.W.A. Trimmer\n\n  creator_role: authors chairmen\n\n  creation_date: 1933\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product) printing paper\n\n  techniques_name: book cloth (textile material) bookbinding (process) colour printing\n\n  object_colour: grey (colour)\n\n  physical_appearance: The image displays the front cover of a book. It is grey in colour and all the words on it are black in colour. The title of the book\n \\u0027The Port of Singapore\\u0027\n is displayed from the top left hand side of the book. \\u0027G.W.A. Trimmer\\u0027 is listed as the author and also the \\u0027Chairman \\u0026 General Manager\n Harbour Boards\n Straits Settlements\\u0027 are stated. The year \\u00271933\\u0027 is stated at the bottom centre of the book. There are two vertical lines that are made up of short horizontal dashes at the left hand side of the book cover.\n\n  subject_terms_1: nonfiction ports (settlements) colonial settlements\n\n  subject_terms_2: Non-fiction. . . Straits Settlements Harbours Singapore Harbour Board Rare books\n\n  subject_terms_3: Ports Non-fiction Singapore Harbour Board\n\n  sgcool_label_text: This is an extremely rare book by G.W.A. Trimmer\n Chairman and General manager of Harbour Boards\n Straits Settlements. It was published in 1933. The book contains a beautifully coloured map of Singapore. \\r\\n\\r\\nMr Trimmer came to Singapore in 1910 and was a significant figure in the development of Singapore\\u0027s port facilities and trading activities.\n",
-  "createdDate": "20201127000613",
+  "createdDate": "20201127205930",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -31,7 +31,7 @@
     "subject_terms_3": "Ports Non-fiction Singapore Harbour Board",
     "sgcool_label_text": "This is an extremely rare book by G.W.A. Trimmer, Chairman and General manager of Harbour Boards, Straits Settlements. It was published in 1933. The book contains a beautifully coloured map of Singapore. \r\n\r\nMr Trimmer came to Singapore in 1910 and was a significant figure in the development of Singapore\u0027s port facilities and trading activities."
   },
-  "nlpDate": "20201127000613",
+  "nlpDate": "20201127205930",
   "connectorId": 0,
   "tags": {}
 }

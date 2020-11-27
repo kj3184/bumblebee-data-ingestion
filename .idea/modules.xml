@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/bumblebee-Data-ingestion.iml" filepath="$PROJECT_DIR$/.idea/modules/bumblebee-Data-ingestion.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/bumblebee-Data-ingestion-build.iml" filepath="$PROJECT_DIR$/.idea/modules/bumblebee-Data-ingestion-build.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bumblebee-Data ingestion.iml" filepath="$PROJECT_DIR$/.idea/modules/bumblebee-Data ingestion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bumblebee-Data ingestion-build.iml" filepath="$PROJECT_DIR$/.idea/modules/bumblebee-Data ingestion-build.iml" />
+>>>>>>> 11c7587170daa551162ae1d478a7c3c0eec976ae
     </modules>
   </component>
 </project>

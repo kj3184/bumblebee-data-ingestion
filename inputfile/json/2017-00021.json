@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00021\n\n  Image: \n\n  object_work_type: black-and-white prints (photographs) photographic prints gelatin silver prints\n\n  title_text: Worker Labourer\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: Koon\n Sang Ho\n\n  creator_role: photographers\n\n  creation_date: c.1958\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: silver sulfide paper (fibre product) baryta paper gelatin\n\n  techniques_name: gelatin silver process photographic printing techniques black-and-white photography\n\n  object_colour: black-and-white (colours)\n\n  physical_appearance: An upright ladder cuts across the image. To its right lies a raised wooden plank\n where a man in cap sits with his left leg raised. He anchors this stance by supporting himself with a plank. The man is fellow artist\n Yip Cheong Fan. A long shadow of the ladder is casted to the left of the image. On the verso\n there is a Biennale Di Genova chop\n as well as the artist\\u0027s photography studio chop and title of work.\n\n  subject_terms_1: constructing construction workers stylized portraits shadows construction sites\n\n  subject_terms_2: Royal Photographic Society of Great Britain Portrait photography Construction Workers Yip\n Cheong Fun\n 1903-1989 Photography\n Artistic\n\n  subject_terms_3: Building and Construction visual arts Artistic photography Yip\n Cheong Fun\n\n  context_1: Biennale Di Genova International Focus Salon Amsterdam\n\n  context_2: biennials (exhibitions) exhibitions (events)\n\n  context_6: Bloemendaal (North Holland\n Netherlands) Genoa (Italy)\n\n  context_7: Biennale Di Genova International Focus Salon Amsterdam\n\n  context_8: planners\n\n  context_20: Address indicated on photography studio\\u0027s chop.\n\n  context_21: 40 Holloway  Lane\n Singapore 7\n\n  context_22: c.1958\n\n  context_23: 1953\n\n  context_24: 1963\n\n  sgcool_label_text: Ho Koon Sang was a member of the Photographic Society of Singapore and an Associate of the Royal Photographic Society in London. These photos are typical of the salon photography style of the time\n with an emphasis on technique\n composition and tone. The subject in this photo is fellow photographer Yip Cheong Fun.\n",
-  "createdDate": "20201127000609",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -41,7 +41,7 @@
     "context_24": "1963",
     "sgcool_label_text": "Ho Koon Sang was a member of the Photographic Society of Singapore and an Associate of the Royal Photographic Society in London. These photos are typical of the salon photography style of the time, with an emphasis on technique, composition and tone. The subject in this photo is fellow photographer Yip Cheong Fun."
   },
-  "nlpDate": "20201127000609",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

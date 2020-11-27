@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00617\n\n  Image: \n\n  object_work_type: headdresses\n\n  title_text: Wedding Headdress with en Tremble Diamante Settings\n\n  preference: main\n\n  title_language: \n\n  creation_date: first half of 20th century\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: diamond (mineral) silver alloy\n\n  techniques_name: forging (metal forming)\n\n  object_colour: silver (color)\n\n  physical_appearance: This is a silver headdress. It is decorated elaborately with dozens of diamonds. The curved middle section is designed to fit the head\n with 21 arms of coiled wire springs attached to it. At the end of each wire\n there are dozens of diamonds arranged in a floral shape. There are several suspended diamonds hanging as pendants from these flowers. The wire coils are slightly rusty.\n\n  subject_terms_1: floral (motif) wedding clothes customs (social concepts) folk costume\n\n  subject_terms_2: Motifs Headdresses Ethnic costume Malays (Asian people) Wedding costume Manners and customs\n\n  subject_terms_3: Malay costumes Marriage customs\n\n  subject_terms_4: \n",
-  "createdDate": "20201127000604",
+  "createdDate": "20201127205926",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -29,7 +29,7 @@
     "subject_terms_3": "Malay costumes Marriage customs",
     "subject_terms_4": ""
   },
-  "nlpDate": "20201127000604",
+  "nlpDate": "20201127205926",
   "connectorId": 0,
   "tags": {}
 }

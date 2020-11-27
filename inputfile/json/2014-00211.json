@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2014-00211\n\n  Image: \n\n  object_work_type: pins (fasteners)\n\n  title_text: Set of Three Photograph Pins\n\n  preference: main\n\n  title_language: \n\n  creator_2: Unknown\n\n  creation_date: Not indicated\n\n  creation_place_original_location: Singapore\n\n  styles_periods_indexing_terms: Not indicated\n\n  inscriptions: \n\n  inscription_language: \n\n  scale_type: Not indicated\n\n  shape: circular (shape)\n\n  materials_name: plastic (organic material) metal\n\n  techniques_name: forming (physical activity) metalworking\n\n  object_colour: grey (colour)\n\n  physical_appearance: The image shows three photograph pins. The pins are all circular in shape. The photographs on all three pins are grey in colour. The pin on the left depicts a lady\n while the other two pins show two men. The coats and tie of the two men can be seen.\n\n  subject_terms_1: hotelkeepers women (female humans) men (male humans) photographs black-and-white photographs\n\n  subject_terms_2: Hotelkeepers Men Black-and-white photography Women\n\n  subject_terms_3: Photography Women\n\n  sgcool_label_text: Not indicated\n",
-  "createdDate": "20201127000614",
+  "createdDate": "20201127205930",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_3": "Photography Women",
     "sgcool_label_text": "Not indicated"
   },
-  "nlpDate": "20201127000614",
+  "nlpDate": "20201127205930",
   "connectorId": 0,
   "tags": {}
 }

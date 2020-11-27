@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00590\n\n  Image: \n\n  object_work_type: robes (main garments) menswear\n\n  title_text: Embroidered Robe\n\n  preference: main\n\n  title_language: English\n\n  creation_date: 20th century\n\n  creation_place_original_location: Lucknow (India)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: cotton (textile)\n\n  techniques_name: sewing (needleworking technique) embroidering\n\n  object_colour: beige (color)\n\n  physical_appearance: This is a beige embroidered robe. It has long sleeves and is flared towards the bottom. The collar buttons on the top-left corner\n creating two oval openings. The fabric is made of a repeated geometric pattern.\n\n  subject_terms_1: chikankari folk costume\n\n  subject_terms_2: ethnic costume Embroidery Robes\n\n  subject_terms_3: Indian costumes\n\n  subject_terms_4: \n\n  sgcool_label_text: Robe or angarkha\n a long tunic style top for men\n with chikankari embroidery that is particularly associated with the Lucknow region. Most likely would have been used by the upper classes.\n",
-  "createdDate": "20201127000604",
+  "createdDate": "20201127205926",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -30,7 +30,7 @@
     "subject_terms_4": "",
     "sgcool_label_text": "Robe or angarkha, a long tunic style top for men, with chikankari embroidery that is particularly associated with the Lucknow region. Most likely would have been used by the upper classes."
   },
-  "nlpDate": "20201127000604",
+  "nlpDate": "20201127205926",
   "connectorId": 0,
   "tags": {}
 }

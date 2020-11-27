@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00583\n\n  Image: \n\n  object_work_type: hand tools\n\n  title_text: Tools used for picking up rice sacks\n\n  preference: main\n\n  title_language: \n\n  creation_date: 1950s-1970s\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: L-shaped\n\n  materials_name: plastic (organic material) metal\n\n  techniques_name: forming (physical activity) metalworking\n\n  object_colour: multicoloured\n\n  physical_appearance: A set of four hand tools are displayed in the image. Two of them are long while the other two are short. The long pair of hand tools contains a wooden L-shaped handle\n while the short pair contains a wooden curved handle. On one of the short pair of hand tools\n there is a hfinger-sized hole in its handle. All four hand tools have a metal shaft that curves inwards to form hooks.\n\n  subject_terms_1: implements (object genre) hooks (object genres) tools\n\n  subject_terms_2: Hooks Tools\n\n  sgcool_label_text: These tools belonged to Mr Neo Kim Teah\n who had worked as a coolie in Singapore from the 1950s to the 1970s. Part of his job was to unload sackfuls of rice from boats docked at the Singapore River\n and to transport them to the godowns. Such tools were essential during this process. Mr Neo had arrived in Singapore as a young child in the late 1930s and he had stayed in the Sungei Kadut area.\n",
-  "createdDate": "20201127000610",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -28,7 +28,7 @@
     "subject_terms_2": "Hooks Tools",
     "sgcool_label_text": "These tools belonged to Mr Neo Kim Teah, who had worked as a coolie in Singapore from the 1950s to the 1970s. Part of his job was to unload sackfuls of rice from boats docked at the Singapore River, and to transport them to the godowns. Such tools were essential during this process. Mr Neo had arrived in Singapore as a young child in the late 1930s and he had stayed in the Sungei Kadut area."
   },
-  "nlpDate": "20201127000610",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00693\n\n  Image: \n\n  object_work_type: womenswear kebayas\n\n  title_text: Kebaya with Printed Foliate Pattern\n\n  preference: main\n\n  title_language: \n\n  creation_date: early-mid 20th century\n\n  creation_place_original_location: Java (Indonesia)\n\n  styles_periods_indexing_terms: Peranakan\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: cotton (textile)\n\n  techniques_name: sewing (needleworking technique)\n\n  object_colour: multicolored\n\n  physical_appearance: This is a kebaya top. It is made from a light fabric with a printed recurring motif of foliage and small flowers.\n\n  subject_terms_1: tops (garments\n general) flowers (motifs) Peranakan blouses (main garments) foliage (motif) folk costume\n\n  subject_terms_2: Blouses Motifs Ethnic costume Peranakan (Asian people)\n\n  subject_terms_3: Peranakan costumes\n\n  sgcool_label_text: This kebaya is made from a light fabric printed with a recurring motif of foliage and small flowers. It is part of a donation which contains a mixture of garments worn by Peranakan men and women.\n",
-  "createdDate": "20201127000610",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -30,7 +30,7 @@
     "subject_terms_3": "Peranakan costumes",
     "sgcool_label_text": "This kebaya is made from a light fabric printed with a recurring motif of foliage and small flowers. It is part of a donation which contains a mixture of garments worn by Peranakan men and women."
   },
-  "nlpDate": "20201127000610",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

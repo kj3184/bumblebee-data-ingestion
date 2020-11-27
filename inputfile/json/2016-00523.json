@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00523\n\n  Image: \n\n  object_work_type: dailies (publications)\n\n  title_text: Malaya Nanban\n\n  preference: main\n\n  title_language: \n\n  creator_2: Karim Ghani\n\n  creator_1: Not indicated\n\n  creator_role: editors (people who revise)\n\n  creation_date: 1950\n\n  creation_place_original_location: Singapore Malaya\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: printing paper\n\n  techniques_name: printing (process)\n\n  object_colour: multicoloured\n\n  physical_appearance: The image displays the front cover of a newspaper. There is a green border around the perimeter of the newspaper. Tamil inscriptions are present at the upper half of the front page. The date of the newspaper is stated below the headlines. Below the headlines is an image of a politician wearing an Indian cap. He is signing a document. The flag of the Republic of India can be seen hanging in the background.\n\n  subject_terms_1: newspapers presidents\n\n  subject_terms_2: Prasad\n Rajendra\n 1884-1963 Southeast Asian newspapers Tamil newspapers Republic Day (India)\n\n  subject_terms_3: Presidents (Government) Daily newspapers\n\n  sgcool_label_text: Malaya Nanban was a Tamil language daily and was edited by Karim Ghani.  Ghani who managed the Muslim Publishing House and was editor of the Malay language daily called Dawn.\n",
-  "createdDate": "20201127000610",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_3": "Presidents (Government) Daily newspapers",
     "sgcool_label_text": "Malaya Nanban was a Tamil language daily and was edited by Karim Ghani.  Ghani who managed the Muslim Publishing House and was editor of the Malay language daily called Dawn."
   },
-  "nlpDate": "20201127000610",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

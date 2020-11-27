@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2018-00041\n\n  Image: \n\n  object_work_type: sculpture (visual works)\n\n  title_text: Head of Buddha\n\n  preference: main\n\n  title_language: \n\n  creator_2: Not indicated\n\n  creation_date: 9th century\n\n  creation_place_original_location: Jawa Tengah (province)\n\n  styles_periods_indexing_terms: Gupta (culture and style)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: andesite\n\n  techniques_name: sculpting\n\n  object_colour: gray (colour)\n\n  physical_appearance: This is a stone sculpture of a head of Buddha. It is gray in colour. The Buddha\\u0027s head is decorated with large\n soft curls around the crown. The face of the sculpture shows a serene facial expression\n with the Buddha\\u0027s eyes facing downwards in meditation. The Buddha\\u0027s ears are elongated.\n\n  subject_terms_1: Buddhism Buddhas (visual works)\n\n  subject_terms_2: Buddhas Sculpture\n Javanese Buddhism Sculptures\n\n  subject_terms_3: Buddhism Sculpture\n\n  subject_terms_4: \n\n  sgcool_label_text: The head has soft\n delicate features\n showing a serenity\n with the eyes gently looking down in meditation\n and large curls rise to form the usnisha. The earlobes are elongated\n indicating the heavy earrings once worn by Prince Siddhartha\n who renounced all wealth to follow the path to enlightenment and become the Buddha.\\r\\nSoutheast Asia was situated on the trade routes from the Indian subcontinent to China from ancient times. Buddhism arrived in Java along these trade routes\n and subsequently missionaries followed. Javanese devotees travelled to Nalanda University in Bihar\n Northern India\n establishing strong connections with Indian Buddhist centres. \\r\\n\n",
-  "createdDate": "20201127000603",
+  "createdDate": "20201127205925",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_4": "",
     "sgcool_label_text": "The head has soft, delicate features, showing a serenity, with the eyes gently looking down in meditation, and large curls rise to form the usnisha. The earlobes are elongated, indicating the heavy earrings once worn by Prince Siddhartha, who renounced all wealth to follow the path to enlightenment and become the Buddha.\r\nSoutheast Asia was situated on the trade routes from the Indian subcontinent to China from ancient times. Buddhism arrived in Java along these trade routes, and subsequently missionaries followed. Javanese devotees travelled to Nalanda University in Bihar, Northern India, establishing strong connections with Indian Buddhist centres. \r\n"
   },
-  "nlpDate": "20201127000603",
+  "nlpDate": "20201127205925",
   "connectorId": 0,
   "tags": {}
 }

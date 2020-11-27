@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00947\n\n  Image: \n\n  object_work_type: certificates\n\n  title_text: Certificate of Merit presented to Lim Chong Pang\n\n  preference: main\n\n  title_language: \n\n  creation_date: 1945\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: Rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: writing (processes)\n\n  edition_description: No other edition\n\n  physical_appearance: This is a certificate of merit presented to Lim Chong Pang by Kanichi Naito\n Mayor of Syonan. Framing the words is a red floral border and a crest (stylised ?) at the top of the paper.\n\n  subject_terms_1: local histories social recognition\n\n  subject_terms_2: Compliments Local history\n\n  subject_terms_3: History 1942-1945 Japanese occupation Lim\n Chong Pang\n\n  sgcool_label_text: Certificate of Merit presented to Lim Chong Pang by the Mayor of Syonan (1945)\\r\\n\\r\\nThis is a Certificate of Merit presented to Lim Chong Pang by the Mayor of Syonan\n Kanichi Naito in 1945. \\r\\nLim Chong Pang (1904 –1956) was the second son of Lim Nee Soon\n the “Pineapple King” of Singapore. A prominent businessman\n the range of Lim Chong Pang’s businesses included property and estate management\n film production and movie theatres. He was also the director of the Overseas Assurance Corporation\n a company his father co-founded.   \\r\\nLike other prominent community leaders\n Lim Chong Pang was imprisoned when the Japanese invaded Singapore in 1942 and was released on the condition that he will support the Japanese war effort by raising funds. He was made a council member of the Overseas Chinese Association (OCA) of Syonan and was the vice-chairman of the propaganda department. In 15 February 1945\n he was one of thirty-eight local residents given a Certificate of Merit at the Dai Toa Gakjio (Greater East Asian Theatre) for their valuable services rendered to the Administration. \\r\\n\n",
-  "createdDate": "20201127000604",
+  "createdDate": "20201127205925",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -29,7 +29,7 @@
     "subject_terms_3": "History 1942-1945 Japanese occupation Lim, Chong Pang",
     "sgcool_label_text": "Certificate of Merit presented to Lim Chong Pang by the Mayor of Syonan (1945)\r\n\r\nThis is a Certificate of Merit presented to Lim Chong Pang by the Mayor of Syonan, Kanichi Naito in 1945. \r\nLim Chong Pang (1904 –1956) was the second son of Lim Nee Soon, the “Pineapple King” of Singapore. A prominent businessman, the range of Lim Chong Pang’s businesses included property and estate management, film production and movie theatres. He was also the director of the Overseas Assurance Corporation, a company his father co-founded.   \r\nLike other prominent community leaders, Lim Chong Pang was imprisoned when the Japanese invaded Singapore in 1942 and was released on the condition that he will support the Japanese war effort by raising funds. He was made a council member of the Overseas Chinese Association (OCA) of Syonan and was the vice-chairman of the propaganda department. In 15 February 1945, he was one of thirty-eight local residents given a Certificate of Merit at the Dai Toa Gakjio (Greater East Asian Theatre) for their valuable services rendered to the Administration. \r\n"
   },
-  "nlpDate": "20201127000604",
+  "nlpDate": "20201127205925",
   "connectorId": 0,
   "tags": {}
 }

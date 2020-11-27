@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00260\n\n  Image: \n\n  object_work_type: porcelain (visual works) dishes (object genre) Ceramics (object genre)\n\n  title_text: Blue and white dish with carp\n\n  preference: main\n\n  title_language: \n\n  creation_date: Ming\n 16 or 17th century\n\n  creation_place_original_location: China\n\n  styles_periods_indexing_terms: Ming (culture\n period\n and styles) Chinese ceramics styles\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: concave\n\n  materials_name: clay blue-and-white (ceramic glaze) ceramic glaze cobalt blue (pigment) porcelain (material)\n\n  techniques_name: firing (technique) underglazing molding (forming) glazing (coating process) throwing (pottery techniques)\n\n  object_colour: multicoloured\n\n  physical_appearance: This is a Ming dynasty blue-and-white dish. The centre of this large dish depicts a carp leaping out of the waves into the sky; implied by the cloud motifs. The flat rim is decorated with peonies that alternate between a variety of auspicious symbols  common to the Chinese tradition. Its outer body is painted with jasmine flowers. Its lower outer rim has sprawling vine motifs.\n\n  subject_terms_1: Taoism carp repeated motif flower (motif) Paeonia (genus) symbolism\n\n  subject_terms_2: Taoism and the arts Peonies Porcelain\n Chjnese Ming- Qing dynasties\n 1368-1912 Carp Buddhism and culture Faith in art Fortune Buddhism and art Blue and white ware China\n\n  subject_terms_3: Taoism visual arts Buddhism Ceramics Decorative arts\n\n  subject_terms_4: \n\n  context_1: It was exhibited at the Exhibition of Chinese Blue-and-White Ceramics held at the National Museum of Singapore in 1978.\n\n  context_2: exhibitions (events)\n\n  context_3: Apr-78\n\n  context_4: 18-Apr-78\n\n  context_5: 18-Apr-78\n\n  context_6: National Museum of Singapore\n\n  context_7: National Museum (Singapore)\n\n  context_8: curators planners\n\n  sgcool_label_text: The centre of this large dish is painted with a carp leaping from waves\n while the flattened rim is decorated with the various auspicious emblems and peony sprays. In Chinese art and culture\n the leaping carp represents determination and accomplishment as it is associated with the passing of the civil service examinations. The imagery stems from a traditional Chinese belief that carps which swim upstream in the Yellow River and leap successfully across the rapids at Dragon’s Gate are transformed into dragons.\n",
-  "createdDate": "20201127000606",
+  "createdDate": "20201127205927",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -39,7 +39,7 @@
     "context_8": "curators planners",
     "sgcool_label_text": "The centre of this large dish is painted with a carp leaping from waves, while the flattened rim is decorated with the various auspicious emblems and peony sprays. In Chinese art and culture, the leaping carp represents determination and accomplishment as it is associated with the passing of the civil service examinations. The imagery stems from a traditional Chinese belief that carps which swim upstream in the Yellow River and leap successfully across the rapids at Dragon’s Gate are transformed into dragons."
   },
-  "nlpDate": "20201127000606",
+  "nlpDate": "20201127205927",
   "connectorId": 0,
   "tags": {}
 }

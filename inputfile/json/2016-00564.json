@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00564\n\n  Image: \n\n  object_work_type: newsletters\n\n  title_text: Chinese-language newsletter of Partai Rakyat\n\n  preference: main\n\n  title_language: \n\n  creator_2: Partai Rakyat\n\n  creator_1: Partai Rakyat\n Singapore State Division (TTE)\n\n  creator_role: creators\n\n  creation_date: 1966\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: printing paper\n\n  techniques_name: colour printing\n\n  object_colour: multicoloured\n\n  physical_appearance: \\The image shows the front cover of a newsletter. All the words and characters are typewritten in red. \\\\Partai Rakyat Negeri Singapure\n\n  subject_terms_1: 31 propaganda communism political organizations\n\n  subject_terms_2: Lorong 32 Communism Political party organization Propaganda Political science\n\n  subject_terms_3: Geylang Road Singapore 14 Tel: 494006\\\\ is stated at the top. The articles are written in Chinese characters. The logo of a bull\\u0027s head can be seen at the upper left hand corner of the newsletter. \\\n\n  subject_terms_4: politics\n\n  context_1: Newsletters\n\n  context_2: Newsletters\n",
-  "createdDate": "20201127000610",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -34,7 +34,7 @@
     "context_1": "Newsletters",
     "context_2": "Newsletters"
   },
-  "nlpDate": "20201127000610",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

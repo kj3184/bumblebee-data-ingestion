@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00225-032\n\n  Image: \n\n  object_work_type: black-and-white prints (photographs) photographic prints gelatin silver prints\n\n  title_text: View Of An Elaborately Carved Doorway Flanked By Guardian Lions Miniatures from The Sunny Orient where Sorrow Smiles and Poverty and Riches – Sin and Sanctity – Beauty and Ugliness all keep company\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: SHEAF\n Egbert Thomas.\n\n  creator_role: photographers\n\n  creation_date: 1922-1925\n\n  creation_place_original_location: Asia\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: Rectangular\n\n  materials_name: silver sulfide baryta paper gelatin\n\n  techniques_name: gelatin silver process photographic printing techniques black-and-white photography\n\n  object_colour: black-and-white (colours)\n\n  physical_appearance: Captured in this print is an elaborately carved doorway. Two small guardian lions made of stone can be seen flanking the door.\n\n  subject_terms_1: doorways travel photography guardian lions doors architectural elements\n\n  subject_terms_2: Doorways Prints Travel photography Doors\n\n  subject_terms_3: Travel photography Visual arts\n\n  subject_terms_4: \n\n  sgcool_label_text: These photographs were taken by Egbert Sheaf\n the Australian Trade Commissioner in Singapore\n several taken before and some of which were most likely taken when he was posted here between 1922-25. Sheaf conscientiously studied South-East Asia\\u0027s ethnography and his scholarship was coupled with a passion for travel and adventure. His photographs cover various aspects of daily and cultural life such as weaving\n the rice agriculture and other rituals of Javanese and Malayan communities\n as explained and illustrated in the portfolios and albums.\n",
-  "createdDate": "20201127000607",
+  "createdDate": "20201127205927",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_4": "",
     "sgcool_label_text": "These photographs were taken by Egbert Sheaf, the Australian Trade Commissioner in Singapore, several taken before and some of which were most likely taken when he was posted here between 1922-25. Sheaf conscientiously studied South-East Asia\u0027s ethnography and his scholarship was coupled with a passion for travel and adventure. His photographs cover various aspects of daily and cultural life such as weaving, the rice agriculture and other rituals of Javanese and Malayan communities, as explained and illustrated in the portfolios and albums."
   },
-  "nlpDate": "20201127000607",
+  "nlpDate": "20201127205927",
   "connectorId": 0,
   "tags": {}
 }

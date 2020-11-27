@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00528\n\n  Image: \n\n  object_work_type: magazines (periodicals)\n\n  title_text: The Singapore Changi Airport Magazine\n\n  preference: main\n\n  title_language: \n\n  creator_2: Singapore Changi Airport\n\n  creator_1: Singapore Changi Airport\n\n  creator_role: creators\n\n  creation_date: Aug-90\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: printing paper\n\n  techniques_name: printing (process)\n\n  object_colour: multicoloured\n\n  edition_description: Not indicated\n\n  physical_appearance: \\The image displays the front cover of a magazine. It has a red border. \\\\Changi\\\\ is displayed at the top. \\\\The Charm of Singapore\\\\ is displayed in red below the headline. Raffles Hotel is featured on the magazine cover. To the lower right side of the cover is a picture of child leaning against and looking over a railing.\\\n\n  subject_terms_1: tourism travel travel guidebooks cultural heritage\n\n  subject_terms_2: Publications Voyages and travels Tourism Singapore Guidebooks\n\n  subject_terms_3: Periodicals Changi Airports International Pte. Ltd Cultural development Description and travel\n\n  sgcool_label_text: The Singapore Changi Airport Magazine provides a guide to tourists on the various sightseeing landmarks in Singapore. Published in August 1990\n this particular edition commemorates Singapore’s Silver Jubilee as an independent nation. \\r\\n\\r\\nThis magazine features an article on how Singapore has become an international business centre and air hub\n while retaining its historic charm. It sheds light on the various redevelopment projects in the Civic and Cultural District during that period\n such as the restoration of the 19th century Empress Place Building and Raffles Hotel\n which is featured on the magazine’s cover page.\n",
-  "createdDate": "20201127000610",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -33,7 +33,7 @@
     "subject_terms_3": "Periodicals Changi Airports International Pte. Ltd Cultural development Description and travel",
     "sgcool_label_text": "The Singapore Changi Airport Magazine provides a guide to tourists on the various sightseeing landmarks in Singapore. Published in August 1990, this particular edition commemorates Singapore’s Silver Jubilee as an independent nation. \r\n\r\nThis magazine features an article on how Singapore has become an international business centre and air hub, while retaining its historic charm. It sheds light on the various redevelopment projects in the Civic and Cultural District during that period, such as the restoration of the 19th century Empress Place Building and Raffles Hotel, which is featured on the magazine’s cover page."
   },
-  "nlpDate": "20201127000610",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

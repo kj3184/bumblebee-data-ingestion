@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00556\n\n  Image: \n\n  object_work_type: newsletters weeklies (publications)\n\n  title_text: Issues 1\n 3 and 4 of the weekly published by the Barisan Rakyat (People’s Front)\n\n  preference: main\n\n  title_language: \n\n  creator_2: Barisan Rakyat (People\\u0027s Front)\n\n  creator_1: People\\u0027s Front (Singapore)\n\n  creator_role: publishers\n\n  creation_date: 1972\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: printing paper\n\n  techniques_name: colour printing\n\n  object_colour: multicoloured\n\n  physical_appearance: \\The image shows the front covers of a weekly newsletter. The logo of a five pointed star in red is displayed at the top left hand corner of the newsletter. \\\\Barisan Rakyat\\\\ is stated at the top left hand side\n\n  subject_terms_1: together with its English and Tamil translation. The newsletter on the left hand side of the image contains a picture depicting a man who is speaking into microphone political organizations socialism\n\n  subject_terms_2: Socialist propaganda Political party organization Political science with the political party\\u0027s logo appearing behind him. \\\n\n  subject_terms_3: politics Barisan Sosialis\n\n  subject_terms_4: Newsletters\n\n  context_1: Newsletters\n",
-  "createdDate": "20201127000610",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -33,7 +33,7 @@
     "subject_terms_4": "Newsletters",
     "context_1": "Newsletters"
   },
-  "nlpDate": "20201127000610",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

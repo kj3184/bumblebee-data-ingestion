@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00297\n\n  Image: \n\n  object_work_type: Christmas cards\n\n  title_text: A pen and coloured ink Christmas card for 1944\n depicting a Changi inmate at a camp fire\n\n  preference: main\n\n  title_language: \n\n  creation_date: 1941-1945\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: paper (fiber product) ink\n\n  techniques_name: drawing (image-making)\n\n  object_colour: multicolored\n\n  physical_appearance: This is a christmas card. It is drawn on a gray pain paper in multicolored ink. The flap at the top features drawn mistletoe and written greetings. The picture at the bottom is ofa man\n dressed in shorts\n cooking over a fire. There is a small fold at the top right of the card. There are no tears seen.\n\n  subject_terms_1: world wars prisoners of war\n\n  subject_terms_2: World War\n 1939-1945 Christmas cards Prisoners of war\n\n  subject_terms_3: Changi Prison 1942-1945 Japanese Occupation war personalities\n\n  subject_terms_4: \n\n  context_1: World War\n 1939-1945 1942-1945 Japanese Occupation\n\n  context_2: occupations (armed conflicts) world wars\n\n  context_3: 1942-1945 1939-1945\n\n  context_4: 1939 1942\n\n  context_5: 1945\n\n  context_6: Singapore Malaya\n\n  context_7: Great Britain. Army. Royal Field Artillery\n\n  context_8: armed forces\n\n  sgcool_label_text: This pen and coloured ink Christmas card is from 1944. It depicts a Changi inmate at a camp fire. The card illustrates P.O.Ws’ efforts in maintaining their spirits and traditions in spite of the conditions they lived in. This artefact is part of the archive of James Steele\n Royal Artillery (Field) who served in Malaya from January 1941-February 1942\n when interned as a P.O.W at Changi until his release in October 1945.\n",
-  "createdDate": "20201127000606",
+  "createdDate": "20201127205926",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -38,7 +38,7 @@
     "context_8": "armed forces",
     "sgcool_label_text": "This pen and coloured ink Christmas card is from 1944. It depicts a Changi inmate at a camp fire. The card illustrates P.O.Ws’ efforts in maintaining their spirits and traditions in spite of the conditions they lived in. This artefact is part of the archive of James Steele, Royal Artillery (Field) who served in Malaya from January 1941-February 1942, when interned as a P.O.W at Changi until his release in October 1945."
   },
-  "nlpDate": "20201127000606",
+  "nlpDate": "20201127205926",
   "connectorId": 0,
   "tags": {}
 }

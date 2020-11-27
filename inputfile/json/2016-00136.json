@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00136\n\n  Image: \n\n  object_work_type: jackets (garments) folk costume\n\n  title_text: Green cheongsam with matching jacket\n\n  preference: main\n\n  title_language: \n\n  creator_2: Johnson\n\n  creator_role: creators\n\n  creation_date: 1960 - 1969\n\n  creation_place_original_location: Hong Kong (China) Singapore\n\n  styles_periods_indexing_terms: Chinese (culture or style)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: cloth\n\n  techniques_name: machine sewing (technique)\n\n  object_colour: multicoloured\n\n  physical_appearance: \\This is a green cheongsam that is paired with a long-sleeved matching jacket\n also light green in colour. The cheongsam is sleeveless. At the chest and hem regions of the jacket\n there are lace panels which run horizontally. These lace panels run from the sleeves and the front of the jacket. Diaper patterns are displayed on the lace panels. A collar is present on the cheongsam but not on the jacket. There are six buttons running vertically down the centre of the jacket. They are circular in shape. There are no visible tears on the cheongsam and the jacket. There is a label tag that is titled \\\\Johnson\\\\ located at the collar of the jacket.\\\n\n  subject_terms_1: dresses (garments) tailor-made womenswear lace (needlework) diaper patterns\n\n  subject_terms_2: Women\\u0027s clothing Motifs Custom-made clothing Qipao Ethnic costume Jackets\n\n  subject_terms_3: Ethnic costume Chinese costume\n\n  sgcool_label_text: This is a sleeveless green cheongsam that comes with a matching jacket. The jacket is decorated with lace panel across the chest and at the hem. The cheongsam is made in Hong Kong and has a tailor’s label\n “Johnson”. The piping at the cheongsam collar is slightly worn out. Cheongsams with matching jackets were worn at formal occasions.\n",
-  "createdDate": "20201127000612",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_3": "Ethnic costume Chinese costume",
     "sgcool_label_text": "This is a sleeveless green cheongsam that comes with a matching jacket. The jacket is decorated with lace panel across the chest and at the hem. The cheongsam is made in Hong Kong and has a tailor’s label, “Johnson”. The piping at the cheongsam collar is slightly worn out. Cheongsams with matching jackets were worn at formal occasions."
   },
-  "nlpDate": "20201127000612",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

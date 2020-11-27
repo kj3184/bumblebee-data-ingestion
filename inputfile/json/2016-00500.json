@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00500\n\n  Image: \n\n  object_work_type: black-and-white photographs\n\n  title_text: Untitled (railway station; locomotive 25107)\n\n  preference: main\n\n  title_language: \n\n  creator_2: Kwek Leng Joo\n\n  creator_1: Kwek\n Leng Joo\n\n  creator_role: photographers\n\n  creation_date: 2010\n\n  creation_place_original_location: Malaysia Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process)\n\n  object_colour: grey monochrome\n\n  physical_appearance: The image shows a photograph in black-and-white. It has a black frame and its border is white in colour. There are at least three sets of railroads that are visible in this image. Two out of the three are occupied by trains. There is a train driver looking out of the window from the front compartment at another worker standing on the track. They are holding a token as part of the railway signalling system. To the right of the photograph\n there a group of visitors\n comprising of adults and children\n looking at the trains. Some of them are sitting while others are standing up\n and a man can be seen taking a photograph with a camera \n beside a camera stand. There are numerous trees located at the top left of the photograph\n with some of them coming into contact with the train nearest to the background of the image.\n\n  subject_terms_1: locomotives blue collar workers historic monuments passenger cars (railroad cars) visitors trains (vehicle groupings) railroads (infrastructures)\n\n  subject_terms_2: Railroads Railroad passenger cars Locomotives Pertadbiran Keretapi Tanah Melayu Railroad trains Historic monuments Blue collar workers Black-and-white photography\n\n  subject_terms_3: Rail transport (Stations) Photography Pertadbiran Keretapi Tanah Melayu Rail transport Tanjong Pagar Railway Station\n\n  sgcool_label_text: \\This image captures a few visitors taking photographs of the locomotives at the railway station. It is part of the \\\\Tracking Memories\\\\ collection by the late Mr Kwek Leng Joo. The collection captures different aspects of the Malayan Railway story in Singapore\n",
-  "createdDate": "20201127000610",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_3": "Rail transport (Stations) Photography Pertadbiran Keretapi Tanah Melayu Rail transport Tanjong Pagar Railway Station",
     "sgcool_label_text": "\"This image captures a few visitors taking photographs of the locomotives at the railway station. It is part of the \"\"Tracking Memories\"\" collection by the late Mr Kwek Leng Joo. The collection captures different aspects of the Malayan Railway story in Singapore"
   },
-  "nlpDate": "20201127000610",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

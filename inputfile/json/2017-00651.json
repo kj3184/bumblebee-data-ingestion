@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00651\n\n  Image: \n\n  object_work_type: coverings for soft furnishings\n\n  title_text: Cushion cover\n\n  preference: main\n\n  title_language: \n\n  creation_date: 20th century\n\n  creation_place_original_location: Gujarat (India)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: square (shape)\n\n  materials_name: glass (material) textile materials\n\n  techniques_name: sewing (needleworking technique) embroidering\n\n  object_colour: multicolored\n\n  physical_appearance: This is a cushion cover. It is square in shape\n featuring a multicolored geometric scroling border and a cotton weave in the center. The front features a stylized embroidery of birds perched on a tree\n with small flowers surrounding it.\n\n  subject_terms_1: beadwork (visual works) cushions birds (motifs) flower (motif) embroidery (visual works) foliage (motif)\n\n  subject_terms_2: Motifs Embroidery Cushions Pillowcases\n\n  subject_terms_3: Textile art and design\n\n  subject_terms_4: \n",
-  "createdDate": "20201127000604",
+  "createdDate": "20201127205926",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -29,7 +29,7 @@
     "subject_terms_3": "Textile art and design",
     "subject_terms_4": ""
   },
-  "nlpDate": "20201127000604",
+  "nlpDate": "20201127205926",
   "connectorId": 0,
   "tags": {}
 }

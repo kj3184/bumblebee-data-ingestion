@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00709\n\n  Image: \n\n  object_work_type: womenswear folk costume\n\n  title_text: Black Baju Kurong\n\n  preference: main\n\n  title_language: \n\n  creation_date: late 19th century\n\n  creation_place_original_location: Straits Settlements\n\n  styles_periods_indexing_terms: Peranakan\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: cotton (textile)\n\n  techniques_name: sewing (needleworking technique)\n\n  object_colour: black (color)\n\n  physical_appearance: This is a black baju kurong. It has long sleeves\n a slit neckline\n and does not open in the front.\n\n  subject_terms_1: tops (garments\n general) Peranakan blouses (main garments)\n\n  subject_terms_2: Blouses Ethnic costume Peranakan (Asian people)\n\n  subject_terms_3: Peranakan costumes\n\n  subject_terms_4: Baju Kurong\n\n  sgcool_label_text: This cotton baju kurong has a slit neckline and does not open in the front. In late 19th century Java\n there was a large selection of materials to choose from for the making of baju panjang\n including silk\n European cotton and velvet. It is part of a donation which contains a mixture of garments worn by Peranakan men and women.\n",
-  "createdDate": "20201127000609",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -31,7 +31,7 @@
     "subject_terms_4": "Baju Kurong",
     "sgcool_label_text": "This cotton baju kurong has a slit neckline and does not open in the front. In late 19th century Java, there was a large selection of materials to choose from for the making of baju panjang, including silk, European cotton and velvet. It is part of a donation which contains a mixture of garments worn by Peranakan men and women."
   },
-  "nlpDate": "20201127000609",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

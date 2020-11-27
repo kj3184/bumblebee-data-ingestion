@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00956\n\n  Image: \n\n  object_work_type: colour lithographs\n\n  title_text: Rafflesia patma Coloured lithograph of the Rafflesia patma\n\n  preference: main alternative\n\n  title_language: \n\n  creator_2: Flore des serres et des Jardins de l\\u0027Europe\n\n  creator_1: Not indicated\n\n  creator_role: publishers\n\n  creation_date: 1862-1865\n\n  creation_place_original_location: Belgium\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: printing paper\n\n  techniques_name: printing (process)\n\n  object_colour: multicoloured\n\n  physical_appearance: \\The image shows a lithographic print. It is rectangular in shape and \\\\Rafflesia Patma B1\\\\ is stated at the bottom centre. Above it are four separate images of the same plant species. The bottom two images show the plant in the earliest stage of its life cycle\n\n  subject_terms_1: with its unbloomed flower and a tiny flower emerging respectively. The top two images show the plant in its later life cycles botany\n\n  subject_terms_2: Rafflesiaceae with its flower getting bigger and its interior being visible. \\ Botany\n\n  subject_terms_3: Angiospermae (division) Visual arts\n\n  subject_terms_4: Lithographs\n\n  context_1: Plants\n",
-  "createdDate": "20201127000603",
+  "createdDate": "20201127205925",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -33,7 +33,7 @@
     "subject_terms_4": "Lithographs",
     "context_1": "Plants"
   },
-  "nlpDate": "20201127000603",
+  "nlpDate": "20201127205925",
   "connectorId": 0,
   "tags": {}
 }

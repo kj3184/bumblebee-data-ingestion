@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2014-00364-001\n\n  Image: \n\n  object_work_type: concert programmes\n\n  title_text: 2 Maurice Clare programmes and related newspaper cuttings The Singapore Musical Society presents Maurice Clare\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: Craftsman Press Ltd Singapore Music Society\n\n  creator_1: Not indicated\n\n  creator_role: publishers creators\n\n  creation_date: 1953 - 1954\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process)\n\n  object_colour: multicoloured\n\n  physical_appearance: \\The image shows a concert programme. It is rectangular in shape and at the top of the concert programme\n it states that \\\\The Singpaore Musical Society presents Maurice Clare\\\\. The details of the concert like the venue\n\n  subject_terms_1: musicians time recitals music (performing arts)\n\n  subject_terms_2: Clare\n Maurice Concerts and prices are stated as well. At the bottom of the concert programme Violinists Musicians Art music\n\n  subject_terms_3: it states that bookings are to be done at \\\\Robinson\\u0027s Music Violinists Music organisations\n\n  subject_terms_4: Raffles Place\\\\.\\\n\n  context_1: violinists\n\n  context_2: Concert programmes\n\n  context_3: Musicians\n\n  context_5: The concert programme states that the recital was held at the War Memorial Hall (St. Andrew\\u0027s Cathedral) on Friday\n 6th November\n 1953 at 8.30 p.m\n\n  context_6: recitals\n\n  context_7: 19531106\n\n  context_8: 19531106\n\n  context_9: 19531106\n\n  context_10: St Andrew\\u0027s Cathedral\n",
-  "createdDate": "20201127000613",
+  "createdDate": "20201127205930",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -41,7 +41,7 @@
     "context_9": "19531106",
     "context_10": "St Andrew\u0027s Cathedral"
   },
-  "nlpDate": "20201127000613",
+  "nlpDate": "20201127205930",
   "connectorId": 0,
   "tags": {}
 }

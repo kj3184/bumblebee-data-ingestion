@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00627\n\n  Image: \n\n  object_work_type: birth certificates\n\n  title_text: Registration of birth of Kaliappan s/o Krishnasamy (Duplicate copy)\n\n  preference: main\n\n  title_language: \n\n  creator_2: Registrar of Births \\u0026 Deaths Singapore\n\n  creator_role: creators\n\n  creation_date: 15-Oct-46\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process)\n\n  object_colour: multicoloured\n\n  physical_appearance: \\The image displays a duplicate copy of a birth certificate. At the top centre of the birth certificate\n \\\\Duplicate (For informant) is stated\n\n  subject_terms_1: birth records follwed directly below with \\\\Colony of Singapore\\\\. \\\\Registration of Birth is stated in bold red letters at the top centre of the document. The place of birth is stated as \\\\Kandang Kerbau Hospital\\\\ in blue ink. The particulars and home address of both parents are available as well. There is a space for the father to note down his occupation but there is none for the mother.\\ births duplicates\n\n  subject_terms_2: Kandang Kerbau Hospital (Singapore) Registers of births\n etc. Certification certification\n\n  subject_terms_3: Birth certificates Former Kandang Kerbau Hospital\n\n  subject_terms_4: Kandang Kerbau Hospital\n",
-  "createdDate": "20201127000610",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -31,7 +31,7 @@
     "subject_terms_3": "Birth certificates Former Kandang Kerbau Hospital",
     "subject_terms_4": "Kandang Kerbau Hospital"
   },
-  "nlpDate": "20201127000610",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00561\n\n  Image: \n\n  object_work_type: newsletters\n\n  title_text: Barisan Sosialis Chinese-language party newsletters\n\n  preference: main\n\n  title_language: \n\n  creator_2: Central Propoganda Publishing Committee of the Barisan Sosialis\n\n  creator_1: Barisan Sosialis (Singapore)\n\n  creator_role: printers (people) creators\n\n  creation_date: 1966\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: printing paper\n\n  techniques_name: colour printing\n\n  object_colour: multicoloured\n\n  physical_appearance: \\The image shows the front cover of a newsletter. It has a white background. All the images and words on the newsletter are in red. \\\\1966\\\\ is stated at the right hand side. Chinese characters are present at the top\n\n  subject_terms_1: political campaigns propaganda centre socialism political organizations\n\n  subject_terms_2: Socialist propaganda Political campaigns Political party organization and bottom of the newsletter. The image shows a man and lady reading a book with a Chinese title. There are 3 flags on a poles behind them. \\\n\n  subject_terms_3: politics Barisan Sosialis\n\n  subject_terms_4: Newsletters\n\n  context_1: Newsletters\n",
-  "createdDate": "20201127000610",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -33,7 +33,7 @@
     "subject_terms_4": "Newsletters",
     "context_1": "Newsletters"
   },
-  "nlpDate": "20201127000610",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

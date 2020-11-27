@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00925\n\n  Image: \n\n  object_work_type: 35mm cameras\n\n  title_text: Leica Standard camera and components Leica Standard\n\n  preference: main alternate\n\n  title_language: \n\n  creation_date: 1930s\n\n  creation_place_original_location: Germany\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  object_colour: black (color) silver (color)\n\n  physical_appearance: This is a Leica camera accompanied by a set of camera equipment. The camera has a black body\n with silver knobs at the top\n and a rotational lens. The camera is accompanied by several parts such as an extra filter and case\n film roll cases\n and a black pouch.\n\n  subject_terms_1: camera accessories vintage (period) photography (discipline) camera components cameras (photographic equipment)\n\n  subject_terms_2: Photography Cameras Vintage Leica camera\n\n  subject_terms_3: Photography\n\n  sgcool_label_text: This Leica camera has a black body and is attached with a rotational nickle-finished Elmar lens. The Leica Standard was available in shops like Singapore Photo Co. which was located at High Street in 1935. \\r\\n\\r\\nBefore the advent of the portable camera in the late 19th century\n the taking of photographs was limited to the studio. However portable cameras remained affordable only to the rich until the first decades of the 20th century.\n",
-  "createdDate": "20201127000604",
+  "createdDate": "20201127205925",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -27,7 +27,7 @@
     "subject_terms_3": "Photography",
     "sgcool_label_text": "This Leica camera has a black body and is attached with a rotational nickle-finished Elmar lens. The Leica Standard was available in shops like Singapore Photo Co. which was located at High Street in 1935. \r\n\r\nBefore the advent of the portable camera in the late 19th century, the taking of photographs was limited to the studio. However portable cameras remained affordable only to the rich until the first decades of the 20th century."
   },
-  "nlpDate": "20201127000604",
+  "nlpDate": "20201127205925",
   "connectorId": 0,
   "tags": {}
 }

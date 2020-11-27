@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00816\n\n  Image: \n\n  object_work_type: oil paintings (visual works) canvas paintings\n\n  title_text: Sikh man\n\n  preference: main\n\n  title_language: \n\n  creator_2: Chen Cheng Mei (1927)\n\n  creator_1: Chen\n Cheng Mei\n 1927-\n\n  creator_role: artists (visual artists)\n\n  creation_date: 1960\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: Rectangular\n\n  materials_name: canvas (textile material) oil paint (paint)\n\n  techniques_name: oil painting (technique)\n\n  object_colour: multicoloured\n\n  physical_appearance: This is\n as the title suggest\n the portrait of  a Sikh man. He dons a white turban\n and has a beard. Decked in a greeen coat with a white shirt within\n the colours are visually contrasting with the bright red background he has been set against. The artist\\u0027s signature can be found on the bottom right.\n\n  subject_terms_1: single-sitter portraits Sikhism turbans\n\n  subject_terms_2: Painting Turbans Sikhism\n\n  subject_terms_3: Painting visual arts\n\n  sgcool_label_text: Sikh Man\n painted in 1960 when she was simultaneously working with the Bank of China\n could arguably be read as marking an earlier juncture in Chen’s development just prior to the start of her excursions with the Ten Men Art Group from December 1960.  \\r\\n At this point\n she was signing off her canvases as “Tan Seah Boey” (this was later shortened to a single character) and engaging colour forcefully and strategically. The only area of ‘modelling’ to create shadows and volume are on the Sikh man’s face; the rest of the painting adopts very little modulation of color. The outlines of his turban\n his green jacket and scarlet background are rendered as segments of unmodulated and sometimes striking colour\n evidencing the influence of Fauvist ways of rendering flat areas of pure\n vivid colour.\\r\\n\n",
-  "createdDate": "20201127000604",
+  "createdDate": "20201127205926",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_3": "Painting visual arts",
     "sgcool_label_text": "Sikh Man, painted in 1960 when she was simultaneously working with the Bank of China, could arguably be read as marking an earlier juncture in Chen’s development just prior to the start of her excursions with the Ten Men Art Group from December 1960.  \r\n At this point, she was signing off her canvases as “Tan Seah Boey” (this was later shortened to a single character) and engaging colour forcefully and strategically. The only area of ‘modelling’ to create shadows and volume are on the Sikh man’s face; the rest of the painting adopts very little modulation of color. The outlines of his turban, his green jacket and scarlet background are rendered as segments of unmodulated and sometimes striking colour, evidencing the influence of Fauvist ways of rendering flat areas of pure, vivid colour.\r\n"
   },
-  "nlpDate": "20201127000604",
+  "nlpDate": "20201127205926",
   "connectorId": 0,
   "tags": {}
 }

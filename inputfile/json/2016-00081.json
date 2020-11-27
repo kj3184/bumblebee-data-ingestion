@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00081\n\n  Image: \n\n  object_work_type: scrapbooks\n\n  title_text: Scrapbook belonging to MV Gurusamy\n\n  preference: main\n\n  title_language: \n\n  creator_2: Unknown\n\n  creation_date: Mid-20th century\n\n  creation_place_original_location: Singapore Malaya\n\n  styles_periods_indexing_terms: Not indicated\n\n  inscriptions: \n\n  inscription_language: \n\n  scale_type: Not indicated\n\n  shape: rectangular\n\n  materials_name: printing paper\n\n  techniques_name: printing (process)\n\n  object_colour: multicoloured\n\n  physical_appearance: \\The image shows a scrapbook. It is rectangular in shape and it has a dark green background. The front cover and spine of the scrapbook looks worn out. The initials \\\\M.V.G.\\\\ is stated at the front\n\n  subject_terms_1: in yellow.\\\n\n  subject_terms_2: musicians Musicians\n\n  subject_terms_3: Scrapbooks\n\n  subject_terms_4: Musicians\n",
-  "createdDate": "20201127000612",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_3": "Scrapbooks",
     "subject_terms_4": "Musicians"
   },
-  "nlpDate": "20201127000612",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

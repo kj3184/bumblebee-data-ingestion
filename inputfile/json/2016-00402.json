@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00402\n\n  Image: \n\n  object_work_type: calculators\n\n  title_text: Facit AB model 1004 mechanical calculator\n\n  preference: main\n\n  title_language: \n\n  creator_2: AB Åtvidabergs Industrier Facit AB\n\n  creator_1: Facit AB\n\n  creator_role: creators\n\n  creation_date: 1967\n\n  creation_place_original_location: Singapore Atvidaberg (Sweden)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: plastic (organic material) metal\n\n  techniques_name: forming (physical activity) metalworking\n\n  object_colour: white (colour)\n\n  physical_appearance: \\The image depicts a mechanical calculator of a specific model. The brand name\n \\\\Facit\\\\\n\n  subject_terms_1: is displayed in black capital letters on its right hand side. The buttons on the keyboard are either in black or white. There are hand-cranks on both sides of the mechanical calculator as well. The device is predominantly white in colour and there are no visible cracks or scratches on its exterior. Beside the brand name brand name objects\n\n  subject_terms_2: there are three sets of registers present on the mechanical calculator. The hinges located at the front of and at the bottom of the device appear to have some of its paint chipped of.\\ Technology Brand name products\n\n  subject_terms_3: technology (general associated concept)\n\n  subject_terms_4: Calculators\n",
-  "createdDate": "20201127000611",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_3": "technology (general associated concept)",
     "subject_terms_4": "Calculators"
   },
-  "nlpDate": "20201127000611",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

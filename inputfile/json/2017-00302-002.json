@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00302-002\n\n  Image: \n\n  object_work_type: articles\n\n  title_text: P.O.W. James Steele Archives: A Journalist\\u0027s Story of the Torpedoeing in the Malacca Straits Miscellaneous scraps of paper from P.O.W James Steele Archives (30 pieces)\n\n  preference: main alternate\n\n  title_language: \n\n  creation_date: 1941-1945\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process) writing (processes)\n\n  object_colour: black-and-white (colors)\n\n  physical_appearance: This is a page from a document that contains an article It is printed in faint black ink on a plain sheet of paper. There is a page number at the top-center of the document. The document is slightly folded and torn especially along the sides. There is a horizontal fold line across the center of the document.\n\n  subject_terms_1: documents (object genre) world wars torpedoes journalism prisoners of war\n\n  subject_terms_2: World War\n 1939-1945 Prisoners of war Torpedoes Journalism War stories\n\n  subject_terms_3: Non-fiction war personalities\n\n  subject_terms_4: \n\n  context_1: World War\n 1939-1945 1942-1945 Japanese Occupation\n\n  context_2: occupations (armed conflicts) world wars\n\n  context_3: 1942-1945 1939-1945\n\n  context_4: 1939 1942\n\n  context_5: 1945\n\n  context_6: Singapore Malaya\n\n  context_7: Great Britain. Army. Royal Field Artillery\n\n  context_8: armed forces\n\n  sgcool_label_text: Loose papers from the James Steele\n P.O.W archive that include a symbolic drawing\n Japanese banana money\n map of camp\n administrative papers from Changi prison pre-dating internment\n list of soldiers of a regiment as well as James Steele’s warrant to  join the army. These papers are part of the archive of James Steele\n Royal Artillery (Field) who served in Malaya from January 1941-February 1942\n when interned as a P.O.W at Changi until his release in October 1945.\n",
-  "createdDate": "20201127000606",
+  "createdDate": "20201127205926",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -38,7 +38,7 @@
     "context_8": "armed forces",
     "sgcool_label_text": "Loose papers from the James Steele, P.O.W archive that include a symbolic drawing, Japanese banana money, map of camp, administrative papers from Changi prison pre-dating internment, list of soldiers of a regiment as well as James Steele’s warrant to  join the army. These papers are part of the archive of James Steele, Royal Artillery (Field) who served in Malaya from January 1941-February 1942, when interned as a P.O.W at Changi until his release in October 1945."
   },
-  "nlpDate": "20201127000606",
+  "nlpDate": "20201127205926",
   "connectorId": 0,
   "tags": {}
 }

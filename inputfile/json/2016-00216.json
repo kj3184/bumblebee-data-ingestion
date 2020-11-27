@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00216\n\n  Image: \n\n  object_work_type: black-and-white photographs\n\n  title_text: Tamil family in Singapore Photograph of a Tamil family in Singapore\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: Choo Kong Studio\n\n  creator_1: Not indicated\n\n  creator_role: photography studios (organizations)\n\n  creation_date: 1968\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process) photographic processes\n\n  object_colour: grey monochrome\n\n  physical_appearance: \\The image shows a photograph that is in black-and-white. It is situated at the centre of a brown paper board. Below the photograph on the paper board on the bottom left\n \\\\Choo Kong Studio\\\\ and \\\\No 102 Serangoon Road\n\n  subject_terms_1: Singapore\\\\ are displayed. There are two lines of Chinese characters interspersed with \\\\Choo Kong Studio\\\\ and \\\\No 102 Serangoon Road families (kinship groups) studio portraits group portraits\n\n  subject_terms_2: Tamil (Indic people) Ethnic costume Portraits\n Group Portrait photography Families Singapore\\\\. The photograph features a lady\n\n  subject_terms_3: Indian costumes man and three young children. Both the adults are sitting down while the children are standing up. Only the lady is wearing her ethnic costume. They are looking towards the direction in which this photograph was taken. The background of the photograph suggests that this was taken in the interior of a building. \\\n\n  subject_terms_4: folk costume\n\n  context_1: Black-and-white photography\n\n  context_2: Portrait photography\n\n  context_23: This item was produced at a photographic studio called Choo Kong.\n\n  context_24: No 102 Serangoon Road\n Singapore.\n\n  sgcool_label_text: Not indicated\n",
-  "createdDate": "20201127000611",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -37,7 +37,7 @@
     "context_24": "No 102 Serangoon Road, Singapore.",
     "sgcool_label_text": "Not indicated"
   },
-  "nlpDate": "20201127000611",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

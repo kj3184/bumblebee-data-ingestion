@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00487\n\n  Image: \n\n  object_work_type: installations (visual works)\n\n  title_text: Damien\n I’m Famished (After Damien Hirst)\n\n  preference: main\n\n  title_language: \n\n  creator_2: Krit Ngamsom\n\n  creator_1: Not indicated\n\n  creator_role: sculptors\n\n  creation_date: 2016\n\n  creation_place_original_location: Thailand\n\n  styles_periods_indexing_terms: Contemporary (style of art)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: acrylic (plastic) steel (alloy) polyester (resin)\n\n  techniques_name: forming (physical activity) sculpting\n\n  object_colour: multicoloured\n\n  edition_description: 3 of 3\n\n  physical_appearance: The installation art is set in a space that has blue walls and floors\n albeit of different hues. To the left\n a shark with its head and teeth exposed protrudes from a transparent tank. The shark is positioned\n with its gaping mouth\n in the direction of a school of fish. The fish have orange tips on their caudal fins and they are all of different sizes. They are made to look like they are swimming\n with the help of vertical rods that extend from the ground.\n\n  subject_terms_1: sculpture (visual works) Selachii (order) symbolism (artistic concept) adaptations (derivative objects) fish (animals)\n\n  subject_terms_2: Sharks Symbolism Fishes Art Adaptations Installations (Art) Kinetic sculpture\n\n  subject_terms_3: Installation Art Sculpture\n\n  subject_terms_4: \n\n  sgcool_label_text: Krit Ngamsom’s kinetic sculptures are tongue-in-cheek references to iconic artworks that have changed definitions and assumptions about art. Damien\n I’m Famished is a playful reinterpretation of Damien Hirst’s iconic work\n The Physical Impossibility of Death in the Mind of Someone Living. Featuring the shark bursting from its tank to go after a tasty snack of fish\n Ngamsom’s reinterpretation of the work draws its inspiration from notions of Thai-ness – and in this case\n the Buddhist practice of Life Release.\n",
-  "createdDate": "20201127000605",
+  "createdDate": "20201127205926",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -35,7 +35,7 @@
     "subject_terms_4": "",
     "sgcool_label_text": "Krit Ngamsom’s kinetic sculptures are tongue-in-cheek references to iconic artworks that have changed definitions and assumptions about art. Damien, I’m Famished is a playful reinterpretation of Damien Hirst’s iconic work, The Physical Impossibility of Death in the Mind of Someone Living. Featuring the shark bursting from its tank to go after a tasty snack of fish, Ngamsom’s reinterpretation of the work draws its inspiration from notions of Thai-ness – and in this case, the Buddhist practice of Life Release."
   },
-  "nlpDate": "20201127000605",
+  "nlpDate": "20201127205926",
   "connectorId": 0,
   "tags": {}
 }

@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2014-00285-001\n\n  Image: \n\n  object_work_type: photograph albums\n\n  title_text: Photograph album cover Photography Album (donation from Anthony Robert Saint Claire)\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: Robert Arthur Polglaze\n\n  creator_1: Not indicated\n\n  creator_role: photographers\n\n  creation_date: 1940s\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process)\n\n  object_colour: multicoloured\n\n  physical_appearance: \\The image displays a photograph album. The front cover is red in colour and the spine is black. There is a yellow string running through the spine. \\\\Photo album\\\\ is stated in black font on the front of the photograph album cover. The cover looks worn out at the edges. The photographs are mostly rectangular in shape and they come in different sizes. There are both black-and-white and colour photographs present. Images of people and/or places can be seen on the photographs. \\\n\n  subject_terms_1: photographs\n\n  subject_terms_2: Photographs Photograph albums\n\n  subject_terms_3: Photography\n\n  sgcool_label_text: Not indicated\n",
-  "createdDate": "20201127000614",
+  "createdDate": "20201127205930",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_3": "Photography",
     "sgcool_label_text": "Not indicated"
   },
-  "nlpDate": "20201127000614",
+  "nlpDate": "20201127205930",
   "connectorId": 0,
   "tags": {}
 }

@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2014-00285-89\n\n  Image: \n\n  object_work_type: black-and-white photographs\n\n  title_text: Jean Hansperry \\u0026 Eileen Goodall Photography Album (donation from Anthony Robert Saint Claire)\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: Robert Arthur Polglaze\n\n  creator_1: Not indicated\n\n  creator_role: photographers\n\n  creation_date: 1940s\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: squares (geometric figures)\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process) photographic processes\n\n  object_colour: grey monochrome\n\n  physical_appearance: The image shows a black-and-white photograph. It is square and it features two ladies. Both of them are wearing military uniforms which consist of a shirt folded above the elbows\n and a skirt. They are posing and standing close to one another\n with their arms by their sides. The background of the photograph shows greenery and trees.\n\n  subject_terms_1: portraits military personnel\n\n  subject_terms_2: Women soldiers Portrait photography Black-and-white photography\n\n  subject_terms_3: Portrait photography Women\n\n  sgcool_label_text: Not indicated\n",
-  "createdDate": "20201127000613",
+  "createdDate": "20201127205930",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_3": "Portrait photography Women",
     "sgcool_label_text": "Not indicated"
   },
-  "nlpDate": "20201127000613",
+  "nlpDate": "20201127205930",
   "connectorId": 0,
   "tags": {}
 }

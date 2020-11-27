@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00222-001 and 002 \n\n  Image: \n\n  object_work_type: compilations (arranged works) cookbooks\n\n  title_text: A Friend in Need A Friend in Need: English-Tamil Cookery Book and case\n\n  preference: main alternate\n\n  title_language: \n\n  creator_1: F.I.N.S. Women\\u0027s Workshop Diocesan Press (Madras\n India)\n\n  creator_role: publishers compilers (makers of works)\n\n  creation_date: 1938\n\n  creation_place_original_location: Madras (India)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: Rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process) bookbinding (process)\n\n  object_colour: multicoloured\n\n  edition_description: 2nd edition\n\n  physical_appearance: \\This is a cook book comprising anglo-Indian recipes. The book shows an Indian man dressed in his folk costume whilst holding onto a tray of food with his right hand. Across the book is the title \\\\A Friend in Need English-Tamil Cookery Book\\\\. This book is placed within a black box\n\n  subject_terms_1: Tamil (language) that has the words \\\\An English-Tamil Cookery Book\\\\ and the publication details \\\\Madras ethnicity recipes cultural diffusion\n\n  subject_terms_2: F.I.N.S Women\\u0027s Workshop Recipes 1938\\\\ on its spine. \\ Tamil Ethnicity Cultural diffusion English Madras (India) Anglo-Indian\n\n  subject_terms_3: English (language)\n\n  subject_terms_4: Cookbooks\n\n  context_1: \n\n  context_2: \n",
-  "createdDate": "20201127000607",
+  "createdDate": "20201127205927",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -34,7 +34,7 @@
     "context_1": "",
     "context_2": ""
   },
-  "nlpDate": "20201127000607",
+  "nlpDate": "20201127205927",
   "connectorId": 0,
   "tags": {}
 }

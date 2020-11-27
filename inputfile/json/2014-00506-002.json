@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2014-00506-002\n\n  Image: \n\n  object_work_type: clippings (information artifacts) pages (components)\n\n  title_text: The Orient I. N. A. Fund The Orient\n\n  preference: main alternate\n\n  title_language: \n\n  creation_date: 26/5/46\n\n  creation_place_original_location: India Singapore Malaya\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing processes\n\n  object_colour: black-and-white prints (prints on paper)\n\n  physical_appearance: This clipping is a page from the periodical \\u0027The Orient Illustrated Weekly\\u0027 published on 26 May 1946. This page includes a list of donor names and a part of an article in the center column. The columns on left and right includes eight advertisements. The edges of the page are slightly torn\n especially at the top. There are several small tears in the middle of the page.\n\n  subject_terms_1: periodicals donations Indian (South Asian) nationalism\n\n  subject_terms_2: Periodicals periodicals Charitable uses\n trusts\n and foundations Indian National Army\n\n  subject_terms_3: Indian National Army Monument Site Indian National Army (Singapore) periodicals\n",
-  "createdDate": "20201127000613",
+  "createdDate": "20201127205930",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -28,7 +28,7 @@
     "subject_terms_2": "Periodicals periodicals Charitable uses, trusts, and foundations Indian National Army",
     "subject_terms_3": "Indian National Army Monument Site Indian National Army (Singapore) periodicals"
   },
-  "nlpDate": "20201127000613",
+  "nlpDate": "20201127205930",
   "connectorId": 0,
   "tags": {}
 }

@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00616\n\n  Image: \n\n  object_work_type: notes\n\n  title_text: Congratulatory wishes for the wedding of S Gopalakrishnan and Marimuthu Ammal\n\n  preference: main\n\n  title_language: \n\n  creation_date: 19510916\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process)\n\n  object_colour: multicoloured\n\n  physical_appearance: \\The image displays a single piece of note. It is predominantly yellow in colour\n and there is a red line serving as a border for the Tamil scripts within. There are Tamil scripts written in black and red ink\n in straight horizontal lines from left to right. The Tamil scripts are of different sizes. The date \\\\16-9-51\\\\ is stated in the closing part of the letter. \\\n\n  subject_terms_1: acknowledgements commemoratives social recognition marriage (social construct)\n\n  subject_terms_2: Marriage Special events\n\n  sgcool_label_text: Mr. S Gopalakrishnan (b. in 1920 in Tanjavur) was a prominent violinist\n and Carnatic singer. He arrived in Singapore in 1939 and actively participated in the Indian classical music scene here. Mr Gopalakrishnan performed alongside veterans of classical performers such as Pandit M Ramalingam and MV Gurusamy at temple and other music festivals. He also taught violin lessons at the Singapore Malayalee Association from the 1970s to 2000s. He was a member of the Tamils Reform Association and performed his wedding according to the principles of the Self-Respect Movement. He was also employed as a compositor at the Far East Air Force from 1954 to 1970.\n",
-  "createdDate": "20201127000610",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -28,7 +28,7 @@
     "subject_terms_2": "Marriage Special events",
     "sgcool_label_text": "Mr. S Gopalakrishnan (b. in 1920 in Tanjavur) was a prominent violinist, and Carnatic singer. He arrived in Singapore in 1939 and actively participated in the Indian classical music scene here. Mr Gopalakrishnan performed alongside veterans of classical performers such as Pandit M Ramalingam and MV Gurusamy at temple and other music festivals. He also taught violin lessons at the Singapore Malayalee Association from the 1970s to 2000s. He was a member of the Tamils Reform Association and performed his wedding according to the principles of the Self-Respect Movement. He was also employed as a compositor at the Far East Air Force from 1954 to 1970."
   },
-  "nlpDate": "20201127000610",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

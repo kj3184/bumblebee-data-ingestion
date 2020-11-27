@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2015-00557\n\n  Image: \n\n  object_work_type: bills (legislative records)\n\n  title_text: The Hindu Marriage Registration Ordinance (Draft Bill)\n\n  preference: main\n\n  title_language: \n\n  creator_2: The Tamils Reform Association Singapore\n\n  creator_1: Tamil?ar Ci?rtiruttac Can?kam (Cin?kappu?r) Tamils Reform Association\n\n  creator_role: creators\n\n  creation_date: 1956\n\n  creation_place_original_location: Singapore\n\n  styles_periods_indexing_terms: Not indicated\n\n  inscriptions: \n\n  inscription_language: \n\n  scale_type: Not indicated\n\n  shape: rectangular\n\n  materials_name: printing paper\n\n  techniques_name: printing (process)\n\n  object_colour: black-and-white (colours)\n\n  physical_appearance: \\The image shows a document. It is rectangular in shape. \\\\The Hindu Marriage Registration Ordinance\n\n  subject_terms_1: 1956\\\\ ordinances Hinduism drafts (documents) marriage (social construct)\n\n  subject_terms_2: Marriage Hinduism Drafts \\\\Draft Bill\\\\\n\n  subject_terms_3: and \\\\Prepared by: The Tamil Reform Association Singapore\\\\ are stated on the front of the document. \\\n\n  subject_terms_4: associations\n\n  context_1: Bills\n Legislative\n\n  context_2: Hinduism\n",
-  "createdDate": "20201127000612",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -36,7 +36,7 @@
     "context_1": "Bills, Legislative",
     "context_2": "Hinduism"
   },
-  "nlpDate": "20201127000612",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

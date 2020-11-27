@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00128\n\n  Image: \n\n  object_work_type: Bible boxes\n\n  title_text: Ivory Bible box\n\n  preference: main\n\n  title_language: \n\n  creation_date: 1750 - 1799\n\n  creation_place_original_location: Sri Lanka Jakarta (Indonesia)\n\n  styles_periods_indexing_terms: Sri Lankan Dutch Colonial\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular cuboid\n\n  materials_name: silver (metal) ivory (material)\n\n  techniques_name: forming (physical activity)\n\n  object_colour: multicoloured\n\n  physical_appearance: The image shows a rectangular box. It is predominantly white in colour. There are golden designs\n mounts\n and hinges on the front and side of the box. The motifs of scrolls and foliage can be discerned. The left side of the box has a compartment that can be locked or pulled open. A keyhole can be seen at the middle of the compartment. The right side of the box is shaped like the spine of a book.\n\n  subject_terms_1: cases (containers) foliage (motif) Christianity\n\n  subject_terms_2: Aesthetics\n Sri Lankan Motifs Book boxes Christianity\n\n  subject_terms_3: Christianity\n\n  sgcool_label_text: This is a rare ivory bible box\n with silver-gilt mounts.  The bible box is in the shape of a book with a ribbed spine and shaped sides. The hinged lid is carved with a central motif and leaves with pierced and engraved brass mounts and spirally fluted studs. \\r\\nDutch Colonial Bible boxes were usually made of calamander wood with silver mounts\n but were also made out of ivory\n tortoise shell and silver. They were used to hold a small personal bible\n and were sometimes carried in the retinue of Dutch ladies who resided in south India\n Sri Lanka or Southeast Asia.\n",
-  "createdDate": "20201127000612",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -30,7 +30,7 @@
     "subject_terms_3": "Christianity",
     "sgcool_label_text": "This is a rare ivory bible box, with silver-gilt mounts.  The bible box is in the shape of a book with a ribbed spine and shaped sides. The hinged lid is carved with a central motif and leaves with pierced and engraved brass mounts and spirally fluted studs. \r\nDutch Colonial Bible boxes were usually made of calamander wood with silver mounts, but were also made out of ivory, tortoise shell and silver. They were used to hold a small personal bible, and were sometimes carried in the retinue of Dutch ladies who resided in south India, Sri Lanka or Southeast Asia."
   },
-  "nlpDate": "20201127000612",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00022\n\n  Image: \n\n  object_work_type: black-and-white prints (photographs) photographic prints gelatin silver prints\n\n  title_text: Foreman\n\n  preference: main\n\n  title_language: \n\n  creator_2: Koon\n Sang Ho\n\n  creator_role: photographers\n\n  creation_date: c.1958\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: silver sulfide paper (fibre product) baryta paper gelatin\n\n  techniques_name: gelatin silver process photographic printing techniques black-and-white photography\n\n  object_colour: black-and-white (colours)\n\n  physical_appearance: This is a gelatin silver print and the image captured shows a man standing atop a concrete beam with a long tube in his right hand.  To the bottom right of the print\n two individuals with their heads wrapped in cloth are seen to be cleaning. To the left of the print there is a large sun hat and several wooden planks. On the verso\n there is a photographer\\u0027s chop with the number and title of work.\n\n  subject_terms_1: constructing construction workers chiaroscuro shadows construction sites\n\n  subject_terms_2: Chiaroscuro Building Royal Photographic Society of Great Britain Construction Workers Photography\n Artistic\n\n  subject_terms_3: Building and Construction visual arts Artistic photography\n\n  context_20: Address indicated on photography studio\\u0027s chop.\n\n  context_21: 40 Holloway  Lane\n Singapore 7\n\n  context_22: c.1958\n\n  context_23: 1953\n\n  context_24: 1963\n\n  sgcool_label_text: Ho Koon Sang was a member of the Photographic Society of Singapore and an Associate of the Royal Photographic Society in London.  These photos are typical of the salon photography style of the time\n with an emphasis on technique\n composition and tone.\n",
-  "createdDate": "20201127000609",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -36,7 +36,7 @@
     "context_24": "1963",
     "sgcool_label_text": "Ho Koon Sang was a member of the Photographic Society of Singapore and an Associate of the Royal Photographic Society in London.  These photos are typical of the salon photography style of the time, with an emphasis on technique, composition and tone."
   },
-  "nlpDate": "20201127000609",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

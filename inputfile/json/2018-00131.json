@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2018-00131\n\n  Image: \n\n  object_work_type: photographs black-and-white photographs\n\n  title_text: Studio photograph of a Batavian Peranakan Chinese bride\n\n  preference: main\n\n  title_language: \n\n  creator_2: Woodbury \\u0026 Page\n\n  creator_1: Woodbury \\u0026 Page\n\n  creator_role: photography studios (organizations)\n\n  creation_date: 1870\n\n  creation_place_original_location: Jakarta (inhabited place)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process) photographic processes\n\n  object_colour: grey monochrome\n\n  physical_appearance: The image shows a black-and-white photograph. It is rectangular and it features a bride. She is sitting down against a draped background. She is dressed in her ethnic wedding costume\n including an elaborate headwear. Both her hands are crossed and resting on her lap\n while she looks towards the direction in which the photograph was captured.\n\n  subject_terms_1: Peranakan brides studio portraits wedding dresses folk costume\n\n  subject_terms_2: Ethnic costume Peranakan (Asian people) Brides Wedding costume Portrait photography Black-and-white photography\n\n  subject_terms_3: Portrait photography Peranakan costumes Marriage customs Women\n\n  sgcool_label_text: This studio photograph shows a Chinese Peranakan bride in Batavia in her wedding dress seated against a draped background. This photograph was taken by Woodbury \\u0026 Page. The same photograph can be found in the collection of the KITLV/Royal Netherlands Institute of Southeast Asian and Caribbean Studies in Leiden.\\r\\n\\r\\nWoodbury \\u0026 Page was a photography studio set up in 1857 by British photographers Walter Bentley Woodbury and James Page in Batavia. \\r\\n\\r\\nStudios were already established across the Strait Settlements and the Dutch East Indies by the 1840s and became increasingly prevalent in the 1850s. During the 1920s\n Chinese-owned studios dominated the studio photography trade in Southeast Asia.\n",
-  "createdDate": "20201127000602",
+  "createdDate": "20201127205925",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_3": "Portrait photography Peranakan costumes Marriage customs Women",
     "sgcool_label_text": "This studio photograph shows a Chinese Peranakan bride in Batavia in her wedding dress seated against a draped background. This photograph was taken by Woodbury \u0026 Page. The same photograph can be found in the collection of the KITLV/Royal Netherlands Institute of Southeast Asian and Caribbean Studies in Leiden.\r\n\r\nWoodbury \u0026 Page was a photography studio set up in 1857 by British photographers Walter Bentley Woodbury and James Page in Batavia. \r\n\r\nStudios were already established across the Strait Settlements and the Dutch East Indies by the 1840s and became increasingly prevalent in the 1850s. During the 1920s, Chinese-owned studios dominated the studio photography trade in Southeast Asia."
   },
-  "nlpDate": "20201127000602",
+  "nlpDate": "20201127205925",
   "connectorId": 0,
   "tags": {}
 }

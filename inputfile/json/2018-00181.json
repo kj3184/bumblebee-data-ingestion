@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2018-00181\n\n  Image: \n\n  object_work_type: photographs black-and-white photographs\n\n  title_text: Photograph of Rabindranath Tagore and members of the Theosophic Society\n\n  preference: main\n\n  title_language: \n\n  creator_2: Not indicated\n\n  creator_1: Not indicated\n\n  creation_date: 1927\n\n  creation_place_original_location: Singapore (nation)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process) photographic processes\n\n  object_colour: grey monochrome\n\n  physical_appearance: The image shows a black-and-white photograph. It is rectangular and it features a group of people. Most of them are sitting down while a few are standing at the back. All of them are looking towards the direction where the photograph was captured. A few of the ladies and men have headdresses on. Most of the men are wearing suits and tie while the ladies adorn dresses. At the centre of the photograph is a man with a long beard. He has a garland around his neck. Shelves can be seen at the back.\n\n  subject_terms_1: societies religious orders poets group portraits\n\n  subject_terms_2: Theosophical Society (Chennai\n India) Tagore\n Rabindranath\n 1861-1941 Portraits\n Group Religious institutions Portrait photography Social groups Black-and-white photography\n\n  subject_terms_3: Poets Religious organisations Portrait photography\n\n  sgcool_label_text: This photograph shows Rabindranath Tagore surrounded by members of the Theosophic Society in Singapore.\\r\\n\\r\\nRabindranath Tagore (1861 - 1941)\n Bengali writer\n poet\n composer\n and painter and winner of the Nobel Prize in Literature in 1913\n visited Singapore in 1927. While in Singapore\n he attended a reception given by the Straits Chinese at the Garden Club at Raffles Square\n attended by prominent Peranakans including Dr Lim Boon Keng.\n",
-  "createdDate": "20201127000602",
+  "createdDate": "20201127205924",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -31,7 +31,7 @@
     "subject_terms_3": "Poets Religious organisations Portrait photography",
     "sgcool_label_text": "This photograph shows Rabindranath Tagore surrounded by members of the Theosophic Society in Singapore.\r\n\r\nRabindranath Tagore (1861 - 1941), Bengali writer, poet, composer, and painter and winner of the Nobel Prize in Literature in 1913, visited Singapore in 1927. While in Singapore, he attended a reception given by the Straits Chinese at the Garden Club at Raffles Square, attended by prominent Peranakans including Dr Lim Boon Keng."
   },
-  "nlpDate": "20201127000602",
+  "nlpDate": "20201127205924",
   "connectorId": 0,
   "tags": {}
 }

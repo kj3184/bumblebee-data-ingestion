@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00056\n\n  Image: \n\n  object_work_type: copper engravings (visual works) portraits\n\n  title_text: Portrait of Francois Valentijn\n\n  preference: main\n\n  title_language: \n\n  creator_2: Not indicated\n\n  creator_1: Not indicated\n\n  creator_role: Not indicated\n\n  creation_date: 1726\n\n  creation_place_original_location: Not indicated\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: Rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: copper engraving (printing process)\n\n  object_colour: black-and-white (colours)\n\n  physical_appearance: Valentijin\\u0027s portrait is framed with an oval rim in the center of the image\n and it is surrounded by six individuals that gaze upon his face. At the bottom of the print is is a caption in latin.\n\n  subject_terms_1: authors naturalists\n\n  subject_terms_2: Valentijn\n Francois\n 1666-1727 Engraving Portraits Naturalist Authors Prints East Indies Nederlandsche Oost-Indische Compagnie\n\n  subject_terms_3: Writers Visual arts\n\n  sgcool_label_text: Francois Valentijn was a minister\n naturalist and writer who devoted much of his life in serving the Dutch V.O.C.\n having spent a significant tenure from 1685 to 1714 in the East Indies. His monumental work Oud en Nieuw Oost-Indien (Old and New East-India)\n published between 1724 and 1726\n offered a comprehensive mapping of Southeast Asia\n and a large selection of scale maps and views of the East Indies.\n",
-  "createdDate": "20201127000609",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_3": "Writers Visual arts",
     "sgcool_label_text": "Francois Valentijn was a minister, naturalist and writer who devoted much of his life in serving the Dutch V.O.C., having spent a significant tenure from 1685 to 1714 in the East Indies. His monumental work Oud en Nieuw Oost-Indien (Old and New East-India), published between 1724 and 1726, offered a comprehensive mapping of Southeast Asia, and a large selection of scale maps and views of the East Indies."
   },
-  "nlpDate": "20201127000609",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2015-00538\n\n  Image: \n\n  object_work_type: leaves (plant components)\n\n  title_text: A Set of Palm Leaf Manuscripts A Pair of Palm Leaf Manuscripts\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: Unknown\n\n  creation_date: 20th century\n\n  creation_place_original_location: Kerala (India)\n\n  styles_periods_indexing_terms: Not indicated\n\n  inscriptions: \n\n  inscription_language: \n\n  scale_type: Not indicated\n\n  shape: rectangular\n\n  materials_name: palm leaf (material)\n\n  techniques_name: forming (physical activity)\n\n  object_colour: light brown\n\n  physical_appearance: The image shows three strips of palm leaves that are light brown in colour. There are two circular holes on the top and bottom palm leaves\n with the one in the middle havig only one hole. There are Tamil scripts written\n predominantly in straight horizontal lines from left to right.\n\n  subject_terms_1: Hinduism astrology inscriptions\n\n  subject_terms_2: Hindu astrology Palm-leaf inscriptions Horoscopes\n\n  subject_terms_3: Hinduism\n\n  sgcool_label_text: During the Second World War and the and the subsequent Japanese Occupation (1942 – 1945)\n Indians in Singapore had a diverse range of experiences; some left for India as refugees; some joined the Indian National Army; some were recruited for the Death Railway; and some strove to make ends meet and simply survive. This is a medal given by the Indian National Army to Indra Menon\n in recognition of the dance performances she gave to entertain the INA troops stationed in Singapore\n as part of the recreational activities organised for them.\n",
-  "createdDate": "20201127000612",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_3": "Hinduism",
     "sgcool_label_text": "During the Second World War and the and the subsequent Japanese Occupation (1942 – 1945), Indians in Singapore had a diverse range of experiences; some left for India as refugees; some joined the Indian National Army; some were recruited for the Death Railway; and some strove to make ends meet and simply survive. This is a medal given by the Indian National Army to Indra Menon, in recognition of the dance performances she gave to entertain the INA troops stationed in Singapore, as part of the recreational activities organised for them."
   },
-  "nlpDate": "20201127000612",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

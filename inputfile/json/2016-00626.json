@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00626\n\n  Image: \n\n  object_work_type: certificates\n\n  title_text: Certificate of Service issued to Kaliappan s/o Krishnasamy\n\n  preference: main\n\n  title_language: \n\n  creator_2: Far East Air Force (Royal Air Force)\n\n  creator_1: Great Britain. Royal Air Force\n\n  creator_role: creators\n\n  creation_date: 4-Jan-67\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process)\n\n  object_colour: grey (colour)\n\n  physical_appearance: \\The image displays a document. \\\\Certificate of Service\\\\ is displayed and underlined at the top of the document\n\n  subject_terms_1: air forces labourers just below the logo. \\\\Royal Air Force Tengah\\\\ is stated as the employer. The signature and particulars of \\\\D.C. Rabot\\\\ discharges\n\n  subject_terms_2: \\\\Officer Commanding Royal Air Force Tengah\\\\ Resignation Great Britain. Royal Air Force Blue collar workers\n\n  subject_terms_3: Tengah Air Base are present and stated at the bottom right hand side of the document. At the top right hand side of the certificate Military facilities\n\n  subject_terms_4: \\\\F.E.A.F. Form 219\\\\ is stated\n\n  context_1: serving as the abbrievation for Far East Air Force. There are some stains on the right hand side of the document.\\\n\n  context_2: certification\n\n  context_3: Certification\n\n  context_4: Great Britain. Royal Air Force\n\n  sgcool_label_text: This certificate of service was issued by the Air Ministry which was based in what is presently known as Tengah Air Base\n",
-  "createdDate": "20201127000610",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -37,7 +37,7 @@
     "context_4": "Great Britain. Royal Air Force",
     "sgcool_label_text": "This certificate of service was issued by the Air Ministry which was based in what is presently known as Tengah Air Base"
   },
-  "nlpDate": "20201127000610",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

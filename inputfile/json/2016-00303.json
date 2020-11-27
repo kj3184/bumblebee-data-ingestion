@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00303\n\n  Image: \n\n  object_work_type: maps (documents) copper engravings (visual works)\n\n  title_text: De Landvoogdy der Moluccos met de Aangrenzende Eylanden (The Landscape of the Moluccas and the Neighbouring Islands)\n\n  preference: main\n\n  title_language: \n\n  creator_2: Francois Valentijn\n\n  creator_1: Valentijn\n Francois\n 1666 - 1727\n\n  creator_role: mapmakers\n\n  creation_date: 1724\n\n  creation_place_original_location: Holland (Netherlands : Province)\n\n  inscriptions: \n\n  inscription_language: \n\n  scale_type: 1:45 0.083333333\n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process) mapmaking (process)\n\n  object_colour: multicoloured\n\n  physical_appearance: This map depicts the islands of Moluccas\n as well as its numerous neighbouring islands. Different colours are used on the different islands\n ranging from pink to turquoise to yellow. The map is separated into a larger part and a smaller one. There are two different sets of scales used in this map. On the upper right hand corner of the map which is the smaller part\n the scale of 1 : 45 is used. The larger part of the map utilizes the scale of 1 : 60. Straight black lines that run diagonal\n vertical\n and horizontal extend out from the two compasses that are located in both parts of the map.\n\n  subject_terms_1: islands (landforms) colonial settlements\n\n  subject_terms_2: Colonization Maps Islands East Indies Nederlandsche Oost-Indische Compagnie Maluku (Indonesia)\n\n  sgcool_label_text: Francois Valentijn (1666–1727) was a minister\n naturalist and writer who served the Dutch V.O.C. in the East Indies in the late 17th and early 18th centuries. His monumental work Oud en Nieuw Oost-Indien (Old and New East-India)\n published between 1724 and 1726\n offers a comprehensive mapping of the East Indies with a large selection of scale maps and views. This chart of Maluku (or the Moluccas) and its neighbouring islands was published in that work.\n",
-  "createdDate": "20201127000611",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_2": "Colonization Maps Islands East Indies Nederlandsche Oost-Indische Compagnie Maluku (Indonesia)",
     "sgcool_label_text": "Francois Valentijn (1666–1727) was a minister, naturalist and writer who served the Dutch V.O.C. in the East Indies in the late 17th and early 18th centuries. His monumental work Oud en Nieuw Oost-Indien (Old and New East-India), published between 1724 and 1726, offers a comprehensive mapping of the East Indies with a large selection of scale maps and views. This chart of Maluku (or the Moluccas) and its neighbouring islands was published in that work."
   },
-  "nlpDate": "20201127000611",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00631\n\n  Image: \n\n  object_work_type: hangings (coverings)\n\n  title_text: Toran Doorway hanging\n\n  preference: main alternate\n\n  title_language: \n\n  creation_date: 20th century\n\n  creation_place_original_location: Gujarat (India)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: glass (material) cotton (textile)\n\n  techniques_name: sewing (needleworking technique) embroidering\n\n  object_colour: multicolored\n\n  physical_appearance: This is a toran or a doorway hanging. It features a cotton weave with embroidery work. The toran is decorated with stylized depictions of birds\n animals\n foliage\n and deities. There is a sewn-on inscription on the center-right of the hanging. The shape of the toran is irregular\n with a rectangular top and nine dangling panels along the bottom.\n\n  subject_terms_1: beadwork (visual works) depictions (visual works) deities swastikas birds (motifs) flower (motif) embroidery (visual works)\n\n  subject_terms_2: Motifs Embroidery Draperies Gods\n\n  subject_terms_3: Textile art and design\n\n  subject_terms_4: \n",
-  "createdDate": "20201127000604",
+  "createdDate": "20201127205926",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -29,7 +29,7 @@
     "subject_terms_3": "Textile art and design",
     "subject_terms_4": ""
   },
-  "nlpDate": "20201127000604",
+  "nlpDate": "20201127205926",
   "connectorId": 0,
   "tags": {}
 }

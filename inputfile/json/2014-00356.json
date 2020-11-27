@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2014-00356\n\n  Image: \n\n  object_work_type: black-and-white photographs\n\n  title_text: Betelnut Palms\n\n  preference: main\n\n  title_language: \n\n  creator_2: G.R. Lambert \\u0026 Company\n\n  creator_1: G.R. Lambert \\u0026 Co.\n\n  creator_role: photography studios (organizations)\n\n  creation_date: Not indicated\n\n  creation_place_original_location: Malaysia Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process) photographic processes\n\n  object_colour: grey (colour) monochrome\n\n  physical_appearance: \\The image shows a photograph that is in black-and-white.  It is rectangular and it features a cluster of tall trees with thin stems along the left and right sides of the photograph. The number and amount of trees are numerous\n stretching all the way from the foreground to the background of the photograph. There is a wide clearing in the middle and five people can be seen there. They are dressed in the Malay traditional costumes\n and one of them is carrying a stick with loads attached on either side on his shoulders. \\\\Betenuts Palm 122\\\\ is stated in white at the lower left hand side of the photograph. \\\n\n  subject_terms_1: natural landscapes indigenous people Arecaceae (family)\n\n  subject_terms_2: Landscape photography Betel palm Landscapes Indigenous people Black-and-white photography\n\n  subject_terms_3: Landscape photography G. R. Lambert \\u0026 Co.\n\n  sgcool_label_text: This is a photograph from G. R. Lambert \\u0026 Company that shows the growth of betelnut palms\n also known as the areca catechu\n in the Straits Settlements. The betelnut palm has many uses in the local culture.\n",
-  "createdDate": "20201127000613",
+  "createdDate": "20201127205930",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_3": "Landscape photography G. R. Lambert \u0026 Co.",
     "sgcool_label_text": "This is a photograph from G. R. Lambert \u0026 Company that shows the growth of betelnut palms, also known as the areca catechu, in the Straits Settlements. The betelnut palm has many uses in the local culture."
   },
-  "nlpDate": "20201127000613",
+  "nlpDate": "20201127205930",
   "connectorId": 0,
   "tags": {}
 }

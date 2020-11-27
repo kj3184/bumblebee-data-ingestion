@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00119\n\n  Image: \n\n  object_work_type: oil paintings (visual works)\n\n  title_text: Chinese junk at anchor\n\n  preference: main\n\n  title_language: \n\n  creator_1: (Ye-Chung Studio)\n\n  creator_role: creator\n\n  creation_date: 19th century\n\n  creation_place_original_location: Hong Kong (China)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: canvas (textile material) oil paint (paint)\n\n  techniques_name: oil painting (technique)\n\n  object_colour: multicolored\n\n  physical_appearance: This painting shows a ship at anchor. On the stern of the ship\n there is an image of a large bird with the sun. There is another ship on the background on the left. On the right of the painting there is a structure on land. On the foreground of the image there are two boats with men rowing.\n\n  subject_terms_1: Chinese (culture or style) junks (vessels) harbors trade (function) seaports\n\n  subject_terms_2: Painting China trade painting Harbors Junks\n\n  subject_terms_3: Ports Harbours Oil painting\n\n  sgcool_label_text: This painting shows a Chinese junk at anchor\n probably outside a trading port in China\n perhaps Canton. The ships were used for trade with Southeast Asia and other areas\n transporting rattan\n bamboo\n tea\n tin\n lead\n sago\n salt\n porcelain\n and other goods. The large bird near the sun on the stern is likely the mythical phoenix (feng huang). At right is a structure on land\n possibly a fort. \\r\\n\\r\\nProduced largely for visiting tourists and foreign traders\n these works were known as China trade paintings\n and were popular in the 18th and 19th centuries. They were produced by local and foreign artists\n working in a Western style\n to appeal to the market.\n",
-  "createdDate": "20201127000612",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -31,7 +31,7 @@
     "subject_terms_3": "Ports Harbours Oil painting",
     "sgcool_label_text": "This painting shows a Chinese junk at anchor, probably outside a trading port in China, perhaps Canton. The ships were used for trade with Southeast Asia and other areas, transporting rattan, bamboo, tea, tin, lead, sago, salt, porcelain, and other goods. The large bird near the sun on the stern is likely the mythical phoenix (feng huang). At right is a structure on land, possibly a fort. \r\n\r\nProduced largely for visiting tourists and foreign traders, these works were known as China trade paintings, and were popular in the 18th and 19th centuries. They were produced by local and foreign artists, working in a Western style, to appeal to the market."
   },
-  "nlpDate": "20201127000612",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

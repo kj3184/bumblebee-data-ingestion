@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2014-00364-003\n\n  Image: \n\n  object_work_type: concert programmes\n\n  title_text: 2 Maurice Clare programmes and related newspaper cuttings Goh Soon Tioe presents Maurice Clare\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: Goh Soon Tioe\n\n  creator_1: Goh\n Soon Tioe\n 1911-1982\n\n  creator_role: creators\n\n  creation_date: 1953 - 1954\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process)\n\n  object_colour: multicoloured\n\n  physical_appearance: \\The image shows a concert programme. It is rectangular in shape and there are two punched holes on the left. \\\\Goh Soon Tioe presents Maurice Clare\\\\ and \\\\Violinist\\\\ are present on the concert programme. \\\n\n  subject_terms_1: musicians violinists recitals\n\n  subject_terms_2: Clare\n Maurice Concerts Goh\n Soon Tioe\n 1911-1982 Violinists Concert programmes\n\n  subject_terms_3: Violinists Musicians Goh\n Soon Tioe\n\n  sgcool_label_text: Not indicated\n",
-  "createdDate": "20201127000613",
+  "createdDate": "20201127205930",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_3": "Violinists Musicians Goh, Soon Tioe",
     "sgcool_label_text": "Not indicated"
   },
-  "nlpDate": "20201127000613",
+  "nlpDate": "20201127205930",
   "connectorId": 0,
   "tags": {}
 }

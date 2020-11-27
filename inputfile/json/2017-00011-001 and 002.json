@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00011-001 and 002\n\n  Image: \n\n  object_work_type: uniforms kebayas\n\n  title_text: SIA sarong kebaya uniform\n\n  preference: main\n\n  title_language: \n\n  creator_2: Pierre Balmain\n\n  creator_1: Balmain\n Pierre\n 1914-1982\n\n  creator_role: fashion designers\n\n  creation_date: 1970s\n\n  creation_place_original_location: Malaysia Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  materials_name: cotton (textile)\n\n  techniques_name: sewing (needleworking technique)\n\n  object_colour: multicoloured\n\n  physical_appearance: This is the Singapore Airline\\u0027s sarong kebaya uniform for ladies. The blouse has a scoop neckline\n three-quarter sleeves\n and a front zip opening. A sawtooth design runs through the centre panel and bottom edge of the blouse and skirt\n neckline and sleeves.\n\n  subject_terms_1: batik flower (motifs) identity corporate image\n\n  subject_terms_2: Singapore Airlines Pierre Balmain (Firm) Identity Batik Malaysia-Singapore Airlines Floral decorations Corporate image Uniforms\n\n  subject_terms_3: Singapore Airlines Malaysia-Singapore Airlines\n\n  sgcool_label_text: The iconic SIA sarong kebaya uniform is central to SIA’s branding\n particularly when the “Singapore Girl” emerged as a marketing initiative.  The blouse has a scoop neckline\n three-quarter length sleeves and a front zip opening.  A colourful border resembling the sawtooth motif runs throughout the edges of the blouse and the pleated centre panel of the skirt.  This uniform was designed by renowned French couturier Pierre Balmain\n and was first unveiled in 1968 when Singapore Airlines was still part of Malaysia-Singapore Airlines (MSA).  Balmain’s choice of batik print for the uniforms of both cabin crew and ground staff was a means for SIA to assert Malayan identity and hospitality.  Although the batik print design has been updated over the years\n the use of batik and the colours blue\n red\n brown\n brown and green for the batik motif persists.  Today\n this uniform is seen in four colours\n with each colour denoting the rank of the flight stewardess.\\r\\n\n",
-  "createdDate": "20201127000609",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -31,7 +31,7 @@
     "subject_terms_3": "Singapore Airlines Malaysia-Singapore Airlines",
     "sgcool_label_text": "The iconic SIA sarong kebaya uniform is central to SIA’s branding, particularly when the “Singapore Girl” emerged as a marketing initiative.  The blouse has a scoop neckline, three-quarter length sleeves and a front zip opening.  A colourful border resembling the sawtooth motif runs throughout the edges of the blouse and the pleated centre panel of the skirt.  This uniform was designed by renowned French couturier Pierre Balmain, and was first unveiled in 1968 when Singapore Airlines was still part of Malaysia-Singapore Airlines (MSA).  Balmain’s choice of batik print for the uniforms of both cabin crew and ground staff was a means for SIA to assert Malayan identity and hospitality.  Although the batik print design has been updated over the years, the use of batik and the colours blue, red, brown, brown and green for the batik motif persists.  Today, this uniform is seen in four colours, with each colour denoting the rank of the flight stewardess.\r\n"
   },
-  "nlpDate": "20201127000609",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

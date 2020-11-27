@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2014-00107\n\n  Image: \n\n  object_work_type: guidebooks\n\n  title_text: Good Food Guide to Singapore\n\n  preference: main\n\n  title_language: \n\n  creator_2: Allan Bruce\n\n  creator_1: Not indicated\n\n  creator_role: authors\n\n  creation_date: 1971\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product) printing paper\n\n  techniques_name: bookbinding (process) colour printing illustration (process)\n\n  object_colour: multicoloured\n\n  edition_description: 2nd Edition\n\n  physical_appearance: \\The image displays the front cover of a book. It has a red and black background. \\\\Good Food Guide to Singapore Second Edition\n\n  subject_terms_1: nonfiction Allan Bruce\\\\ is stated as well. The words are white in colour. There are leaf-shaped patterns displayed at the four corners of the book. \\\n\n  subject_terms_2: Local foods Singapore food\n\n  subject_terms_3: Guidebooks\n\n  subject_terms_4: Non-fiction\n",
-  "createdDate": "20201127000614",
+  "createdDate": "20201127205930",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -33,7 +33,7 @@
     "subject_terms_3": "Guidebooks",
     "subject_terms_4": "Non-fiction"
   },
-  "nlpDate": "20201127000614",
+  "nlpDate": "20201127205930",
   "connectorId": 0,
   "tags": {}
 }

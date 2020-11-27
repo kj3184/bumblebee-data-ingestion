@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2014-00285-006\n\n  Image: \n\n  object_work_type: black-and-white photographs\n\n  title_text: Photography Album (donation from Anthony Robert Saint Claire) Commemorative tablet\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: Robert Arthur Polglaze\n\n  creator_1: Not indicated\n\n  creator_role: photographers\n\n  creation_date: 1940s\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process) photographic processes\n\n  object_colour: grey monochrome\n\n  physical_appearance: The image shows a black-and-white photograph. It is rectangular and it features a body of water in the background together with land masses in the distance. At the foreground stands a rectangular tablet. There are some Chinese characters on the tablet but they are not fully discernable. A directory signboard is located to the left of the tablet. There are a couple of trees as well as shrubs present.\n\n  subject_terms_1: bodies of water (natural) tablets (information artifacts)\n\n  subject_terms_2: Bodies of water Black-and-white photography Memorials\n\n  subject_terms_3: Photography\n\n  sgcool_label_text: Not indicated\n",
-  "createdDate": "20201127000614",
+  "createdDate": "20201127205930",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_3": "Photography",
     "sgcool_label_text": "Not indicated"
   },
-  "nlpDate": "20201127000614",
+  "nlpDate": "20201127205930",
   "connectorId": 0,
   "tags": {}
 }

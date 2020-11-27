@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00308\n\n  Image: \n\n  object_work_type: maps (documents) copper engravings (visual works)\n\n  title_text: Kaart der Reyse van Abel Tasman volgens syn eygen opstel (Map showing the route taken by Abel Tasman)\n\n  preference: main\n\n  title_language: \n\n  creator_2: Francois Valentijn\n\n  creator_1: Valentijn\n Francois\n 1666 - 1727\n\n  creator_role: mapmakers\n\n  creation_date: 1726\n\n  creation_place_original_location: Holland (Netherlands : Province)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product) printing paper\n\n  techniques_name: mapmaking (process) colour printing\n\n  object_colour: multicoloured\n\n  physical_appearance: The map depicts several islands such as Mauritius\n Tasmania\n New Zealand\n and Batavia. Different colours are used on the different islands\n ranging from pink to turquoise to yellow. The scale used to chart this map is not shown. There are no latitudes and longitudes on this map\n and the compass that is located slightly towards the left from its middle. A dotted line is drawn from the island of Mauritius to Java\n passing through the islands of van Diemens Land\n New Zealand\n and Land der Popoas.\n\n  subject_terms_1: islands (landforms) colonial settlements expeditions (journeys)\n\n  subject_terms_2: Australia Colonization Tasman\n Abel Janszoon\n 1603? - 1659 Indonesia Maps Islands East Indies Nederlandsche Oost-Indische Compagnie Borneo Expedition\n\n  sgcool_label_text: Francois Valentijn (1666–1727) was a minister\n naturalist and writer who served the Dutch V.O.C. in the East Indies in the late 17th and early 18th centuries. His monumental work Oud en Nieuw Oost-Indien (Old and New East-India)\n published between 1724 and 1726\n offers a comprehensive mapping of the East Indies with a large selection of scale maps and views. This map\n which was published in that work\n traces the route of Dutch explorer Abel Tasman from Mauritius\n via Van Dieman’s Land (Tasmania) and New Zealand\n to Batavia.\n",
-  "createdDate": "20201127000611",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -31,7 +31,7 @@
     "subject_terms_2": "Australia Colonization Tasman, Abel Janszoon, 1603? - 1659 Indonesia Maps Islands East Indies Nederlandsche Oost-Indische Compagnie Borneo Expedition",
     "sgcool_label_text": "Francois Valentijn (1666–1727) was a minister, naturalist and writer who served the Dutch V.O.C. in the East Indies in the late 17th and early 18th centuries. His monumental work Oud en Nieuw Oost-Indien (Old and New East-India), published between 1724 and 1726, offers a comprehensive mapping of the East Indies with a large selection of scale maps and views. This map, which was published in that work, traces the route of Dutch explorer Abel Tasman from Mauritius, via Van Dieman’s Land (Tasmania) and New Zealand, to Batavia."
   },
-  "nlpDate": "20201127000611",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

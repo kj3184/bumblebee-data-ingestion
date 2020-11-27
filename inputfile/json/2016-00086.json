@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00086\n\n  Image: \n\n  object_work_type: testimonials\n\n  title_text: Testimonial of Appreciation by Indian Fine Arts Society of Singapore to MV Gurusamy\n\n  preference: main\n\n  title_language: \n\n  creator_2: Unknown\n\n  creation_date: 14-Aug-60\n\n  creation_place_original_location: Singapore\n\n  styles_periods_indexing_terms: Not indicated\n\n  inscriptions: \n\n  inscription_language: \n\n  scale_type: Not indicated\n\n  shape: rectangular\n\n  materials_name: printing paper\n\n  techniques_name: printing (process)\n\n  object_colour: multicoloured\n\n  physical_appearance: \\The image shows a testimonial. It is rectangular in shape and it has a beige background. \\\\Testimonial of Appreciation\\\\ is stated at the top. \\\\This testimonial is presented by the Indian Fine Arts Society of Singapore as a token of appreciation…\\\\ is stated near the bottom. \\\\14th August 1960\\\\ is handwritten at the bottom. \\\n\n  subject_terms_1: musicians societies honours\n\n  subject_terms_2: Societies Appreciation of a person’s creative works Musicians\n\n  subject_terms_3: Victoria Theatre and Concert Hall Clans and associations Musicians\n\n  sgcool_label_text: M.V.Gurusamy (b. 1920 in Seremban) was an accomplished percussionist and mridangam artiste as well as a renowned percussion teacher in Singapore. He arrived in Singapore and participated in the Indian classical music scene here. He was a member of the cultural contingent led by the then Minister for Culture\n S. Rajaratnam\n which visited and performed at various centres in Sarawak\n Brunei and Sabah in 1965. He was the recipient of several titles including the Kala Ratna award given by the Singapore Indian Fine Arts Society in 1986.\n",
-  "createdDate": "20201127000612",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_3": "Victoria Theatre and Concert Hall Clans and associations Musicians",
     "sgcool_label_text": "M.V.Gurusamy (b. 1920 in Seremban) was an accomplished percussionist and mridangam artiste as well as a renowned percussion teacher in Singapore. He arrived in Singapore and participated in the Indian classical music scene here. He was a member of the cultural contingent led by the then Minister for Culture, S. Rajaratnam, which visited and performed at various centres in Sarawak, Brunei and Sabah in 1965. He was the recipient of several titles including the Kala Ratna award given by the Singapore Indian Fine Arts Society in 1986."
   },
-  "nlpDate": "20201127000612",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

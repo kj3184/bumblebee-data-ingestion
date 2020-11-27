@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2018-00195-001\n\n  Image: \n\n  object_work_type: envelopes\n\n  title_text: Group of 6 envelopes for negatives: Kodacolour colour prints envelope Group of 6 envelopes for negatives\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: Eastman Kodak Company\n\n  creator_1: Eastman Kodak Company\n\n  creator_role: creators\n\n  creation_date: 1950s-1970s\n\n  creation_place_original_location: Singapore (nation)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process) photographic processes\n\n  object_colour: multicoloured\n\n  physical_appearance: \\The image shows an envelope. It is a rectangular and it has a background that is yellow in colour. \\\\Kodacolour colour prints\\\\ is stated at the centre. \\\\Made by Kodak\\\\ is stated at the bottom right hand side. The envelope is torn at its edges on the top.\\\n\n  subject_terms_1: negatives (photographs)\n\n  subject_terms_2: Photography Stamped envelopes\n\n  subject_terms_3: Photography\n\n  sgcool_label_text: These envelopes from would have been used to store processed film negatives from the 1950s – 1970s.\n",
-  "createdDate": "20201127000602",
+  "createdDate": "20201127205924",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_3": "Photography",
     "sgcool_label_text": "These envelopes from would have been used to store processed film negatives from the 1950s – 1970s."
   },
-  "nlpDate": "20201127000602",
+  "nlpDate": "20201127205924",
   "connectorId": 0,
   "tags": {}
 }

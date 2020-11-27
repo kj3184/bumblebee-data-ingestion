@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00505\n\n  Image: \n\n  object_work_type: dresses (garments)\n\n  title_text: Purple Dress with Embroidered Floral Motifs in Gold Threading Purple Dress with Embroidered Floral Motifs in Gold Threading by Sylvia Kho nee Wong Sien Moy\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: Sylvia Kho\n\n  creator_1: Kho\n Sylvia\n 1917-\n\n  creator_role: fashion designers\n\n  creation_date: 1973\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: tulle (meshed textile)\n\n  techniques_name: sewing (needleworking technique) embroidering\n\n  object_colour: multicoloured\n\n  physical_appearance: This is a collared long-sleeved purple dress with embroidered floral motifs in gold threading.\n\n  subject_terms_1: custom-made womenswear flower (motif)\n\n  subject_terms_2: Tulle Custom-made clothing Women\\u0027s clothing Kho\n Sylvia\n 1917- Dresses Flowers in art\n\n  subject_terms_3: Fashion design Kho\n Sylvia\n 1917-\n\n  sgcool_label_text: Mrs Sylvia Kho (nee Wong Sien Moy) was a prominent bridal designer in Singapore from the 1950s to 1990s. Beyond wedding gowns\n she also designed dresses for her female relatives.  This mother of the bride dress was designed and made by Sylvia Kho for her seventh sister\n Mrs Florence Chong (nee Wong Chit Moy). It was worn by Mrs Florence Chong at her daughter Colleen’s wedding in July 1973.\n",
-  "createdDate": "20201127000605",
+  "createdDate": "20201127205926",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_3": "Fashion design Kho, Sylvia, 1917-",
     "sgcool_label_text": "Mrs Sylvia Kho (nee Wong Sien Moy) was a prominent bridal designer in Singapore from the 1950s to 1990s. Beyond wedding gowns, she also designed dresses for her female relatives.  This mother of the bride dress was designed and made by Sylvia Kho for her seventh sister, Mrs Florence Chong (nee Wong Chit Moy). It was worn by Mrs Florence Chong at her daughter Colleen’s wedding in July 1973."
   },
-  "nlpDate": "20201127000605",
+  "nlpDate": "20201127205926",
   "connectorId": 0,
   "tags": {}
 }

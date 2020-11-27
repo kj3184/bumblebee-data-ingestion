@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2014-00206-018\n\n  Image: \n\n  object_work_type: black-and-white photographs\n\n  title_text: Items Related to Doris Geddes Doris Geddes\\u0027 Little Shop\n Raffles Hotel\n circa 1950\n\n  preference: main alternate\n\n  title_language: \n\n  creation_date: Not indicated\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product) printing paper\n\n  techniques_name: printing processes\n\n  object_colour: grey (colour) monochrome\n\n  physical_appearance: \\The image displays a black-and-white photograph. The photograph is encased in a black frame and it has a white border. It depicts the interior of a building\n and shows numerous items such as furniture and flowers. A couple of carpets can be seen on the tiled flooring. At the left of the photograph\n the head of a mannequin can be seen\n atop the drawer. Below the image\n \\\\Doris Geddes\\u0027 Little Shop\n\n  subject_terms_1: Raffles Hotel retail stores interior spaces (spaces by location)\n\n  subject_terms_2: Stores\n Retail Raffles Hotel circa 1950\\\\ is stated.  \\\n\n  subject_terms_3: Raffles Hotel Retail hotels (public accommodations)\n\n  subject_terms_4: Black-and-white photography\n\n  context_1: Photography\n",
-  "createdDate": "20201127000614",
+  "createdDate": "20201127205930",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -30,7 +30,7 @@
     "subject_terms_4": "Black-and-white photography",
     "context_1": "Photography"
   },
-  "nlpDate": "20201127000614",
+  "nlpDate": "20201127205930",
   "connectorId": 0,
   "tags": {}
 }

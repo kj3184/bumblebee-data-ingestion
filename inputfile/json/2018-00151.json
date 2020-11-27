@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2018-00151\n\n  Image: \n\n  object_work_type: photographs black-and-white photographs\n\n  title_text: Photograph of two nyonyas and three children\n\n  preference: main\n\n  title_language: \n\n  creator_2: Not indicated\n\n  creator_1: Not indicated\n\n  creation_date: 1870s-1890s\n\n  creation_place_original_location: Straits Settlement (former territory/colony/dependent state)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process) photographic processes\n\n  object_colour: grey monochrome\n\n  physical_appearance: The image shows a black-and-white photograph. It is rectangular and it features two ladies and three children. The two women are sitting down while the three children are standing up\n one on either side of the adults and the third in the middle. All of them are looking towards the direction in which the photograph was captured. They are all dressed in their ethnic costumes. The boy on the left hand side has his headdress on.\n\n  subject_terms_1: women (female humans) Peranakan children (people by age group) group portraits folk costume\n\n  subject_terms_2: Ethnic costume Peranakan (Asian people) Children Portraits\n Group Portrait photography Black-and-white photography Women\n\n  subject_terms_3: Chinese costumes Children Portrait photography Peranakan costumes Women\n\n  sgcool_label_text: This photograph shows two nyonyas seated between three children. The two young girls wear machine-printed baju panjangs\n while the boy is dressed in Chinese robes.\\r\\n\\r\\nStudios were already established across the Strait Settlements and the Dutch East Indies by the 1840s and became increasingly prevalent in the 1850s. During the 1920s\n Chinese-owned studios dominated the studio photography trade in Southeast Asia.\n",
-  "createdDate": "20201127000602",
+  "createdDate": "20201127205925",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -31,7 +31,7 @@
     "subject_terms_3": "Chinese costumes Children Portrait photography Peranakan costumes Women",
     "sgcool_label_text": "This photograph shows two nyonyas seated between three children. The two young girls wear machine-printed baju panjangs, while the boy is dressed in Chinese robes.\r\n\r\nStudios were already established across the Strait Settlements and the Dutch East Indies by the 1840s and became increasingly prevalent in the 1850s. During the 1920s, Chinese-owned studios dominated the studio photography trade in Southeast Asia."
   },
-  "nlpDate": "20201127000602",
+  "nlpDate": "20201127205925",
   "connectorId": 0,
   "tags": {}
 }

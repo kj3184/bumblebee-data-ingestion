@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00212-060\n\n  Image: \n\n  object_work_type: black-and-white photographs\n\n  title_text: Photograph album of views and portraits in the Punjab\n Cashmere\n Ceylon\n Burma\n Penang\n Singapore\n and Java Singapore from Fort Canning\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: John Thomson\n\n  creator_1: Thomson\n J. (John)\n 1837-1921\n\n  creator_role: photographers\n\n  creation_date: before 28 Jul 1876\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: albumen (egg white protein) paper (fiber product) albumen paper\n\n  techniques_name: albumen process\n\n  object_colour: black-and-white (colors)\n\n  physical_appearance: This is a photograph of a high point view of Singapore from Fort canning. In the center of the photograph\n there is a long\n white bunker structure. On its left\n there is a cannon. In the background\n there are numerous buildings surrounding a reservoir near the port. In the distance\n there are several ships harboured near the coast. The photograph is slightly folded at the top. The title is written at the bottom\n below the photograph.\n\n  subject_terms_1: forts aerial views coastal settlements port settlements\n\n  subject_terms_2: Aerial views Photographs Thomson\n J. (John)\n 1837-1921 coastal settlements Singapore Fortification\n\n  subject_terms_3: Photography Fort Canning Hill\n",
-  "createdDate": "20201127000611",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -31,7 +31,7 @@
     "subject_terms_2": "Aerial views Photographs Thomson, J. (John), 1837-1921 coastal settlements Singapore Fortification",
     "subject_terms_3": "Photography Fort Canning Hill"
   },
-  "nlpDate": "20201127000611",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

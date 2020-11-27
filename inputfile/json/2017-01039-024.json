@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-01039-024\n\n  Image: \n\n  object_work_type: articles clippings (information artifacts)\n\n  title_text: Photograph album presented to George Lowe as a souvenir of his visit to Singapore George Lowe album: Article on Picasso at the Tate\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: Eric Newton (?) The Guardian (?)\n\n  creator_1: Guardian Newspapers Ltd\n\n  creator_role: publishers authors\n\n  creation_date: 1953\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: photographic processes\n\n  object_colour: black-and-white (colors)\n\n  physical_appearance: This is a newspaper clipping. The name of the newspaper and the date is printed at the to\n above a line. The title of the article is printed in the center\n with the author\\u0027s name underneath it. The article is presented in three columns. Alongside the article\n there are seven black-and-white photographs. The clipping has deep creases along fold lines. There are no tears seen on the clipping.\n\n  subject_terms_1: newspapers souvenirs art (fine art) exhibitions (events)\n\n  subject_terms_2: Picasso\n Pablo\n 1881-1973 Lowe\n George\n 1924-2013 Tate Gallery Hillary\n Edmund\n 1919-2008 Newspapers Photograph albums Souvenir\n\n  subject_terms_3: Art Exhibitions Newspapers Painters (Art)\n\n  subject_terms_4: \n\n  sgcool_label_text: George Lowe was a member of the British Expedition that saw Sir Edmund Hillary scale Mount Everest on 29 May 1953. In September that year\n Lowe accompanied Hillary on a visit to Singapore to deliver their first Everest lecture outside of New Zealand at the Odeon Theatre to an audience of 1\n620 schoolchildren. This photograph album\n with the coat of arms of the City of Singapore in gilt on the cover\n was presented to Lowe as a souvenir of his visit.\n",
-  "createdDate": "20201127000603",
+  "createdDate": "20201127205925",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -33,7 +33,7 @@
     "subject_terms_4": "",
     "sgcool_label_text": "George Lowe was a member of the British Expedition that saw Sir Edmund Hillary scale Mount Everest on 29 May 1953. In September that year, Lowe accompanied Hillary on a visit to Singapore to deliver their first Everest lecture outside of New Zealand at the Odeon Theatre to an audience of 1,620 schoolchildren. This photograph album, with the coat of arms of the City of Singapore in gilt on the cover, was presented to Lowe as a souvenir of his visit."
   },
-  "nlpDate": "20201127000603",
+  "nlpDate": "20201127205925",
   "connectorId": 0,
   "tags": {}
 }

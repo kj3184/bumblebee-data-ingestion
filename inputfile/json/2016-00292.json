@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00292\n\n  Image: \n\n  object_work_type: flasks (bottles)\n\n  title_text: A fine wheel-cut flask Wheel-cut flask\n\n  preference: main alternate\n\n  title_language: \n\n  creation_date: Not indicated\n\n  creation_place_original_location: Iran\n\n  styles_periods_indexing_terms: Islamic (culture or style) Iranian\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: glass (material)\n\n  techniques_name: cutting (glassworking)\n\n  object_colour: pale blue\n\n  physical_appearance: This flask is made of clear glass\n and is pale blue in colour. It has a short cut foot. The body of the flask is globular\n and is decorated with honeycomb indentations on its surface. The shoulder of the flask is stepped\n leading to a tapered cylindrical neck. The mouth of the flask has a broad rim\n with a hexagonal cut shape. It is slightly scratched on its surface.\n\n  subject_terms_1: exports honeycomb (motif) glassware vessels\n\n  subject_terms_2: Exports Motifs Bottles Islamic glassware\n\n  subject_terms_3: Decorative arts\n\n  sgcool_label_text: Made of clear glass in a pale blue tone\n this flask has a globular body and long tapering neck that opens up into a wide-rimmed hexagonal mouth. The decoration on the glass is created by a facet-cutting technique\n where the curved surface of the glass has been ground to produce flat or slightly concave areas. The resulting honeycomb pattern references earlier Sassanian bowls\n but the overall shape of the flask is regarded to be a distinctively Islamic form\n and hallmark of Iranian glass production from the 8th to the 12th century.\n",
-  "createdDate": "20201127000611",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -30,7 +30,7 @@
     "subject_terms_3": "Decorative arts",
     "sgcool_label_text": "Made of clear glass in a pale blue tone, this flask has a globular body and long tapering neck that opens up into a wide-rimmed hexagonal mouth. The decoration on the glass is created by a facet-cutting technique, where the curved surface of the glass has been ground to produce flat or slightly concave areas. The resulting honeycomb pattern references earlier Sassanian bowls, but the overall shape of the flask is regarded to be a distinctively Islamic form, and hallmark of Iranian glass production from the 8th to the 12th century."
   },
-  "nlpDate": "20201127000611",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2018-00113\n\n  Image: \n\n  object_work_type: photographs black-and-white photographs\n\n  title_text: Studio portrait of  two nyonya\n\n  preference: main\n\n  title_language: \n\n  creator_2: G.R. Lambert \\u0026 Company\n\n  creator_1: G.R. Lambert \\u0026 Co.\n\n  creator_role: photography studios (organizations)\n\n  creation_date: 1870s\n\n  creation_place_original_location: Singapore (nation)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process) photographic processes\n\n  object_colour: grey monochrome\n\n  physical_appearance: The image shows a black-and-white photograph. It is rectangular and it features two ladies. Both of them are sitting down and looking towards the direction where the photograph was captured. They are both wearing their ethnic costumes and holding one another\\u0027s hands.\n\n  subject_terms_1: women (female humans) Peranakan double portraits studio portraits folk costume\n\n  subject_terms_2: Ethnic costume Peranakan (Asian people) Portrait photography Black-and-white photography Women\n\n  subject_terms_3: Portrait photography Peranakan costumes Women\n\n  sgcool_label_text: This studio portrait shows a seated nyonya tenderly holding the hands of her companion.  This photograph was probably taken by G.R. Lambert and Co.\\r\\n\\r\\nG.R. Lambert and Co was a leading and the most enduring of the European photography studios in Singapore. The studio was established in 1867 by Gustave Richard Lambert\n who was originally from Dresden\n Germany. Popular among the elites\n the firm was often chosen as the official photographers for important state events in Singapore. In 1861 it was appointed as the official photographer of the King of Siam and the Sultan of Johore.\n",
-  "createdDate": "20201127000603",
+  "createdDate": "20201127205925",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_3": "Portrait photography Peranakan costumes Women",
     "sgcool_label_text": "This studio portrait shows a seated nyonya tenderly holding the hands of her companion.  This photograph was probably taken by G.R. Lambert and Co.\r\n\r\nG.R. Lambert and Co was a leading and the most enduring of the European photography studios in Singapore. The studio was established in 1867 by Gustave Richard Lambert, who was originally from Dresden, Germany. Popular among the elites, the firm was often chosen as the official photographers for important state events in Singapore. In 1861 it was appointed as the official photographer of the King of Siam and the Sultan of Johore."
   },
-  "nlpDate": "20201127000603",
+  "nlpDate": "20201127205925",
   "connectorId": 0,
   "tags": {}
 }

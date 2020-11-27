@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00948\n\n  Image: \n\n  object_work_type: marriage certificates\n\n  title_text: Marriage Certificate of Lim Chong Pang\n\n  preference: main\n\n  title_language: \n\n  creation_date: 3-Dec-44\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: Rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: writing (processes)\n\n  physical_appearance: \\This is Lim Chong Pang\\u0027s marriage certificate. The document contains the names of the witnesses\n the people who introduced the couple to each other\n as well the solemnizer. Above the title of the marriage certificate and between two phoenixes\n is the word “?\\\\ (joy)\n\n  subject_terms_1: legal documents symbolizing the happiness of a matrimonial union. The borders framing the wordings comprise of two Chinese cherubs (one holding a bow and arrow whilst the other carries a horn)\n\n  subject_terms_2: Legal documents lotuses\n\n  subject_terms_3: a peacock Marriage certificates\n\n  subject_terms_4: butterflies\n\n  context_1: birds\n\n  context_2: and peonies. The name of the printing company\n\n  context_3: \n\n  context_4: is found at the bottom center of the document. \\\n\n  context_5: marriage (social construct)\n\n  context_6: Marriage\n\n  context_7: Lim\n Chong Pang\n",
-  "createdDate": "20201127000604",
+  "createdDate": "20201127205925",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -35,7 +35,7 @@
     "context_6": "Marriage",
     "context_7": "Lim, Chong Pang"
   },
-  "nlpDate": "20201127000604",
+  "nlpDate": "20201127205925",
   "connectorId": 0,
   "tags": {}
 }

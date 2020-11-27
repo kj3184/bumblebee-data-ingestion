@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00335\n\n  Image: \n\n  object_work_type: scarves (costume accessories) shawls stoles (outerwears)\n\n  title_text: Brocade Stole\n\n  preference: main\n\n  title_language: \n\n  creation_date: 1801 - 2000\n\n  creation_place_original_location: Varanasi (Uttar Pradesh\n India)\n\n  styles_periods_indexing_terms: Indian (South Asian)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: brocade (textile) silk (textile) metal thread\n\n  techniques_name: weaving sewing (needleworking technique)\n\n  object_colour: brown colours\n\n  physical_appearance: This brocade stole is predominantly light brown in colour. It is rectangular in shape. Along its sides are floral patterns that extend and follow the rectangular perimeter. Within the border of floral patterns\n the figures of Hindu deities Krishna and Radha are present all over the brocade stole. Along Krishna and Radha are patterns of tree branches that are in green in colour and come with flowers and parakeets. There is a distinct stain line that runs vertically down the brocade stole at its mid-point.\n\n  subject_terms_1: textiles (visual works) deities plant-derived motifs Hinduism birds (motifs) allover patterns\n\n  subject_terms_2: Textiles Stoles (Clothing) Motifs Radha (Hindu deity) Krishna (Hindu deity) Shawls\n\n  subject_terms_3: Hinduism\n\n  sgcool_label_text: This gold kimkhab brocade would have been woven in Benaras\n which was the epicentre of fine brocade weaving during the 19th and 20th centuries. Benarasi brocades gained prominence during the Mughal period\n and continued to be patronised by royalty and the British up to the 20th century. Over time\n patterns and techniques evolved\n and the export market provided new designs for weavers.\\r\\n\\r\\nThis stole shows a very unusual repeated pattern of Krishna and Radha sitting on a swing\n which is hanging from the branch of a tree. A pair of parakeets is perched on the tree. Designs such as these can be seen from the 20th century onwards.\n",
-  "createdDate": "20201127000611",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -30,7 +30,7 @@
     "subject_terms_3": "Hinduism",
     "sgcool_label_text": "This gold kimkhab brocade would have been woven in Benaras, which was the epicentre of fine brocade weaving during the 19th and 20th centuries. Benarasi brocades gained prominence during the Mughal period, and continued to be patronised by royalty and the British up to the 20th century. Over time, patterns and techniques evolved, and the export market provided new designs for weavers.\r\n\r\nThis stole shows a very unusual repeated pattern of Krishna and Radha sitting on a swing, which is hanging from the branch of a tree. A pair of parakeets is perched on the tree. Designs such as these can be seen from the 20th century onwards."
   },
-  "nlpDate": "20201127000611",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

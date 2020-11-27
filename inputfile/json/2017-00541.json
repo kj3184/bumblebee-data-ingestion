@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00541\n\n  Image: \n\n  object_work_type: fetishes figurines\n\n  title_text: Ossuary figure\n\n  preference: main\n\n  title_language: \n\n  creation_date: 19th century or earlier\n\n  creation_place_original_location: Mahakam River Delta (Indonesia)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: wood (plant material)\n\n  techniques_name: carving (processes)\n\n  object_colour: brown (colour)\n\n  physical_appearance: This is a carved ossuary figure in a squatting position. Its palms are facing up and elbow resting on its kneecaps. The eye sockets are hollow and its teeth are bared.\n\n  subject_terms_1: magic ossuaries (funerary containers) sculpture indigenous people ancestor worship\n\n  subject_terms_2: Ossuaries Ancestor worship Fetishes (Ceremonial objects) Protection magic Sculpture Figurative art Wood-carved figurines\n\n  subject_terms_3: Religious life and practices Sculpture\n\n  subject_terms_4: \n\n  sgcool_label_text: This figure would have originally adorned the end of a bone box or ossuary used to carefully store the remains of revered ancestors. It was found hidden deep inside a cave.  It is probably meant to represent an ancestor\n a protecting spirit intended to frighten away thieves and evil spirits alike.  Ancestor figures carved in the form of a squatting man are found all over island Southeast Asia and are a common theme in the art of the Austronesian people.\n",
-  "createdDate": "20201127000605",
+  "createdDate": "20201127205926",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -30,7 +30,7 @@
     "subject_terms_4": "",
     "sgcool_label_text": "This figure would have originally adorned the end of a bone box or ossuary used to carefully store the remains of revered ancestors. It was found hidden deep inside a cave.  It is probably meant to represent an ancestor, a protecting spirit intended to frighten away thieves and evil spirits alike.  Ancestor figures carved in the form of a squatting man are found all over island Southeast Asia and are a common theme in the art of the Austronesian people."
   },
-  "nlpDate": "20201127000605",
+  "nlpDate": "20201127205926",
   "connectorId": 0,
   "tags": {}
 }

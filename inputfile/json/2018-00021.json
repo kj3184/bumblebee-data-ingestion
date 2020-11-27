@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2018-00021\n\n  Image: \n\n  object_work_type: photochroms\n\n  title_text: Photochrom of Battery Road\n\n  preference: main\n\n  title_language: \n\n  creator_2: Not indicated\n\n  creator_1: Not indicated\n\n  creation_date: Late 19th – early 20th century\n\n  creation_place_original_location: Singapore (nation)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process) photographic processes\n\n  object_colour: multicoloured\n\n  physical_appearance: \\The image shows a colour photograph. To the left at the foreground\n \\\\The Dispensary\\\\ is stated on the building. Pedestrians\n\n  subject_terms_1: rickshaws dispensaries (health facilities) mercantile buildings roads street scenes\n\n  subject_terms_2: Buildings Roads and horse drawn carriages can be seen on the road. Numerous multi storey roofed buildings can be seen Prints Dispensaries Singapore\n\n  subject_terms_3: Health facilities which stretch on beyond the background. \\\\20207. P. Z. – Singapore. Battery Road\\\\ is stated at the bottom right hand side. \\ Battery Road\n\n  subject_terms_4: photographic prints\n\n  context_1: Colour photography\n\n  context_2: Photography\n",
-  "createdDate": "20201127000603",
+  "createdDate": "20201127205925",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -33,7 +33,7 @@
     "context_1": "Colour photography",
     "context_2": "Photography"
   },
-  "nlpDate": "20201127000603",
+  "nlpDate": "20201127205925",
   "connectorId": 0,
   "tags": {}
 }

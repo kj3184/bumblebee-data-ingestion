@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00589\n\n  Image: \n\n  object_work_type: ritual objects\n\n  title_text: Syrian Christian Ritual Vessels (Paten\n Chalice and Censer) and a rosary Syrian Christian Ritual Vessels (Paten\n Chalice and Censer)\n\n  preference: main alternate\n\n  title_language: \n\n  creation_date: 1901 - 2000\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: wood (plant material) metal plastic (organic material)\n\n  techniques_name: forming (physical activity)\n\n  object_colour: multicoloured\n\n  physical_appearance: The image shows a set of items\n comprising of a rosary\n a chalice\n a paten\n and a censer. The rosary includes a wooden cross attached to red and white beads. The chalice has a wider base than its top\n with a narrow neck joining the two. It is silver in colour. The chalice has spherical bases and it has a yellowish tint on its silvery surface. The silver-coloured censer comes with chains and it has five holes on its body. The lower part of the censer looks ot be a little brownish. A holder is linked to the censer by the silver-coloured chains.\n\n  subject_terms_1: rosaries ceremonial objects Saint Thomas Christian (sect) implement (object genre) chalices (liturgical vessels) religious objects patens (liturgical vessels) censers\n\n  subject_terms_2: Chalices Censers Liturgical objects Ceremonial objects Rosary Saint Thomas Christian\n\n  subject_terms_3: Christianity\n\n  sgcool_label_text: Not indicated\n",
-  "createdDate": "20201127000610",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -29,7 +29,7 @@
     "subject_terms_3": "Christianity",
     "sgcool_label_text": "Not indicated"
   },
-  "nlpDate": "20201127000610",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00611-003\n\n  Image: \n\n  object_work_type: textiles (visual works)\n\n  title_text: Waist band of the Bridegroom\\u0027s Dress Turban cloth of the Bridegroom\\u0027s Dress Wagho\n choyni\n\n  preference: main alternate\n\n  title_language: \n\n  creation_date: 20th century\n\n  creation_place_original_location: Kachchh (India)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: cotton (textile)\n\n  techniques_name: sewing (needleworking technique) embroidering\n\n  object_colour: multicolored\n\n  physical_appearance: This is a turban cloth\n which is part of a bridegroom\\u0027s clothes. It features vertical multicoloured stripes on the left end of the band. The stripes are made of embroidered thread. The remaining length of the turban cloth is folded up on the left.\n\n  subject_terms_1: geometric motifs cloth ceremonial costume bridegrooms embroidery (visual works) folk costume\n\n  subject_terms_2: Motifs Ethnic costume Embroidery Rabaris Textile fabrics Wedding costume Turbans Bridegrooms\n\n  subject_terms_3: Indian costumes\n\n  subject_terms_4: \n\n  sgcool_label_text: This set of garments - tunic\n trousers and a turban cloth - form a set of bridegroom\\u0027s clothes among the Dhebaria Rabari community of east Kutch. The group features excellent cotton embroidery incorporating mirrorwork embellishments. The fabric of the trousers is handwoven Mashroo silk\n while the turban cloth is made from handspun cotton.\n",
-  "createdDate": "20201127000604",
+  "createdDate": "20201127205926",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -30,7 +30,7 @@
     "subject_terms_4": "",
     "sgcool_label_text": "This set of garments - tunic, trousers and a turban cloth - form a set of bridegroom\u0027s clothes among the Dhebaria Rabari community of east Kutch. The group features excellent cotton embroidery incorporating mirrorwork embellishments. The fabric of the trousers is handwoven Mashroo silk, while the turban cloth is made from handspun cotton."
   },
-  "nlpDate": "20201127000604",
+  "nlpDate": "20201127205926",
   "connectorId": 0,
   "tags": {}
 }

@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2014-00202\n\n  Image: \n\n  object_work_type: photographs black-and-white photographs\n\n  title_text: Photo of Canton\n\n  preference: main\n\n  title_language: \n\n  creator_2: Not indicated\n\n  creation_date: Not indicated\n\n  creation_place_original_location: China\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process) photographic processes\n\n  object_colour: grey monochrome\n\n  physical_appearance: The image shows a black-and-white photograph. It is rectangular and it features a planked walkway with rows of stores on either sides. There are numerous signboards at the top of these stores\n and all of them display Chinese characters. At the bottom left hand side of the photograph\n two men can be seen. One of the is leaning on a door while the other is turning his head towards the direction where the photograph was captured.\n\n  subject_terms_1: stores\n\n  subject_terms_2: Stores\n Retail Guangzhou (China) Black-and-white photography\n\n  subject_terms_3: Photography\n\n  sgcool_label_text: Not indicated\n",
-  "createdDate": "20201127000614",
+  "createdDate": "20201127205930",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -30,7 +30,7 @@
     "subject_terms_3": "Photography",
     "sgcool_label_text": "Not indicated"
   },
-  "nlpDate": "20201127000614",
+  "nlpDate": "20201127205930",
   "connectorId": 0,
   "tags": {}
 }

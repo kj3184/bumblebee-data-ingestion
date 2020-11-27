@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00411\\r\\n2016-00412\n\n  Image: \n\n  object_work_type: ale glass\n\n  title_text: Harp lager beer glass #1 \\u0026 #2\n\n  preference: main\n\n  title_language: \n\n  creator_2: Guinness Brewery\n\n  creator_1: Guinness (Firm)\n\n  creator_role: creators\n\n  creation_date: 1960s\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: concave\n\n  materials_name: glass (material)\n\n  techniques_name: forming (physical activity)\n\n  object_colour: multicoloured\n\n  physical_appearance: \\The set of images shows two transparent glasses. They are a pair of beer glasses and the brand \\\\Harp Lager Beer\\\\ is printed in red letters at the centre of the glasses. Above the brand name\n\n  subject_terms_1: there is an image of a dog with its tongue sticking out. This symbol is also totally in red. On both sides of this symbol brand name objects\n\n  subject_terms_2: there are three Chinese characters that are arranged in a single row. Once again Lager beer Brand name products\n\n  subject_terms_3: they are in red. The rims of the glasses are yellow in colour. There are no visible cracks and scratches on the surfaces of the glasses.\\\n\n  subject_terms_4: beer\n\n  context_1: Drinking glasses\n",
-  "createdDate": "20201127000611",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -33,7 +33,7 @@
     "subject_terms_4": "beer",
     "context_1": "Drinking glasses"
   },
-  "nlpDate": "20201127000611",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00075\n\n  Image: \n\n  object_work_type: envelopes\n\n  title_text: Envelope of Madura MV Gurusamy\n\n  preference: main\n\n  title_language: \n\n  creator_2: Unknown\n\n  creation_date: 20th century\n\n  creation_place_original_location: Singapore\n\n  styles_periods_indexing_terms: Not indicated\n\n  inscriptions: \n\n  inscription_language: \n\n  scale_type: Not indicated\n\n  shape: rectangular\n\n  materials_name: printing paper\n\n  techniques_name: printing (process)\n\n  object_colour: grey (colour)\n\n  physical_appearance: \\The image shows an envelope. It is rectangular in shape and it has a grey background. \\\\Madura M.V. Gurusamy\n\n  subject_terms_1: instrumentalists 14 Rappa Terrace\\\\ is stated at the top of the envelope. \\\\Mirudangist\\\\ is stated at the left hand side of the envelope. The image of a man is also displayed on the envelope. He is dressed in a white long sleeved shirt and white pants. A mridangam is placed on his lap. \\\n\n  subject_terms_2: Mridanga musicians Musicians Instrumentalists\n\n  subject_terms_3: Performing Arts Envelopes (Stationery) Musicians\n\n  subject_terms_4: Indian music\n",
-  "createdDate": "20201127000612",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_3": "Performing Arts Envelopes (Stationery) Musicians",
     "subject_terms_4": "Indian music"
   },
-  "nlpDate": "20201127000612",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

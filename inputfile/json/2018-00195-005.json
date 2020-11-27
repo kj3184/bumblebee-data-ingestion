@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2018-00195-005\n\n  Image: \n\n  object_work_type: envelopes\n\n  title_text: Group of 6 envelopes for negatives: Ottomar Anders Group of 6 envelopes for negatives\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: Ottomar Anders\n\n  creator_1: Not indicated\n\n  creator_role: creators\n\n  creation_date: 1950s-1970s\n\n  creation_place_original_location: Singapore (nation)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process) photographic processes\n\n  object_colour: grey (colour)\n\n  physical_appearance: \\The image shows an envelope. It is rectangular and it has a background that is grey in colour. \\\\Ottoman Anders: 278A\n\n  subject_terms_1: photography studios (organizations) Orchard Road (Borneo Mansions)\\\\ is stated at the top. There is a table with five columns\n\n  subject_terms_2: Photography but there are no entries on it.\\\n\n  subject_terms_3: negatives (photographs)\n\n  subject_terms_4: Stamped envelopes\n\n  context_1: Photography\n\n  context_22: This envelope belongs to a photography studio called Ottomar Anders\n\n  context_23: 278A\n Orchard Road (Borneo Mansions)\n",
-  "createdDate": "20201127000602",
+  "createdDate": "20201127205924",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -35,7 +35,7 @@
     "context_22": "This envelope belongs to a photography studio called Ottomar Anders",
     "context_23": "278A, Orchard Road (Borneo Mansions)"
   },
-  "nlpDate": "20201127000602",
+  "nlpDate": "20201127205924",
   "connectorId": 0,
   "tags": {}
 }

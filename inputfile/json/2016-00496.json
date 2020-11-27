@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00496\n\n  Image: \n\n  object_work_type: black-and-white photographs\n\n  title_text: Untitled (station clock)\n\n  preference: main\n\n  title_language: \n\n  creator_2: Kwek Leng Joo Swan and Maclaren Architects\n\n  creator_1: Kwek\n Leng Joo Swan \\u0026 Maclaren\n\n  creator_role: photographers designers\n\n  creation_date: 2010\n\n  creation_place_original_location: Malaysia Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process)\n\n  object_colour: grey\n\n  physical_appearance: The image shows a photograph in black-and-white. It has a black frame and its border is white in colour. The background of the photograph is predominantly filled with clouds. There is a clock that is attached to one of the ceiling walls from the side. The hour hand stands at the numeral twelve\n while the minute hand points to the middle of the numerals five and six. The face of the clock is circular in shape and the numeric system is represented by Roman numerals.\n\n  subject_terms_1: railroad stations historic monuments clocks\n\n  subject_terms_2: Pertadbiran Keretapi Tanah Melayu Railroad stations Tanjong Pagar (Singapore) Historic monuments Black-and-white photography Clocks and watches\n\n  subject_terms_3: Rail transport (Stations) Photography Pertadbiran Keretapi Tanah Melayu Rail transport Tanjong Pagar Railway Station\n\n  sgcool_label_text: \\This image shows the iconic clock of the Tanjong Pagar railway station. The station was known for its Art Deco and neo-classical architectural styles. Designed by Swan and Maclaren\n the entrance of the station is sheltered by an arched portico. This image is part of the \\\\Tracking Memories\\\\ collection by the late Mr Kwek Leng Joo. The collection captures different aspects of the Malayan Railway story in Singapore\n",
-  "createdDate": "20201127000610",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_3": "Rail transport (Stations) Photography Pertadbiran Keretapi Tanah Melayu Rail transport Tanjong Pagar Railway Station",
     "sgcool_label_text": "\"This image shows the iconic clock of the Tanjong Pagar railway station. The station was known for its Art Deco and neo-classical architectural styles. Designed by Swan and Maclaren, the entrance of the station is sheltered by an arched portico. This image is part of the \"\"Tracking Memories\"\" collection by the late Mr Kwek Leng Joo. The collection captures different aspects of the Malayan Railway story in Singapore"
   },
-  "nlpDate": "20201127000610",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

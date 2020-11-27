@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"name":"sbt","version":"1.4.4","bspVersion":"2.0.0-M5","languages":["scala"],"argv":["/usr/local/Cellar/openjdk@11/15.0.1/libexec/openjdk.jdk/Contents/Home/bin/java","-Xms100m","-Xmx100m","-classpath","/Users/lanphan/Library/Application Support/JetBrains/IdeaIC2020.2/plugins/Scala/launcher/sbt-launch.jar","xsbt.boot.Boot","-bsp"]}
+=======
+{"name":"sbt","version":"1.4.4","bspVersion":"2.0.0-M5","languages":["scala"],"argv":["/Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/jre/bin/java","-Xms100m","-Xmx100m","-classpath","/Applications/IntelliJ IDEA Edu.app/Contents/plugins/Scala/launcher/sbt-launch.jar","xsbt.boot.Boot","-bsp"]}
+>>>>>>> 11c7587170daa551162ae1d478a7c3c0eec976ae

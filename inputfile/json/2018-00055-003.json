@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2018-00055-003\n\n  Image: \n\n  object_work_type: colour slides slides (photographs)\n\n  title_text: Tough Job Tough Job: Original Transparency Slide\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: Tan Lip Seng\n\n  creator_1: Tan\n Lip Seng\n 1942- Tan\n Lip Seng\n\n  creator_role: photographers\n\n  creation_date: 1968\n\n  creation_place_original_location: Singapore (nation)\n\n  styles_periods_indexing_terms: Not indicated\n\n  inscriptions: \n\n  inscription_language: \n\n  scale_type: Not indicated\n\n  shape: rectangular\n\n  materials_name: photographic film (photographic materials)\n\n  techniques_name: photographic processes\n\n  object_colour: multicoloured\n\n  edition_description: 1 of 3\n\n  physical_appearance: \\The image shows a slide. It is in colour. It is held in place by a frame. On the borders of the frame\n \\\\Tough Job\\\\ is stated at the top for the image at the bottom. \\\\Tan Lip Seng\n\n  subject_terms_1: A.R.P.S. EFIAP workers\n\n  subject_terms_2: 96A Tiong Bahru Employees Work\n\n  subject_terms_3: Singapore 3\\\\ is stated at the bottom for the image at the bottom.  \\\n\n  subject_terms_4: working\n\n  context_1: Slides (photography)\n\n  context_2: Photography\n",
-  "createdDate": "20201127000603",
+  "createdDate": "20201127205925",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -37,7 +37,7 @@
     "context_1": "Slides (photography)",
     "context_2": "Photography"
   },
-  "nlpDate": "20201127000603",
+  "nlpDate": "20201127205925",
   "connectorId": 0,
   "tags": {}
 }

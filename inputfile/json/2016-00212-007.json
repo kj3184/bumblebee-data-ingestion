@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00212-007\n\n  Image: \n\n  object_work_type: black-and-white photographs\n\n  title_text: Photograph album of views and portraits in the Punjab\n Cashmere\n Ceylon\n Burma\n Penang\n Singapore\n and Java Government House\n Lahore\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: John Thomson\n\n  creator_1: Thomson\n J. (John)\n 1837-1921\n\n  creator_role: photographers\n\n  creation_date: before 28 Jul 1876\n\n  creation_place_original_location: Singapore Lahore (Pakistan)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: albumen (egg white protein) paper (fiber product) albumen paper\n\n  techniques_name: albumen process\n\n  object_colour: black-and-white (colors)\n\n  physical_appearance: This is a photograph of the Government House in Lahore\n Pakistan. In the center of the photograph\n there is a large building\n with staggered levels. The building has a large balcony with two roofed entrances.There are several trees along the outside of the building on the left and right of the photograph.\n\n  subject_terms_1: colonization government office buildings\n\n  subject_terms_2: Colonization Photographs Governor\\u0027s House (Lahore\n Pakistan) Thomson\n J. (John)\n 1837-1921 Lahore (Pakistan)\n\n  subject_terms_3: Photography Politics and government Historic buildings\n",
-  "createdDate": "20201127000612",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -31,7 +31,7 @@
     "subject_terms_2": "Colonization Photographs Governor\u0027s House (Lahore, Pakistan) Thomson, J. (John), 1837-1921 Lahore (Pakistan)",
     "subject_terms_3": "Photography Politics and government Historic buildings"
   },
-  "nlpDate": "20201127000612",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

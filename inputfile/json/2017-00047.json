@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00047\n\n  Image: \n\n  object_work_type: watercolours (paintings) paintings (visual works)\n\n  title_text: Singapore from Cairn Hill\n\n  preference: main\n\n  title_language: \n\n  creator_2: Percy Carpenter (1820-1895)\n\n  creator_1: Carpenter\n Percy\n 1820 - 1895\n\n  creator_role: artists (visual artists)\n\n  creation_date: February 1858\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product) watercolour (paint)\n\n  techniques_name: painting (image-making)\n\n  object_colour: multicoloured\n\n  physical_appearance: This painting depicts the landscape of Singapore from Cairn Hill. Almost three quarters of the painting consists of the sky and clouds\n with the remaining space depicting the natural landscape of Singapore. There are three human figures drawn in the painting. Two of them are standing alongside one another\n dressed in white colonial garb. The other figure is a gardener dressed in blue and tending to the vegetation. Nearer to the horizon line on the painting\n colonial buildings atop hills can be seen as well as the coastline. The colours of the painting do not look smudged. There is a signature of the artist and the date of the creation of the artwork on the bottom right\n in a single row.\n\n  subject_terms_1: colonials (people) colonial settlements landscapes (representations)\n\n  subject_terms_2: Colonization Landscapes Singapore Watercolour painting\n\n  subject_terms_3: Watercolour Painting Visual arts\n\n  sgcool_label_text: This view of Singapore was painted by Percy Carpenter (1820-1895)\n an English artist who resided in Singapore from 1855 until he moved to Calcutta by 1859. The foreground of this watercolour work depicts John James Greenshields\n a partner of Guthrie \\u0026 Co. and a member of the Singapore Municipal Committee\n together with his wife\n looking outwards from the vantage point of their residence at Cairn Hill. Government Hill is visible at the centre of this landscape\n flanked by Mount Sophia on the left and Institution Hill on the right. This idyllic\n picturesque view nonetheless shows hints of Singapore\\u0027s busy trade\n with glimpses of shipping scenes in the background.\n",
-  "createdDate": "20201127000609",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_3": "Watercolour Painting Visual arts",
     "sgcool_label_text": "This view of Singapore was painted by Percy Carpenter (1820-1895), an English artist who resided in Singapore from 1855 until he moved to Calcutta by 1859. The foreground of this watercolour work depicts John James Greenshields, a partner of Guthrie \u0026 Co. and a member of the Singapore Municipal Committee, together with his wife, looking outwards from the vantage point of their residence at Cairn Hill. Government Hill is visible at the centre of this landscape, flanked by Mount Sophia on the left and Institution Hill on the right. This idyllic, picturesque view nonetheless shows hints of Singapore\u0027s busy trade, with glimpses of shipping scenes in the background."
   },
-  "nlpDate": "20201127000609",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

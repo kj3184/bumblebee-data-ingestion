@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2018-00197\n\n  Image: \n\n  object_work_type: tables (documents)\n\n  title_text: Exposure table\n\n  preference: main\n\n  title_language: \n\n  creator_2: Not indicated\n\n  creator_1: Not indicated\n\n  creation_date: 1950s-1960s\n\n  creation_place_original_location: Singapore (nation)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process)\n\n  object_colour: multicoloured\n\n  physical_appearance: The image shows an exposure table. It has a rectangular bottom and a semicircular shaped top. There are Chinese characters all over . There are also a number of pictures containing drawings. These drawings show scenes of places\n as well as people. There are also a number of pictures that depict the proper ways to take photographs. There are numbers all over as well.\n\n  subject_terms_1: photography (discipline)\n\n  subject_terms_2: Photography Tables (Data)\n\n  subject_terms_3: Photography\n\n  sgcool_label_text: This exposure table would have been used by a photographer in the 1950s – 60s to calculate the aperture value and shutter speed for various light or difficult conditions.\n",
-  "createdDate": "20201127000602",
+  "createdDate": "20201127205924",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -31,7 +31,7 @@
     "subject_terms_3": "Photography",
     "sgcool_label_text": "This exposure table would have been used by a photographer in the 1950s – 60s to calculate the aperture value and shutter speed for various light or difficult conditions."
   },
-  "nlpDate": "20201127000602",
+  "nlpDate": "20201127205924",
   "connectorId": 0,
   "tags": {}
 }

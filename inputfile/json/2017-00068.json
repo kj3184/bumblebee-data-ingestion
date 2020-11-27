@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00068\n\n  Image: \n\n  object_work_type: panels (costume components)\n\n  title_text: Panel\n\n  preference: main\n\n  title_language: \n\n  creation_date: Early 20th century\n\n  creation_place_original_location: Straits Settlements\n\n  styles_periods_indexing_terms: Chinese (culture or style)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: silk (textile) cotton (textile)\n\n  techniques_name: sewing (needleworking technique) embroidering\n\n  object_colour: multicolored\n\n  physical_appearance: This is a textile panel. It comprises of three main horizontal decorative sections. The topmost section features stitched Chinese scrolls. The middle section features vases of flowers amidst scrolls and butterflies\n with brown lobed medallions enclosing birds and flowers. The bottom panel feature two horizontal rows of black-bordered sections. Each section alternates flowers\n birds and animal motifs. The edges of the panel is slightly frayed\n especially at the bottom-right.\n\n  subject_terms_1: Buddhism symbolism (artistic concept) birds (motifs) flower (motif) scrolls (motifs) embroidery (visual works)\n\n  subject_terms_2: Textiles Motifs Embroidery Buddhism Symbolism\n\n  subject_terms_3: Buddhism Textile art and design\n\n  sgcool_label_text: This textile panel comprises three main horizontal decorative sections.  Satin-stitched Chinese scrolls occupy the uppermost section.  In the middle section\n vases of flowers\n also one of the eight Buddhist auspicious symbols\n are shown amidst the scrolls and butterflies while birds and flowers are enclosed within brown lobed medallions and black diaper patterns.  At the bottom of the panel are two horizontal rows of black diaper borders.  They feature alternating vase of flowers\n bird and animal motifs.  It is plausible that the stylized motifs represent the phoenix and qilin\n both of which are commonly depicted on nyonya embroidery.  The phoenix is symbolic of martial harmony while the qilin represents fertility and longevity.\n",
-  "createdDate": "20201127000609",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -30,7 +30,7 @@
     "subject_terms_3": "Buddhism Textile art and design",
     "sgcool_label_text": "This textile panel comprises three main horizontal decorative sections.  Satin-stitched Chinese scrolls occupy the uppermost section.  In the middle section, vases of flowers, also one of the eight Buddhist auspicious symbols, are shown amidst the scrolls and butterflies while birds and flowers are enclosed within brown lobed medallions and black diaper patterns.  At the bottom of the panel are two horizontal rows of black diaper borders.  They feature alternating vase of flowers, bird and animal motifs.  It is plausible that the stylized motifs represent the phoenix and qilin, both of which are commonly depicted on nyonya embroidery.  The phoenix is symbolic of martial harmony while the qilin represents fertility and longevity."
   },
-  "nlpDate": "20201127000609",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

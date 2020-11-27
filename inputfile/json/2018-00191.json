@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2018-00191\n\n  Image: \n\n  object_work_type: photographs chromogenic colour prints\n\n  title_text: Photograph of a young nyonya in a green kebaya\n\n  preference: main\n\n  title_language: \n\n  creator_2: Not indicated\n\n  creator_1: Not indicated\n\n  creation_date: 2000\n\n  creation_place_original_location: Singapore (nation)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process) photographic processes\n\n  object_colour: multicoloured\n\n  physical_appearance: The image shows a colour photograph. It features a lady. She is standing up and posing sideways\n looking towards the direction where the photograph was captured. She is wearing her ethnic costume\n with a turquoise top and a brown lower garment with flowery designs. There are also red garlands tied around her hair. The background of the photograph shows greenery and trees.\n\n  subject_terms_1: women (female humans) Peranakan portraits folk costume\n\n  subject_terms_2: Colour photography Ethnic costume Peranakan (Asian people) Portrait photography Women\n\n  subject_terms_3: Portrait photography Peranakan costumes Women\n\n  sgcool_label_text: This Chromogenic print on Kodak paper shows a young nyonya in a green kebaya.\n",
-  "createdDate": "20201127000602",
+  "createdDate": "20201127205924",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -31,7 +31,7 @@
     "subject_terms_3": "Portrait photography Peranakan costumes Women",
     "sgcool_label_text": "This Chromogenic print on Kodak paper shows a young nyonya in a green kebaya."
   },
-  "nlpDate": "20201127000602",
+  "nlpDate": "20201127205924",
   "connectorId": 0,
   "tags": {}
 }

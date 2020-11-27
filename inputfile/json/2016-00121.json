@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00121\n\n  Image: \n\n  object_work_type: crucifixes\n\n  title_text: Crucified Christ\n\n  preference: main\n\n  title_language: \n\n  creation_date: 17th century\n\n  creation_place_original_location: Philippines\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: wood (plant material) ivory (material)\n\n  techniques_name: carving (processes)\n\n  object_colour: multicolored\n\n  physical_appearance: This is a figuring of Christ crucified on a cross. The cross is dark brown\n with a running lozenges geometric motif. At the top of the cross there is an ivory sign. The figure of Christ is wearing a loincloth around the waist. He is being crucifixed on the cross\n with details of blood running down his arms and feet.\n\n  subject_terms_1: exports worship lozenges figurines Roman Catholicism\n\n  subject_terms_2: Exports Figurines Crucifixion of the Christ Crosses Jesus Christ Worship\n\n  subject_terms_3: Religious life and practices Christianity\n\n  context_1: Crucifixion of the Christ\n\n  context_2: crucifixions\n\n  context_3: c. 30-33AD\n\n  context_4: 30 AD\n\n  context_5: 33 AD\n\n  context_6: Jerusalem\n\n  sgcool_label_text: The Crucified Christ is a central theme in Christian art around the world\n and lustrous white ivory is an ideal material for representing the human figure. High-quality devotional Christian images made in Asia\n like this one\n were often exported to Europe as luxury goods or high-level gifts. \\r\\n\\r\\nThe skill of the carver in convincingly rendering facial features\n muscles\n and even veins creates a figure with deep emotional impact. The arms and a part of the loin cloth were made from separate pieces of ivory\n a technique common of European ivory figures.\n",
-  "createdDate": "20201127000612",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -35,7 +35,7 @@
     "context_6": "Jerusalem",
     "sgcool_label_text": "The Crucified Christ is a central theme in Christian art around the world, and lustrous white ivory is an ideal material for representing the human figure. High-quality devotional Christian images made in Asia, like this one, were often exported to Europe as luxury goods or high-level gifts. \r\n\r\nThe skill of the carver in convincingly rendering facial features, muscles, and even veins creates a figure with deep emotional impact. The arms and a part of the loin cloth were made from separate pieces of ivory, a technique common of European ivory figures."
   },
-  "nlpDate": "20201127000612",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

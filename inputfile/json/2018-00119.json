@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2018-00119\n\n  Image: \n\n  object_work_type: photographs black-and-white photographs\n\n  title_text: Photograph of a Chinese grave guarded by four lion statues\n\n  preference: main\n\n  title_language: \n\n  creator_2: G.R. Lambert \\u0026 Company\n\n  creator_1: G.R. Lambert \\u0026 Co.\n\n  creator_role: photography studios (organizations)\n\n  creation_date: 1900\n\n  creation_place_original_location: Singapore (nation)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process) photographic processes\n\n  object_colour: grey monochrome\n\n  physical_appearance: The image shows a black-and-white photograph. It is rectangular and it features a grave in the foreground. There are steps leading up to the raised stone platform where the tombstone is placed. There are two lion statues each\n on both sides of the tombstone. The background features a field with greenery. Tall trees can also be seen.\n\n  subject_terms_1: statues tombs\n\n  subject_terms_2: Statues Tombs Black-and-white photography\n\n  subject_terms_3: Photography Tombs\n\n  sgcool_label_text: This photograph shows a Chinese grave guarded by four large lion statues. ‘4/2 Chinese Grave’ is inscribed on the photograph. This photograph was probably taken by G.R. Lambert and Co.\\r\\n\\r\\nG.R. Lambert and Co was a leading and the most enduring of the European photography studios in Singapore. The studio was established in 1867 by Gustave Richard Lambert\n who was originally from Dresden\n Germany. Popular among the elites\n the firm was often chosen as the official photographers for important state events in Singapore. In 1861 it was appointed as the official photographer of the King of Siam and the Sultan of Johore.\n",
-  "createdDate": "20201127000603",
+  "createdDate": "20201127205925",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_3": "Photography Tombs",
     "sgcool_label_text": "This photograph shows a Chinese grave guarded by four large lion statues. ‘4/2 Chinese Grave’ is inscribed on the photograph. This photograph was probably taken by G.R. Lambert and Co.\r\n\r\nG.R. Lambert and Co was a leading and the most enduring of the European photography studios in Singapore. The studio was established in 1867 by Gustave Richard Lambert, who was originally from Dresden, Germany. Popular among the elites, the firm was often chosen as the official photographers for important state events in Singapore. In 1861 it was appointed as the official photographer of the King of Siam and the Sultan of Johore."
   },
-  "nlpDate": "20201127000603",
+  "nlpDate": "20201127205925",
   "connectorId": 0,
   "tags": {}
 }

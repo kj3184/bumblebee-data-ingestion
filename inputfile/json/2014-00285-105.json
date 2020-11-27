@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2014-00285-105\n\n  Image: \n\n  object_work_type: black-and-white photographs\n\n  title_text: National Museum of Singapore Photography Album (donation from Anthony Robert Saint Claire)\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: Robert Arthur Polglaze\n\n  creator_1: Not indicated\n\n  creator_role: photographers\n\n  creation_date: 1940s\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process) photographic processes\n\n  object_colour: grey monochrome\n\n  physical_appearance: The image shows a photograph in black-and-white. It is rectangular and it features a large building with a dome that is decorated with panels around its circumference. It is multi-storey and to the left of the photograph\n a couple of pediments capping the building\\u0027s façade can be seen. There are numerous windows on the second and first floors\n as well as arches on the first floor. In front of the museum is a street whereby a car\n several people\n and a traffic light are present.\n\n  subject_terms_1: national monuments national museums (buildings)\n\n  subject_terms_2: National monuments Black-and-white photography National Museum (Singapore)\n\n  subject_terms_3: Photography National monuments National Museum of Singapore (Place)\n\n  sgcool_label_text: Not indicated\n",
-  "createdDate": "20201127000613",
+  "createdDate": "20201127205930",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_3": "Photography National monuments National Museum of Singapore (Place)",
     "sgcool_label_text": "Not indicated"
   },
-  "nlpDate": "20201127000613",
+  "nlpDate": "20201127205930",
   "connectorId": 0,
   "tags": {}
 }

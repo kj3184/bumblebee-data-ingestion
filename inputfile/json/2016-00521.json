@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00521\n\n  Image: \n\n  object_work_type: dailies (publications)\n\n  title_text: Malaya Nanban\n\n  preference: main\n\n  title_language: \n\n  creator_2: Karim Ghani\n\n  creator_1: Not indicated\n\n  creator_role: editors (people who revise)\n\n  creation_date: 1950\n\n  creation_place_original_location: Singapore Malaya\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: printing paper\n\n  techniques_name: printing (process)\n\n  object_colour: multicoloured\n\n  physical_appearance: \\The image displays the front cover of a newspaper. There is a red border around the perimeter of the newspaper. Tamil inscriptions are present at the upper half of the front page. The date \\\\9-8-1950\\\\ is stated below the headlines. The image of several buildings\n\n  subject_terms_1: one of which contains a tower\n\n  subject_terms_2: Southeast Asian newspapers together with people and cars on the street\n\n  subject_terms_3: is displayed.\\\n\n  subject_terms_4: newspapers\n\n  context_1: Tamil newspapers\n\n  context_2: Daily newspapers\n",
-  "createdDate": "20201127000610",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -34,7 +34,7 @@
     "context_1": "Tamil newspapers",
     "context_2": "Daily newspapers"
   },
-  "nlpDate": "20201127000610",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

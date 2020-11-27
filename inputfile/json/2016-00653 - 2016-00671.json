@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00653 - 2016-00671\n\n  Image: \n\n  object_work_type: projectors (image projectors) photographic equipment\n\n  title_text: Darkroom\n photographic accessories\n and film equipment used by The Picture Farm\n\n  preference: main\n\n  title_language: \n\n  creation_date: 1980s-1990s\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: Not indicated\n\n  techniques_name: Not indicated\n\n  object_colour: multicoloured\n\n  physical_appearance: This set of items consists of photographic equipment and supplies\n with the exception of one item (2016-00671). They come in different shapes and sizes. Some of these items have inscriptions on them\n indicating their origin of creation or the firms which manufactured them.\n\n  subject_terms_1: storage containers container (receptacles) photographic equipment photograph viewing equipment photometers timers film projection systems contact printing frames graduates developing  tanks squeegees motion-picture cameras safelights photography processing equipment tongs (devices)\n\n  subject_terms_2: Contact printing Computer printers Tongs Photography Lighting Automatic timers Motion picture projectors Measuring instruments Containers Handbooks and manuals Probes (Electronic instruments) Tools Photography Equipment and supplies Packaging\n\n  subject_terms_3: Photography\n\n  context_20: The set of equipment was used by The Picture Farm Pte Ltd\n\n  context_21: 45 Jalan Pemimpin\n #09-00 Foo Wah Industrial Building\n Thomson\n Singapore\n\n  context_22: 1970 - present\n\n  context_23: 1970\n\n  context_24: present\n",
-  "createdDate": "20201127000610",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -33,7 +33,7 @@
     "context_23": "1970",
     "context_24": "present"
   },
-  "nlpDate": "20201127000610",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

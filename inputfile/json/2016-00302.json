@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00302\n\n  Image: \n\n  object_work_type: maps (documents) navigation charts engravings (prints) marine charts\n\n  title_text: Chart of the Singapore Strait\n\n  preference: main\n\n  title_language: \n\n  creator_2: Davies\n Bryer \\u0026 Co. Staff Commander John William Reed\\r\\n\\r\\nNavy Lieutenant T.H. Tizard\\r\\n\\r\\nF.J. Ray\\r\\n\\r\\nJ.H. Ellis\n\n  creator_1: Not indicated Davies\n Bryer \\u0026 Co\n\n  creator_role: engravers (printmakers) surveyors\n\n  creation_date: 1870s - 1880s\n\n  creation_place_original_location: London (England) Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process) mapmaking (process)\n\n  object_colour: grey (colour)\n\n  physical_appearance: This marine chart is rectangular in shape and its perimeter is marked by a pair of black lines. The navigation chart is not crumpled and the ink is not smudged. It is grey in colour. The geographical location of Singapore as well as the islands occupying the wider Malay Peninsula are displayed in the map. There are longitudes present on the map and also a section\n near the centre at the top\n which translates several key terms from the Malay language to the English language.\n\n  subject_terms_1: navies colonial settlements\n\n  subject_terms_2: Navies Engraving Colonization China Sea Malay Peninsula Singapore Nautical charts Navigation\n\n  sgcool_label_text: This British Admiralty sea chart of the Singapore Strait was based on a survey by Staff Commander John William Reed of the Royal Navy between 1865 and 1869. Reed was appointed to take charge of the China Sea survey for the Royal Navy in 1861 and had first arrived in Singapore in June 1862. Engraved by Davies\n Bryer \\u0026 Co.\n this chart depicts Singapore at the southern tip of the Malay Peninsula along with the islands south of it\n and includes sounding details and sailing directions.\n",
-  "createdDate": "20201127000611",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -31,7 +31,7 @@
     "subject_terms_2": "Navies Engraving Colonization China Sea Malay Peninsula Singapore Nautical charts Navigation",
     "sgcool_label_text": "This British Admiralty sea chart of the Singapore Strait was based on a survey by Staff Commander John William Reed of the Royal Navy between 1865 and 1869. Reed was appointed to take charge of the China Sea survey for the Royal Navy in 1861 and had first arrived in Singapore in June 1862. Engraved by Davies, Bryer \u0026 Co., this chart depicts Singapore at the southern tip of the Malay Peninsula along with the islands south of it, and includes sounding details and sailing directions."
   },
-  "nlpDate": "20201127000611",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00537\n\n  Image: \n\n  object_work_type: jars\n\n  title_text: Jar with floral patterns\n\n  preference: main\n\n  title_language: \n\n  creation_date: 1368-1644\n\n  creation_place_original_location: China\n\n  styles_periods_indexing_terms: Ming (culture\n period\n and styles)\n\n  inscriptions: \n\n  inscription_language: \n\n  materials_name: clay slip (clay) slip glaze?\n\n  techniques_name: firing (technique) Vitrification glazing (coating process)\n\n  object_colour: multicoloured\n\n  physical_appearance: The decorative scheme of this pale-slip jar is organized into three concentric circle with the central one being the largest. Both the top and bottom panels are filled with birds and floral sprays\n while the middle panel consists of two large cartouches; one with a large blossom and the other with free-handed painted flowers and a butterfly. The base of the rim appears to either have discoloured or had not been fired properly.\n\n  subject_terms_1: birds (motifs) flower (motif) lotus (motif) storage jars\n\n  subject_terms_2: Lotus in art Storage jars Birds in art Decorative arts\n\n  subject_terms_3: Decorative arts\n\n  subject_terms_4: \n\n  sgcool_label_text: The decoration on this jar\n which is executed in dark brown on a pale slip\n consists of two large panels; one with a large lotus blossom and the other with freely-rendered flowers and a butterfly.\n",
-  "createdDate": "20201127000605",
+  "createdDate": "20201127205926",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -30,7 +30,7 @@
     "subject_terms_4": "",
     "sgcool_label_text": "The decoration on this jar, which is executed in dark brown on a pale slip, consists of two large panels; one with a large lotus blossom and the other with freely-rendered flowers and a butterfly."
   },
-  "nlpDate": "20201127000605",
+  "nlpDate": "20201127205926",
   "connectorId": 0,
   "tags": {}
 }

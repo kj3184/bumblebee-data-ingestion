@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-01026-007\n\n  Image: \n\n  object_work_type: black-and-white prints (photographs) inkjet prints\n\n  title_text: Din Daeng dump site\n\n  preference: main\n\n  title_language: \n\n  creator_2: Rong Wong-Savun (1932-2009)\n\n  creator_1: Rong Wongsawan\n\n  creator_role: Artist (visual artists)\n\n  creation_date: 1957\n\n  creation_place_original_location: Bangkok (Thailand)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: Rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: inkjet printing black-and-white photography\n\n  object_colour: black-and-white (colours)\n\n  physical_appearance: The scene captured in this print shows a group of children gathred around a table. There is a wooden ladder that one climbs to enter the house. A naked girl stands at the door way\n looking out.\n\n  subject_terms_1: poor dumps (refuse areas) children (people by age group) rural housing\n\n  subject_terms_2: Bangkok (Thailand) Fills (Earthwork) Children Prints Thais Housing\n Rural Rural poor\n\n  subject_terms_3: Visual arts\n\n  sgcool_label_text: Rong Wong-Savun (b. 1932\n d. 2009) first encountered photography at the age of 16-17\n and taught himself to read the Kodak manual using a Thai-English dictionary. He developed photos until his fingernails were dyed black with darkroom chemicals. When he was twenty\n he showed his photos to Mom Rajawongse Kukrit Pramoj\n who admired his skills and bought the photos for his magazine. Having developed a rapport with M.R. Kukrit\n ‘Rong eventually became a permanent employee at the Siam Rath Weekly Review. \\r\\n\\r\\nEchoing his early photographic subjects\n his later literary pursuits reflected the world of the common\n often underprivileged\n people who were neglected and dismissed by society at large. \\r\\n\\r\\nNamed a National Artist in the field of Literature in 1995\n Rong is remembered as a pivotal and prolific writer who transformed the landscape of Thai literature through the topicality of his work and the originality of his language.\n",
-  "createdDate": "20201127000603",
+  "createdDate": "20201127205925",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_3": "Visual arts",
     "sgcool_label_text": "Rong Wong-Savun (b. 1932, d. 2009) first encountered photography at the age of 16-17, and taught himself to read the Kodak manual using a Thai-English dictionary. He developed photos until his fingernails were dyed black with darkroom chemicals. When he was twenty, he showed his photos to Mom Rajawongse Kukrit Pramoj, who admired his skills and bought the photos for his magazine. Having developed a rapport with M.R. Kukrit, ‘Rong eventually became a permanent employee at the Siam Rath Weekly Review. \r\n\r\nEchoing his early photographic subjects, his later literary pursuits reflected the world of the common, often underprivileged, people who were neglected and dismissed by society at large. \r\n\r\nNamed a National Artist in the field of Literature in 1995, Rong is remembered as a pivotal and prolific writer who transformed the landscape of Thai literature through the topicality of his work and the originality of his language."
   },
-  "nlpDate": "20201127000603",
+  "nlpDate": "20201127205925",
   "connectorId": 0,
   "tags": {}
 }

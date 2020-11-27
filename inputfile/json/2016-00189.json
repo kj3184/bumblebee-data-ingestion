@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00189\n\n  Image: \n\n  object_work_type: passports\n\n  title_text: Passport of Yeggammai  Achi\n Citizen of India Yeggammai  Achi\n Citizen of India\n\n  preference: main alternate\n\n  title_language: \n\n  creator_1: India\n Ministry of External Affairs\n\n  creator_role: creators\n\n  creation_date: 19670206\n\n  creation_place_original_location: India\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process)\n\n  object_colour: navy blue\n\n  physical_appearance: \\The image shows a rectangular passport. \\\\240372\\\\ is stated at the top right hand side of the passport. \\\\Citizen of India\\\\ is stated at the bottom centre of the passport in bold purple letters. The name \\\\Yeggammai Achi\\\\ is underlined with a black marker. The passport is placed inside a clear plastic sheet within a holder.\\\n\n  subject_terms_1: citizenship papers citizenship\n\n  subject_terms_2: India Citizenship Passports\n\n  sgcool_label_text: The region of Chettinad in Southern Indian state of Tamil Nadu is the region of origin of the Chettiar community of business or the Vaishya caste. The Nagarattar Chettiars are among the early Indian migrants to the Southeast Asian region with business establishments in Vietnam\n Myanmar\n Malaysia and Singapore. Their migration and establishment of money lending business in Singapore-Malaya in particular are of special significance to the Indian Heritage Centre (IHC). Their presence in the Straits Settlements can be traced to the early 18th century onwards. This is a collection of travel documents\n photographs and horoscopes from the family of Ramasamy Chettiar.\n",
-  "createdDate": "20201127000612",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -30,7 +30,7 @@
     "subject_terms_2": "India Citizenship Passports",
     "sgcool_label_text": "The region of Chettinad in Southern Indian state of Tamil Nadu is the region of origin of the Chettiar community of business or the Vaishya caste. The Nagarattar Chettiars are among the early Indian migrants to the Southeast Asian region with business establishments in Vietnam, Myanmar, Malaysia and Singapore. Their migration and establishment of money lending business in Singapore-Malaya in particular are of special significance to the Indian Heritage Centre (IHC). Their presence in the Straits Settlements can be traced to the early 18th century onwards. This is a collection of travel documents, photographs and horoscopes from the family of Ramasamy Chettiar."
   },
-  "nlpDate": "20201127000612",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

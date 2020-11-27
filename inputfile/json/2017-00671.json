@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00671\n\n  Image: \n\n  object_work_type: earthenware jars\n\n  title_text: Tea jar\n\n  preference: main\n\n  title_language: \n\n  creation_date: Qing dynasty\n early 18th century\n\n  creation_place_original_location: Jiangsu Sheng (China) Yixing Shi (China)\n\n  styles_periods_indexing_terms: Chinese (culture or style)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: Rectangular?\n\n  materials_name: clay\n\n  techniques_name: firing (technique) burnishing (polishing)\n\n  object_colour: brown (colour)\n\n  physical_appearance: This is squared tea jar with panels on each side. Each panel is depicts a dragon chasing after a pearl.\n\n  subject_terms_1: storage vessels dragons tea (beverage)\n\n  subject_terms_2: Tea containers Dragons in art Pottery\n Chinese Zhongguo wen hua xi lie\n\n  subject_terms_3: Chinese decorative arts\n\n  subject_terms_4: \n\n  sgcool_label_text: This squared tea jar is decorated on each side with panels showing two dragons chasing a pearl amongst the clouds. The model is probably inspired by Dutch pewter examples of tea jars. Similar shaped tea jars are also commonly produced in blue and white porcelain during the 18th century. The warm brown tone is the result of the low sand content of the clay\n which comes from Yixing in Jiangsu province\n eastern China. \\r\\n\\r\\nThe Yixing kilns are known to have produced high quality ceramics\n particularly teapots\n from as early as the 16th century. The tea jars are not usually glazed\n but burnished and fired. Yixing wares are popular domestically and abroad.\\r\\n\n",
-  "createdDate": "20201127000604",
+  "createdDate": "20201127205926",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -31,7 +31,7 @@
     "subject_terms_4": "",
     "sgcool_label_text": "This squared tea jar is decorated on each side with panels showing two dragons chasing a pearl amongst the clouds. The model is probably inspired by Dutch pewter examples of tea jars. Similar shaped tea jars are also commonly produced in blue and white porcelain during the 18th century. The warm brown tone is the result of the low sand content of the clay, which comes from Yixing in Jiangsu province, eastern China. \r\n\r\nThe Yixing kilns are known to have produced high quality ceramics, particularly teapots, from as early as the 16th century. The tea jars are not usually glazed, but burnished and fired. Yixing wares are popular domestically and abroad.\r\n"
   },
-  "nlpDate": "20201127000604",
+  "nlpDate": "20201127205926",
   "connectorId": 0,
   "tags": {}
 }

@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00537\n\n  Image: \n\n  object_work_type: magazines (periodicals) serials (publications)\n\n  title_text: Open  Space\\u0027 magazine \\u0027Open  Space\\u0027 magazine by Substation\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: Kuo Pao Kun Joe Ng\n\n  creator_1: Not indicated Kuo\n Pao Kun. 1939-2002\n\n  creator_role: illustrators creators\n\n  creation_date: 1990-1991 Dec 1990 - Jan 1991\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: printing paper\n\n  techniques_name: printing (process)\n\n  object_colour: grey (colour)\n\n  edition_description: Not indicated\n\n  physical_appearance: \\The image displays the front cover of a magazine. It is grey in colour. \\\\Open Space\\\\ is displayed at the top. The dates \\\\28/12/90 to 6/1/91\\\\ is displayed at the bottom right hand side. A picture of a woman wearing a kebaya and sitting down on a chair in the interior of a building can be seen.\\\n\n  subject_terms_1: performing arts centres cultural heritage art centres\n\n  subject_terms_2: Periodicals Publications Centres for the performing arts Art centres\n\n  subject_terms_3: Periodicals The Substation (Arts centre) Kuo\n Pao Kun Cultural development\n\n  sgcool_label_text: The inaugural issue of Open Space\n a bi-monthly bilingual magazine with events and reviews which ran till December 1992. This important issue documents the launch of the Substation\n perhaps the definitive independent art space in Singapore. \\r\\n\\r\\nWith a forward by its founder Kuo Pao Kun and featuring images and events of its different functioned spaces\n the issue also features a rare full-colour centrefold collage by Joe Ng\n a local music archivist of a gig in what was then the Substation’s open air garden. Open Space was distributed for free at the Substation’s Box Office.\n",
-  "createdDate": "20201127000610",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -33,7 +33,7 @@
     "subject_terms_3": "Periodicals The Substation (Arts centre) Kuo, Pao Kun Cultural development",
     "sgcool_label_text": "The inaugural issue of Open Space, a bi-monthly bilingual magazine with events and reviews which ran till December 1992. This important issue documents the launch of the Substation, perhaps the definitive independent art space in Singapore. \r\n\r\nWith a forward by its founder Kuo Pao Kun and featuring images and events of its different functioned spaces, the issue also features a rare full-colour centrefold collage by Joe Ng, a local music archivist of a gig in what was then the Substation’s open air garden. Open Space was distributed for free at the Substation’s Box Office."
   },
-  "nlpDate": "20201127000610",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

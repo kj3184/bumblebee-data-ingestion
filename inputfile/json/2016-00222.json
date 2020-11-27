@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00222\n\n  Image: \n\n  object_work_type: ceremonial objects\n\n  title_text: A palm-leaf fan with ivory handle and finial Palm-leaf fan with ivory handle and finial\n\n  preference: main alternate\n\n  title_language: \n\n  creation_date: 18th century\n\n  creation_place_original_location: Sri Lanka\n\n  styles_periods_indexing_terms: Sri Lankan\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: ivory (material) palm leaf (material)\n\n  techniques_name: carving (processes) painting (image-making)\n\n  object_colour: multicolored\n\n  physical_appearance: This is a palm leaf fan. It consists of a painted-turned handle\n with scrolling and foliate red-and-black designs. The fan is held by the handle with a carved holder and finial ornament end.\n\n  subject_terms_1: fans (costume accessories) Buddhism scrolls (motifs) foliage (motif)\n\n  subject_terms_2: Aesthetics\n Sri Lankan Motifs Ceremonial objects Buddhism Customs and practices fans\n\n  subject_terms_3: Buddhism Religious life and practices\n\n  sgcool_label_text: This fan consists of a painted turned handle\n with scrolling and foliate designs in red and black. The palm-leaf fan is held in place by elaborately carved holder and finial. The style is characteristic of ivory objects from Sri Lanka\n and this piece is exceptionally large.\\r\\n\\r\\nIt shows the high level of craftsmanship\n especially in ivory carving\n achieved during the Kandy period. The fan would have been used by a high profile monk during Buddhist ceremonies. Devotees presented ivory fans of this type to the monks they revered.\n",
-  "createdDate": "20201127000611",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -30,7 +30,7 @@
     "subject_terms_3": "Buddhism Religious life and practices",
     "sgcool_label_text": "This fan consists of a painted turned handle, with scrolling and foliate designs in red and black. The palm-leaf fan is held in place by elaborately carved holder and finial. The style is characteristic of ivory objects from Sri Lanka, and this piece is exceptionally large.\r\n\r\nIt shows the high level of craftsmanship, especially in ivory carving, achieved during the Kandy period. The fan would have been used by a high profile monk during Buddhist ceremonies. Devotees presented ivory fans of this type to the monks they revered."
   },
-  "nlpDate": "20201127000611",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

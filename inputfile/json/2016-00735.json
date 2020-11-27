@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00735\n\n  Image: \n\n  object_work_type: black-and-white photographs\n\n  title_text: Relocation\n\n  preference: main\n\n  title_language: \n\n  creator_2: Loke Hong Seng\n\n  creator_1: Loke\n Hong Seng\n\n  creator_role: photographers\n\n  creation_date: 2015 [1970]\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process)\n\n  object_colour: grey monochrome\n\n  edition_description: 15-Feb\n\n  physical_appearance: The image shows a photograph in black-and-white that is enclosed by a white frame. The entire background of the image consists of a high-rise flat. In the foreground\n an attap house and its walkway can be seen. There are two ladies and a male youth present in the photograph. The two ladies are located inside the attap house and are looking outwards\n while the male youth is standing on the walkway. A line of clothes can be seen at the top right foreground of the photograph.\n\n  subject_terms_1: residential structures urban development resettlement dwellings new towns (modern settlements) flats (apartments)\n\n  subject_terms_2: Relocation (Housing) Apartments Dwellings Jalan Eunos (Singapore) Urban development Black-and-white photography New towns\n\n  subject_terms_3: Jalan Eunos Photography\n\n  sgcool_label_text: Loke Hong Seng (b. 1943) was working as a radio announcer with Radio Television Singapore in the 1960s when he picked up photography and subsequently grew to specialize in street photography. His images of 1960s and 1970s Singapore offer a candid view of everyday life in the early days of the nation’s development. This photograph shows one of the remaining families who have yet to move out of their attap home in Jalan Eunos. Their housing condition is contrasted against the new HDB flats in the background.\n",
-  "createdDate": "20201127000609",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -33,7 +33,7 @@
     "subject_terms_3": "Jalan Eunos Photography",
     "sgcool_label_text": "Loke Hong Seng (b. 1943) was working as a radio announcer with Radio Television Singapore in the 1960s when he picked up photography and subsequently grew to specialize in street photography. His images of 1960s and 1970s Singapore offer a candid view of everyday life in the early days of the nation’s development. This photograph shows one of the remaining families who have yet to move out of their attap home in Jalan Eunos. Their housing condition is contrasted against the new HDB flats in the background."
   },
-  "nlpDate": "20201127000609",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

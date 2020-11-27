@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2018-00046-002\n\n  Image: \n\n  object_work_type: proofs (prints by function) artists\\u0027 proofs\n\n  title_text: Three Workers Three Workers: Artists\\u0027 Proof\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: Tan Lip Seng\n\n  creator_1: Tan\n Lip Seng\n 1942- Tan\n Lip Seng\n\n  creator_role: photographers\n\n  creation_date: 1965\n\n  creation_place_original_location: Singapore (nation)\n\n  styles_periods_indexing_terms: Not indicated\n\n  inscriptions: \n\n  inscription_language: \n\n  scale_type: Not indicated\n\n  shape: rectangular\n\n  materials_name: metallic paper\n\n  techniques_name: printing (process) montage (image-making technique)\n\n  object_colour: multicoloured\n\n  edition_description: 1 of 3\n\n  physical_appearance: The image shows an artist\\u0027s proof. It is rectangular in shape. The proof is encased within a black frame. The backs of three women are facing the direction in which the artist\\u0027s proof was captured. All of them are wearing headscarfs and shoes. The background of the artist\\u0027s proof shows a building. The first level of the building contains running rectangular patterns along its wall. There are numerous cracks along the concrete\n above the base of the building. The ground in which the three women are walking on contains numerous stones. It is also uneven.\n\n  subject_terms_1: women (female humans) workers\n\n  subject_terms_2: Employees Proofs (Printing) Women\n\n  subject_terms_3: Photography Women\n\n  sgcool_label_text: This photograph was taken by Singaporean photographer Tan Lip Seng. Tan is arguably the most important photographer in the region developing colour derivative and photo montage techniques. His works in the 1960s were a result of various experiments meticulously combining multiple colour transparencies into one to achieve the desired montage within one frame.\\r\\n\\r\\nTan spent 42 years as a medical photographer at the National University of Singapore. Many of his works have won numerous awards internationally and show a strong graphic and stylistic sensibility.\n",
-  "createdDate": "20201127000603",
+  "createdDate": "20201127205925",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -35,7 +35,7 @@
     "subject_terms_3": "Photography Women",
     "sgcool_label_text": "This photograph was taken by Singaporean photographer Tan Lip Seng. Tan is arguably the most important photographer in the region developing colour derivative and photo montage techniques. His works in the 1960s were a result of various experiments meticulously combining multiple colour transparencies into one to achieve the desired montage within one frame.\r\n\r\nTan spent 42 years as a medical photographer at the National University of Singapore. Many of his works have won numerous awards internationally and show a strong graphic and stylistic sensibility."
   },
-  "nlpDate": "20201127000603",
+  "nlpDate": "20201127205925",
   "connectorId": 0,
   "tags": {}
 }

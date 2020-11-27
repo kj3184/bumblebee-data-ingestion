@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00072\n\n  Image: \n\n  object_work_type: magazines (periodicals)\n\n  title_text: Special issue of souvenir magazine dedicated to MV Gurusamy\n\n  preference: main\n\n  title_language: \n\n  creator_2: Unknown\n\n  creation_date: 19-Aug-78\n\n  creation_place_original_location: Singapore\n\n  styles_periods_indexing_terms: Not indicated\n\n  inscriptions: \n\n  inscription_language: \n\n  scale_type: Not indicated\n\n  shape: rectangular\n\n  materials_name: printing paper\n\n  techniques_name: printing (process)\n\n  object_colour: multicoloured\n\n  physical_appearance: \\The image shows the front cover of a magazine. It has a white background. \\\\19-8-78\\\\ is stated near the bottom. The front page is filled with the Tamil script. The image on the page shows a man sitting cross-legged. In front of him is a mridangam and a microphone. At the upper left hand side of the page\n\n  subject_terms_1: souvenirs commemorations (events) a drawing of a Hindu deity is present. \\\n\n  subject_terms_2: musicians Souvenirs (Keepsakes) Appreciation of a person’s creative works Musicians\n\n  subject_terms_3: Periodicals Performing Arts Indian music Musicians\n\n  subject_terms_4: Periodicals\n",
-  "createdDate": "20201127000612",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_3": "Periodicals Performing Arts Indian music Musicians",
     "subject_terms_4": "Periodicals"
   },
-  "nlpDate": "20201127000612",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

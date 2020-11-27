@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00769\n\n  Image: \n\n  object_work_type: quilts\n\n  title_text: Patchwork quilt made by Samsui woman Mdm Wong Swee Keng\n\n  preference: main\n\n  title_language: \n\n  creator_2: Mdm Wong Swee Keng\n\n  creator_1: Not indicated\n\n  creator_role: creators\n\n  creation_date: 2006\n\n  creation_place_original_location: Singapore\n\n  styles_periods_indexing_terms: Not indicated\n\n  inscriptions: \n\n  inscription_language: \n\n  scale_type: Not indicated\n\n  shape: rectangular\n\n  materials_name: cloth\n\n  techniques_name: patchwork\n\n  object_colour: multicoloured\n\n  physical_appearance: The image shows a patchwork quilt. It is rectangular in shape and it has a pink background. There is a ten by seven grid pattern of hexagonal motifs. They come in an assortment of colours.\n\n  subject_terms_1: geometric motifs geometric patterns\n\n  subject_terms_2: Motifs Patchwork\n\n  sgcool_label_text: This patchwork quilt was made by Mdm Wong Swee Keng\n a Samsui Woman. Mdm Wong was born in Singapore in 1914\n but was taken to China when she was 5. At the age of 15\n she returned to Singapore\n working at a rubber factory until she was 21 when she returned again to China to get married. At the age of about 27\n she joined her husband in Singapore\n where she worked at construction sites as a Samsui Woman\n a job she held until she was 70. She spent eight hours a day for one month to make this quilt\n and offered it for sale at a charity event.\n",
-  "createdDate": "20201127000609",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -33,7 +33,7 @@
     "subject_terms_2": "Motifs Patchwork",
     "sgcool_label_text": "This patchwork quilt was made by Mdm Wong Swee Keng, a Samsui Woman. Mdm Wong was born in Singapore in 1914, but was taken to China when she was 5. At the age of 15, she returned to Singapore, working at a rubber factory until she was 21 when she returned again to China to get married. At the age of about 27, she joined her husband in Singapore, where she worked at construction sites as a Samsui Woman, a job she held until she was 70. She spent eight hours a day for one month to make this quilt, and offered it for sale at a charity event."
   },
-  "nlpDate": "20201127000609",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

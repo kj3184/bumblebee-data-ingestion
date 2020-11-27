@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00320-001 and 002\n\n  Image: \n\n  object_work_type: Buddhas (visual works)\n\n  title_text: Lanna Buddha Head\n\n  preference: main\n\n  title_language: \n\n  creation_date: Early 16th century\n\n  creation_place_original_location: Thailand\n Northern Lanna (Kingdom)\n\n  styles_periods_indexing_terms: Northern Thai\n\n  inscriptions: \n\n  inscription_language: \n\n  materials_name: bronze (metal)\n\n  techniques_name: casting (process) lost-wax process\n\n  object_colour: bronze (colour)\n\n  physical_appearance: This is a bronze Buddha head. He is depicted with highly arched brows that meet at the bridge of his nose\n downcast eyes\n a tall nose\n relatively thin lips that curve slightly upwards at its edges\n a defined chin\n and long ear lobes. He also sports an ushnisha\n snail-shell coils as hair\n and has three lines on his neck; lakshanas that define him as a mahapurusha (Great Being). He is missing his top finial.\n\n  subject_terms_1: nirvana religious art religious symbolism buddhas (people) attributes (symbols) religious visual works\n\n  subject_terms_2: Introspection Religious art Buddha Nirvana\n\n  subject_terms_3: Buddhism\n\n  subject_terms_4: \n\n  sgcool_label_text: This Buddha\n when it was complete\n would have looked down serenely upon those who worshipped it. It was produced in Lan Na (northern Thailand)\n a major bronze-casting centre. Its prominent cranial bump (ushnisha) was originally topped by a flame finial (now missing) similar to those on the two Sukhothai Buddha images on display in this gallery. \\r\\n\\r\\nAs with Sukhothai\n Lan Na was heavily influenced by Sri Lankan Buddhism. Styles flowed between the various kingdoms\n and Buddha images from Lan Na and Sukhothai share many similarities. Influence also moved by less peaceful means: in the 15th century\n Sawankhalok captured by Tiloka\n the Lan Na king\n who then repulsed a number of attempts by Sukhothai to regain the city. \\r\\n\n",
-  "createdDate": "20201127000606",
+  "createdDate": "20201127205926",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -30,7 +30,7 @@
     "subject_terms_4": "",
     "sgcool_label_text": "This Buddha, when it was complete, would have looked down serenely upon those who worshipped it. It was produced in Lan Na (northern Thailand), a major bronze-casting centre. Its prominent cranial bump (ushnisha) was originally topped by a flame finial (now missing) similar to those on the two Sukhothai Buddha images on display in this gallery. \r\n\r\nAs with Sukhothai, Lan Na was heavily influenced by Sri Lankan Buddhism. Styles flowed between the various kingdoms, and Buddha images from Lan Na and Sukhothai share many similarities. Influence also moved by less peaceful means: in the 15th century, Sawankhalok captured by Tiloka, the Lan Na king, who then repulsed a number of attempts by Sukhothai to regain the city. \r\n"
   },
-  "nlpDate": "20201127000606",
+  "nlpDate": "20201127205926",
   "connectorId": 0,
   "tags": {}
 }

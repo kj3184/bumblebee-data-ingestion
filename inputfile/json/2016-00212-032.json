@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00212-032\n\n  Image: \n\n  object_work_type: black-and-white photographs\n\n  title_text: Upper entrance of Shwedagon Pagoda\n Rangoon Photograph album of views and portraits in the Punjab\n Cashmere\n Ceylon\n Burma\n Penang\n Singapore\n and Java\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: John Thomson\n\n  creator_1: Thomson\n J. (John)\n 1837-1921\n\n  creator_role: photographers\n\n  creation_date: before 28 Jul 1876\n\n  creation_place_original_location: Singapore Rangoon (Burma)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: albumen (egg white protein) paper (fiber product) albumen paper\n\n  techniques_name: albumen process\n\n  object_colour: black-and-white (colors)\n\n  physical_appearance: This is a photograph of the Shwedagon Pagoda in Rangoon\n Burma. The photograph shows the entrance to the Pagoda\n with steps leading up to the Stupa. There is a decorated archway at the top of the steps. At the bottom-left\n there is a horse-drawn carriage driven by a man. On the bottom-right\n there are several people sitting on the ground. There are also a few people on the steps to the Pagoda. The title is written at the bottom\n below the photograph. The top-right corner of the photograph is folded inwards.\n\n  subject_terms_1: scenery (landscape) Buddhism stupas pagodas (buildings)\n\n  subject_terms_2: Buddhism Photographs Stupas Thomson\n J. (John)\n 1837-1921 Rangoon (Burma) Pagodas Rvhe ti gum? Ce ti? to? (Rangoon\n Burma)\n\n  subject_terms_3: Landscape photography Buddhism Religious buildings\n",
-  "createdDate": "20201127000611",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -31,7 +31,7 @@
     "subject_terms_2": "Buddhism Photographs Stupas Thomson, J. (John), 1837-1921 Rangoon (Burma) Pagodas Rvhe ti gum? Ce ti? to? (Rangoon, Burma)",
     "subject_terms_3": "Landscape photography Buddhism Religious buildings"
   },
-  "nlpDate": "20201127000611",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

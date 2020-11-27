@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00230\n\n  Image: \n\n  object_work_type: fabric art (visual works) collages (visual works)\n\n  title_text: The Matriarch of Negros\n\n  preference: main\n\n  title_language: \n\n  creator_2: Norberto Roldan\n\n  creator_1: Roldan\n Norberto\n\n  creator_role: artists (visual artists)\n\n  creation_date: 1989\n\n  creation_place_original_location: Philippines\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: Rectangular\n\n  materials_name: cloth bamboo (material)\n\n  techniques_name: stitching (generic process) weaving embroidering beading (process) screen printing\n\n  object_colour: multicoloured\n\n  physical_appearance: \\This is an assemblage consisting of baby amulet beeds\n silk screen images of familiries and embroidery. The base fabric is that of traditional Visayan \\\\patadyong\\\\. The central image has a green tint\n\n  subject_terms_1: and is framed in a square shaped embroidery. Two other silk screen images of individuals can be found on the top right and left corners. \\ biography (genre) ethnicity group identity memory collective biographies\n\n  subject_terms_2: Group identity Collective memory Biography Ethnicity material culture (genre) Visayan Islands (Philippines)\n\n  subject_terms_3: Material culture Mixed media artists\n\n  subject_terms_4: visual arts\n",
-  "createdDate": "20201127000606",
+  "createdDate": "20201127205927",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_3": "Material culture Mixed media artists",
     "subject_terms_4": "visual arts"
   },
-  "nlpDate": "20201127000606",
+  "nlpDate": "20201127205927",
   "connectorId": 0,
   "tags": {}
 }

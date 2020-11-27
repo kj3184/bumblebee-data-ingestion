@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00557 \n\n  Image: \n\n  object_work_type: passports\n\n  title_text: A Travel Document (Passport) Issued In 1901 By The Ottoman Consulate in Singapore\n\n  preference: main\n\n  title_language: \n\n  creation_date: 1901\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: Rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process) writing (processes)\n\n  object_colour: black-and-white (colours)\n\n  physical_appearance: This is a passport document issued in 1901 by the Ottoman Consulate in Singapore. It is written in both French and Ottoman Turkish script. It has the details of the applaicant\n and two stamps/chops; one by the French the other by the Turkish Consulate\n\n  subject_terms_1: French (language) travel\n\n  subject_terms_2: Diplomatic and consular service Passports\n\n  subject_terms_3: Geography and Travels\n\n  subject_terms_4: \n\n  sgcool_label_text: v\n",
-  "createdDate": "20201127000604",
+  "createdDate": "20201127205926",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -30,7 +30,7 @@
     "subject_terms_4": "",
     "sgcool_label_text": "v"
   },
-  "nlpDate": "20201127000604",
+  "nlpDate": "20201127205926",
   "connectorId": 0,
   "tags": {}
 }

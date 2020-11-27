@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00242\n\n  Image: \n\n  object_work_type: oil paintings (visual works) portraits\n\n  title_text: Lee Kuan Yew Painting of Lee Kuan Yew\n\n  preference: main alternate\n\n  title_language: \n\n  creator_1: Alvin Ong\n\n  creator_role: painters (artists)\n\n  creation_date: 2015\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: Canvas (textile material) oil paint (paint)\n\n  techniques_name: oil painting (technique)\n\n  object_colour: multicolored\n\n  physical_appearance: This is a portrait painting of Lee Kuan Yew. He is dressed in a suit and tie. He is sitting sideways\n body facing towards the left. His gaze is towards the front. The painting uses muted colours of gray\n beige\n white and black. There is a signature on the bottom-right of the painting.\n\n  subject_terms_1: commissions (orders for works) prime ministers leaders (people)\n\n  subject_terms_2: Painting Prime ministers Portrait painting Lee\n Kuan Yew\n 1923-2015\n\n  subject_terms_3: The Arts House at The Old Parliament Oil Painting Politicians Lee\n Kuan Yew\n\n  sgcool_label_text: This posthumous oil painting of Lee Kuan Yew by Alvin Ong depicts the first Prime Minister of Singapore as a young man. It is based on a photograph of Mr Lee at Assembly House (now known as the Arts House or Old Parliament House)\n in December 1958.\n",
-  "createdDate": "20201127000611",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -31,7 +31,7 @@
     "subject_terms_3": "The Arts House at The Old Parliament Oil Painting Politicians Lee, Kuan Yew",
     "sgcool_label_text": "This posthumous oil painting of Lee Kuan Yew by Alvin Ong depicts the first Prime Minister of Singapore as a young man. It is based on a photograph of Mr Lee at Assembly House (now known as the Arts House or Old Parliament House), in December 1958."
   },
-  "nlpDate": "20201127000611",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

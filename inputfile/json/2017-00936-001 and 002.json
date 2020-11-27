@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00936-001 and 002 \n\n  Image: \n\n  object_work_type: belts (costume accessories)\n\n  title_text: Gold buckle with silver belt\n\n  preference: main\n\n  title_language: \n\n  creation_date: 1950s\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: silver (metal) * I put this because the belt is actually silver gold (metal)\n\n  techniques_name: casting (process) metalworking\n\n  object_colour: multicoloured\n\n  physical_appearance: This is a silver belt fastened with a gold buckle. The buckle has lobed edges\n an escutcheon in the center\n surrounded by birds and foliage in open metal work. The belt is made of links and three rows of florets.\n\n  subject_terms_1: coats of arms belt buckles birds (motif) foliage (motif) florets (tools)\n\n  subject_terms_2: Leaves in art Escutcheons (Heraldry) Flowers in art Birds in art Belts (Clothing)\n\n  subject_terms_3: Decorative arts\n\n  sgcool_label_text: This gold buckle with lobed edges has at its centre an escutcheon flanked by two birds with their wings outstretched as if in flight.  The composition resembles a coat of arms and is seamlessly woven into the background of rich foliage\n all cast in delicate openwork. The shape of the buckle is a variation of the ogive which was popular among the Malays and Peranakan Chinese. Nyonyas often wore buckles with metal belts. The owner wore this buckle with a silver belt\n made up of links and three rows of florets.\n",
-  "createdDate": "20201127000604",
+  "createdDate": "20201127205925",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -29,7 +29,7 @@
     "subject_terms_3": "Decorative arts",
     "sgcool_label_text": "This gold buckle with lobed edges has at its centre an escutcheon flanked by two birds with their wings outstretched as if in flight.  The composition resembles a coat of arms and is seamlessly woven into the background of rich foliage, all cast in delicate openwork. The shape of the buckle is a variation of the ogive which was popular among the Malays and Peranakan Chinese. Nyonyas often wore buckles with metal belts. The owner wore this buckle with a silver belt, made up of links and three rows of florets."
   },
-  "nlpDate": "20201127000604",
+  "nlpDate": "20201127205925",
   "connectorId": 0,
   "tags": {}
 }

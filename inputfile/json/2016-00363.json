@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00363\n\n  Image: \n\n  object_work_type: necklaces chokers (necklaces)\n\n  title_text: m?nikka addigai and m?nga m?lai South Indian Necklaces A Pair of South Indian Necklaces\n\n  preference: main alternate\n\n  title_language: \n\n  creation_date: 1801 - 1939\n\n  creation_place_original_location: India\n South\n\n  styles_periods_indexing_terms: Indian (South Asian)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: round (shape) U-shaped\n\n  materials_name: gold (metal) ruby (mineral) thread\n\n  techniques_name: metalworking jewellery making\n\n  object_colour: gold (colour)\n\n  physical_appearance: The image shows two types of jewellery. The one on the left has a tassel. The pendant attached to the strong comprises of numerous purple and grey round beads. The one on the right has a chain to be hooked and unhooked from the neck. It has numerous purle\n green\n and grey round beads that are shaped like teardrops. Floral patterns can be discerned from this necklace.\n\n  subject_terms_1: jewellery craftsmanship costume accessories neck ornaments floral patterns goldwork (visual works)\n\n  subject_terms_2: Workmanship Dress accessories Goldwork Gold jewellery Necklaces Ethnic jewellery\n\n  subject_terms_3: Jewellery\n\n  sgcool_label_text: The m?nga m?lai (Tamil: Mango Garland or necklace) and the m?nikka Addigai (Tamil: Ruby Choker) are typical examples of Tamil necklaces\n both worn for celebratory occasions such as weddings and/or as part of dance costumes by bharatanatyam dancers. Nature inspired jewellery\n featuring flora and fauna were common in South India. The m?nga m?lai design can be traced as far back as the Chola period\n as seen in bronzes produced at the time. This pair of necklaces are important in many ways – they bear testimony to the socio-cultural heritage of Tamils in Singapore; they are also superior examples of Indian gold craftsmanship and of the material culture of Tamils in the region in the 19th/20th centuries.\n",
-  "createdDate": "20201127000611",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -30,7 +30,7 @@
     "subject_terms_3": "Jewellery",
     "sgcool_label_text": "The m?nga m?lai (Tamil: Mango Garland or necklace) and the m?nikka Addigai (Tamil: Ruby Choker) are typical examples of Tamil necklaces, both worn for celebratory occasions such as weddings and/or as part of dance costumes by bharatanatyam dancers. Nature inspired jewellery, featuring flora and fauna were common in South India. The m?nga m?lai design can be traced as far back as the Chola period, as seen in bronzes produced at the time. This pair of necklaces are important in many ways – they bear testimony to the socio-cultural heritage of Tamils in Singapore; they are also superior examples of Indian gold craftsmanship and of the material culture of Tamils in the region in the 19th/20th centuries."
   },
-  "nlpDate": "20201127000611",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

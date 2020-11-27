@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00754\n\n  Image: \n\n  object_work_type: altar tables\n\n  title_text: Gilded altar tables Altar – 2 parts\n\n  preference: main alternate\n\n  title_language: \n\n  creation_date: 1900-1920\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: teak (wood)\n\n  techniques_name: woodcarving gilding (technique)\n\n  object_colour: multicolored\n\n  physical_appearance: This is a set of gilded altar tables. The back table is taller than the front table. The front table is gilded in sections. The tables have floral and vine engravings on the front and down the sides. At the edges of both tables\n there are carvings of lion heads. On top of the tables sit various ornaments.\n\n  subject_terms_1: Peranakan lion\\u0027s head (motif) worship religious ceremonies flower (motif) altars carvings (visual works)\n\n  subject_terms_2: Motifs Rites and ceremonies Tables Peranakan (Asian people) Altars Worship\n\n  subject_terms_3: Religious life and practices\n\n  sgcool_label_text: This gilded altar comes in two parts. The two tables are made of teak and was gilded in sections. The heads of ferocious lions are carved at the edges of both tables\n with flowers and vines carved along the sides. The base of the tables is carved in the shape of lion’s claws griping a ball. Though the gilding is still very apparent on the lower table\n suggesting a recent re-gilding\n most of the gilding has faded on the taller table.\\r\\n\\r\\nThis item is donated by the family of prominent Peranakan\n Ong Sam Leong (b. 1857\n Singapore – d. 7 February 1918\n Singapore). It comes from his ancestral home of Bukit Rose\n formerly at 259 Bukit Timah Road. Ong was a well-known successful businessman who made is money in the mining of phosphate on Christmas island\n which was historically a territory of colonial Singapore.\n",
-  "createdDate": "20201127000609",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -29,7 +29,7 @@
     "subject_terms_3": "Religious life and practices",
     "sgcool_label_text": "This gilded altar comes in two parts. The two tables are made of teak and was gilded in sections. The heads of ferocious lions are carved at the edges of both tables, with flowers and vines carved along the sides. The base of the tables is carved in the shape of lion’s claws griping a ball. Though the gilding is still very apparent on the lower table, suggesting a recent re-gilding, most of the gilding has faded on the taller table.\r\n\r\nThis item is donated by the family of prominent Peranakan, Ong Sam Leong (b. 1857, Singapore – d. 7 February 1918, Singapore). It comes from his ancestral home of Bukit Rose, formerly at 259 Bukit Timah Road. Ong was a well-known successful businessman who made is money in the mining of phosphate on Christmas island, which was historically a territory of colonial Singapore."
   },
-  "nlpDate": "20201127000609",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

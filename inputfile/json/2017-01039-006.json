@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-01039-006\n\n  Image: \n\n  object_work_type: photographs black-and-white photographs\n\n  title_text: George Lowe album: Photograph of Queen Elizabeth II Photograph album presented to George Lowe as a souvenir of his visit to Singapore\n\n  preference: main alternate\n\n  title_language: \n\n  creation_date: 1953\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: photographic processes\n\n  object_colour: black-and-white (colors)\n\n  physical_appearance: This is a black-and-white photograph of a portrait painting. It is a painting of Queen Elizabeth II. She is wearing a long dress\n with a sash across her shoulder\n and a crown. She is holding something in her right hand. She is stnading against a backdrop with scroll patterns. The portrait is bordered with a frame.\n\n  subject_terms_1: souvenirs Photographs portraits paintings (visual works)\n\n  subject_terms_2: Elizabeth II\n Queen of Great Britain\n 1926- Portrait painting Portraits Lowe\n George\n 1924-2013 Photographs Hillary\n Edmund\n 1919-2008 Photograph albums Souvenir\n\n  subject_terms_3: Painting Photography\n\n  subject_terms_4: \n\n  sgcool_label_text: George Lowe was a member of the British Expedition that saw Sir Edmund Hillary scale Mount Everest on 29 May 1953. In September that year\n Lowe accompanied Hillary on a visit to Singapore to deliver their first Everest lecture outside of New Zealand at the Odeon Theatre to an audience of 1\n620 schoolchildren. This photograph album\n with the coat of arms of the City of Singapore in gilt on the cover\n was presented to Lowe as a souvenir of his visit.\n",
-  "createdDate": "20201127000603",
+  "createdDate": "20201127205925",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -30,7 +30,7 @@
     "subject_terms_4": "",
     "sgcool_label_text": "George Lowe was a member of the British Expedition that saw Sir Edmund Hillary scale Mount Everest on 29 May 1953. In September that year, Lowe accompanied Hillary on a visit to Singapore to deliver their first Everest lecture outside of New Zealand at the Odeon Theatre to an audience of 1,620 schoolchildren. This photograph album, with the coat of arms of the City of Singapore in gilt on the cover, was presented to Lowe as a souvenir of his visit."
   },
-  "nlpDate": "20201127000603",
+  "nlpDate": "20201127205925",
   "connectorId": 0,
   "tags": {}
 }

@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00591\n\n  Image: No image on SCMS\n\n  object_work_type: vestments\n\n  title_text: Priest\\u0027s Vestments\n\n  preference: main\n\n  title_language: \n\n  creator_2: Unknown\n\n  creation_date: Not indicated\n\n  creation_place_original_location: Not indicated\n\n  styles_periods_indexing_terms: Not indicated\n\n  inscriptions: \n\n  inscription_language: \n\n  scale_type: Not indicated\n\n  shape: irregular\n\n  materials_name: Not indicated\n\n  techniques_name: Not indicated\n\n  object_colour: red (colour) pink (colour)\n\n  physical_appearance: The image shows a set of garment. All of them are pink in colour except for one that is in red. The garment on the right hand side is shaped as a quadrant. It has floral designs on one of its sides. There is an image of a cross on the garment as well. The red garment on the left hand side is shaped as a square. The rest of the garments are rectangular in shape.\n\n  subject_terms_1: liturgical costume menswear costume accessories\n\n  subject_terms_2: Church vestments Men\\u0027s clothing\n\n  sgcool_label_text: Not indicated\n",
-  "createdDate": "20201127000610",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -31,7 +31,7 @@
     "subject_terms_2": "Church vestments Men\u0027s clothing",
     "sgcool_label_text": "Not indicated"
   },
-  "nlpDate": "20201127000610",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

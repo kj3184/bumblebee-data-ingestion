@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00281-001 and 002 \n\n  Image: \n\n  object_work_type: tea services\n\n  title_text: St Ignatius of Loyola tea bowl and saucer\n\n  preference: main\n\n  title_language: \n\n  creation_date: 18th century\n\n  creation_place_original_location: Not specified\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: concave\n\n  materials_name: porcelain enamel gilding (material) porcelain (material)\n\n  techniques_name: freehand drawing (technique) firing (technique) enameling porcelain painting (image-making) molding (forming) gilding (technique) throwing (pottery techniques)\n\n  object_colour: muticoloured\n\n  physical_appearance: \\This is a set containing a tea cup and a saucer. They both depict Saint Ignatius of Loyola. The saint is dressed in a chasuble\n and in his left hand holds a volume of the abbreviated Jesuit motto \\\\Ad Maiorem Dei Gloriam\\\\. Symbolic of his elevated status\n\n  subject_terms_1: Jesuit (Christian order) saucers (plates) he has a ray of light around his head. Both on the inner lip of the teacup and the saucer teacups Jesuit (Chinese ceramics style)\n\n  subject_terms_2: Jesuits Teacups Bolswert\n Schelte\n approximately 1586-1659 Saints Porcelain is a floral gilding. \\ Rubens\n Peter Paul\n 1577-1640 Portrait\n\n  subject_terms_3: Ceramics saints\n\n  subject_terms_4: Ignatius\n of Loyola\n Saint\n 1491-1556\n\n  context_1: Decorative arts\n\n  context_2: \n",
-  "createdDate": "20201127000606",
+  "createdDate": "20201127205927",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -31,7 +31,7 @@
     "context_1": "Decorative arts",
     "context_2": ""
   },
-  "nlpDate": "20201127000606",
+  "nlpDate": "20201127205927",
   "connectorId": 0,
   "tags": {}
 }

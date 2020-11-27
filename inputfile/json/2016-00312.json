@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00312\n\n  Image: \n\n  object_work_type: bangles\n\n  title_text: Elephant head bangles\n\n  preference: main\n\n  title_language: \n\n  creation_place_original_location: India\n\n  styles_periods_indexing_terms: Mughal\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: gold (metal) diamond (mineral) enamel paint quartz crystal\n\n  techniques_name: painting (image making) forging (metal forming) carving (processes)\n\n  object_colour: multicolored\n\n  physical_appearance: This is a pair of bangles that are closed by a clasp in the shape of elephant heads. It is decorated with gold and enamel paint. Small pieces of diamonds lined the outside of the bangle\n while the inside is painted with floral motifs.\n\n  subject_terms_1: jewelry flower (motif) foliage (motif)\n\n  subject_terms_2: Motifs Bracelets Diamond jewelry\n Mogul Empire\n\n  subject_terms_3: Jewellery Indian decorative arts\n\n  sgcool_label_text: A pair of gold and enamelled elephant head bangles\n decorated with precious stones\n and exquisite pink enamelling on the inside of the shank.\\r\\nThis object shows the taste for luxury objects in Northern India in the 19th century. In Mughal India there was a great revival in the art of rock crystal carving\n and Mughal craftsmen reached new heights of technical virtuosity especially during the reign of Shah Jahan (1628-1658). The motifs in the gem work and enamelling of flowers\n plants\n scrolling vines and animal forms allude to paradise gardens on earth. It would have been highly prized and made for a privileged few.\\r\\n\n",
-  "createdDate": "20201127000611",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -29,7 +29,7 @@
     "subject_terms_3": "Jewellery Indian decorative arts",
     "sgcool_label_text": "A pair of gold and enamelled elephant head bangles, decorated with precious stones, and exquisite pink enamelling on the inside of the shank.\r\nThis object shows the taste for luxury objects in Northern India in the 19th century. In Mughal India there was a great revival in the art of rock crystal carving, and Mughal craftsmen reached new heights of technical virtuosity especially during the reign of Shah Jahan (1628-1658). The motifs in the gem work and enamelling of flowers, plants, scrolling vines and animal forms allude to paradise gardens on earth. It would have been highly prized and made for a privileged few.\r\n"
   },
-  "nlpDate": "20201127000611",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

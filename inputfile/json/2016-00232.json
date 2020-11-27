@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00232\n\n  Image: \n\n  object_work_type: utensils\n\n  title_text: Coconut Scraper\n\n  preference: main\n\n  title_language: \n\n  creation_date: 1900 - 1999\n\n  creation_place_original_location: Cet?t?ina?t?u (India)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: wood (plant material) iron (metal)\n\n  techniques_name: woodcarving metalworking\n\n  object_colour: grey (colour)\n\n  physical_appearance: The image displays a coconut scraper. It is grey in colour. There is a circular saw ascending above the circular depression in the base of the coconut scraper. The outer perimeter of this utensil has motifs of animals\n birds\n and mythical creatures. To the right of the circular depression\n there are patterns ofsemicircles and a circle carved onto the surface of the coconut scraper.\n\n  subject_terms_1: cooking utensils hand tools implements (object genre) kitchenware birds (motif)\n\n  subject_terms_2: Motifs Kitchen utensils Tools\n\n  sgcool_label_text: This is a typical coconut scraper from the Chettinad region of Tamil Nadu. The base is ornately carved wood\n decorated with lions\n parrots and mythical creatures. Many Chettiar domestic items are made of wood and profusely ornamented in similar fashion\n a reflection of the wealth and prestige of the Chettiar traders in the 19th and 20th centuries.\\r\\nThe coconut would be grated by scraping the flesh of a halved coconut against the spiked metal head of the scraper\n and collected in the circular depression in the base. The flat portion would be weighed down with the other hand or a knee to balance the scraper\n",
-  "createdDate": "20201127000611",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -28,7 +28,7 @@
     "subject_terms_2": "Motifs Kitchen utensils Tools",
     "sgcool_label_text": "This is a typical coconut scraper from the Chettinad region of Tamil Nadu. The base is ornately carved wood, decorated with lions, parrots and mythical creatures. Many Chettiar domestic items are made of wood and profusely ornamented in similar fashion, a reflection of the wealth and prestige of the Chettiar traders in the 19th and 20th centuries.\r\nThe coconut would be grated by scraping the flesh of a halved coconut against the spiked metal head of the scraper, and collected in the circular depression in the base. The flat portion would be weighed down with the other hand or a knee to balance the scraper"
   },
-  "nlpDate": "20201127000611",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00261\n\n  Image: \n\n  object_work_type: dishes (object genres) ceramic ware (visual works) porcelain (visual works) dishes (object genre) Ceramics (object genre)\n\n  title_text: Blue and white dish with pheasant and peonies\n\n  preference: main\n\n  title_language: \n\n  creation_date: Ming dynasty\n early 17th century 1600-1639\n\n  creation_place_original_location: Zhangzhou Shi (China) Zhangzhou Shi (China). Tong ji ju\n\n  styles_periods_indexing_terms: Swatow Ming (culture\n period\n and styles)\n\n  inscriptions: \n\n  inscription_language: \n\n  scale_type: NA 10.0 x 46.5 x 46.5  cm\n\n  shape: concave oval (shape)\n\n  materials_name: clay blue-and-white (ceramic glaze) ceramic (material) ceramic glaze cobalt blue (pigment) porcelain (material)\n\n  techniques_name: pottery glazing (process or technique) freehand drawing (technique) firing (technique) underglazing porcelain painting (image-making) molding (forming) ceramic process glazing (coating process) throwing (pottery techniques)\n\n  object_colour: multicoloured\n\n  physical_appearance: This blue and white dish features a phesant surrounded by two large peonies in the centre. The centre is bordered by a circle. Outside this inner circle\n there are six identical lobed panels with floral sprays that are spaced evenly around the outer circumference of the dish. In between the spaces of these panels on the outer circle\n repeating decorative patterns that are square in shape\n referred to as diapers\n are present. This is a blue-white dish. Its central medallion features floral sprays\n two peonies\n and a pheasant. Along the inner body of the dish are six cartouches that frame a plant with three flower heads. Diaper patterns decorate the space between each of these panels. Light blue curvilinear strokes can be found on the outer surface of its body.\n\n  subject_terms_1: porcelain paintings (visual works) Chinese ceramics styles diaper patterns floral patterns birds (motifs) flower (motif) Chinese export porcelain Phasianidae (genus) freehand drawings (drawings) Paeonia (genus) symbolism\n\n  subject_terms_2: Peonies in art Motifs Pheasants Porcelain\n Chinese Ming- Qing dynasties\n 1368-1912 Fujian Sheng (China) China trade porcelain China painting Ceramics Blue and white ware China\n\n  subject_terms_3: visual arts Ceramics Decorative arts\n\n  subject_terms_4: \n\n  sgcool_label_text: \\During the late Ming period\n Zhangzhou ceramics (popularly known as \\\\Swatow wares\\\\) were exported in large quantities to Japan\n",
-  "createdDate": "20201127000606",
+  "createdDate": "20201127205927",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_4": "",
     "sgcool_label_text": "\"During the late Ming period, Zhangzhou ceramics (popularly known as \"\"Swatow wares\"\") were exported in large quantities to Japan"
   },
-  "nlpDate": "20201127000606",
+  "nlpDate": "20201127205927",
   "connectorId": 0,
   "tags": {}
 }

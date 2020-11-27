@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00124\n\n  Image: \n\n  object_work_type: hand mirrors\n\n  title_text: Hand Mirror Decorated With the Ten Avatars of Vishnu\n\n  preference: main\n\n  title_language: \n\n  creation_date: 1800 - 1899\n\n  creation_place_original_location: India\n South\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: ivory (material) bone (material)\n\n  techniques_name: forming (physical activity)\n\n  object_colour: multicoloured\n\n  physical_appearance: The hand mirror is beige in colour\n with a white mirror. The handle of the hand mirror is smaller than its head. There are floral patterns and intertwining branches on the front and back of the handle. On the other side behind the mirror\n there is a carving of the Hindu deity Vishnu in a standing position. He is located in the centre\n and surrounded by the smaller images of his ten avatars. There are some scratches on the surface of the mirror.\n\n  subject_terms_1: dowries carvings (visual works) deities ornaments (object genre) Hinduism floral patterns avatara\n\n  subject_terms_2: Hand mirrors Avatars (Religion) Hinduism Dowry Vishnu (Hindu deity)\n\n  subject_terms_3: NA Hinduism\n\n  sgcool_label_text: Elaborate and ornamental objects such as this rare ivory hand mirror were not meant for everyday use. They were created as luxury accessories\n and were often included in dowries. While the handle is decorated with flowers and intertwining branches\n the back of the mirror is carved with the Dashavatar or ten avatars of Vishnu; a standing Vishnu is placed within an oval frame\n surrounded\n in anti-clockwise direction are the ten avatars.\n",
-  "createdDate": "20201127000612",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -29,7 +29,7 @@
     "subject_terms_3": "NA Hinduism",
     "sgcool_label_text": "Elaborate and ornamental objects such as this rare ivory hand mirror were not meant for everyday use. They were created as luxury accessories, and were often included in dowries. While the handle is decorated with flowers and intertwining branches, the back of the mirror is carved with the Dashavatar or ten avatars of Vishnu; a standing Vishnu is placed within an oval frame, surrounded, in anti-clockwise direction are the ten avatars."
   },
-  "nlpDate": "20201127000612",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

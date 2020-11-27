@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00555\n\n  Image: \n\n  object_work_type: newsletters\n\n  title_text: Issues 2\n 3 and 4 of Suara Satu Newsletter published by the Singapore Association of Trade Unions (SATU)\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: Singapore Association of Trade Unions (SATU)\n\n  creator_1: Singapore Association of Trade Unions (TTE) Singapore Association of Trade Unions (LC)\n\n  creator_role: publishers\n\n  creation_date: 1963\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: printing paper\n\n  techniques_name: colour printing\n\n  object_colour: multicoloured\n\n  physical_appearance: \\The image shows the front cover of a newsletter. It is rectangular in shape. The cover has red and grey background\n \\\\Suara Satu\\\\ is stated as the masthead. \\\\Issued by Singapore Associations of Trade Unions\n\n  subject_terms_1: trade unions propaganda 149 - 151 socialism\n\n  subject_terms_2: Middle Road Socialist propaganda Political science Labor unions\n\n  subject_terms_3: Barisan Sosialis Singapore Tel: 33185 28880\\\\ is stated below the masthead. The text on the newsletter are all in Chinese characters.\\\n\n  subject_terms_4: politics\n\n  context_1: Newsletters\n\n  context_2: Newsletters\n",
-  "createdDate": "20201127000610",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -34,7 +34,7 @@
     "context_1": "Newsletters",
     "context_2": "Newsletters"
   },
-  "nlpDate": "20201127000610",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

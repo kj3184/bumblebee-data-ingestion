@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00212-085\n\n  Image: \n\n  object_work_type: black-and-white photographs\n\n  title_text: Photograph album of views and portraits in the Punjab\n Cashmere\n Ceylon\n Burma\n Penang\n Singapore\n and Java Fort of Kangra\n Punjab\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: John Thomson\n\n  creator_1: Thomson\n J. (John)\n 1837-1921\n\n  creator_role: photographers\n\n  creation_date: before 28 Jul 1876\n\n  creation_place_original_location: Kangra Valley (India) Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: albumen (egg white protein) paper (fiber product) albumen paper\n\n  techniques_name: albumen process\n\n  object_colour: black-and-white (colors)\n\n  physical_appearance: This is a photograph of a fort at Kangra\n in Punjab\n India. The photograph shows a steep hill on the right\n with a fort at the top of the hill. There are some water bodies along the valley on the left of the photograph. The fort is surrounded by thick vegetation. The photograph looks faded. The top two corners are rounded. There is a scratch at the bottom-left. The title is written at the bottom\n below the photograph.\n\n  subject_terms_1: forts valleys (landforms)\n\n  subject_terms_2: Punjab (India) Photographs Valleys Thomson\n J. (John)\n 1837-1921 Fortification\n\n  subject_terms_3: Photography Military facilities\n",
-  "createdDate": "20201127000611",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -31,7 +31,7 @@
     "subject_terms_2": "Punjab (India) Photographs Valleys Thomson, J. (John), 1837-1921 Fortification",
     "subject_terms_3": "Photography Military facilities"
   },
-  "nlpDate": "20201127000611",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

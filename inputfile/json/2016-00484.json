@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00484\n\n  Image: \n\n  object_work_type: black-and-white photographs\n\n  title_text: Untitled (Tanjong Pager/Keppel Station)\n\n  preference: main\n\n  title_language: \n\n  creator_2: Kwek Leng Joo\n\n  creator_1: Kwek\n Leng Joo\n\n  creator_role: photographers\n\n  creation_date: 2010\n\n  creation_place_original_location: Malaysia Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process)\n\n  object_colour: grey monochrome\n\n  physical_appearance: The image shows a photograph that is in black-and-white. It has a black frame. A single railroad track diverges into four tracks. These tracks lead up to five stations. In the station beside the one at the extreme right of the photograph\n a train can be seen to be stationed there. The other stations are all empty. Several HDB flats can be seen in the background. Some cranes can be seen\n but too distinctly\n further away in the background towards the left side of the photograph. The extreme left and right sides of this photograph are slightly whitened out.\n\n  subject_terms_1: locomotives railroads (infrastructure) railroad stations blue collar workers historic monuments turntables (rail transportation structure) trains (vehicle groupings)\n\n  subject_terms_2: Railroads Locomotives Pertadbiran Keretapi Tanah Melayu Railroad stations Railroad trains Tanjong Pagar (Singapore) Historic monuments Blue collar workers Black-and-white photography Railroad cars\n\n  subject_terms_3: Rail transport (Stations) Photography Pertadbiran Keretapi Tanah Melayu Rail transport Tanjong Pagar Railway Station\n\n  sgcool_label_text: \\This image was taken along Kampong Bahru Road\n where the Tanjong Pagar Railway Station\n or Keppel Station\n was located. The Church of St. Teresa can be seen in the background. The church\n featuring Romano-Byzantine architecture\n was established in 1929\n and it was the first rural Catholic Church in Singapore. This image is part of the \\\\Tracking Memories\\\\ collection by the late Mr Kwek Leng Joo. The collection captures different aspects of the Malayan Railway story in Singapore\n",
-  "createdDate": "20201127000610",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_3": "Rail transport (Stations) Photography Pertadbiran Keretapi Tanah Melayu Rail transport Tanjong Pagar Railway Station",
     "sgcool_label_text": "\"This image was taken along Kampong Bahru Road, where the Tanjong Pagar Railway Station, or Keppel Station, was located. The Church of St. Teresa can be seen in the background. The church, featuring Romano-Byzantine architecture, was established in 1929, and it was the first rural Catholic Church in Singapore. This image is part of the \"\"Tracking Memories\"\" collection by the late Mr Kwek Leng Joo. The collection captures different aspects of the Malayan Railway story in Singapore"
   },
-  "nlpDate": "20201127000610",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

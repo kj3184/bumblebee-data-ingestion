@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00591\n\n  Image: \n\n  object_work_type: menswear vestments\n\n  title_text: Catholic Vestment (Dalmatic)\n\n  preference: main\n\n  title_language: English\n\n  creation_date: 20th century\n\n  creation_place_original_location: Goa (India : State)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: silk (textile) silver thread\n\n  techniques_name: sewing (needleworking technique)\n\n  object_colour: multicolored\n\n  physical_appearance: This is an embroidered silk vestment. The fabric is embossed with repeated floral motifs. There is a panel along the front of the robe that features decorative grape and vine leaves in silver thread. Similar decorative designs are also featured on the sleeves. The collar is square-shaped.\n\n  subject_terms_1: embroidery (visual works) floral (motifs) foliage (motifs) Roman Catholicism\n\n  subject_terms_2: Church vestments Motifs Embroidery Catholic\n\n  subject_terms_3: \n\n  subject_terms_4: \n\n  sgcool_label_text: Goan priest\\u0027s Dalmatic or Tunicle - an outer garment that would be worn over a cassock as part of formal vestments. The cloth is embroidered with grapes and vine leaves\n in silver thread\n",
-  "createdDate": "20201127000604",
+  "createdDate": "20201127205926",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -30,7 +30,7 @@
     "subject_terms_4": "",
     "sgcool_label_text": "Goan priest\u0027s Dalmatic or Tunicle - an outer garment that would be worn over a cassock as part of formal vestments. The cloth is embroidered with grapes and vine leaves, in silver thread"
   },
-  "nlpDate": "20201127000604",
+  "nlpDate": "20201127205926",
   "connectorId": 0,
   "tags": {}
 }

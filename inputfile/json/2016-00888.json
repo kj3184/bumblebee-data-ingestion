@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00888\n\n  Image: \n\n  object_work_type: ornaments (object genre) goldwork (visual works)\n\n  title_text: Shou Lau on Crane Ornament\n\n  preference: main\n\n  title_language: \n\n  creator_2: Da Xing ()\n\n  creator_role: goldsmiths\n\n  creation_date: early 20th century\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: gold (metal)\n\n  techniques_name: forging (metal forming)\n\n  object_colour: gold (color)\n\n  physical_appearance: This is a gold ornament of Shou Lau\n the God of Longevity\n riding a crane. He is depicted smiling\n in an intricately designed robe\n facing forward. The crane\\u0027s wings are outstretched on either side. Small clouds and birds are attached to the main structure by coiled springs.\n\n  subject_terms_1: commissions (orders for works) depictions (visual works) deities birds (motifs)\n\n  subject_terms_2: Motifs Decoration and ornament Gods\n\n  subject_terms_3: Decorative arts\n\n  sgcool_label_text: This is an ornament of Shou Lau riding a crane. He is the God of Longevity and is often depicted with a crane\n also a potent symbol of longevity. It is likely that this ornament was originally sewn onto a textile such as a ceremonial handkerchief or a wedding headband. Based on the shopmark on the reverse of the ornament\n this was made by Da Xing ()\n one of the popular goldsmiths commissioned by Peranakans in the Straits to produce their jewellery and silverware.\\r\\n\\r\\nThis ornament is part of a group donation from descendants of Tan Kim Seng and Tan Jiak Kim. Both were wealthy merchants\n philanthropists and leaders of the local Hokkien community.\n",
-  "createdDate": "20201127000609",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -31,7 +31,7 @@
     "subject_terms_3": "Decorative arts",
     "sgcool_label_text": "This is an ornament of Shou Lau riding a crane. He is the God of Longevity and is often depicted with a crane, also a potent symbol of longevity. It is likely that this ornament was originally sewn onto a textile such as a ceremonial handkerchief or a wedding headband. Based on the shopmark on the reverse of the ornament, this was made by Da Xing (), one of the popular goldsmiths commissioned by Peranakans in the Straits to produce their jewellery and silverware.\r\n\r\nThis ornament is part of a group donation from descendants of Tan Kim Seng and Tan Jiak Kim. Both were wealthy merchants, philanthropists and leaders of the local Hokkien community."
   },
-  "nlpDate": "20201127000609",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00300\n\n  Image: \n\n  object_work_type: drawings (visual works)\n\n  title_text: Drawing memorializing places by P.O.W\n\n  preference: main\n\n  title_language: \n\n  creator_2: R. H. Bailey (?)\n\n  creator_role: authors\n\n  creation_date: 1942-1945\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: drawing (image-making)\n\n  object_colour: black-and-white (colors)\n\n  physical_appearance: This is a graphic drawing. It is a graphic work listing the names of places in capital letters in black\n in various sizes and alignments. Each place name has two faint margin lines at the top and bottom of the word.There are no tears or folds seen on the drawing.\n\n  subject_terms_1: world wars prisoners of war\n\n  subject_terms_2: World War\n 1939-1945 Drawing Prisoners of war Singapore Malaya\n\n  subject_terms_3: Drawing 1942-1945 Japanese Occupation war personalities\n\n  subject_terms_4: \n\n  context_1: World War\n 1939-1945 1942-1945 Japanese Occupation\n\n  context_2: occupations (armed conflicts) world wars\n\n  context_3: 1942-1945 1939-1945\n\n  context_4: 1939 1942\n\n  context_5: 1945\n\n  context_6: Singapore Malaya\n\n  context_7: Great Britain. Army. Royal Field Artillery\n\n  context_8: armed forces\n\n  sgcool_label_text: A graphic drawing listing names of places such as Kuala Lumpur\n Luang\n Sembawang\n Sungi best\n Malaya etc by P.O.W R H Bailey of the Royal Air Force. It is presumed that the places listed relate to his experience of the War. This artefact is part of the archive of James Steele\n Royal Artillery (Field) who served in Malaya from January 1941-February 1942\n when interned as a P.O.W at Changi until his release in October 1945.\n",
-  "createdDate": "20201127000606",
+  "createdDate": "20201127205926",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -40,7 +40,7 @@
     "context_8": "armed forces",
     "sgcool_label_text": "A graphic drawing listing names of places such as Kuala Lumpur, Luang, Sembawang, Sungi best, Malaya etc by P.O.W R H Bailey of the Royal Air Force. It is presumed that the places listed relate to his experience of the War. This artefact is part of the archive of James Steele, Royal Artillery (Field) who served in Malaya from January 1941-February 1942, when interned as a P.O.W at Changi until his release in October 1945."
   },
-  "nlpDate": "20201127000606",
+  "nlpDate": "20201127205926",
   "connectorId": 0,
   "tags": {}
 }

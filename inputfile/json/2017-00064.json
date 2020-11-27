@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00064\n\n  Image: \n\n  object_work_type: covers (overlying objects) handkerchiefs\n\n  title_text: Ceremonial handkerchief or dowry tray cover\n\n  preference: main\n\n  title_language: \n\n  creation_date: early 20th century\n\n  creation_place_original_location: Sumatra (Indonesia)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: square (shape)\n\n  materials_name: metal thread cotton (textile)\n\n  techniques_name: batik sewing (needleworking technique) embroidering\n\n  object_colour: multicolored\n\n  physical_appearance: This is a square handkerchief. It features a multicoloured embroidery around the border\n and a drawn batik design in the center. The batik drawings encompasses of several animals and sea creatures. The edges of the handkerchief is bound by a stitching of gold bobbin lace.\n\n  subject_terms_1: geometric motifs batik art ceremonial objects embroidery (visual works)\n\n  subject_terms_2: Handkerchiefs Motifs Embroidery Ceremonial objects Dowry Batik\n\n  subject_terms_3: Textile art and design Batik\n\n  sgcool_label_text: This handkerchief (sapu tangan) was probably used as a decorative tray cover that was placed over items presented on trays as part of a ceremony.  The main square panel comprises hand-drawn batik design of animals and sea creatures in navy blue.  It is enclosed by a border of drawn work embroidery made up of repeated geometric patterns\n animals and sea creatures.  The combination of batik tulis and drawn work embroidery is unusual.  Its layout of the square decorative panel is comparable to the silk batik lokcan squares that were imported from Java to Sumatra.  The edges of the cloth is bound by sawtooth borders worked in a variant of buttonhold stitch.  The fridge of this handkerchief is decorated with gold bobbin lace.\n",
-  "createdDate": "20201127000609",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -29,7 +29,7 @@
     "subject_terms_3": "Textile art and design Batik",
     "sgcool_label_text": "This handkerchief (sapu tangan) was probably used as a decorative tray cover that was placed over items presented on trays as part of a ceremony.  The main square panel comprises hand-drawn batik design of animals and sea creatures in navy blue.  It is enclosed by a border of drawn work embroidery made up of repeated geometric patterns, animals and sea creatures.  The combination of batik tulis and drawn work embroidery is unusual.  Its layout of the square decorative panel is comparable to the silk batik lokcan squares that were imported from Java to Sumatra.  The edges of the cloth is bound by sawtooth borders worked in a variant of buttonhold stitch.  The fridge of this handkerchief is decorated with gold bobbin lace."
   },
-  "nlpDate": "20201127000609",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

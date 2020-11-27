@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00076\n\n  Image: \n\n  object_work_type: invitations\n\n  title_text: Invitation issued to Himmat Singh for a music performance at  British Council Hall\n Singapore\n\n  preference: main\n\n  title_language: \n\n  creator_2: Unknown\n\n  creation_date: 5-Sep-51\n\n  creation_place_original_location: Singapore\n\n  styles_periods_indexing_terms: Not indicated\n\n  inscriptions: \n\n  inscription_language: \n\n  scale_type: Not indicated\n\n  shape: rectangular\n\n  materials_name: printing paper\n\n  techniques_name: printing (process)\n\n  object_colour: multicoloured\n\n  physical_appearance: \\The image shows an invitation card. It is rectangular in shape and it has a red background. \\\\Himmat Singh\\\\ is handwritten on the invitation card. \\\\British Council Hall\n\n  subject_terms_1: musical performances Stamford Road\n\n  subject_terms_2: British Council (Singapore) Singapore at 6p.m. on Wednesday Musicians Performances\n\n  subject_terms_3: Performing Arts Indian music British Council (Singapore) the 5th September\n\n  subject_terms_4: 1951\\\\ is stated on the invitation card. \\\n\n  context_1: musicians\n\n  context_2: Invitation cards\n\n  context_3: Musicians\n",
-  "createdDate": "20201127000612",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -35,7 +35,7 @@
     "context_2": "Invitation cards",
     "context_3": "Musicians"
   },
-  "nlpDate": "20201127000612",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00493\n\n  Image: \n\n  object_work_type: black-and-white photographs\n\n  title_text: Untitled (Eastern \\u0026 Oriental Express)\n\n  preference: main\n\n  title_language: \n\n  creator_2: Kwek Leng Joo\n\n  creator_1: Kwek\n Leng Joo\n\n  creator_role: photographers\n\n  creation_date: 2010\n\n  creation_place_original_location: Malaysia Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process)\n\n  object_colour: grey monochrome\n\n  physical_appearance: \\The image shows a photograph in black-and-white. It has a black frame and its border is white in colour. A single set of railroad is visible from the photograph. A train is travelling on that railroad. The words\n \\\\Eastern \\u0026 Oriental Express\\\\\n\n  subject_terms_1: passenger cars (railroad cars) is displayed at its side in capital letters. There is a straight row of windows above the words. At the extreme mid-right of the image travellers trains (vehicle groupings)\n\n  subject_terms_2: Railroads Railroad trains Eastern and Oriental Express (Express train) there are three travellers standing by an open window and looking outwards. One of them seem to be holding a camera or a video recorder. There are trees in the background and no buildings are visible.\\ Travellers\n\n  subject_terms_3: railroads (infrastructure) Photography\n\n  subject_terms_4: Black-and-white photography\n\n  context_1: Rail transport\n",
-  "createdDate": "20201127000610",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -33,7 +33,7 @@
     "subject_terms_4": "Black-and-white photography",
     "context_1": "Rail transport"
   },
-  "nlpDate": "20201127000610",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

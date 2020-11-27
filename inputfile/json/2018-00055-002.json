@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2018-00055-002\n\n  Image: \n\n  object_work_type: proofs (prints by function) artists\\u0027 proofs\n\n  title_text: Tough Job: Artists\\u0027 Proof Tough Job\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: Tan Lip Seng\n\n  creator_1: Tan\n Lip Seng\n 1942- Tan\n Lip Seng\n\n  creator_role: photographers\n\n  creation_date: 1968\n\n  creation_place_original_location: Singapore (nation)\n\n  styles_periods_indexing_terms: Not indicated\n\n  inscriptions: \n\n  inscription_language: \n\n  scale_type: Not indicated\n\n  shape: rectangular\n\n  materials_name: metallic paper\n\n  techniques_name: printing (process) montage (image-making technique)\n\n  object_colour: multicoloured\n\n  edition_description: 1 of 3\n\n  physical_appearance: The image shows an artist\\u0027s proof. It is rectangular in shape. The background of the artist\\u0027s proof is purple in colour. It depicts a worker standing at the top of a wooden ramp. The worker is wearing a pink shirt and adorns a brown hat. Two pails are suspended from a shoulder yoke that is being carried by the worker.The background of the images depict the cloudless blue sky as well.\n\n  subject_terms_1: working workers\n\n  subject_terms_2: Employees Proofs (Printing) Work\n\n  subject_terms_3: Photography\n\n  sgcool_label_text: This photograph by Singaporean photographer Tan Lip Seng was submitted to the Royal Photographic Society (UK) for his Fellowship application. This work is one of the examples of Tan\\u0027s innovative colour technique\n in which he creates a high contrast backdrop in order to bring out details of his subject matter. \\r\\n\\r\\nTan Lip Seng started his career as a medical photographer at the National University of Singapore. He was the first Singaporean to be awarded a fellowship by the Royal Photographic Society of the United Kingdom in 1970.\n",
-  "createdDate": "20201127000603",
+  "createdDate": "20201127205925",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -35,7 +35,7 @@
     "subject_terms_3": "Photography",
     "sgcool_label_text": "This photograph by Singaporean photographer Tan Lip Seng was submitted to the Royal Photographic Society (UK) for his Fellowship application. This work is one of the examples of Tan\u0027s innovative colour technique, in which he creates a high contrast backdrop in order to bring out details of his subject matter. \r\n\r\nTan Lip Seng started his career as a medical photographer at the National University of Singapore. He was the first Singaporean to be awarded a fellowship by the Royal Photographic Society of the United Kingdom in 1970."
   },
-  "nlpDate": "20201127000603",
+  "nlpDate": "20201127205925",
   "connectorId": 0,
   "tags": {}
 }

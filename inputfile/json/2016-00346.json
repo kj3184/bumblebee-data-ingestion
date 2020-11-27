@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00346\n\n  Image: \n\n  object_work_type: weeklies (publications)\n\n  title_text: SBC TV magzine (no 161)\n\n  preference: main\n\n  title_language: \n\n  creator_2: Singapore Broadcasting Corporation\n\n  creator_1: Singapore Broadcasting Corporation (TTE) Singapore Broadcasting Corporation\n\n  creator_role: publishers\n\n  creation_date: 1984\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: printing paper\n\n  techniques_name: printing (process)\n\n  object_colour: multicoloured\n\n  physical_appearance: \\The image shows the front cover of a magazine. There is a line of Chinese characters present at the top\n and several more at the bottom. \\\\161\\\\ is present at the bottom left hand side. \\\\50¢\\\\ is stated at the top right hand side. A lady and a man are featured on the front cover. She is wearing a qipao while he adorns a changshan. The man has his right arm around the lady and both of them are looking at something that is not represented on the magazine\\u0027s front cover.\\\n\n  subject_terms_1: magazines (periodicals) celebrities actors (performing artists)\n\n  subject_terms_2: Periodicals Xiang\n Yun\n 1961- Celebrities Actors Huang\n Wenyong\n 1952-2013\n\n  subject_terms_3: Periodicals Xiang\n Yun Huang\n Wenyong Television actors\n\n  sgcool_label_text: This entertainment weekly was  published by the Singapore Broadcasting Corporation (now known as Mediacorp) in the 1980s and 1990s. It provided the local Chinese readers the local and regional entertainment news and television programme schedules.  The cover of each issue features  celebrities from the entertainment scene. This issue has Xiang Yun and Huang Wenyong on the cover. They played the lead role in the popular TV drama\n The Awakening.\\r\\n\n",
-  "createdDate": "20201127000611",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_3": "Periodicals Xiang, Yun Huang, Wenyong Television actors",
     "sgcool_label_text": "This entertainment weekly was  published by the Singapore Broadcasting Corporation (now known as Mediacorp) in the 1980s and 1990s. It provided the local Chinese readers the local and regional entertainment news and television programme schedules.  The cover of each issue features  celebrities from the entertainment scene. This issue has Xiang Yun and Huang Wenyong on the cover. They played the lead role in the popular TV drama, The Awakening.\r\n"
   },
-  "nlpDate": "20201127000611",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

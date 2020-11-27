@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00481-003\n\n  Image: \n\n  object_work_type: artists\\u0027 books (books) linocuts (prints)\n\n  title_text: Linoleographs- Baharoedin \\u0026 Mochtar Apin\n\n  preference: main\n\n  title_language: \n\n  creator_2: Mochtar Apin Baharudin?\n\n  creator_1: Apin\n Mochtar\n\n  creator_role: artists (visual artists)\n\n  creation_date: 1946\n\n  creation_place_original_location: Bandung (Indonesia)\n\n  styles_periods_indexing_terms: Indonesian (culture or style)\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: Rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: linoleum block printing\n\n  object_colour: black-and-white (colors)\n\n  physical_appearance: This is an information page containing the details of the album and a statement of purpose (for the commemoration of the first anniversary of the Republic of Indonesia).\n\n  subject_terms_1: propaganda identity  independence\n\n  subject_terms_2: Prints\n Indonesian Apin\n Mochtar Indonesia Propaganda Independence Merdeka\n\n  subject_terms_3: visual arts National Identity\n\n  context_1: First anniversary of Indonesia\\u0027s Declaration of Independence\n\n  context_2: national holidays\n\n  context_3: 17-Aug-46\n\n  context_4: 17-Aug-46\n\n  context_5: 17-Aug-46\n\n  context_6: Indonesia\n\n  context_7: Indonesian Government ?\n\n  context_8: commissioners (people who order works)\n\n  sgcool_label_text: This folio of 19 prints is a historically significant body of work relating to Indonesia’s Declaration of Independence in 1945. Commissioned by the Indonesia Bureau of Youth Affairs to celebrate the first anniversary of Indonesia’s independence\n Baharoedin was informed that the government was interested in producing some propaganda materials. Consisting of 10 prints by Baharoedin and 9 prints by Apin\n the works depict various images associated with the nation’s struggle towards Independence. 36 of these folios were then printed and distributed to various countries who had recognized Indonesia’s independence during that period.\n",
-  "createdDate": "20201127000605",
+  "createdDate": "20201127205926",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -41,7 +41,7 @@
     "context_8": "commissioners (people who order works)",
     "sgcool_label_text": "This folio of 19 prints is a historically significant body of work relating to Indonesia’s Declaration of Independence in 1945. Commissioned by the Indonesia Bureau of Youth Affairs to celebrate the first anniversary of Indonesia’s independence, Baharoedin was informed that the government was interested in producing some propaganda materials. Consisting of 10 prints by Baharoedin and 9 prints by Apin, the works depict various images associated with the nation’s struggle towards Independence. 36 of these folios were then printed and distributed to various countries who had recognized Indonesia’s independence during that period."
   },
-  "nlpDate": "20201127000605",
+  "nlpDate": "20201127205926",
   "connectorId": 0,
   "tags": {}
 }

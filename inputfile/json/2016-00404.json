@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2016-00404\n\n  Image: \n\n  object_work_type: marble slab tables tables (support furniture)\n\n  title_text: Kopitiam (coffee shop) table with marble top\n\n  preference: main\n\n  title_language: \n\n  creation_date: 1960s\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: irregular\n\n  materials_name: wood (plant material) marble (rock)\n\n  techniques_name: forming (physical activity)\n\n  object_colour: multicoloured\n\n  physical_appearance: The image consists of a wooden table with a marble top. The marble top is detachable from the table supporting it. The wooden table comprises of four legs with a vertical shaft for reinforcement at the centre. The foot of the table are designed to be curving upwards. The top of the table is oval in shape. The marble top exhibits the same shape\n but it is a bigger in size. There does not seem to be any visible cracks on the marble top. The wooden table does not look to be chipped or discoloured as well. There is a motif of flowers around the circumference of the wooden table.\n\n  subject_terms_1: coffee shops flower (motif) portable furniture\n\n  subject_terms_2: Motifs Tables Coffee shops\n\n  sgcool_label_text: In Singapore\n the kopitiam or coffee shop is a place where people meet\n socialise\n chit-chat and gossip over a cup of freshly-brewed coffee\n half-boiled eggs and kaya toast. From the 1950s to the 1980s\n the kopitiam had its signature ubiquitous furniture set\n comprising a wooden table with marble table top such as this table\n and wooden chairs with round seats. The tables varied in terms of the table’s legs\n and the different shaped marble table tops which were round\n square or hexagonal. Such hardy tables have been mostly replaced by plastic tables which are lightweight\n and can be moved around easily or sometimes collapsed to save space.\n",
-  "createdDate": "20201127000611",
+  "createdDate": "20201127205929",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -28,7 +28,7 @@
     "subject_terms_2": "Motifs Tables Coffee shops",
     "sgcool_label_text": "In Singapore, the kopitiam or coffee shop is a place where people meet, socialise, chit-chat and gossip over a cup of freshly-brewed coffee, half-boiled eggs and kaya toast. From the 1950s to the 1980s, the kopitiam had its signature ubiquitous furniture set, comprising a wooden table with marble table top such as this table, and wooden chairs with round seats. The tables varied in terms of the table’s legs, and the different shaped marble table tops which were round, square or hexagonal. Such hardy tables have been mostly replaced by plastic tables which are lightweight, and can be moved around easily or sometimes collapsed to save space."
   },
-  "nlpDate": "20201127000611",
+  "nlpDate": "20201127205929",
   "connectorId": 0,
   "tags": {}
 }

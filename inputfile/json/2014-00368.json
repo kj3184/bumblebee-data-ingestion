@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2014-00368\n\n  Image: \n\n  object_work_type: letters (correspondence)\n\n  title_text: Welcoming plans for the arrival of troops in Singapore Arrival of troops in Singapore\n\n  preference: main alternate\n\n  title_language: \n\n  creator_2: Not indicated\n\n  creator_1: Not indicated\n\n  creation_date: 19490701\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process)\n\n  object_colour: black-and-white (colours)\n\n  physical_appearance: \\The image depicts a typewritten letter. The subject of the correspondence is \\\\Welcome to 1 Suffolk and Other Units aboard HMT Dilwara\\\\. It has a \\\\Restricted\\\\ classification and \\\\21 Jun 1949\\\\ is stated at the top right hand side of the letter. There are 5 numbered points in the letter\n\n  subject_terms_1: with letters serving as the sub-points. Point 4 under \\\\Information\\\\ states that the troopship will berth on \\\\1 Jul 1949\\\\. \\ transport (naval vessels) military personnel\n\n  subject_terms_2: plans (reports) Singapore Harbour Board Transports Soldiers\n\n  subject_terms_3: Transport organisations letters\n\n  subject_terms_4: Singapore Harbour Board\n",
-  "createdDate": "20201127000613",
+  "createdDate": "20201127205930",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -31,7 +31,7 @@
     "subject_terms_3": "Transport organisations letters",
     "subject_terms_4": "Singapore Harbour Board"
   },
-  "nlpDate": "20201127000613",
+  "nlpDate": "20201127205930",
   "connectorId": 0,
   "tags": {}
 }

@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00284\n\n  Image: \n\n  object_work_type: programmes (documents)\n\n  title_text: \\Souvenir Programme for \\\\Cinderella and the Magic Soya Bean. A Burlesque pantomime by Alan Roberts\\\\\\\n\n  preference: main\n\n  title_language: \n\n  creator_2: Ronald Searle\n\n  creator_1: Searle\n Ronald\n 1920-2011\n\n  creator_role: illustrators\n\n  creation_date: 1944\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: drawing (image-making) printing (process)\n\n  object_colour: multicolored\n\n  physical_appearance: This is a souvenir programme. It ocnsists of two sheets of paper. On the left of the top sheet\n there is an multicolored illustration of three women. The title is inscribed in black against a coloured background. The programme is printed in blue ink on the second sheet of paper. The programme is slightly stained\n and folded at the edges.\n\n  subject_terms_1: burlesques (literary works) world wars plays (performing arts compositions) prisoners of war\n\n  subject_terms_2: Programs (Publications) World War\n 1939-1945 Searle\n Ronald\n 1920-2011 Prisoners of war Pantomime (Christmas entertainment)\n\n  subject_terms_3: Changi Prison 1942-1945 Japanese occupation Searle\n Ronald\n 1920-2011\n\n  subject_terms_4: \n\n  context_1: World War\n 1939-1945 1942-1945 Japanese Occupation \\\\\\Cinderella and the Magic Soya Bean\\\\ a burlesque pentomime by Alan Roberts\\\n\n  context_2: occupations (armed conflicts) world wars plays (performing arts compositions)\n\n  context_3: 1942-1945 1939-1945 1944\n\n  context_4: 1939 1942 1944\n\n  context_5: 1945 1944\n\n  context_6: Singapore Malaya\n\n  context_7: Great Britain. Army. Royal Field Artillery\n\n  context_8: armed forces prisoners of war\n\n  sgcool_label_text: \\Prisoners in the Changi P.O.W camp kept their spirits up and their minds occupied by putting on shows. The souvenir programme for \\\\Cinderella and the Magic Soya Bean. A Burlesque pantomime by Alan Roberts\\\\ [with scenes and costumes designed by Ronald Searle] is an example of one such show. The programme includes 3 pages of typescript\n",
-  "createdDate": "20201127000606",
+  "createdDate": "20201127205927",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -41,7 +41,7 @@
     "context_8": "armed forces prisoners of war",
     "sgcool_label_text": "\"Prisoners in the Changi P.O.W camp kept their spirits up and their minds occupied by putting on shows. The souvenir programme for \"\"Cinderella and the Magic Soya Bean. A Burlesque pantomime by Alan Roberts\"\" [with scenes and costumes designed by Ronald Searle] is an example of one such show. The programme includes 3 pages of typescript"
   },
-  "nlpDate": "20201127000606",
+  "nlpDate": "20201127205927",
   "connectorId": 0,
   "tags": {}
 }

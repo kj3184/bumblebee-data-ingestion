@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00008\n\n  Image: \n\n  object_work_type: black-and-white prints (photographs) photographic prints gelatin silver prints\n\n  title_text: Unknown\n\n  preference: main\n\n  title_language: \n\n  creator_2: Lee\n Lim\n\n  creator_1: Lee\n Lim\n\n  creator_role: photographers\n\n  creation_date: c. 1970\n\n  creation_place_original_location: Not indicated\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: silver sulfide paper (fibre product) baryta paper gelatin\n\n  techniques_name: gelatin silver process photographic printing techniques black-and-white photography\n\n  object_colour: black-and-white (colours)\n\n  physical_appearance: This image is a gelatin silver print that depicts a lone female figure washing a bucket of linen whilst squatting on a wooden plank to keep afloat near shore.  Enveloping her from a distance in the background\n is a shroud of fog. Lining the parameters of the bottom half of the picture are outstretched branches of leafy trees on the left\n a sandy shore\n and a thatched house on the right. There is a description of the work followed by the artist\\u0027s signature and seal on the top left hand corner. The artist\\u0027s photography studio seal is on the verso.\n\n  subject_terms_1: genre (visual works) river settlements\n\n  subject_terms_2: Royal Photographic Society of Great Britain Genre prints Photography\n Artistic\n\n  subject_terms_3: visual arts Artistic photography\n\n  context_20: Address indicated on photography studio\\u0027s chop.\n\n  context_21: No 1 Tiong Bahru Road\n Singapore 3\n\n  context_22: c. 1970\n\n  context_23: 1965\n\n  context_24: 1975\n\n  sgcool_label_text: Lee Lim was one of the most important modern photographers in Singapore\n influencing a generation of photographers in the pictorial photography circles. Between 1952 and 1979\n Lee took part in more than 100 photographic competitions and won numerous awards and honours. He received the Fellowship of the Royal Photographic Society (UK) in 1959 and the Artist Distinction by the International Federation of Photographic Art (FIAP) in 1977. He was also conferred an honorary fellowship by the Photographic Society of Singapore and won the Cultural Medallion in 1987.\n",
-  "createdDate": "20201127000609",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -37,7 +37,7 @@
     "context_24": "1975",
     "sgcool_label_text": "Lee Lim was one of the most important modern photographers in Singapore, influencing a generation of photographers in the pictorial photography circles. Between 1952 and 1979, Lee took part in more than 100 photographic competitions and won numerous awards and honours. He received the Fellowship of the Royal Photographic Society (UK) in 1959 and the Artist Distinction by the International Federation of Photographic Art (FIAP) in 1977. He was also conferred an honorary fellowship by the Photographic Society of Singapore and won the Cultural Medallion in 1987."
   },
-  "nlpDate": "20201127000609",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

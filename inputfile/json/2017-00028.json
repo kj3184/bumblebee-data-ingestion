@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2017-00028\n\n  Image: \n\n  object_work_type: black-and-white prints (photographs) photographic prints gelatin silver prints\n\n  title_text: Idling Boats\n\n  preference: main\n\n  title_language: \n\n  creator_2: Koon\n Sang Ho\n\n  creator_role: photographers\n\n  creation_date: c.1956\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: silver sulfide paper (fibre product) baryta paper gelatin\n\n  techniques_name: gelatin silver process photographic printing techniques black-and-white photography\n\n  object_colour: black-and-white (colours)\n\n  physical_appearance: This gelatin silver print captures the scene of a dockyard where a row of boats were secured in place by looping ropes into poles that have been stuck vertically into the shore.  The print itself shows discolouring along its edges\n and the white backing it was mounted on has brown spotting.\n\n  subject_terms_1: utility boats sampans rural areas\n\n  subject_terms_2: Boats and boating Rural Photography\n Artistic\n\n  subject_terms_3: visual arts Artistic photography\n\n  context_21: 40 Holloway  Lane\n Singapore 7\n\n  context_22: c.1956\n\n  context_23: 1951\n\n  context_24: 1961\n\n  sgcool_label_text: Ho Koon Sang was a member of the Photographic Society of Singapore and an Associate of the Royal Photographic Society in London. This photograph was part of a set of 12 prints sent to the Royal Photographic Society in 1956.\n",
-  "createdDate": "20201127000609",
+  "createdDate": "20201127205928",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -35,7 +35,7 @@
     "context_24": "1961",
     "sgcool_label_text": "Ho Koon Sang was a member of the Photographic Society of Singapore and an Associate of the Royal Photographic Society in London. This photograph was part of a set of 12 prints sent to the Royal Photographic Society in 1956."
   },
-  "nlpDate": "20201127000609",
+  "nlpDate": "20201127205928",
   "connectorId": 0,
   "tags": {}
 }

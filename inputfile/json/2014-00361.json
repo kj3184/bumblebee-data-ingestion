@@ -4,7 +4,7 @@
   "source": "Bumblebee",
   "path": "inputfile/json/",
   "content": "\n  accession_no_csv: 2014-00361\n\n  Image: \n\n  object_work_type: admission tickets\n\n  title_text: KPM Passenger Ticket belonging to Mdm Wong Lai Tuan for travel on the Tjitjalengka\n\n  preference: main\n\n  title_language: \n\n  creator_2: KPM\n\n  creator_1: Koninklijke Paketvaart Maatschappij\n\n  creator_role: creators\n\n  creation_date: 26-Oct-46\n\n  creation_place_original_location: Singapore\n\n  inscriptions: \n\n  inscription_language: \n\n  shape: rectangular\n\n  materials_name: paper (fiber product)\n\n  techniques_name: printing (process)\n\n  object_colour: multicoloured\n\n  physical_appearance: \\The image shows a ticket for admission. It is rectangular in shape and there is a red line separating the outer perimeter from the contents of the tickets. \\\\Koninklijke Paketvaart Maatschappij\n\n  subject_terms_1: incorporated in the Netherlands\\\\ is stated at the top of the ticket. \\\\Miss Wong Lai Tuan\\\\ is written in the space for particulars. The ticket states that the journey is from \\\\Singapore\\\\ to \\\\Hong Kong\\\\. Two rectangular purple stamps are present water transport\n\n  subject_terms_2: Transportation tickets below the title of the ticket\\ Shipping\n\n  subject_terms_3: emigration\n\n  subject_terms_4: Emigration and immigration\n",
-  "createdDate": "20201127000613",
+  "createdDate": "20201127205930",
   "version": 0,
   "latest": false,
   "roles": [],
@@ -32,7 +32,7 @@
     "subject_terms_3": "emigration",
     "subject_terms_4": "Emigration and immigration"
   },
-  "nlpDate": "20201127000613",
+  "nlpDate": "20201127205930",
   "connectorId": 0,
   "tags": {}
 }
