@@ -1,5 +1,9 @@
 package com.taiger.bumblebee.data.ingestion.jobs
 
+/*
+Author : Kunal Jadhav
+ */
+
 import java.io._
 import java.net.URLEncoder
 import java.util.Date
@@ -21,9 +25,9 @@ object DataIngestionSolution {
 
   def main(args: Array[String]): Unit = {
 
-    val inputFile = "inputfile/Consolidated_R2_20190327.csv" //args(0)
-    val outputJSONLocation = "inputfile/json/" //args(1)
-    val outputCsvLocation = "inputfile/csv/" //args(1)
+    val inputFile = args(0) //"inputfile/Consolidated_R2_20190327.csv" //args(0)
+    val outputJSONLocation = args(1)//"inputfile/json/" //args(1)
+    val outputCsvLocation = args(2)//"inputfile/csv/" //args(1)
 
     logger.info("input file name: {}", inputFile)
     logger.info("json output location {}", outputJSONLocation)
@@ -37,7 +41,7 @@ object DataIngestionSolution {
 
 
     val dataBasedOnTypeDF = ArtefactTypeModelTraining.classificationBasedOnType(session, museumDataDF)
-    dataBasedOnTypeDF.show(800)
+//    dataBasedOnTypeDF.show(800)
 
     transformOriginalCSVtoJson(museumDataDF, outputJSONLocation,outputCsvLocation)
 
@@ -277,7 +281,6 @@ object DataIngestionSolution {
         col("next_reg_cleaning_on"),
         col("next_conservation_cleaning_on")
       )
-      //accession_no_csv|    object_work_type|artefact_type|next_reg_cleaning_on|next_conservation_cleaning_on|
 
       .coalesce(1).write
       .format("csv")
