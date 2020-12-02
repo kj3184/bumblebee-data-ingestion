@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.taiger.bumblebee.data.ingestion.jobs.DataIngestionSoluti
+ on
+

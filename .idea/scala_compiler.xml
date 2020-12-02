@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ScalaCompilerConfiguration">
-<<<<<<< HEAD
-    <profile name="sbt 1" modules="bumblebee-Data ingestion,bumblebee-Data-ingestion,bumblebee-data-ingestion_9864" />
-=======
-    <profile name="sbt 1" modules="bumblebee-Data ingestion,bumblebee-data-ingestion-job_7997" />
->>>>>>> 11c7587170daa551162ae1d478a7c3c0eec976ae
+    <profile name="sbt 1" modules="bumblebee-Data-ingestion,bumblebee-data-ingestion-job_250" />
   </component>
 </project>

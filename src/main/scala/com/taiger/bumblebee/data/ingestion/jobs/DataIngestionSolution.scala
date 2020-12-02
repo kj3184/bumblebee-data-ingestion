@@ -25,14 +25,14 @@ object DataIngestionSolution {
 
   def main(args: Array[String]): Unit = {
 
-    val inputFile = args(0)
-    val outputJSONLocation = args(1)
-    val outputCsvLocation = args(2)
+//    val inputFile = args(0)
+//    val outputJSONLocation = args(1)
+//    val outputCsvLocation = args(2)
 
 
-//    val inputFile = "inputfile/raw_input.csv"
-//    val outputJSONLocation = "inputfile/json/"
-//    val outputCsvLocation = "inputfile/csv/"
+    val inputFile = "inputfile/raw_input.csv"
+    val outputJSONLocation = "inputfile/json/"
+    val outputCsvLocation = "inputfile/csv/"
 
     logger.info("input file name: {}", inputFile)
     logger.info("json output location {}", outputJSONLocation)
